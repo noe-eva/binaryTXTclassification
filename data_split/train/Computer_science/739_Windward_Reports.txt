@@ -1,0 +1,26 @@
+Windward Studios is a software development company based in Boulder, Colorado. The company began in 1996 with the release of Enemy Nations, a popular Real-Time strategy game, before focusing on its reporting software program Windward Reports.
+
+
+== 1996-2003: Enemy Nations ==
+
+Windward Studios was founded by David Thielen as a software gaming company. Enemy Nations is a real-time strategy game that received very high rankings in video game magazines. The publisher went out of business shortly after the game's release, forcing developer Windward Studios to sell the game exclusively from its website. Since October 2005 the game is non-commercial Freeware and the game and the source code was made available to download.
+
+
+== 2003-Present: Windward Reports / Windward Studios ==
+In 2003, the company realigned and focused on offering an enterprise-level suite of reporting and document generation tools for business teams called Windward Reports. Windward Reports is comparable to other reporting software such as Crystal Reports and Pentaho. Windward Reports’ customers include GE Industrial Equipment Services, Fidelity Investments and Pfizer Inc.
+Windward's solution includes a .NET or Java Engine, a set of code libraries for integrating reporting and document generation into both internal and commercial software applications, and AutoTag, a template design tool that allows technical and non-technical users create report and document templates in Microsoft Office. Windward's products have been positively reviewed in eWeek  and DevSource.
+
+
+== 2011-Present: Code Wars ==
+Windward Studios sponsors the annual International Collegiate Programming Championship, aka "Code Wars," "a huge student hackathon where teams from top universities around the world have 8 hours to analyze a problem, create a solution, and test it against the entries of the other programming experts." 
+
+
+== Media coverage ==
+Cubicle Wars, an early marketing video by the company, received an overwhelming response when it debuted in 2006. With over 2 million views on YouTube and Digg.com the video became an internet phenomenon large enough to merit a response in BusinessWeek’s August 2007 SmallBiz publication.
+
+
+== References ==
+
+
+== External links ==
+Official website

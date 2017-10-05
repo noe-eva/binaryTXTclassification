@@ -1,0 +1,17 @@
+Richard L. Wexelblat, aka Dick Wexelblat is an American computer scientist.
+Wexelblat received his BSEE, MSEE (CS), and Ph.D. (CS) from The Moore School of Electrical Engineering at the University of Pennsylvania in 6/1959, 6/1961, and 12/1965 respectively. His doctorate is believed by many and so reported by ACM to have been the first ever awarded by a formally recognized Computer Science department.. (Note: not the first CS doctorate, but the first awarded by a CS department. Note as well that Andy van Dam should share this distinction as he completed his CS dissertation at essentially the same time. RLW 01/20/2012)
+He is no longer active in the computer field but is now an artisan woodturner.
+His sons, Alan and David, and his brother Paul are also computer scientists though Paul is now mostly retired and David is about halfway through law school.
+He is said to be the originator of Wexelblat's scheduling algorithm: "Choose two of: good, fast, cheap." [Bob Rosin said I originated this; I'm not sure. He also credited me with having been the first to refer to Occam's Razor as "The Law of Least Astonishment". RLW 04/01/2011]
+
+
+== Selected publications ==
+Richard L. Wexelblat (ed.): History of Programming Languages, Academic Press 1981. ISBN 978-0-12-745040-7
+
+
+== References ==
+
+
+== External links ==
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Wexelblat:Richard_L=.html
+http://dl.acm.org/author_page.cfm?id=81100474947

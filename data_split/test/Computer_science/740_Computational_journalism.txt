@@ -1,0 +1,33 @@
+Computational Journalism can be defined as the application of computation to the activities of journalism such as information gathering, organization, sensemaking, communication and dissemination of news information, while upholding values of journalism such as accuracy and verifiability. The field draws on technical aspects of computer science including artificial intelligence, content analysis (NLP, vision, audition), visualization, personalization and recommender systems as well as aspects of social computing and information science.
+
+
+== History of the Field ==
+The field emerged at Georgia Institute of Technology in 2006 where a course in the subject was taught by professor Irfan Essa. In February 2008 Georgia Tech hosted a Symposium on Computation and Journalism which convened several hundred computing researchers and journalists in Atlanta, GA. In July 2009, The Center for Advanced Study in the Behavioral Sciences (CASBS) at Stanford University hosted a workshop to push the field forward.
+Since 2012, Columbia Journalism School has offered a course called Frontiers of Computational Journalism for the students enrolled in their dual degree in CS and journalism. The course covers many computer science topics from the perspective of journalism, including document vector space representation, algorithmic and social story selection (recommendation algorithms), language topic models, information visualization, knowledge representation and reasoning, social network analysis, quantitative and qualitative inference, and information security. The Knight Foundation awarded $3,000,000 to Columbia University's Tow Center to continue its computational journalism program.
+Syracuse University launched a masters in computational journalism in 2015, with a mission of preparing students "to be data journalists, able to work with big data sets to organize and communicate the compelling and important news stories that might be hidden in the numbers."
+Stanford University launched a Computational Journalism Lab in 2015, as well as a course titled, Computational Journalism.
+
+
+=== Computational Journalism conferences ===
+In February 2013, the Georgia Institute of Technology held the Computational Journalism Symposium once again in Atlanta, GA.
+In 2014 and 2015, Columbia University hosted the Computation + Journalism Symposium.
+In 2016, Stanford University hosted the Computation + Journalism Symposium.
+The Google News Lab has sponsored "Computational Journalism Research Awards" within the United States and in Europe.
+
+
+== Related fields ==
+Database journalism
+Computer-assisted reporting
+Data-driven journalism (extending the focus of data investigation to a workflow from data analysis to data visualization to storytelling based on the findings)
+
+
+== Resources ==
+Columbia University Computational Journalism course
+DocumentCloud project
+Computational+Journalism courses at Georgia Tech
+A computational journalism reading list by Jonathan Stray of the Associated Press
+Cultivating the Landscape of Innovation in Computational Journalism
+Communications of the ACM, October 2011, "Computational Journalism"
+
+
+== References ==

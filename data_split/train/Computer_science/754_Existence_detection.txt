@@ -1,0 +1,5 @@
+Existence checking or existence detection is an important aspect of many computer programs. An existence check before reading a file can catch and/or prevent a fatal error, for instance. For that reason, most programming language libraries contain a means of checking whether a file exists.
+An existence check can sometimes involve a "brute force" approach of checking all records for a given identifier, as in this Microsoft Excel Visual Basic for Applications code for detecting whether a worksheet exists:
+
+
+== References ==

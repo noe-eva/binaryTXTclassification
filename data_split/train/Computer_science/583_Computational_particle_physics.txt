@@ -1,0 +1,39 @@
+Computational particle physics refers to the methods and computing tools developed in and used by particle physics research. Like computational chemistry or computational biology, it is, for particle physics both a specific branch and an interdisciplinary field relying on computer science, theoretical and experimental particle physics and mathematics. The main fields of computational particle physics are: lattice field theory (numerical computations), automatic calculation of particle interaction or decay (computer algebra) and event generators (stochastic methods).
+
+
+== Computing tools ==
+Computer algebra: Many of the computer algebra languages were developed initially to help particle physics calculations: Reduce, Mathematica, Schoonschip, Form, GiNaC.
+Data Grid: The largest planned use of the grid systems will be for the analysis of the LHC - produced data. Large software packages have been developed to support this application like the LHC Computing Grid (LCG) . A similar effort in the wider e-Science community is the GridPP collaboration, a consortium of particle physicists from UK institutions and CERN.
+Data Analysis Tools: These tools are motivated by the fact that particle physics experiments and simulations often create large datasets, e.g. see references. Examples include ROOT, Java Analysis Studio and SCaViS.
+Software Libraries: Many software libraries are used for particle physics computations. Examples include FreeHEP, CLHEP. Also important are packages that simulate particle physics interactions using Monte Carlo simulation techniques (i.e. event generators). Prominent examples of these include PYTHIA, Geant4 and its Fortran predecessor, GEANT.
+
+
+== History ==
+Particle physics played a role in the early history of the internet, the World-Wide Web was created by Tim Berners-Lee when working at CERN in 1991.
+
+
+=== Computer Algebra ===
+Note: This section contains an excerpt from 'Computer Algebra in Particle Physics' by Stefan Weinzierl
+Particle physics is an important field of application for computer algebra and exploits the capabilities of Computer Algebra Systems (CAS). This leads to valuable feed-back for the development of CAS. Looking at the history of computer algebra systems, the first programs date back to the 1960s. The first systems were almost entirely based on LISP ("LISt Programming language"). LISP is an interpreted language and, as the name already indicates, designed for the manipulation of lists. Its importance for symbolic computer programs in the early days has been compared to the importance of FORTRAN for numerical programs in the same period. Already in this first period, the program REDUCE had some special features for the application to high energy physics. An exception to the LISP-based programs was SCHOONSHIP, written in assembler language by Martinus J. G. Veltman and specially designed for applications in particle physics. The use of assembler code lead to an incredible fast program (compared to the interpreted programs at that time) and allowed the calculation of more complex scattering processes in high energy physics. It has been claimed the program's importance was recognized in 1998 by awarding the half of the Nobel prize to Veltman. Also the program MACSYMA deserves to be mentioned explicitly, since it triggered important development with regard to algorithms. In the 1980s new computer algebra systems started to be written in C. This enabled the better exploitation of the resources of the computer (compared to the interpreted language LISP) and at the same time allowed to maintain portability (which would not have been possible in assembler language). This period marked also the appearance of the first commercial computer algebra system, among which Mathematica and Maple are the best known examples. In addition, also a few dedicated programs appeared, an example relevant to particle physics is the program FORM by J. Vermaseren as a (portable) successor to SCHOONSHIP. More recently issues of the maintainability of large projects became more and more important and the overall programming paradigma changed from procedural programming to object-oriented design. In terms of programming languages this was reflected by a move from C to C++. Following this change of paradigma, the library GiNaC was developed. The GiNac library allows symbolic calculations in C++.
+Code generation for computer algebra can also be used in this area.
+
+
+=== Lattice field theory ===
+Lattice field theory was created by Kenneth Wilson in 1974. Simulation techniques were later developed from statistical mechanics.
+Since the early 1980s, LQCD researchers have pioneered the use of massively parallel computers in large scientific applications, using virtually all available computing systems including traditional main-frames, large PC clusters, and high-performance systems. In addition, it has also been used as a benchmark for high-performance computing, starting with the IBM Blue Gene supercomputer.
+Eventually national and regional QCD grids were created: LATFOR (continental Europe), UKQCD and USQCD. The ILDG (International Lattice Data Grid) is an international venture comprising grids from the UK, the US, Australia, Japan and Germany, and was formed in 2002.
+
+
+== See also ==
+Les Houches Accords
+CHEP Conference
+Computational physics
+
+
+== References ==
+
+
+== External links ==
+Brown University. Computational High Energy Physics (CHEP) group page
+International Research Network for Computational Particle Physics. Center for Computational Sciences, Univ. of Tsukuba, Japan.
+History of computing at CERN

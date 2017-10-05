@@ -1,0 +1,90 @@
+Sport climbing is a form of rock climbing that relies on permanent anchors fixed to the rock for protection. This is in contrast to traditional climbing where climbers must place removable protection as they climb.
+Sport climbing emphasises strength, endurance, gymnastic ability and technique, over adventure, risk and self-sufficiency. For the majority of sport climbers, sport climbing offers an easier, more convenient experience which requires less equipment, less in the way of technical skills required to be safe during the climb, and lower levels of mental stress than traditional climbing.
+With increased accessibility to climbing walls, and gyms, more climbers now enter the sport through indoor climbing than outdoor climbing. The transition from indoor climbing to sport climbing is not difficult because the techniques and equipment used for indoor climbing are nearly sufficient for sport climbing. Whereas the transition from indoor climbing to traditional climbing is hard because traditional climbing requires significantly more in terms of techniques, experience, and equipment.
+While sport climbing is common in many areas worldwide, it is heavily restricted in some places where it is considered ethically unacceptable to bolt climbs. This is largely due to the local climbing traditions, and to the type of rock, for instance, it is often considered reasonable to bolt limestone or slate quarries in the UK, especially if these are otherwise unprotectable, but it is considered completely unacceptable to bolt gritstone regardless as to how dangerous a climbing path might be. Debates over bolting in the climbing communities are often fierce. Bolting without a consensus in favour of bolting generally leads to the destruction, or removal, of the bolts by activists against bolting.
+Since sport climbing paths do not need to follow climbing paths where protection can be placed they tend to follow more direct, and straight forward, paths up crags than traditional climbing paths which can be winding and devious by comparison. This, in addition to the need to place gear, tends to result in different styles of climbing between sport and traditional.
+On August 3, 2016, Sport climbing was added to the 2020 Summer Olympics program.
+
+
+== Basics ==
+
+On a sport climbing route, pre-placed bolts follow a 'line' up a rock face. Sport climbs can vary in length from a few metres to a full 60-metre (200 ft) rope length for multi-pitch climbs. The climbs might be equipped with just a few bolts or many.
+Sport climbing can be undertaken with relatively little equipment. Equipment used in sport climbing includes:
+A dynamic rope
+Quickdraws
+A belay device
+Climbing harnesses for belayer and climber
+Climbing shoes and chalk bag are normally used, although not technically necessary
+To lead a sport climb means to ascend a route with a rope tied to the climber's harness, and with the loose end of the rope handled by a belayer. As each bolt is reached along the route, the climber attaches a quickdraw to the bolt, and then clips the rope through the hanging end of the quickdraw. This bolt is now protecting the climber in the event of a fall. At the top of sport routes, there is typically a two-bolt anchor that can be used to return the climber to the ground or previous rappel point.
+Because sport routes do not require placing protection, the climber can concentrate on the difficulty of the moves rather than placing protection or the consequences of a fall.
+Sport climbing differs from traditional climbing with respect to the type and placement of protection. Traditional climbing uses mostly removable protection (such as cams or nuts), and tends to minimize the usage of pre-placed protection. Sport climbing typically involves single pitch routes but can have multi-pitch routes. Long multi-pitch routes may lack pre-placed anchors due to economical, logistical or ethical reasons.
+Rock types that produce good sport climbs include limestone, granite and quartzite, though sport climbs can be found on almost all rock types.
+
+
+=== Ratings ===
+
+Sport climbs are assigned subjective ratings to indicate difficulty. The type of rating depends on the geographic location of the route, since different countries and climbing communities use different rating systems.
+The UIAA grading system is mostly used for short rock routes in Western Germany, Austria and Switzerland and most countries in Eastern Europe. On long routes it is often used in the Alps and Himalaya. Using Roman numerals, it was originally intended to run from I (easiest) to X (hardest), but as with all other grading systems, improvements to climbing standards have led to the system being open-ended. An optional + or − may be used to further differentiate difficulty. As of 2004, the hardest climbs are XII−.
+The Ewbank rating system, used in Australia, New Zealand, and South Africa, is a numerical open-ended system, starting from 1, which you can (at least in theory) walk up, up to 38 (as of 2013).
+The French rating system considers the overall difficulty of the climb, taking into account the difficulty of the moves and the length of climb. This differs from most grading systems where one rates a climbing route according to the most difficult section (or single move). Grades are numerical, starting at an easy 1, with the system being open-ended. Each numerical grade can be subdivided by adding a letter (a, b or c). Examples: 2, 4, 4b, 6a, 7c. An optional + (no -) may be used to further differentiate difficulty. Many countries in Europe use a system with similar grades but not necessarily matching difficulties. Sport climbing in Britain and Ireland uses the French grading system, often prefixed with the letter "F".
+In the United States, the Yosemite Decimal System is used to rate sport climbs. Current grades for sport routes vary between an easy 5.0 to an extremely difficult 5.16, although the system is open-ended. Past 5.10, letter grades between a and d are sometimes used for further subdivision (e.g. 5.11a or 5.10d). Pluses and minuses may also be used (e.g. 5.9+ or 5.11-). Originally, the YDS rating was designed to rate the difficulty of the hardest move on a given route. However, modern sport grades often take into account other features such as length and number of difficult moves along the route.
+
+
+== Ethics ==
+The ethics climbers adopt toward their sport are not always steadfast, and they often depend on the venue. The following examples are merely outlines that do not always hold true.
+
+
+=== Bolting ===
+Whether a route should be bolted as a sport climb is often in dispute.
+In some areas, including some in the United States, if a route cannot be safely climbed with the use of traditional gear, it is generally acceptable to the climbing community to bolt it. In much of the United Kingdom, similar bolting is widely considered unacceptable. Regulations regarding bolting can vary from state to state and between landowners or land managers.
+Additionally, the method of bolting may often be challenged. Many early sport routes were bolted on lead by the first ascender: a "traditional" approach. One could say that it became "sport" climbing when routes started to get bolted from the top (hanging on a rope).
+
+
+=== First ascents ===
+
+Sometimes, a newly bolted route is considered "red tagged," and ethics dictate that the person who bolted the route should be the only climber to attempt it until they have made a free ascent (a continuous roped ascent, made using only hands and feet, unaided - yet protected - by the bolts, quickdraws or rope). This is because equipping a new route is an expensive & time-consuming endeavor for the person who finds it. Other times, the bolter will allow the route they developed to become an "open project" that anyone can try. Ascents of reserved routes have led to a number of controversies in the sport climbing world.
+
+
+=== Chipping, comfortizing, and reinforcing ===
+Changing the natural features of rock is often frowned upon, but in many parts of the world it is accepted to some extent. At some areas, "chipping" of the rock with a chisel or similar tool to create a hold that did not exist naturally is considered acceptable. This is particularly true in some quarries as well as some European crags. However, at many other areas, local ethics absolutely forbid this.
+Comfortizing holds often involves aggressively cleaning a route to the point where sharp holds have been filed down, often making them somewhat easier to use. While many climbers frown on this, in some areas comfortizing is considered acceptable to a point.
+Reinforcing rock with glue is the most widely accepted modification to natural features in the sport climbing world. When a popular route is climbed over and over, holds may become looser and closer to breaking. Sometimes, these holds will be reinforced to prevent them from breaking. Other times, if a hold entirely breaks off, it may be glued back on. In most areas, these practices are considered acceptable if done neatly.
+
+
+=== Sending ===
+Sometimes, an ascent or the style in which it is done will come into dispute. For example, a leader who experiences tension on their rope from their belayer while climbing without falling may have not made a valid ascent, through no fault of their own. Additionally, the line between an onsight and a flash is often disputed. Some climbers consider any knowledge of a route, including its grade, to be data that invalidates an onsight. However, other climbers will go so far as to belay another climber on a route and still claim that they did not have enough prior knowledge to move from the onsight realm to the flash realm.
+
+
+=== Working a route ===
+If a climber fails to onsight or flash a route, they may decide to "work" it by attempting to climb it despite falling and hanging on the rope. If, after practising the moves either on lead or on toprope, they manage to lead the route cleanly (i.e. without any rests or falls) then it is called a redpoint. It is known as a 'ground up' ascent if they work the route from the bottom, progressing higher on successive attempts without cheating or resting. However, at popular destinations, multiple parties of climbers will often line up to try a route. A climber working a route may spend an inordinate amount of time on it, preventing other parties from climbing it. This is often frowned upon, particularly if the climber is toproping rather than leading.
+Not sending a route means that a climber was unable to climb a route without hanging on the rope or falling: a clean lead or send refers to someone climbing a route entirely under his/her own power without assist from the rope. Although not considered a proper, clean ascent if a climber does not do this in professional terms, a lower-level climber will have 'done' the route if he completed all the moves, even if it was 'unclean' - i.e. rests or falls were taken (in this instance, it would be said the route was 'dogged').
+
+
+=== Access and conflicts ===
+The United States has a strong history of traditional climbing, especially at certain crags, and considerable value is placed on routes staying as they were done by the first ascender. In the U.S. it is considered unacceptable to add bolts to an established traditional route to turn it into a sport climb.
+In the UK, a number of established routes have been bolted by sports climbers, this has generally been done in recent years by consensus with the first climber, though in earlier years this was not always the case. In Spain also, traditional climbs have been overbolted against the wishes of traditional climbers.
+In 2007, the British Mountaineering Council introduced 10,000 bolts into the UK climbing scene mostly to replace existing unsafe fixed protection., which some fear will cause further conflict.
+Bird watchers and other non-climbing wilderness visitors sometimes object to being distracted by brightly colored slings left at rappel anchors, leading climbers to use webbing the same color as the rock.
+
+
+=== Olympic sport ===
+Sport climbing was added to the roster of 5 new included sports in the 2020 Summer Olympics in Tokyo, Japan.
+
+
+== See also ==
+Glossary of climbing terms
+Climbing competition
+UIAA Climbing safety standards
+IFSC Climbing World Championships
+International Federation of Sport Climbing
+International Mountaineering and Climbing Federation
+
+
+== References ==
+
+
+== Further reading ==
+Long, John (2003). How to Rock Climb! 4th edition. Helena, Montana, USA: Falcon Publishing. ISBN 0-7627-2471-4. 
+Horst, Eric (2003). How to Climb 5.12, 2nd edition. Helena, Montana, USA: Falcon Publishing. ISBN 0-7627-2576-1. 
+Goddard, Dale; Udo Neumann (1994). Performance Rock Climbing. Mechanicsburg, PA, USA: Stackpole Books. ISBN 0-8117-2219-8. 
+Mellor, Don (2003). Rock Climbing: a trailside guide. New York, NY, USA: W. W. Norton & Company. ISBN 0-393-31653-X.

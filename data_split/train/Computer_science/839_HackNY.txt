@@ -1,0 +1,11 @@
+hackNY is a New York City-based initiative seeking "to create and empower a community of student-technologists." hackNYwas created in 2010 by Evan Korth, Hilary Mason, Chris Wiggins. The organization is organized by faculty at both New York University and Columbia University. hackNY holds semiannual, 24-hour "hackathons," and runs a summer Fellows Program which pairs students in the computational sciences with local startup companies.
+Each semester, hackNY holds a 24-hour coding marathon, or "hackathon," often at New York University's Courant Institute of Mathematical Sciences, but in Spring 2013 at Columbia's Engineering School. The events are open to all students, not just of Columbia and NYU. The hackathons begin with brief presentations from startups that make their APIs available to the participants. The students are encouraged, though not required, to work together to come up with creative solutions or build new features before the time runs out. The hackathons conclude with a presentation of the students' work, and judging.
+hackNY organizes a summer program that pairs quantitative and computational students with startup companies. The students are compensated, receive free housing, and attend a lecture series showing them what it's like to join, or found, a startup company.
+
+
+== References ==
+
+
+== External links ==
+www.hackny.org
+Computer geeks king in job hunt Video on role of hackNY in job market. CNNMoney, Jan 5, 2012.

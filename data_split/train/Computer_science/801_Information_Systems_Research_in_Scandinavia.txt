@@ -1,0 +1,60 @@
+The IRIS (Information Systems Research in Scandinavia) Association is a non-profit organization aiming to promote research and research education in the use, development and management of information systems in Scandinavia, and making that research known in the international research community and among practitioners. The IRIS association publishes the Scandinavian Journal of Information Systems (SJIS) and holds the IRIS Conference as well as the Scandinavian Conference on Information Systems Conference (SCIS). Its current president is Judith Molka-Danielsen (2011-2013).
+
+
+== IRIS Conferences ==
+In 1978 the IRIS started holding annual conferences and is the oldest consecutive IS conference in the world. The conference is organized as an annual working seminar for Scandinavian researchers and PhD students. After its first few meetings in Finland, the locations now alternate between different Scandinavian countries. Among the subjects discussed at the IRIS conferences is Information and Communications Technology, Business Process Management and Participatory Design. In 2005 IRIS had a Steering Committee the chairman of which was Jan Pries-Heje.
+In 2006 Judith Molka-Danielsen, and her associates published a paper that identified the most prolific authors who had successfully submitted papers to IRIS. The top ten researchers were: Lars Mathiassen, Markku Nurminen, Pertti Järvinen, Carsten Sørensen, Per Flensburg, Karl Heinz Kautz, Peter Axel Nielsen, Lars Svensson, Urban Nuldén, and Ole Hanseth.
+The next IRIS conference will be held in Oulu, Finland, in August 2015.
+
+
+== Past Conference Locations ==
+2014: IRIS37 Ringsted, Denmark
+2013: IRIS36 Gran, Norway
+2012: IRIS35 Sigtuna, Sweden
+2011: IRIS34 Turku, Finland
+2010: IRIS33 Comwell Rebild Bakker, Denmark
+2009: IRIS32 Molde, Norway
+2008: IRIS31 Åre, Sweden
+2007: IRIS30 Tampere, Finland
+2006: IRIS29 Helsingør, Denmark
+2005: IRIS28 Kristiansand, Norway
+2004: IRIS27 Falkenberg, Sweden
+2003: IRIS26 Porvoo, Finland
+2002: IRIS25 Bautahøj, Denmark
+2001: IRIS24 Bergen, Norway
+2000: IRIS23 Uddevalla, Sweden
+1999: IRIS22 Keuruu, Finland
+1998: IRIS21 Sæby, Denmark
+1997: IRIS20 Hankø, Norway
+1996: IRIS19 Lökeberg, Sweden
+1995: IRIS18 Gjern, Denmark
+1994: IRIS17 Syöte, Finland
+1993: IRIS16 Copenhagen, Denmark
+1992: IRIS15 Larkollen, Norway
+1991: IRIS14 Umeå-Lövånger, Sweden
+1990: IRIS13 Turku, Finland
+1989: IRIS12 Skagen, Denmark
+1988: IRIS11 Røros, Norway
+1987: IRIS10 Tampere, Finland
+1986: IRIS9 Lund, Sweden
+1985: IRIS8 Århus, Denmark
+1984: IRIS7 Helsinki, Finland
+1983: IRIS6 Øystese, Norway
+1982: IRIS5 Stockholm, Sweden
+1981: IRIS4 Oulu, Finland
+1980: IRIS3 Saarijärvi, Finland
+1979: IRIS2 Dragsfjärd, Finland
+1978: IRIS1 Tampere, Finland
+
+
+== See also ==
+Information Systems Research
+University of Turku
+Roskilde University
+
+
+== References ==
+
+
+== External links ==
+"Welcome to the IRIS Association". http://iris.cs.aau.dk: IRIS. Retrieved 8 June 2011. If you are a researcher or practitioner in the field of information systems interested in your own development and in the building of knowledge in organizations and society - you are most welcome to become a member of IRIS Association.

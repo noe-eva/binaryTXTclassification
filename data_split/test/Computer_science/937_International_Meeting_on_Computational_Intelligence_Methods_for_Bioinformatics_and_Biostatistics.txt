@@ -1,0 +1,68 @@
+The International Meeting on Computational Intelligence Methods for Bioinformatics and Biostatistics (CIBB) is a preeminent yearly conference focused on machine learning and computational intelligence applied to bioinformatics and biostatistics.
+
+
+== Organization ==
+The CIBB conferences are typically organized by members of the IEEE Computational Intelligence Society (IEEE CIS) and International Neural Network Society (INNS), among others. Their main themes are machine learning, data mining and computational intelligence algorithms applied to biological problems.
+During their first editions, the CIBB meetings were organized and attended mainly by Italian researchers at various academic locations throughout Italy. As international audience and importance of the conference grew up, conference editions moved outside Italy. The 2012 CIBB conference was held in Houston, Texas, in the United States; the 2013 CIBB meeting took place in Nice, in the Cote d'Azur of Southern France; and the 2014 edition occurred at the University of Cambridge, in Great Britain. After these three editions, the 12th CIBB conference came back to Southern Italy and was organized in Naples in September 2015.
+The 13th CIBB conference was organized at University of Stirling, in Scotland (United Kingdom) in the first days September 2016, while the following CIBB conference was held at University of Cagliari, in Sardinia (Italy) in September 2017.
+The CIBB 2018 edition will happen in Lisbon, Portugal, in dates to be defined.
+The CIBB scientific meetings usually attract scientists from all over the world.
+
+
+== Format ==
+The conference is a single track meeting that includes invited talks as well as oral and poster presentations of refereed papers, which usually includes some special sessions about the application of computational intelligence to specific aspects of biology (for example, the "Special session on computational biostatistics for data integration in systems biomedicine" at CIBB 2014).
+In the 2011 conference edition in Gargnano sul Garda, the scientific committee assigned a young researcher best paper award.
+
+
+== Publications ==
+
+The proceedings for CIBB meetings are usually published in the Springer Lecture Notes in Computer Science (LNCS) series, whereas a selection of the best papers undergo extended publication in international peer-reviewed journals such as BMC Bioinformatics.
+
+
+== Conference editions ==
+ CIBB 2018, Lisbon, Portugal (to be confirmed)
+ CIBB 2017, Cagliari, Italy
+ CIBB 2016, Stirling, Great Britain
+ CIBB 2015, Naples, Italy
+ CIBB 2014, Cambridge, Great Britain
+ CIBB 2013, Nice, France
+ CIBB 2012, Houston, Texas, USA
+ CIBB 2011, Gargnano sul Garda, Italy
+ CIBB 2010, Palermo, Italy
+ CIBB 2009, Genoa, Italy
+ CIBB 2008, Vietri sul Mare, Italy
+ CIBB 2007, Portofino, Italy
+ CIBB 2006, Genoa, Italy
+ CIBB 2005, Crema, Italy
+ CIBB 2004, Perugia, Italy
+
+
+== See also ==
+Computational intelligence
+Bioinformatics
+Biostatistics
+Springer Lecture Notes in Computer Science (LNCS)
+BMC Bioinformatics
+
+
+== References ==
+
+
+== External links ==
+Conference website and call for papers:
+CIBB 2017 official website
+CIBB conference series on WikiCfp.com
+Proceedings books on Springer LNCS:
+Springer Lecture Notes in Bioinformatics published proceedings book of CIBB 2008
+Springer Lecture Notes in Bioinformatics published proceedings book of CIBB 2009
+Springer Lecture Notes in Bioinformatics published proceedings book of CIBB 2010
+Springer Lecture Notes in Bioinformatics published proceedings book of CIBB 2011
+Springer Lecture Notes in Bioinformatics published proceedings book of CIBB 2012
+Springer Lecture Notes in Bioinformatics published proceedings book of CIBB 2013
+Springer Lecture Notes in Bioinformatics published proceedings book of CIBB 2014
+Springer Lecture Notes in Bioinformatics published proceedings book of CIBB 2015
+Springer Lecture Notes in Bioinformatics published proceedings book of CIBB 2016
+Journal supplements on BMC Bioinformatics:
+BMC Bioinformatics - CIBB 2010 Supplement: new trends from the CIBB conference series
+BMC Bioinformatics - CIBB 2013 Supplement: selected articles from the 10th International Meeting on Computational Intelligence Methods for Bioinformatics and Biostatistics
+BMC Bioinformatics - CIBB 2014: Selected articles from the 11th International Meeting on Computational Intelligence Methods for Bioinformatics and Biostatistics

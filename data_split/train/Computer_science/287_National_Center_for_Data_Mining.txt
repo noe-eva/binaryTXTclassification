@@ -1,0 +1,7 @@
+The National Center for Data Mining (NCDM) is a center of the University of Illinois at Chicago (UIC), established in 1998 to serve as a resource for research, standards development, and outreach for high performance and distributed data mining and predictive modeling.
+NCDM won the High Performance Bandwidth Challenge at SuperComputing '06 in Tampa, FL and recently demonstrated the use of UDP Data Transport.
+
+
+== External links ==
+National Center for Data Mining
+SC06 Bandwidth Challenge Results

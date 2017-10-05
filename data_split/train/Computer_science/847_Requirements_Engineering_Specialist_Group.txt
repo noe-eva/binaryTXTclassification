@@ -1,0 +1,32 @@
+The Requirements Engineering Specialist Group (RESG) is a Specialist Group of the British Computer Society. It runs events on all aspects of Requirements.
+
+
+== Mission of the RESG ==
+The RESG's stated purpose is "to provide a forum for interaction between the many disciplines involved" in Requirements Engineering, which it explains is "a key activity in the development of software systems and is concerned with the identification of the goals of stakeholders and their elaboration into precise statements of desired services and behaviour." The RESG describes Requirements engineering as "the elicitation, definition, modelling, analysis, specification and validation of what is needed from a system.". The RESG's stated mission is to attempt to bridge the gap between industry and research, as it "welcomes members from, and organises events for practitioners, academics and students" in the field.
+
+
+== History of the RESG ==
+The RESG was founded in 1994 by Bashar Nuseibeh of Imperial College (now professor at the Open University), Neil Maiden of City University (also now professor), Paul Gough of Philips Labs, Sara Jones of the University of Hertfordshire, Steve Easterbrook of the University of Sussex, and Orlena Gotel of Imperial College. It has run events and published its newsletter ever since.
+The RESG's first Chairman was Bashar Nuseibeh. He was succeeded by Pete Sawyer, Ian Alexander and Emmanuel Letier.
+
+
+== Events ==
+The RESG has run "workshops, seminars and tutorials on all aspects of requirements engineering", held "in a variety of locations in the UK, including London, Manchester, York and Edinburgh". In 1998, the RESG, with the RENOIR project, ran a 2-day Conference on European Industrial Requirements Engineering (CEIRE'98) in London. Events have included a 'Goals day'; workshops on 'Agile Requirements' and 'Self-Adaptive Systems'; an 'i* Showcase'; special events for post-doctoral researchers; Scenarios days; an event on software services; annual events on 'Careers in RE'; informal 'birds of a feather' pub meetings; book launches; and workshops at the annual international RE conference on 'RE Education and Training' 
+
+
+== Newsletter ==
+The RESG published a newsletter since its foundation. The first 35 issues were titled "Requirenautics Quarterly", with Issue 1 published in October 1994. Since Issue 36, the newsletter has been titled "Requirements Quarterly". The founding editor was Steve Easterbrook, then at Sussex University, succeeded by Pete Sawyer of Lancaster University, Ian Alexander of Scenario Plus Ltd, Simon Hutton of Headmark Analysis, and William Heaven.
+
+
+== Patron ==
+The RESG's patron is Professor Michael A. Jackson, the creator of JSP and JSD, and the inventor of the Problem Frames approach to requirements.
+
+
+== References ==
+
+
+== External links ==
+RESG Official Website
+BCS page on RESG
+RESG LinkedIn Discussion Group
+Guest Editorial - RE Journal 1996

@@ -1,0 +1,48 @@
+The British Machine Vision Conference (BMVC) is the British Machine Vision Association (BMVA) annual conference on machine vision, image processing, and pattern recognition. It is one of the major international conferences on computer vision and related areas, held in UK. Particularly, BMVC is ranked as A2 by Qualis, and B by ERA. The upcoming 27th BMVC will be hosted by Imperial College London in September 2017.
+BMVC is a successor of the older British Alvey Vision Conference (AVC), which had run in years 1985 (University of Sussex), 1987 (University of Cambridge), 1988 (University of Manchester) and 1989 (University of Reading). The British Machine Vision Conference has replaced AVC in 1990, when BMVA was founded. Despite starting as a national conference, it is now a prestigious major international venue with high level of foreign participation (in 2013, 84% of accepted papers were completely from outside the UK and another 4% with mixed authorships) and high stress on quality of publications (in 2013, the acceptance rate was only 30%). BMVC is a relatively small conference, with the number of accepted publications (and therefore number of talks and posters) around 100.
+
+
+== Usual programme ==
+BMVC is a single-track conference held usually over the course of one week in early September. On Monday, there are usually one or several tutorials, followed by the main conference in the following three days. A typical conference day consists of a keynote talk, two or three oral sessions and a poster session. Thursday's programme tends to be shorter. The conference usually includes a banquet and a reception. The main conference is followed by a one-day student workshop on Friday, which provides an opportunity for doctoral students to present their work and interact with their peers.
+
+
+== Awards ==
+At BMVC, there are several awards given. Besides the Best Scientific Paper Award (formerly known as Science Prize), there is Best Industrial Paper Award (formerly known as Industry Prize), Best Poster Award and others. The awards recipients are tabulated below. Additionally, other BMVA prizes such as BMVA Distinguished Fellowship or Sullivan Prize are awarded during BMVC.
+Other awards
+1998 Demonstration Prize. Active object recognition in parametric eigenspace. M. Prantl.
+2000 Demonstration Prize. A hierarchical model of dynamics for tracking people with a single video camera. I.A. Karaulova, P.M. Hall and A.D. Marshall.
+2001 Demonstration Prize. Video image enhancement for terrestrial, aerial and underwater environments. J. Oakley
+2001 Best Model Based Vision Paper. An Information Theoretic Approach to Statistical Shape Modelling. R.H. Davies, T.F. Cootes, C.J. Twining and C.J. Taylor.
+2001 Presentation Prize. Robust Registration of 2D and 3D Point Sets. A. Fitzgibbon.
+2002 Demonstration Prize. Real time robust template matching. F. Jurie and M. Dhome.
+2002 Best Model Based Vision Paper. Real time gesture recognition using deterministic boosting. R. Lockton and A. Fitzgibbon.
+2002 Work that most deserves help with exploitation. Orientation correlation. A.J. Fitch, A. Kadyrov, W.J. Christmas and J. Kittler.
+2003 Demonstration Prize. Visual golf club tracking for enhanced swing analysis. N. Gehrig, V. Lepetit and P. Fua.
+2003 Best Model Based Vision Paper. Modelling talking head behaviour. C.A. Hack and C.J. Taylor.
+2004 Demonstration Prize. Interactions between hand and wearable camera in 2D and 3D environments. A. Davison.
+2004 Best Model Based Vision Paper. A Bayesian Occlusion Model for Sequential Object Matching. T. Tamminen and J. Lampinen.
+2007 Best Security Paper Prize. Gender Classification using Shape from Shading. J. Wu, W.A.P. Smith and E.R. Hancock.
+2008 Best Security Paper Prize. Crowd Detection from Still Images. O. Arandjelovic.
+2008 Highly Commended Reviewers. J.-M. Geusebroek, B. Leibe, A. Shahrokni, J. Sivic, J. Starck.
+2010 Best Student Paper Prize. Motion Coherent Tracking with Multi-label MRF optimization. D. Tsai, M. Flagg and J. Rehg.
+2010 Best Supplementary Material Prize. Manifold Learning for ToF-based Human Body Tracking and Activity Recognition. L. Schwarz, D. Mateus, V. Castaneda and N. Navab.
+2011 Best Impact Paper Prize. Branch and rank: non-linear object detection. A. Lehmann, P. Gehler and L. Van Gool.
+2011 Best Supplementary Material Prize. Skeletal graph based human pose estimation in real-time. M. Straka, S. Hauswiesner, M. Rüther and H. Bischof.
+2011 Student Workshop Prize. Model Constraints for Non-Rigid Structure from Motion. L. Tao, B. Matuszewski and S. Mein.
+2012 Best Impact Paper Prize. PMBP: PatchMatch Belief Propagation for Correspondence Field Estimation. F. Besse, C. Rother, A. Fitzgibbon and J. Kautz.
+2012 Mark Everingham Prize for Rigorous Evaluation. Tom-vs.-Pete Classifiers and Identity-Preserving Alignment for Face Verification. T. Berg and P. Belhumeu.
+2012 Best Demonstration Prize. Online Feedback for Structure-from-Motion Image Acquisition. C. Hoppe, M. Klopschitz, M. Rumpler, A. Wendel, S. Kluckner, H. Bischof and G. Reitmayr.
+2012 Best Video Prize. Automatic and Efficient Long Term Arm and Hand Tracking for Continuous Sign Language TV Broadcasts. Tomas Pfister, J. Charles, M. Everingham and A. Zisserman.
+2013 Maria Petrou Prize for Invariance in Computer Vision. The Complete Rank Transform: A Tool for Accurate and Morphologically Invariant Matching of Structures. O. Demetz, D. Hafner and J. Weickert.
+2014 Best Student Workshop Paper Prize. Gong Interactive Shadow Removal and Ground Truth for Variable Scene Categories. H. Gong and D. Cosker.
+
+
+== See also ==
+BMVA
+BMVA Summer School
+ICCV
+CVPR
+ECCV
+
+
+== References ==

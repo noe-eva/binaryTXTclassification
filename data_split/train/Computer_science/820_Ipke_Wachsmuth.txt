@@ -1,0 +1,11 @@
+Ipke Wachsmuth was born 1950. He is a German computer scientist within the fields of artificial intelligence and cognitive science.
+Wachsmuth is a professor for artificial intelligence at Bielefeld University and teaches computer science and artificial intelligence since 1989. From 2002 until 2009 he was the managing director of the Center for Interdisciplinary Research (Zentrum für interdisziplinäre Forschung, ZiF) in Bielefeld. His research mainly focuses on human-machine interaction and virtual reality.
+Wachsmuth is known for connecting classical symbolic technologies of knowledge representation with elements of dynamic gestures and facial expressions. This is especially exemplified by the development of the embodied agent Max. Since the 1990s Wachsmuth has also been a driving force behind the Interdisciplinary College, an annual spring school in the fields of neurobiology, neural computation, cognitive science, artificial intelligence, robotics and philosophy.
+
+
+== References ==
+
+
+== External links ==
+Homepage of Ipke Wachsmuth
+Homepage of Artificial Intelligence Working Group of Bielefeld University

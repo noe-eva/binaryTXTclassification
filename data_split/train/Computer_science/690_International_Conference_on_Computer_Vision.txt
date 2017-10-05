@@ -1,0 +1,114 @@
+ICCV, the International Conference on Computer Vision, is a research conference sponsored by the Institute of Electrical and Electronics Engineers (IEEE) held every other year. It is considered, together with CVPR, the top level conference in computer vision.
+The conference is usually spread over four to five days. Typically, leading experts in the focus areas give tutorial talks on the first day, then the technical sessions (and poster sessions in parallel) follow.
+
+
+== Awards ==
+
+
+=== Azriel Rosenfeld Lifetime Achievement Award ===
+The Azriel Rosenfeld Award, or Azriel Rosenfeld Lifetime Achievement Award, recognizes researchers who have made significant contributions to the field of computer vision over their careers. It is named in memory of computer scientist and mathematician Azriel Rosenfeld.  Recipients:
+Olivier Faugeras (2015)
+Jan Koenderink (2013)
+Thomas Huang (2011)
+Berthold K.P. Horn (2009)
+Takeo Kanade (2007)
+
+
+=== Helmholtz Prize ===
+The ICCV Helmholtz Prize, known as the Test of Time Award before 2013, is awarded every other year at the ICCV, recognizing ICCV papers from ten or more years earlier that had a significant impact on computer vision research. Winners are selected by the IEEE Computer Society's Technical Committee on Pattern Analysis and Machine Intelligence (TCPAMI). The award is named after the 19th century physician and physicist Hermann von Helmholtz, and the ICCV's award is not related to the various Helmholtz Prizes in physics, or the Hermann von Helmholtz Prize in neuroscience.
+
+
+==== Helmholtz Prize recipients ====
+Awarded at ICCV 2015:
+Belongie, Serge, Jitendra Malik, and Jan Puzicha. "Matching shapes." In Computer Vision, 2001. ICCV 2001. Proceedings. Eighth IEEE International Conference on, vol. 1, pp. 454–461. IEEE, 2001.
+Martin, David, Charless Fowlkes, Doron Tal, and Jitendra Malik. "A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics." In Computer Vision, 2001. ICCV 2001. Proceedings. Eighth IEEE International Conference on, vol. 2, pp. 416–423. IEEE, 2001.
+
+Awarded at ICCV 2013:
+Michael Kass, Andrew Witkin and Demetri Terzopoulos, "Snakes: Active Contour Models", ICCV 1987.
+Michael J. Swain and Dana H. Ballard, "Indexing via color histograms", ICCV 1990.
+Bill Freeman and Ted Adelson, "Steerable filters for early vision, image analysis, and wavelet decomposition", ICCV 1990.
+Michael Black and P. Anandan, "A framework for the robust estimation of optical flow", ICCV 1993.
+Paul Viola and William M. Wells III, "Alignment by Maximization of Mutual Information", ICCV 1995.
+Richard Hartley, "In Defence of the 8-Point Algorithm", ICCV 1995.
+Carlo Tomasi and Roberto Manduchi, "Bilateral Filtering for Gray and Color Images", ICCV 1998.
+Yossi Rubner, Carlo Tomasi and Leonidas J. Guibas, "A Metric for Distributions with Applications to Image Databases", ICCV 1998.
+Song-Chun Zhu, Tai Sing Lee and Alan Yuille, "Region Competition: Unifying Snakes, Region Growing, Energy/Bayes/MDL for Multi-band Image Segmentation", ICCV 1995.
+Zhengyou Zhang, "Flexible Camera Calibration by Viewing a Plane from Unknown Orientations", ICCV 1999.
+Alyosha Efros and Thomas K. Leung, "Texture Synthesis by Non-parametric Sampling", ICCV 1999.
+
+Awarded at ICCV 2011:
+David G. Lowe, "Object Recognition from Local Scale-Invariant Features", ICCV 1999.
+Yuri Boykov, Olga Veksler, and Ramin Zabih, "Fast Approximate Energy Minimization via Graph Cuts", ICCV 1999.
+Vincent Caselles, Ron Kimmel, and Guillermo Sapiro, "Geodesic Active Contours", ICCV 1995.
+
+Awarded at ICCV 2009:
+Yehezkel Lamdan and Haim J. Wolfson, "Geometric Hashing: A General and Efficient Model-Based Recognition Scheme", ICCV 1988.
+
+
+=== Marr Prize ===
+The best paper of the conference is awarded the Marr Prize, which is one of the top honors for a researcher in computer vision.
+
+
+=== Mark Everingham Prize ===
+The Mark Everingham Prize is an award given yearly by the Technical Committee on Pattern Analysis and Machine Intelligence (TCPAMI) of the IEEE Computer Society at the IEEE International Conference on Computer Vision (ICCV) or the European Conference on Computer Vision (ECCV) to commemorate the late Mark Everingham, “one of the rising stars of computer vision”, and to encourage others to follow in his footsteps by acting to further progress in the computer vision community as a whole. The prize is given to a researcher, or a team of researchers, who have made a selfless contribution of significant benefit to other members of the computer vision community. The Mark Everingham Prize for Rigorous Evaluation was an award given in 2012 at the British Machine Vision Conference (BMVC).
+
+
+==== Mark Everingham Prize recipients ====
+Awarded at ICCV 2013:
+P. Jonathon Phillips for his work on the FERET database
+the OpenCV team, represented by Gary Bradski
+
+Awarded at ECCV 2014:
+Ginger Boult and Terry Boult, for their numerous contributions towards organizing and running vision conferences
+
+Awarded at ICCV 2015:
+Daniel Scharstein and Rick Szeliski, for the Middlebury benchmarks
+Andrea Vedaldi, for the VLFeat software package
+
+Awarded at ECCV 2016:
+ImageNet (Alex Berg, Jia Deng, Fei-Fei Li, Wei, Liu, Olga Russakovsky and team)
+Ramin Zabih, for extensive, generous, service to the community
+
+
+=== PAMI Distinguished Researcher Award ===
+This award (until 2013 called Significant Researcher Award) is awarded to candidates whose research contributions have significantly contributed to the progress of Computer Vision. Awards are made based on major research contributions, as well as the role of those contributions in influencing and inspiring other research. Candidates are nominated by the community.
+
+
+==== PAMI Distinguished Researcher Award recipients ====
+Awarded at ICCV 2015:
+Yann LeCun and David G. Lowe
+
+Awarded at ICCV 2013:
+Jitendra Malik and Andrew Zisserman
+
+Awarded at ICCV 2011:
+Richard Hartley and Katsushi Ikeuchi
+
+Awarded at ICCV 2009:
+Andrew Blake
+
+Awarded at ICCV 2007:
+Demetri Terzopoulos
+
+
+== Conferences ==
+ ICCV 2019, Seoul, Korea
+ ICCV 2017, Venice, Italy
+ ICCV 2015, Santiago, Chile
+ ICCV 2013, Sydney, Australia
+ ICCV 2011, Barcelona, Spain
+ ICCV 2009, Kyoto, Japan.
+ ICCV 2007, Rio de Janeiro, Brazil
+ ICCV 2005, Beijing, PRC
+ ICCV 2003, Nice, France (622 participants)
+ ICCV 2001, Vancouver, British Columbia, Canada (650 participants)
+ ICCV 1999, Corfu, Greece (475 participants)
+ ICCV 1998, Mumbai, India (250 participants)
+ ICCV 1995, Boston, Massachusetts, USA
+ ICCV 1993, Berlin, Germany
+ ICCV 1990, Osaka, Japan
+ ICCV 1988, Tampa, Florida, USA
+ ICCV 1987, London, Great Britain
+
+
+== References ==

@@ -1,0 +1,19 @@
+WebFountain is an Internet analytical engine implemented by IBM for the study of unstructured data on the World Wide Web. IBM describes WebFountain as:
+
+. . . a set of research technologies that collect, store and analyze massive amounts of unstructured and semi-structured text. It is built on an open, extensible platform that enables the discovery of trends, patterns and relationships from data.
+
+The project represents one of the first comprehensive attempts to catalog and interpret the unstructured data of the Web in a continuous fashion. To this end its supporting researchers at IBM have investigated new systems for the precise retrieval of subsets of the information on the Web, real-time trend analysis, and meta-level analysis of the available information of the Web.
+Factiva, an information retrieval company owned by Dow Jones and Reuters, licensed WebFountain in September 2003, and has been building software which utilizes the WebFountain engine to gauge corporate reputation. Factiva reportedly offers yearly subscriptions to the service for $200,000. Factiva has since decided to explore other technologies, and has severed its relationship with WebFountain.
+WebFountain is developed at IBM's Almaden research campus in the Bay Area of California.
+IBM has developed software, called UIMA for Unstructured Information Management Architecture, that can be used for analysis of unstructured information. It can perhaps help perform trend analysis across documents, determine the theme and gist of documents, allow fuzzy searches on unstructured documents.
+
+
+== References ==
+
+
+== External links ==
+IBM Almaden Research Center WebFountain overview
+WebFountain on John Battelle's Searchblog
+Zdnet article "Drinking from the Fire Hydrant"
+Cnet article at Archive.is (archived 2012-07-21) IBM sets out to make sense of the Web, February 5, 2004
+IBM Joins Corporate Monitoring Space with Release of Public Image Monitoring Solution, Search Engine Watch, November 9, 2005

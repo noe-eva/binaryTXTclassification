@@ -1,0 +1,144 @@
+Software can be defined as programmed instructions stored in the memory of stored-program digital computers for execution by the processor. The design for what would have been the first piece of software was written by Ada Lovelace in the 19th century but was never implemented.
+Alan Turing is credited with being the first person to come up with a theory for software, which led to the two academic fields of computer science and software engineering. The first generation of software for early stored program digital computers in the late 1940s had its instructions written directly in binary code. Early on, it was very expensive when it was in low quantities, but as it became more popular in the 1980s, prices dropped significantly. It went from being an item that only belonged to the elite to the majority of the population owning one. Software would not be where it is today without Bill Gates and Steve Jobs, two pioneers in the industry that had monumental impacts on the history of software.
+
+
+== Before stored-program digital computers ==
+
+
+=== Origins of computer science ===
+
+An outline (algorithm) for what would have been the first piece of software was written by Ada Lovelace in the 19th century, for the planned Analytical Engine. However, neither the Analytical Engine nor any software for it was ever created.
+The first theory about software –  prior to the creation of computers as we know them today –  was proposed by Alan Turing in his 1935 essay Computable numbers with an application to the Entscheidungsproblem (decision problem).
+This eventually led to the creation of the twin academic fields of computer science and software engineering, which both study software and its creation. Computer science is more theoretical (Turing's essay is an example of computer science), whereas software engineering is focused on more practical concerns.
+However, prior to 1946, software as we now understand it –  programs stored in the memory of stored-program digital computers –  did not yet exist. The very first electronic computing devices were instead rewired in order to "reprogram" them –  see History of computing hardware.
+
+
+== Early days of computer software (1948–1979) ==
+In his manuscript "A Mathematical theory of Communication", Claude Shannon (1916–2001) provided an outline for how binary logic could be implemented to program a computer. Subsequently, the first computer programmers used binary code to instruct computers to perform various tasks. Nevertheless, the process was very arduous. Computer programmers had to enter long strings of binary code to tell the computer what data to store. Computer programmers had to load information onto computers using various tedious mechanisms, including flicking switches or punching holes at predefined positions in cards and loading these punched cards into a computer. With such methods, if a mistake was made, the whole program might have to be loaded again from the beginning.
+The very first time a stored-program computer held a piece of software in an electronic memory, and executed it successfully, was 11am, 21 June 1948, at the University of Manchester, on the Small Scale Experimental Machine, also known as the "Baby" computer. It was written by Tom Kilburn, and calculated the highest factor of the integer 2^18 = 262,144. Starting with a large trial divisor, it performed division of 262,144 by repeated subtraction then checked if the remainder was zero. If not, it decremented the trial divisor by one and repeated the process. Google released a tribute to the Manchester Baby, celebrating it as the "birth of software".
+
+
+=== Bundling of software with hardware and its legal issues ===
+Later, software was sold to multiple customers by being bundled with the hardware by original equipment manufacturers (OEMs) such as Data General, Digital Equipment and IBM. When a customer bought a minicomputer, at that time the smallest computer on the market, the computer did not come with Pre-installed software, but needed to be installed by engineers employed by the OEM.
+This bundling attracted the attention of US antitrust regulators, who sued IBM for improper "tying" in 1969, alleging that it was an antitrust violation that customers who wanted to obtain its software had to also buy or lease its hardware in order to do so. Although the case was dropped by the US Justice Department after many years of attrition as "without merit".
+Very quickly, commercial software started to be pirated, and commercial software producers were very unhappy at this. Bill Gates, cofounder of Microsoft, was an early moraliser against software piracy with his famous Open Letter to Hobbyists in 1976.
+Data General also encountered legal problems related to bundling –  although in this case, it was due to a civil suit from a would-be competitor. When Data General introduced the Data General Nova, a company called Digidyne wanted to use its RDOS operating system on its own hardware clone. Data General refused to license their software and claimed their "bundling rights". The US Supreme Court set a precedent called Digidyne v. Data General in 1985 by letting a 9th circuit appeal court decision on the case stand, and Data General was eventually forced into licensing the operating system because it was ruled that restricting the license to only DG hardware was an illegal tying arrangement. Even though the District Court noted that "no reasonable juror could find that within this large and dynamic market with much larger competitors", Data General "had the market power to restrain trade through an illegal tie-in arrangement", the tying of the operating system to the hardware was ruled as per se illegal on appeal.
+In 2008, Psystar Corporation was sued by Apple Inc. for distributing unauthorized Macintosh clones with OS X preinstalled, and countersued. One of the arguments in the countersuit - citing the Data General case - was that Apple dominates the market for OS X compatible computers by illegally tying the operating system to Apple computers. District Court Judge William Alsup rejected this argument, saying, as the District Court had ruled in the Data General case over 20 years prior, that the relevant market was not simply one operating system (Mac OS) but all PC operating systems, including Mac OS, and noting that Mac OS did not enjoy a dominant position in that broader market. Alsup's judgement also noted that the surprising Data General precedent that tying of copyrighted products was always illegal had since been "implicitly overruled" by the verdict in the Illinois Tool Works Inc. v. Independent Ink, Inc. case.
+
+
+=== Unix (1970s–present) ===
+
+Unix was an early operating system which became popular and very influential, and still exists today. The most popular variant of Unix today is macOS (previously OS X and Mac OS X), while Linux is closely related to Unix.
+
+
+=== Pre-Internet source code sharing ===
+Before the Internet –  and indeed in the period after the internet was created, but before it came into widespread use by the public –  computer programming enthusiasts had to find other ways to share their efforts with each other, and also with potentially-interested computer users who were not themselves programmers. Such sharing techniques included distribution of tapes, such as the DECUS tapes, and later, electronic bulletin board systems. However, a particularly popular and mainstream early technique involved computer magazines.
+
+
+==== Source code listings in computer magazines ====
+
+Tiny BASIC was published as a type-in program in Dr. Dobb's Journal in 1975, and developed collaboratively (in effect, an early example of open source software, although that particular term was not to be coined until two decades later).
+It was an inconvenient and slow process to type in source code from a computer magazine, and a single mistyped –  or worse, misprinted –  character could render the program inoperable, yet people still did so. (Optical character recognition technology to scan in the listings rather than transcribe them by hand was not yet available).
+However, even with the widespread use of cartridges and cassette tapes in the 1980s for distribution of commercial software, free programs (such as simple educational programs for the purpose of teaching programming techniques) were still often printed, because it was cheaper than manufacturing and attaching cassette tapes to each copy of a magazine. Many of today's IT professionals who were children at the time had a lifelong interest in computing in general or programming in particular sparked by such first encounters with source code.
+However, eventually a combination of four factors brought this practice of printing complete source code listings of entire programs in computer magazines to an end:
+programs started to become very large
+floppy discs started to be used for distributing software, and then came down in price
+more and more people started to use computers –  computing became a mass market phenomenon, and most ordinary people were far less likely to want to spend hours typing in listings than the earlier enthusiasts
+partly as a consequence of all of the above factors, computer magazines started to attach free cassette tapes, and free floppy discs, with free or trial versions of software on them, to their covers
+
+
+== 1980s–present ==
+Before the microcomputer, a successful software program typically sold up to 1,000 units at $50,000–60,000 each. By the mid-1980s, personal computer software sold thousands of copies for $50–700 each. Companies like Microsoft, MicroPro, and Lotus Development had tens of millions of dollars in annual sales. Just like the auto industry, the software industry has grown from a few visionaries operating (figuratively or literally) out of their garage with prototypes. Steve Jobs and Bill Gates were the Henry Ford and Louis Chevrolet of their times, who capitalized on ideas already commonly known before they started in the business. A pivotal moment in computing history was the publication in the 1980s of the specifications for the IBM Personal Computer published by IBM employee Philip Don Estridge, which quickly led to the dominance of the PC in the worldwide desktop and later laptop markets –  a dominance which continues to this day.
+
+
+=== Free and open source software ===
+
+
+=== Recent developments ===
+
+
+==== App stores ====
+
+Applications for mobile devices (cellphones and tablets) have been termed "apps" in recent years. Apple chose to funnel iPhone and iPad app sales through their App Store, and thus both vet apps, and get a cut of every paid app sold. Apple does not allow apps which could be used to circumvent their app store (e.g. virtual machines such as the Java or Flash virtual machines).
+The Android platform, by contrast, has multiple app stores available for it, and users can generally select which to use (although Google Play requires a compatible or rooted device).
+This move was replicated for desktop operating systems with GNOME Software (for Linux), the Mac App Store (for macOS), and the Windows Store (for Windows). All of these platforms remain, as they have always been, non-exclusive: they allow applications to be installed from outside the app store, and indeed from other app stores.
+The explosive rise in popularity of apps, for the iPhone in particular but also for Android, led to a kind of "gold rush", with some hopeful programmers dedicating a significant amount of time to creating apps in the hope of striking it rich. As in real gold rushes, not all of these hopeful entrepreneurs were successful.
+
+
+== Formalization of software development ==
+The development of curricula in computer science has resulted in improvements in software development. Components of these curricula include:
+Structured and Object Oriented programming
+Data structures
+Analysis of Algorithms
+Formal languages and compiler construction
+Computer Graphics Algorithms
+Sorting and Searching
+Numerical Methods, Optimization and Statistics
+Artificial Intelligence and Machine Learning
+
+
+== How software has affected hardware ==
+As more and more programs enter the realm of firmware, and the hardware itself becomes smaller, cheaper and faster as predicted by Moore's law, an increasing number of types of functionality of computing first carried out by software, have joined the ranks of hardware, as for example with graphics processing units. (However, the change has sometimes gone the other way for cost or other reasons, as for example with softmodems and microcode.)
+Most hardware companies today have more software programmers on the payroll than hardware designers, since software tools have automated many tasks of printed circuit board (PCB) engineers.
+
+
+== Computer software and programming language timeline ==
+The following tables include year by year development of many different aspects of computer software including:
+High level languages
+
+Operating systems
+
+Networking software and applications
+
+Computer graphics hardware, algorithms and applications
+
+Spreadsheets
+
+Word processing
+
+Computer aided design
+
+
+=== 1971–1974 ===
+
+
+=== 1975–1978 ===
+
+
+=== 1979–1982 ===
+
+
+=== 1983–1986 ===
+
+
+=== 1987–1990 ===
+
+
+=== 1991–1994 ===
+
+
+=== 1995–1998 ===
+
+
+=== 1999–2002 ===
+
+
+=== 2003–2006 ===
+
+
+=== 2007–2010 ===
+
+
+=== 2011–2014 ===
+
+
+== See also ==
+
+Forensic software engineering
+History of computing hardware
+History of operating systems
+History of software engineering
+List of failed and overbudget custom software projects
+
+
+== References ==

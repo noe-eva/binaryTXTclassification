@@ -1,0 +1,10 @@
+The Conference on Automated Deduction (CADE) is the premier academic conference on automated deduction and related fields. The first CADE was organized in 1974 at the Argonne National Laboratory near Chicago. Most CADE meetings have been held in Europe and the United States. However, conferences have been held all over the world. Since 1996, CADE has been held yearly. In 2001, CADE was, for the first time, merged into the International Joint Conference on Automated Reasoning (IJCAR). This has been repeated biannually since 2004.
+In 1996, CADE Inc. was formed as a non-profit sub-corporation of the Association for Automated Reasoning to organize the previously individually organized conferences.
+
+
+== External links ==
+CADE web page
+AAR web page
+
+
+== References ==

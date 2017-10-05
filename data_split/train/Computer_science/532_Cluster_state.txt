@@ -1,0 +1,245 @@
+In quantum information and quantum computing, a cluster state is a type of highly entangled state of multiple qubits. Cluster states are generated in lattices of qubits with Ising type interactions. A cluster C is a connected subset of a d-dimensional lattice, and a cluster state is a pure state of the qubits located on C. They are different from other types of entangled states such as GHZ states or W states in that it is more difficult to eliminate quantum entanglement (via projective measurements) in the case of cluster states. Another way of thinking of cluster states is as a particular instance of graph states, where the underlying graph is a connected subset of a d-dimensional lattice. Cluster states are especially useful in the context of the one-way quantum computer. For a comprehensible introduction to the topic see.
+Formally, cluster states 
+  
+    
+      
+        
+          |
+        
+        
+          ϕ
+          
+            {
+            κ
+            }
+          
+        
+        
+          ⟩
+          
+            C
+          
+        
+      
+    
+    {\displaystyle |\phi _{\{\kappa \}}\rangle _{C}}
+   are states which obey the set eigenvalue equations:
+
+  
+    
+      
+        
+          K
+          
+            (
+            a
+            )
+          
+        
+        
+          
+            
+              |
+              
+                ϕ
+                
+                  {
+                  κ
+                  }
+                
+              
+              ⟩
+            
+            
+              C
+            
+          
+        
+        =
+        (
+        −
+        1
+        
+          )
+          
+            
+              κ
+              
+                a
+              
+            
+          
+        
+        
+          
+            
+              |
+              
+                ϕ
+                
+                  {
+                  κ
+                  }
+                
+              
+              ⟩
+            
+            
+              C
+            
+          
+        
+      
+    
+    {\displaystyle K^{(a)}{\left|\phi _{\{\kappa \}}\right\rangle _{C}}=(-1)^{\kappa _{a}}{\left|\phi _{\{\kappa \}}\right\rangle _{C}}}
+  
+where 
+  
+    
+      
+        
+          K
+          
+            (
+            a
+            )
+          
+        
+      
+    
+    {\displaystyle K^{(a)}}
+   are the correlation operators
+
+  
+    
+      
+        
+          K
+          
+            (
+            a
+            )
+          
+        
+        =
+        
+          σ
+          
+            x
+          
+          
+            (
+            a
+            )
+          
+        
+        
+          ⨂
+          
+            b
+            ∈
+            
+              N
+            
+            (
+            a
+            )
+          
+        
+        
+          σ
+          
+            z
+          
+          
+            (
+            b
+            )
+          
+        
+      
+    
+    {\displaystyle K^{(a)}=\sigma _{x}^{(a)}\bigotimes _{b\in \mathrm {N} (a)}\sigma _{z}^{(b)}}
+  
+with 
+  
+    
+      
+        
+          σ
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \sigma _{x}}
+   and 
+  
+    
+      
+        
+          σ
+          
+            z
+          
+        
+      
+    
+    {\displaystyle \sigma _{z}}
+   being Pauli matrices, 
+  
+    
+      
+        N
+        (
+        a
+        )
+      
+    
+    {\displaystyle N(a)}
+   denoting the neighbourhood of 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   and 
+  
+    
+      
+        {
+        
+          κ
+          
+            a
+          
+        
+        ∈
+        {
+        0
+        ,
+        1
+        }
+        
+          |
+        
+        a
+        ∈
+        C
+        }
+      
+    
+    {\displaystyle \{\kappa _{a}\in \{0,1\}|a\in C\}}
+   being a set of binary parameters specifying the particular instance of a cluster state.
+Cluster states have been realized experimentally. They have been obtained in photonic experiments using parametric downconversion  . They have been created also in optical lattices of cold atoms .
+
+
+== See also ==
+Bell state
+Graph state
+
+
+== References ==

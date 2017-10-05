@@ -1,0 +1,13 @@
+Automated exception handling is a computing term referring to the computerized handling of errors. runtime systems (engines) such as those for the Java programming language or .NET Framework lend themselves to an automated mode of exception or error handling. In these environments software errors do not crash the operating system or runtime engine, but rather generate exceptions. Recent advances in these runtime engines enables specialized runtime engine add-on products to provide automated exception handling that is independent of the source code and provides root-cause information for every exception of interest.
+
+
+== How it works ==
+Upon exception, the runtime engine calls an error interception tool that is attached to the runtime engine (e.g., Java Virtual Machine (JVM)). Based on the nature of the exception such as its type and the class and method in which it occurred and based on user preferences, an exception can be either handled or ignored.
+If the preference is to handle the exception, then based on handling preferences such as memory search depth, the error interception utility extracts memory values from heap and stack memories. This snapshot then produces the equivalent of a debugger screen (as if there had been a debugger) at the moment of the exception.
+
+
+== Advantages ==
+This mechanism enables the automated handling of software errors independent of the application source code and of its developers. It is a direct artifact of the runtime engine paradigm and it enables unique advantages to the software lifecycle that were unavailable before.
+
+
+== References ==

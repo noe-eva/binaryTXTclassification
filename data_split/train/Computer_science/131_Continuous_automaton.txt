@@ -1,0 +1,6 @@
+A continuous automaton can be described as a cellular automaton extended so the valid states a cell can take are not just discrete (for example, the states consist of integers between 0 and 3), but continuous, for example, the real number range [0,1]. The cells however remain discretely separated from each other. One example is called computational verb cellular network (CVCN)   ., of which the states of cells are in the region of [0,1].
+Such automata can be used to model certain physical reactions more closely, such as diffusion. One such diffusion model could conceivably consist of a transition function based on the average values of the neighbourhood of the cell. Many implementations of Finite Element Analysis can be thought of as continuous automata, though this degree of abstraction away from the physics of the problem is probably inappropriate.
+Continuous spatial automata resemble continuous automata in having continuous values, but they also have a continuous set of locations rather than restricting the values to a discrete grid of cells.
+
+
+== Reference notes ==

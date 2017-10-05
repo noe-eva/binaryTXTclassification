@@ -1,0 +1,6 @@
+The Global Document Type Identifier (GDTI) is part of the GS1 system of standards. It is a simple tool to identify a document by type and can identify documents uniquely where required.
+The term “document” is applied broadly to cover any official or private papers that confer a right (e.g. a proof of ownership) or obligation (e.g., notification or call for military service) upon the bearer. The issuer of the document is normally responsible for all the information contained upon the document, both bar coded and Human Readable Interpretation. Such documents typically require storage of the appropriate information contained on the document. Examples of the kind of documents that could have a GDTI are tax demands, proof of shipment forms, insurance policies, internal invoices etc. A company or business will issue a GDTI where it is important to maintain a record of the document. The GDTI will provide a link to the database that holds the ‘master’ copy of the document. The GDTI may be produced as a GS1-128 bar code and printed on the document as a method of identification or for detail or information retrieval.
+
+
+== External links ==
+Global Document Type Identifier at GS1 website

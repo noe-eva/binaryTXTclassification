@@ -1,0 +1,95 @@
+The IEEE Computational Intelligence Society is a professional society of the Institute of Electrical and Electronics Engineers (IEEE) focussing on "the theory, design, application, and development of biologically and linguistically motivated computational paradigms emphasizing neural networks, connectionist systems, genetic algorithms, evolutionary programming, fuzzy systems, and hybrid intelligent systems in which these paradigms are contained".
+
+
+== History ==
+The society was formed as the IEEE Neural Networks Council on November 17, 1989 with representatives from 12 different IEEE societies. On November 21, 2001, the IEEE Neural Networks Council became the IEEE Neural Networks Society. In November 2003, it changed its name to the IEEE Computational Intelligence Society.
+
+
+== Publications ==
+The IEEE CIS publishes three peer-reviewed scientific journals:
+IEEE Transactions on Neural Networks and Learning Systems
+IEEE Transactions on Fuzzy Systems
+IEEE Transactions on Evolutionary Computation
+The society also co-sponsors the following publications:
+IEEE Transactions on Autonomous Mental Development
+IEEE/ACM Transactions on Computational Biology and Bioinformatics
+IEEE Transactions on Computational Intelligence and AI in Games
+IEEE Transactions on NanoBioscience
+IEEE Transactions on Information Forensics and Security
+IEEE Transactions on Affective Computing
+IEEE Transactions on Smart Grid
+Through Councils the society also support the following transactions:
+IEEE Transactions on Nanotechnology
+IEEE Systems Journal
+The society also publishes a magazine, Computational Intelligence Magazine, and sponsors a book series on computational intelligence.
+
+
+== Education ==
+To promote knowledge dissemination in computational intelligence, multimedia tutorials are being developed and provided, as well as courses and summer schools are being supported. To help graduate student research and exchange especially at the international level summer research grants are provided.
+New initiatives cover the needs from the high school to continuous education in order to serve the computational intelligence community and all people interested in computational intelligence and its applications. Among these planned activities there are: student games-based competitions, pre-college educational programs, development of suggested university curricula, continuing education programs (especially for people in industry), and creation of the educational archive.
+
+
+== Conferences ==
+The society sponsors and co-sponsors a number of international conferences, such as CIBB (the International Meeting on Computational Intelligence Methods for Bioinformatics and Biostatistics) and the IEEE Conference on Computational Intelligence and Games, a series of annual conference on computational and artificial intelligence in games.
+
+
+== Awards ==
+The IEEE Computational Intelligence Society's awards recognize excellent achievements and outstanding volunteers in the field. Here is a list of the current awards:
+IEEE Frank Rosenblatt Award,
+Neural Networks Pioneer Award,
+Fuzzy Systems Pioneer Award,
+Evolutionary Computation Pioneer Award,
+Meritorious Service Award,
+IEEE Transactions on Neural Networks and Learning Systems Outstanding Paper Award,
+IEEE Transactions on Fuzzy Systems Outstanding Paper Award,
+IEEE Transactions on Evolutionary Computation Outstanding Paper Award,
+IEEE Transactions on Autonomous Mental Development Outstanding Paper Award,
+IEEE Transactions on Computational Intelligence and AI in Games Outstanding Paper Award,
+Computational Intelligence Magazine Outstanding Paper Award,
+Outstanding Chapter Award,
+Outstanding PhD Dissertation Award,
+Outstanding Organization Award and the Outstanding Early Career Award.
+
+
+== Technical Activities ==
+The CIS technical activities cover many exciting technologies in computational intelligence (CI) and their applications in a wide variety of areas. CI aims to mimicking nature for effective problem solving and the CIS technical activities promote scientific research, technological development, practical applications, and knowledge dissemination in CI.
+The CIS currently have 11 Technical Committees (TCs), which can be grouped into the following three categories:
+Technology-oriented TCs promote CI technologies. They are TCs on:
+Neural Networks
+Fuzzy Systems
+Evolutionary Computation
+Autonomous Mental Development
+Adaptive Dynamic Programming and Reinforcement Learning
+Application-oriented TCs deal with applications of CI technologies. They are TCs on:
+Bioinformatics and Bioengineering
+Computational Finance and Economics
+Data Mining
+Games
+Incubator TCs identify and nurture new CI technologies and new areas for CI applications. They are TCs on:
+Emergent Technologies
+Intelligent Systems Applications
+In addition, the CIS have the Standards Committee, dealing with standards, data sets, and software of interest to people working in CI, and the Technology Transfer Committee, promoting transfers of CI technologies to the industry.
+
+
+== Presidents ==
+The following persons are or have been president of the society:
+Pablo Estévez (2016-2017)
+Xin Yao (2014-2015)
+Marios Polycarpou (2012-2013)
+Gary Yen (2010-2011)
+David B. Fogel (2008-2009)
+Vincenzo Piuri (2006-2007)
+Jacek M. Zurada (2004-2005)
+Evangelia Micheli-Tzanakou (2003)
+Piero P Bonissone (2002)
+
+
+== See also ==
+Glossary of artificial intelligence
+
+
+== References ==
+
+
+== External links ==
+Official website

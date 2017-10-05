@@ -1,0 +1,13 @@
+The left corner of a production rule in a context-free grammar is the left-most symbol on the right side of the rule.
+For example, in the rule A→Xα, X is the left corner.
+The left corner table associates a symbol with all possible left corners for that symbol, and the left corners of those symbols, etc.
+Given the grammar
+S→VP
+S→NP VP
+VP→V NP
+NP→DET N
+Left corners are used to add bottom-up filtering of a top-down parser.
+You can use the left corners to do top-down filtering of a bottom-up parser.
+
+
+== References ==

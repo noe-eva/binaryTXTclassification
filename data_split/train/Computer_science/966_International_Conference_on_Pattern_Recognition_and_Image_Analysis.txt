@@ -1,0 +1,14 @@
+PRIA, the International Conference on Pattern Recognition and Image Analysis, is a biennial scientific international conference organized by the Russian Academy of Sciences and Springer Science+Business Media. It is officially sponsored by the International Association for Pattern Recognition. The conference areas are pattern recognition, image analysis, computer vision, and artificial intelligence. The conference usually includes the meeting of IAPR Technical Committee 16 "Algebraic and Discrete Mathematical Techniques in Pattern Recognition and Image Analysis".
+The conference was first held in 1991 in Minsk. Other conferences on pattern recognition are the International Conference on Computer Vision and Conference on Computer Vision and Pattern Recognition.
+
+
+== See also ==
+International Conference on Pattern Recognition in Bioinformatics
+International Association for Pattern Recognition
+
+
+== References ==
+
+
+== External links ==
+Official website

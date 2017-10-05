@@ -1,0 +1,21 @@
+The International Journal of Computational Geometry and Applications (IJCGA) is a bimonthly journal published since 1991, by World Scientific. It covers the application of computational geometry in design and analysis of algorithms, focusing on problems arising in various fields of science and engineering such as computer-aided geometry design (CAGD), operations research, and others.
+The current editors-in-chief are D.-T. Lee of the Institute of Information Science in Taiwan, and Joseph S. B. Mitchell from the Department of Applied Mathematics and Statistics in the State University of New York at Stony Brook.
+
+
+== Abstracting and indexing ==
+Current Contents/Engineering, Computing & Technology
+ISI Alerting Services
+Science Citation Index Expanded (also known as SciSearch)
+CompuMath Citation Index
+Mathematical Reviews
+INSPEC
+DBLP Bibliography Server
+Zentralblatt MATH
+Computer Abstracts
+
+
+== References ==
+
+
+== External links ==
+IJCGA Journal Website

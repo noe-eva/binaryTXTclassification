@@ -1,0 +1,9 @@
+VICAR is an image file format developed by the NASA's Jet Propulsion Laboratory. It has been used to transport images from a variety of space missions including Cassini–Huygens and the Viking Orbiter.
+
+
+== References ==
+
+
+== External links ==
+Collection of images from the Cassini orbiter
+VICAR2PNG a tool that converts VICAR images.

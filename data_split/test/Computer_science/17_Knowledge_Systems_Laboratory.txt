@@ -1,0 +1,18 @@
+Knowledge Systems Laboratory (KSL) is an artificial intelligence research laboratory within the Department of Computer Science at Stanford University, located at the Gates Computer Science Building, Stanford. Current work focuses on knowledge representation for shareable engineering knowledge bases and systems, computational environments for modelling physical devices, architectures for adaptive intelligent systems, and expert systems for science and engineering. The KSL has projects with Stanford Medical Informatics (SMI), the Stanford Artificial Intelligence Lab (SAIL), the Stanford Formal Reasoning Group (SFRG), the Stanford Logic Group, and the Stanford Center for Design Research (CDR).
+
+
+== Past Members ==
+This is a partial list (in alphabetical order) of past members:
+Edward Feigenbaum
+Richard Fikes
+Diana E. Forsythe
+Tom Gruber
+Alon Y. Halevy
+Deborah L. McGuinness
+Paulo Pinheiro
+Derek H. Sleeman
+
+
+== References ==
+This article is based on material taken from the Free On-line Dictionary of Computing prior to 1 November 2008 and incorporated under the "relicensing" terms of the GFDL, version 1.3 or later.
+Homepage: http://www.ksl.stanford.edu/

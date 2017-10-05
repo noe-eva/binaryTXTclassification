@@ -1,0 +1,32 @@
+In metadata a synonym ring or synset, is a group of data elements that are considered semantically equivalent for the purposes of information retrieval. These data elements are frequently found in different metadata registries. Although a group of terms can be considered equivalent, metadata registries store the synonyms at a central location called the preferred data element.
+According to WordNet, a synset or synonym set is defined as a set of one or more synonyms that are interchangeable in some context without changing the truth value of the proposition in which they are embedded.
+
+
+== Example ==
+The following are considered semantically equivalent and form a synonym ring:
+
+foaf:person
+gjxdm:Person
+niem:Person
+sumo:Human
+cyc:Person
+umbel:Person
+
+Note that each data element has two components:
+Namespace prefix, which is a shorthand for the name of the metadata registry
+Data element name, which is the name of the object in each of the distinct metadata registry
+
+
+== Expressing a synonym ring ==
+A synonym ring can be expressed by a series of statements in the Web Ontology Language (OWL) using the classEquivalence or the propertyEquivalence or instance equivalence statement - the sameAs property.
+
+
+== See also ==
+Metadata
+Vocabulary-based transformation
+Data Reference Model
+WordNet
+
+
+== External links ==
+WordNet at Princeton

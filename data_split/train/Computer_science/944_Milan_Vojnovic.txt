@@ -1,0 +1,11 @@
+Milan Vojnovic is a professor of data science with the Department of Statistics at the London School of Economics, where he is also director of the MSc Data Science Programme. Prior to this, he worked as a researcher with Microsoft Research from 2004 to 2016.
+He received his Ph.D. degree in Technical Sciences from École Polytechnique Fédérale de Lausanne in 2003, and both M.Sc. and B.Sc. degrees in Electrical Engineering from the University of Split, Croatia, in 1995 and 1998, respectively. He undertook an internship with the Mathematical Research Centre at Bell Labs in 2001. From 2005 to 2014, he was a visiting professor at the University of Split, Croatia. From 2014 to 2016, he was an affiliated lecturer at the Statistical Laboratory, University of Cambridge.
+
+
+== Research ==
+His research interests include data science, machine learning, artificial intelligence, game theory, multi-agent systems and information networks. He has made contributions to the theory and the design of computation platforms for processing large-scale data.
+He received several prizes for his work. In 2010, he was awarded the ACM SIGMETRICS Rising Star Researcher Award, and in 2005, the ERCIM Cor Baayen Award. He received the IEEE IWQoS 2007 Best Student Paper Award (with Shao Liu and Dinan Gunawardena), the IEEE INFOCOM 2005 Best Paper Award (with Jean-Yves Le Boudec), the ACM SIGMETRICS 2005 Best Paper Award (with Laurent Massoulie) and the ITC 2001 Best Student Paper Award (with Jean-Yves Le Boudec).
+Vojnovic authored the book Contest Theory: Incentive Mechanisms and Ranking Methods.
+
+
+== References ==

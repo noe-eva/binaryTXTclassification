@@ -1,0 +1,44 @@
+SpatiaLite is a spatial extension to SQLite, providing vector geodatabase functionality. It is similar to PostGIS, Oracle Spatial, and SQL Server with spatial extensions, although SQLite/SpatiaLite aren't based on client-server architecture: they adopt a simpler personal architecture. i.e. the whole SQL engine is directly embedded within the application itself: a complete database simply is an ordinary file which can be freely copied (or even deleted) and transferred from one computer/OS to a different one without any special precaution.
+SpatiaLite extends SQLite's existing spatial support to cover the OGC's SFS specification. It isn't necessary to use SpatiaLite to manage spatial data in SQLite, which has its own implementation of R-tree indexes and geometry types. But SpatiaLite is needed for advanced spatial queries and to support multiple map projections. SpatiaLite is provided natively for Linux and Windows as a software library as well several utilities that incorporate the SpatiaLite library. These utilities include command line tools that extend SQLite's own with spatial macros, a graphical GUI for manipulating Spatialite databases and their data, and a simple desktop GIS tool for browsing data.
+Being a single binary file, SpatiaLite is also being used as a GIS vector format to exchange geospatial data.
+
+
+== Software that supports SpatiaLite ==
+Desktop:
+ESRI ArcGIS since version 10.2 as "Database Connection".
+QGIS supports SpatiaLite native since version 1.1
+AutocadMap 2013
+Global Mapper 
+OpenJUMP offers a Plug-In.
+FME (also available as server)
+TileMill renderer (uses Mapnik) reads SpatiaLite as data source.
+Spatial Manager Desktop, Spatial Manager for AutoCAD, Spatial Manager for BricsCAD 
+
+(Web)Server:
+GeoServer via SpatiaLite extension.
+GeoDjango via the GeoDjango module.
+Web2py (web framework) native 
+FeatureServer, a WFS server.
+
+Tools and libraries:
+OGR Simple Feature Library reads and writes SpatiaLite since version 1.7
+GeoTools supports SpatiaLite using JDBC module.
+Mapnik, a renderer.
+pyspatialite, a Python library.
+OSGeo Live DVD includes spatialite along with a short tutorial.
+
+Web Apps:
+GeoConverter - Free online data converter which reads and writes several GIS vector file formats (based on OGR), including SpatiaLite.
+
+
+== Standards ==
+SpatiaLite supports several open standards from the OGC and has been listed as a reference implementation for the proposed GeoPackage standard.
+
+
+== External links ==
+www.gaia-gis.it/fossil/libspatialite/
+www.gaia-gis.it/gaia-sins/spatialite-cookbook/
+www.gaia-gis.it/gaia-sins/
+
+
+== References ==

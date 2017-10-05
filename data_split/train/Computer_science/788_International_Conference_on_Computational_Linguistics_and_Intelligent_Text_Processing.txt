@@ -1,0 +1,29 @@
+CICLing (International Conference on Computational Linguistics and Intelligent Text Processing) is an annual conference on computational linguistics (CL) and natural language processing (NLP). The first CICLing conference was held in 2000 in Mexico City. The conference is attended by one to two hundred of NLP and CL researchers and students every year. As of 2017, it is ranked within top 20 sources (conferences and journals) on computational linguistics by Google Scholar. Past CICLing conferences have been held in Mexico, Korea, Israel, Romania, Japan, India, Greece, Nepal, Egypt, and Turkey; the 2017 event will be held in Hungary.
+
+
+== Overview ==
+CICLing is a series of annual international conferences devoted to computational linguistics (CL), natural language processing (NLP), human language technologies (HLT), natural-language human-computer interaction (HCI), as well as speech processing and speech recognition (SR).
+Their topics of interest include, but are not limited to: text processing, computational morphology, tagging, stemming, syntactic analysis, parsing and shallow parsing, chunking, recognizing textual entailment, ambiguity resolution, semantic analysis, pragmatics, lexicon, lexical resources, dictionaries and machine-readable dictionaries (MRD), grammar, anaphora resolution, word sense disambiguation (WSD), machine translation (MT), information retrieval (IR), information extraction (IE), document handling, document classification and text classification, text summarization, text mining (TM), opinion mining, sentiment analysis, plagiarism detection, and spell checking (spelling).
+CICLing series was founded in 2000 by Alexander Gelbukh. The acronym "CICLing" refers to "Conference on Intelligent text processing and Computational Linguistics", the name used before 2017.
+Almost all CICLing events have been endorsed by the Association for Computational Linguistics.
+Unlike some other conferences on computational linguistics and natural language processing, such as those run by the Association for Computational Linguistics, CICLing does not release its main proceedings as Open Access, publishing them instead with Springer; however, most of its complementary proceedings, published as special issues of journals, are released as Open Access; in addition, Springer allows the authors to make their papers available via their own webpages.
+
+
+== Specific CICLing Conferences ==
+In the table below, the figures for the number of accepted papers and acceptance rate refer to the main proceedings volume and do not include supplemental proceedings volumes. The number of countries corresponds to submissions, not to accepted papers.
+
+
+== Past Keynote Speakers and Local Organizing Committee Chairs ==
+The table lists, by year, experts that have given keynote addresses at past CICLing conferences, as well as the chairs of the Local Organizing Committee.
+
+
+== See also ==
+The list of computer science conferences contains other academic conferences in computer science.
+The list of linguistics conferences contains other academic conferences in linguistics.
+
+
+== References ==
+
+
+== External links ==
+CICLing series website

@@ -1,0 +1,12 @@
+In typesetting and text editors, the term hard space has several meanings, all related to a special way of representing the space between characters.
+The most commonly used meaning is the same as non-breaking space, a special space character used by a word processor that forbids an automatic line breaking (line wrap) at its position.
+In earlier days of text editors that worked with text mode CRT displays, when a paragraph had to be justified, this was achieved by means of inserting extra soft spaces at whitespaces. The soft spaces were so called because they could be "compressed" away during further editing. By contrast, ordinary spaces were called hard or incompressible spaces.
+Also, in some older text editors, the hard spaces were both non-expandable—i.e., no soft spaces could be added to them—and non-breaking ones.
+In many term programs and game parsers, a hard space was a special kind of field delimiter, against which a filename could be examined or listed, or a semantic thought or consideration could be interpreted.
+In the Commodore directory system, a hard space usually terminated the spelling of a filename, and was replaced with a quotation mark when listed to the user.
+
+
+== See also ==
+Control character
+Space (punctuation)
+Soft hyphen

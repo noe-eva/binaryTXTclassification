@@ -1,0 +1,12 @@
+The Pacific-Rim Symposium on Image and Video Technology (PSIVT) is an annual conference on image and video technology organized by Lecture Notes in Computer Science. Its proceedings are published by Springer Science+Business Media. PSIVT is held in the Pacific-Rim region. It has been in Taiwan, Chile, Japan, Singapore, Korea, Mexico and New Zealand.
+
+
+== Related conferences ==
+CVPR
+ECCV
+ICCV
+SIGGRAPH
+
+
+== External links ==
+Official website

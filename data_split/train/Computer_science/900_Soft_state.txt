@@ -1,0 +1,10 @@
+In computer science, soft state is state which is useful for efficiency, but not essential, as it can be regenerated or replaced if needed. The term is often used in network protocol engineering.
+It is a term that is used for information that times out (goes away) unless refreshed, which allows protocols to recover from errors in certain services. The term was coined by David D. Clark in his description of the Defense Advanced Research Projects Agency (DARPA) internet protocols.
+While in general less efficient than well-designed "hard state" protocols when tuned for a particular network regime, soft state protocols behave much better than hard state protocols in an unpredictable network environment such as the Internet.
+
+
+== References ==
+
+
+== External links ==
+"Soft" and "Hard" State

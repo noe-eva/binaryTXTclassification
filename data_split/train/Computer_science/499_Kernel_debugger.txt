@@ -1,0 +1,14 @@
+A kernel debugger is a debugger present in some operating system kernels to ease debugging and kernel development by the kernel developers. A kernel debugger might be a stub implementing low-level operations, with a full-blown debugger such as gdb, running on another machine, sending commands to the stub over a serial line or a network connection, or it might provide a command line that can be used directly on the machine being debugged.
+Operating systems and operating system kernels that contain a kernel debugger:
+The Windows NT family includes a kernel debugger named KD, which can act as a local debugger with limited capabilities (reading and writing kernel memory, but not setting breakpoints) and can attach to a remote machine over a serial line, IEEE 1394 connection, USB 2.0 or USB 3.0 connection. The WinDbg GUI debugger can also be used to debug kernels on local and remote machines.
+BeOS
+DragonFly BSD
+Linux kernel; No kernel debugger was included in the mainline Linux tree prior to version 2.6.26-rc1 because Linus Torvalds didn't want a kernel debugger in the kernel.KDB (local)
+KGDB (remote)
+MDB (local/remote)
+
+NetBSD (DDB for local, KGDB for remote)
+macOS, Darwin which runs the XNU kernel using the Mach component
+
+
+== References ==

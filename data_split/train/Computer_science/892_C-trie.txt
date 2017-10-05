@@ -1,0 +1,5 @@
+A C-trie is a compressed trie data structure. It achieves lower memory and query time requirements at the expense of reduced flexibility.
+
+
+== References ==
+Maly, K. Compressed tries. Commun. ACM 19, 7, 409-415. [1]

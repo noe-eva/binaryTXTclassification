@@ -1,0 +1,4 @@
+In cryptography, the abbreviation CSP may refer to Critical Security Parameter. A Critical Security Parameter is information that is either user or system defined and is used to operate a cryptography module in processing encryption functions including cryptographic keys and authentication data, such as passwords, the disclosure or modification of which can compromise the security of a cryptographic module or the security of the information protected by the module.
+
+
+== References ==

@@ -1,0 +1,29 @@
+The International Middleware Conference brings together academic and industrial delegates who have an interest in the development, optimisation, evaluation and evolution of middleware.
+
+
+== History ==
+The first instance of the Middleware conference was held in 1998. Since 2003 the conference has been run annually. Many recent conference events have been ACM/IFIP/USENIX supported events.
+
+
+== Conference structure ==
+Middleware uses a single-track conference program, although it includes a growing number of submission categories. As of 2013, these include:
+Research papers
+Experimentation and deployment papers
+Big ideas papers
+The conference also includes:
+Tutorials
+Demonstrations and posters
+A doctoral workshop
+A number (six, in 2012) of workshops are typically co-located with the main conference.
+
+
+== See also ==
+List of computer science conferences
+
+
+== References ==
+
+
+== External links ==
+http://www.middleware-conference.org/
+http://2013.middleware-conference.org/

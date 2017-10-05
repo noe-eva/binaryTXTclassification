@@ -1,0 +1,81 @@
+A diving suit is a garment or device designed to protect a diver from the underwater environment. A diving suit may also incorporate a breathing gas supply (i.e. Standard diving dress or atmospheric diving suit). but in most cases applies only to the environmental protective covering worn by the diver. The breathing gas supply is usually referred to separately. There is no generic term for the combination of suit and breathing apparatus alone. It is generally referred to as diving equipment or dive gear along with any other equipment necessary for the dive.
+Diving suits can be divided into two classes: "soft" or ambient pressure diving suits - examples are wetsuits, dry suits, semi-dry suits and dive skins, and "hard" or atmospheric pressure diving suits - armored suits that keep the diver at atmospheric pressure at any depth within the operating range of the suit.
+
+
+== History ==
+
+The first diving suit designs appeared in the early 18th century. Two English inventors developed the first pressure-proof diving suits in the 1710s. John Lethbridge built a completely enclosed suit to aid in salvage work. It consisted of a pressure-proof air-filled barrel with a glass viewing hole and two watertight enclosed sleeves. This suit gave the diver more maneouverability to accomplish useful underwater salvage work.
+
+After testing this machine in his garden pond (specially built for the purpose) Lethbridge dived on a number of wrecks: four English men-of-war, one East Indiaman (both English and Dutch), two Spanish galleons and a number of galleys. He became very wealthy as a result of his salvages. One of his better-known recoveries was on the Dutch Slot ter Hooge, which had sunk off Madeira with over three tons of silver on board.
+At the same time, Andrew Becker created a leather-covered diving suit with a helmet featuring a window. Becker used a system of tubes for inhaling and exhaling, and demonstrated his suit in the River Thames, London, during which he remained submerged for an hour.
+
+German-born British engineer Augustus Siebe developed the standard diving dress in the 1830s. Expanding on improvements already made by another engineer, George Edwards, Siebe produced his own design - a helmet fitted to a full length watertight canvas diving suit. Later suits were made from waterproofed canvas invented by Charles Mackintosh. From the late 1800s and throughout most of the 20th century, most standard dress was made from a sheet of solid rubber laminated between layers of tan twill.
+Dry suits made of latex rubber were used in World War II by Italian frogmen who found them indispensable. They were made by Pirelli and patented in 1951.
+
+
+== Ambient pressure suits ==
+
+Ambient pressure suits are a form of exposure protection protecting the wearer from the cold. They also provide some defence from abrasive and sharp objects as well as potentially harmful underwater life. They do not protect divers from the pressure of the surrounding water or resulting barotrauma and decompression sickness.
+There are five main types of ambient pressure diving suits; dive skins, wetsuits and their derivative semi-dry suit and hot-water suits, and dry suits. Apart from hot water suits, these types of suit are not exclusively used by divers but are often used for thermal protection by people engaged in other water sports activities such as surfing, sailing, powerboating, windsurfing, kite surfing, waterskiing, caving and swimming.
+Added buoyancy due to the volume of the suit is a side effect of most diving suits. A diving weighting system can be worn to counteract this buoyancy.
+
+
+=== Dive skins ===
+Dive skins are used when diving in water temperatures above 25 °C (77 °F). They are made from spandex or Lycra and provide little thermal protection, but do protect the skin from jellyfish stings, abrasion and sunburn. This kind of suit is also known as a 'Stinger Suit'. Some divers wear a dive skin under a wetsuit, which allows easier donning and (for those who experience skin problems from neoprene) provides additional comfort.
+The "Dive Skin" was originally invented to protect scuba divers in Queensland Australia against the "Box" jellyfish (Chironex fleckeri)
+In 1978, Tony Farmer was a swimsuit designer and manufacturer who owned a business called "Daring Designs". Besides swimwear he also did underwear and aerobic wear which included a full suit in Lycra/Spandex. He became a scuba diver and that was the catalyst to the invention of the "dive skin" as we know it today.
+
+
+=== Wetsuits ===
+
+Wetsuits are relatively inexpensive, simple, expanded neoprene suits that are typically used where the water temperature is between 10 and 25 °C (50 and 77 °F). The foamed neoprene of the suit thermally insulates the wearer. Although water can enter the suit, a close fitting suit prevents excessive heat loss because little of the water warmed inside the suit escapes from the suit to be replaced by cold water, a process referred to as "flushing".
+Proper fit is critical for warmth. A suit that is too loose will allow a large amount of water to circulate over the diver's skin, taking up body heat. A suit that is too tight is very uncomfortable and can impair circulation at the neck, a very dangerous condition which can cause blackouts. For this reason, many divers choose to have wetsuits custom-tailored instead of buying them "off the rack". Many companies offer this service and the cost is often comparable to an off-the-rack suit.
+Wetsuits are limited in their ability to preserve warmth by three factors: the wearer is still exposed to some water, the suit is compressed by the ambient pressure, reducing effectiveness at depth, and the insulating neoprene can only be made to a certain thickness before it becomes impractical to don and wear. The thickest commercially available wetsuits are usually 10 mm thick. Other common thicknesses are 7 mm, 5 mm, 3 mm, and 1 mm. A 1 mm suit provides very little warmth and is usually considered a dive skin, rather than a wetsuit. Wetsuits can be made using more than one thickness of neoprene, to put the most thickness where it will be most effective in keeping the diver warm. A similar effect can be achieved by layering wetsuits of different coverage. Some makes of neoprene are softer, lighter and more compressible than others for the same thickness, and are more suitable for wetsuits for non-diving purposes as they will compress and lose their insulating value more quickly under pressure, though they are more comfortable for surface sports because they are more flexible and allow more freedom of movement.
+
+
+==== Semi-dry suits ====
+Semi-dry suits are effectively a thick wetsuit with nearly watertight seals at wrist, neck and ankles and zip. They are typically used where the water temperature is between 10 and 20 °C (50 and 68 °F). The seals limit the volume of water entering and leaving the suit, and a close fit minimises pumping action caused by limb motion. The wearer gets wet in a semi-dry suit but the water that enters is soon warmed up and does not readily leave the suit, so the wearer remains warm. The trapped layer of water does not add to the suit's insulating ability, and any water circulation past the seals still causes heat loss, but semi-dry suits are cheap and simple compared to dry suits, and do not fail catastrophically. They are made from thick Neoprene, which provides good thermal protection, but lose buoyancy and thermal protection as the trapped gas bubbles in the neoprene foam compress at depth. Semi-dry suits are usually made as a one piece full suit with slick inside surface neoprene wrist, cuff and neck seals Two-piece sets tend to be a one piece full length suit, sometimes described as "long johns", plus accessories to be worn over, under or with the one-piece suit, such as a shortie tunic, which may be worn separately in warm water, but has no flush-limiting seals at the openings. Semi dry suits do not usually include hoods, boots or gloves, so separate insulating hoods, boots and gloves are worn.
+
+
+==== Hot water suits ====
+Hot water suits are used in cold water commercial surface supplied diving. A hose in the umbilical line, which links the diver to the surface support, carries the hot water from a heater on the surface down to the suit. The diver controls the flow rate of the water from a valve near his waist, allowing him to vary the warmth of the suit in response to changes in environmental conditions and workload. Tubes inside the suit distribute the water to the limbs, chest, and back. Special boots, gloves, and hood are worn. These suits are normally made of foamed neoprene and are similar to wetsuits in construction and appearance, but they do not fit as closely by design. The wrists and ankles of the suit are open, allowing water to flush out of the suit as it is replenished with fresh hot water from the surface.
+Hot water suits are often employed for extremely deep dives when breathing mixes containing helium are used. Helium conducts heat much more efficiently than air, which means that the diver will lose large quantities of body heat through the lungs when breathing it. This fact compounds the risk of hypothermia already present in the cold temperatures found at these depths. Under these conditions a hot water suit is a matter of survival, not comfort. Just as an emergency backup source of breathing gas is required, a backup water heater is also an essential precaution whenever dive conditions warrant a hot water suit. If the heater fails and a backup unit cannot be immediately brought online, a diver in the coldest conditions can die within minutes; depending on decompression obligations, bringing the diver directly to the surface could prove equally deadly.
+Heated water in the suit forms an active insulation barrier to heat loss, but the temperature must be regulated within fairly close limits. If the temperature falls below about 32 °C, hypothermia can result, and temperatures above 45 °C can cause burn injury to the diver. The diver may not notice a gradual change in inlet temperature, and in the early stages of hypo- or hyperthermia, may not notice the deteriorating condition. The suit is loose fitting to allow unimpeded water flow. This causes a large volume of water (13 to 22 litres) to be held in the suit, which can impede swimming due to the added inertia. When controlled correctly, the hot water suit is safe, comfortable and effective, and allows the diver adequate control of thermal protection, however hot water supply failure can be life-threatening.
+
+
+=== Dry suits ===
+
+Dry suits are used typically where the water temperature is between −2 and 15 °C (28 and 59 °F). Water is prevented from entering the suit by seals at the neck and wrists; also, the means of getting the suit on and off (typically a zipper) is waterproof. The suit insulates the wearer in one of two main ways: by maintaining an insulating layer of air in the undersuit between the body and the suit shell, (in exactly the way that thermal insulation garments work above water) or by using a watertight expanded neoprene suit shell, which is inherently insulating in the same way as a wet suit, and which can usually be worn with additional insulating undergarments.
+Both fabric and neoprene drysuits have advantages and disadvantages: a fabric drysuit is more adaptable to varying water temperatures because different garments can be layered underneath. However, they are quite bulky and this causes increased drag and swimming effort. Additionally, if a fabric drysuit malfunctions and floods, it loses nearly all of its insulating properties. Neoprene drysuits are comparatively streamlined like wetsuits, but in some cases do not allow garments to be layered underneath and are thus less adaptable to varying temperatures. An advantage of this construction is that even it if floods completely, it essentially becomes a wetsuit and will still provide a degree of insulation.
+Special dry suits (typically made of strong rubberised fabric) are worn by commercial divers who work in contaminated environments such as sewage or hazardous chemicals. The hazmat dry suit has integral boots and is sealed to a diving helmet and dry gloves to prevent any contact with the hazardous material.
+Constant volume dry suits have a system allowing the suit to be inflated to prevent "suit squeeze" caused by increasing pressure and to prevent excessive compression of the insulating undergarments. They also have vents allowing the excess air to escape from the suit during ascent.
+For additional warmth, some dry suit users inflate their suits with argon, an inert gas which has superior thermal insulating properties compared to air. The argon is carried in a small cylinder, separate from the diver's breathing gas. This arrangement is frequently used when the breathing gas contains helium, which is a very poor insulator in comparison with other breathing gases.
+
+
+=== Diving suit combinations ===
+A "shortie" wetsuit may be worn over a full wetsuit for added warmth. Some vendors sell a very similar item and refer to it as a 'core warmer' when worn over another wetsuit. A "skin" may also be worn under a wetsuit. This practice started with divers (of both sexes) wearing body tights under a wetsuit for extra warmth and to make donning and removing the wetsuit easier. A "skin" may also be as an undersuit beneath a drysuit in temperatures where a full undersuit is not necessary.
+
+
+== Atmospheric diving suits ==
+
+An atmospheric diving suit is a small one-man articulated submersible of anthropomorphic form which resembles a suit of armour, with elaborate pressure joints to allow articulation while maintaining an internal pressure of one atmosphere.
+These can be used for very deep dives for long periods without the need for decompression, and eliminate the majority of physiological dangers associated with deep diving. Divers do not even need to be skilled swimmers. Mobility and dexterity are usually restricted by mechanical constraints, and the ergonomics of movement are problematic.
+
+
+== See also ==
+Timeline of underwater technology
+Space suit
+Standard diving dress
+
+
+== References ==
+
+
+== External links ==
+Experimental Dive Suit Flies Navy Divers Where None Have Gone Before - Development of a 1-atmosphere diving suit.
+Scuba America Historical Center - The development of the first wetsuit.
+LA Times: Surfing whodunit - The history of the wetsuit.
+Wetsuit Guide
+Diving Equipment Guide
+ADS database
+History of Diving Museum

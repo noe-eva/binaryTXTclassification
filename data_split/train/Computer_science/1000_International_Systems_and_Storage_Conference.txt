@@ -1,0 +1,10 @@
+The International Systems and Storage Conference (SYSTOR) is an ACM research conference sponsored by the ACM SIGOPS Special Interest Group on Operating Systems. SYSTOR covers all aspects of Computer Systems technology. The first SYSTOR was held in October 2007. Since 2009, it is held annually in Haifa, Israel, usually in May or June. Since 2012, SYSTOR is held in cooperation with USENIX.
+The technical program of SYSTOR typically consists of about 15-20 peer-reviewed papers. According to Arnetminer, SYSTOR papers published in the years 2009-2012 have been cited a total of 589 times.
+The SYSTOR conference focuses on experimental and practical computer systems research, which encompasses such topics as: file and storage technology; operating systems; distributed, parallel, and cloud systems; security; virtualization; fault tolerance, reliability, and availability.
+
+
+== References ==
+
+
+== External links ==
+SYSTOR Conference Website (systor.org)

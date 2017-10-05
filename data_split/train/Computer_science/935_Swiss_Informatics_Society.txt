@@ -1,0 +1,12 @@
+The Swiss Informatics Society (Schweizer Informatik Gesellschaft), short "SI", is a Swiss organization of computer science educators, researchers, and professionals.
+The Swiss Informatics Society was founded in 1983. Helmar Burkhart was the president from 1990 to 1992, Bernhard M. Hämmerli has been president from 2009 and since 2014 Jürg Gutknecht is the president. SI has about 2000 members, academics in research and science and representatives from business, administration and education. It is the largest organization of IT specialists in Switzerland. A focus of SI is the exchange of IT education on university and college level and IT practice in companies. It maintains working groups, including computer science education, computer graphics and computer security. A working group, coordinated by the ETH Zurich, deals with data bases, their theory and application, including aspects such as "web information systems, ontologies, XML data management, service-oriented architectures and information retrieval systems". SI serves as a network for its members and represents their interests in politics and education.
+SI collaborates with the US Association for Computing Machinery (ACM) and the German Gesellschaft für Informatik (GI). The organization is a member of the Council of European Professional Informatics Societies (CEPIS). It is the Swiss partner for the international certificate European Computer Driving License (ECDL). Collaborations include for example a conference on the "role of Information and Communication Technologies (ICT) in energy efficiency and sustainable development" in Zurich in 2013.
+SI celebrated a history of 30 years on 25 June 2013 at the Fachhochschule Westschweiz in Fribourg. The program includes events of working groups, lectures by scientists from the University of Zurich and others, prizes for bachelor's and master's theses, and a final discussion on the future of IT education in Switzerland.
+
+
+== References ==
+
+
+== External links ==
+The Swiss Informatics Society SI Official website
+Professional Groups Information Systems Security Association (ISSA)

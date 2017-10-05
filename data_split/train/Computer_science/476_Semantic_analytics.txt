@@ -1,0 +1,11 @@
+Semantic analytics is the use of ontologies to analyze content in web resources. This field of research combines text analytics and Semantic Web technologies like RDF.
+Some academic research groups that have active project in this area include Kno.e.sis center at Wright State University among others.
+
+
+== See also ==
+Relationship extraction
+Semantic analysis (computational)
+Text analytics
+
+
+== References ==

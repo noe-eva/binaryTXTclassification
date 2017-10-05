@@ -1,0 +1,12 @@
+MindModeling@Home is a non-profit research project that uses a combination of high performance computing and volunteer distributed computing for the advancement of cognitive science. The research focuses on utilizing computational cognitive process modeling to understand the human mind better. The project aims to improve on the scientific foundations that explain the mechanisms and processes that enable and moderate human performance and learning. MindModeling@Home is hosted by Wright State University and the University of Dayton in Dayton, Ohio.
+
+
+== See also ==
+List of distributed computing projects
+
+
+== References ==
+
+
+== External links ==
+MindModeling@Home website

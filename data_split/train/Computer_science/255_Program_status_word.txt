@@ -1,0 +1,14 @@
+The Program status word (PSW) is an IBM System/360 architecture and successors control register which performs the function of a Status register and Program counter in other architectures, and more.
+Although certain fields within the PSW may be tested or set by using non-privileged instructions, testing or setting the remaining fields may only be accomplished by using privileged instructions.
+Contained within the PSW are the two bit condition code, representing zero, positive, negative, overflow, and similar flags of other architectures' status registers. Conditional branch instructions test this encoded as a four bit value, with each bit representing a test of one of the four condition code values, 23 + 22 + 21 + 20. (Since IBM uses big-endian bit numbering, mask value 8 selects code 0, mask value 4 selects code 1, mask value 2 selects code 2, and mask value 1 selects code 3.)
+The 64-bit PSW describes (among other things)
+Interrupt masks
+Privilege states
+Condition code
+Instruction address
+In the early instances of the architecture (System/360 and early System/370), the instruction address was 24 bits; in later instances (XA/370), the instruction address was 31 bits plus a mode bit (24 bit addressing mode if zero; 31 bit addressing mode if one) for a total of 32 bits.
+In the present instances of the architecture (z/Architecture), the instruction address is 64 bits and the PSW itself is 128 bits.
+The PSW may be loaded by the LOAD PSW instruction (LPSW or LPSWE). Its contents may be examined with the Extract PSW instruction (EPSW).
+
+
+== References ==

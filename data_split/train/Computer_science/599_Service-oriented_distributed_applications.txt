@@ -1,0 +1,10 @@
+A RESTful programming architecture that allows some services to be run on the client and some on the server. For example, a product can first be released as a browser application and then functionality moved module by module to the client application.
+
+
+== See also ==
+Service-oriented architecture implementation framework
+Service-oriented modeling
+
+
+== External links ==
+Novell excerpt on Web Services Frameworks

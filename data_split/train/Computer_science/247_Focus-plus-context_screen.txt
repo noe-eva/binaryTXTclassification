@@ -1,0 +1,23 @@
+A focus-plus-context screen is a specialized type of display device that consists of one or more high-resolution "focus" displays embedded into a larger low-resolution "context" display. Image content is displayed across all display regions, such that the scaling of the image is preserved, while its resolution varies across the display regions.
+The original focus-plus-context screen prototype consisted of an 18"/45 cm LCD screen embedded in a 5'/150 cm front-projected screen. Alternative designs have been proposed that achieve the mixed-resolution effect by combining two or more projectors with different focal lengths 
+While the high-resolution area of the original prototype was located at a fixed location, follow-up projects have obtained a movable focus area by using a Tablet PC.
+Patrick Baudisch is the inventor of focus-plus-context screens (2000, while at Xerox PARC)
+
+
+== Advantages ==
+Allows users to leverage their foveal and their peripheral vision
+Cheaper to manufacture than a display that is high-resolution across the entire display surface
+Displays entirety and details of large images in a single view. Unlike approaches that combine entirety and details in software (fisheye views), focus-plus-context screens do not introduce distortion.
+
+
+== Disadvantages ==
+In existing implementations, the focus display is either fixed or moving it is physically demanding
+
+
+== References ==
+
+Notes
+
+
+== External links ==
+Focus-plus-context screens homepage

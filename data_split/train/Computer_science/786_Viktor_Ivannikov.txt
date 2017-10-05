@@ -1,0 +1,18 @@
+Viktor Petrovich Ivannikov (Russian: Ви́ктор Петро́вич Ива́нников; IPA: [ˈvʲiktər pʲɪˈtrovʲɪtɕ ɪˈvanʲɪkəf]; 27 February 1940 – 27 November 2016) was a Russian computer scientist, a member of Russian Academy of Sciences, the head of System Programming Chair for the Institute for System Programming, head of the Departments of system programming at the Faculty of Computational Mathematics and Cybernetics, Moscow State University and the Moscow Institute of Physics and Technology.
+
+
+== Scientific achievements ==
+Viktor Ivannikov worked for Lebedev Institute of Precision Mechanics and Computer Engineering from 1962 to 1980, starting as a computer technician, leaving as a distinguished engineer, where he developed D-68 (operating system) operating system for BESM-6 computer. After that he worked for Delta research facility where he led the development of distributed operating systems and supercomputers.
+
+
+== Interests ==
+Viktor Ivannikov interests include: system programming, computer architecture, and operating systems.
+
+
+== References ==
+
+
+== External links ==
+Viktor Ivannikov — scientific works on the website Math-Net.Ru
+RAS person page
+System Programming Chair

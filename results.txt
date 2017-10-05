@@ -1,0 +1,48 @@
+Results
+
+Best result: Logistic Regression Classifier using Term Frequencies: 99% accuracy.
+
+# output of binary_text_classification.py:
+
+Creating Bags of Words ...
+Calculating Term Frequencies ...
+Training Stochastic Gradient Descent Classifier ...
+Training optimised Stochastic Gradient Descent Classifier ...
+Fitting 3 folds for each of 36 candidates, totalling 108 fits
+[Parallel(n_jobs=1)]: Done 108 out of 108 | elapsed:    5.3s finished
+Training optimised Stochastic Gradient Descent Classifier with TFIDF ...
+Training Gaussian Naive Bayes Classifier ...
+Training Logistic Regression Classifier ...
+Training Logistic Regression Classifier with TFIDF ...
+Training optimised Logistic Regression Classifier with TFIDF ...
+Fitting 3 folds for each of 14 candidates, totalling 42 fits
+[Parallel(n_jobs=1)]: Done  42 out of  42 | elapsed:   28.3s finished
+
+Classifier ranking:
+Classifier                            	F-score
+Logistic_Regression_tfidf             	0.99009900990099
+Stochastic_Gradient_Descent_optimised 	0.99
+Logistic_Regression_tfidf_optimised   	0.9801980198019802
+Logistic_Regression                   	0.98
+Stochastic_Gradient_Descent           	0.98
+Stochastic_Gradient_Descent_tfidf_optimised	0.9751243781094527
+Gaussian Naive Bayes                  	0.9320388349514563
+
+
+# output of binary_text_classification_ann.py:
+
+Using Theano backend.
+Train on 1800 samples, validate on 200 samples
+Epoch 1/4
+1800/1800 [==============================] - 187s - loss: 0.0318 - acc: 0.9639 - val_loss: 0.0411 - val_acc: 0.9500
+Epoch 2/4
+1800/1800 [==============================] - 184s - loss: 0.0192 - acc: 0.9789 - val_loss: 0.0205 - val_acc: 0.9800
+Epoch 3/4
+1800/1800 [==============================] - 194s - loss: 0.0143 - acc: 0.9850 - val_loss: 0.0734 - val_acc: 0.9250
+Epoch 4/4
+1800/1800 [==============================] - 199s - loss: 0.0241 - acc: 0.9756 - val_loss: 0.0300 - val_acc: 0.9700
+200/200 [==============================] - 2s     
+1800/1800 [==============================] - 26s     
+Result: Test accuracy: 0.9699999928474426, Train accuracy: 0.9861111084620158
+
+

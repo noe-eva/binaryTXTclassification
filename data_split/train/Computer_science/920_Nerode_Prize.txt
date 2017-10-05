@@ -1,0 +1,13 @@
+The EATCS--IPEC Nerode Prize is a theoretical computer science prize awarded for outstanding research in the area of multivariate algorithmics. It is awarded by the European Association for Theoretical Computer Science and the International Symposium on Parameterized and Exact Computation. The prize was offered for the first time in 2013.
+
+
+== Winners ==
+The prize winners so far have been:
+2013: Chris Calabro, Russell Impagliazzo, Valentine Kabanets, Ramamohan Paturi, and Francis Zane, for their research formulating the exponential time hypothesis and using it to determine the exact parameterized complexity of several important variants of the Boolean satisfiability problem.
+2014: Hans L. Bodlaender, Rodney G. Downey, Michael R. Fellows, Danny Hermelin, Lance Fortnow, and Rahul Santhanam, for their work on kernelization, proving that several problems with fixed-parameter tractable algorithms do not have polynomial-size kernels unless the polynomial hierarchy collapses.
+2015: Erik Demaine, Fedor V. Fomin, Mohammad Hajiaghayi, and Dimitrios Thilikos, for their research on bidimensionality, defining a broad framework for the design of fixed-parameter-tractable algorithms for domination and covering problems on graphs.
+2016: Andreas Björklund for his paper Determinant Sums for Undirected Hamiltonicity, showing that methods based on algebraic graph theory lead to a significantly improved algorithm for finding Hamiltonian cycles 
+2017: Fedor V. Fomin, Fabrizio Grandoni, and Dieter Kratsch, for developing the "measure and conquer" method for the analysis of backtracking algorithms.
+
+
+== References ==

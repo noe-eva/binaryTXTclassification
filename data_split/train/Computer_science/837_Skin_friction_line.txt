@@ -1,0 +1,16 @@
+In scientific visualization skin friction lines are used to visualize flows on 3D-surfaces. They are obtained by calculating the streamlines of a derived vector field on the surface, the wall shear stress. Skin friction arises from the friction of the fluid against the "skin" of the object that is moving through it and forms a vector at each point on the surface. A skin friction line is a curve on the surface tangent to skin friction vectors. A limit streamline is a streamline where the distance normal to the surface tends to zero. Limit streamlines and skin friction lines coincide.
+The lines can be visualized by placing a viscous film on the surface.
+The skin friction lines may exhibit a number of different types of singularities: attachment nodes, detachment nodes, Isotropic nodes, Saddle points, and foci.
+
+
+== See also ==
+ Computer science portal
+
+
+== References ==
+
+
+=== Additional sources ===
+Chapman, G. T. Topological classification of flow separation on three-dimensional bodies AIAA, Aerospace Sciences Meeting, 24th, Reno, NV, Jan. 6–9, 1986. 22 p.[1]
+Skin friction lines | CSA
+New developments and applications of skin-friction measuring techniques - Abstract - Measurement Science and Technology - IOPscience

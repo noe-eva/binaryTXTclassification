@@ -1,0 +1,16 @@
+The Royal Society Milner Award, supported by Microsoft Research, is given for outstanding achievement in computer science by a European researcher. It replaces the Royal Society and Académie des Sciences Microsoft Award and is named in honour of Robin Milner, a pioneer in computer science.
+The recipient should be an active researcher in computer science, excepting Microsoft research employees, who has been resident in Europe for at least 12 months prior to their nomination. The winner of the award receives a medal and a personal prize of £5,000. The winner is invited to deliver a public lecture on their research at the Society.
+The recipient is chosen by the Council of the Royal Society on the recommendation of the Milner Award Committee. The Committee is made up of Fellows of the Royal Society, Members of the Académie des sciences (France) and Members of Leopoldina (Germany). Nominations are valid for five years after which the candidate cannot be re-nominated until a year after the nomination has expired.
+
+
+== Winners ==
+Source: Royal Society
+2017: Andrew Zisserman, in recognition of his exceptional achievements in computer programming
+2016: Xavier Leroy, in recognition of his exceptional achievements in computer programming
+2015: Thomas A. Henzinger, for fundamental advances in the theory and practice of formal verification and synthesis of reactive, real-time, and hybrid computer systems
+2014: Bernhard Schölkopf, for being a pioneer in machine learning whose work defined the field of “kernel machines” which are widely used in all areas of science and industry.
+2013: Serge Abiteboul, for his world leading database research.
+2012: Gordon Plotkin, for his fundamental research into programming semantics.
+
+
+== References ==

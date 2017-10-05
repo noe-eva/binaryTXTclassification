@@ -1,0 +1,38 @@
+The SIGCOMM Award recognizes lifetime contribution to the field of communication networks. The award is presented in the annual SIGCOMM Technical Conference.
+The awardees have been:
+2015 Albert Greenberg
+2014 George Varghese
+2013 Larry Peterson
+2012 Nick McKeown
+2011 Vern Paxson
+2010 Radia Perlman
+2009 Jon Crowcroft
+2008 Don Towsley
+2007 Sally Floyd
+2006 Domenico Ferrari
+2005 Paul Mockapetris
+2004 Simon S. Lam
+2003 David Cheriton
+2002 Scott Shenker
+2001 Van Jacobson
+2000 Andre Danthine
+1999 Peter Kirstein
+1998 Larry Roberts
+1997 Jon Postel
+1997 Louis Pouzin
+1996 Vint Cerf
+1995 David J. Farber
+1994 Paul Green
+1993 Robert Kahn
+1992 Sandy Fraser
+1991 Hubert Zimmerman
+1990 David D. Clark
+1990 Leonard Kleinrock
+1989 Paul Baran
+
+
+== References ==
+
+
+== External links ==
+[1]

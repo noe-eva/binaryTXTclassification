@@ -1,0 +1,23 @@
+Contract Net Protocol (CNP) is a task-sharing protocol in multi-agent systems, consisting of a collection of nodes or software agents that form the `contract net'. Each node on the network can, at different times or for different tasks, be a manager or a contractor.
+When a node gets a `composite task' (or for any reason cannot solve the present task) it breaks the problem down into sub-tasks (if possible) and announces the sub-task to the contract net acting as a manager. Bids are then received from potential contractors and the winning contractor(s) are awarded the job(s).
+
+
+== Description ==
+Task distribution is viewed as a kind of contract negotiation and happens in five stages:
+Recognition: An agent recognises it has a problem that it wants help with. The agent has a goal, and either realises it cannot achieve the goal in isolation (does not have the capability to fulfil the goal), or realises it would prefer not to achieve the goal in isolation (typically because of solution quality, deadline, etc.).
+Announcement: The agent with the task sends out an announcement of the task which includes a specification of the task to be achieved. The specification must encode a description of the task itself, any constraints, and meta-task information.
+Bidding: Agents that receive the announcement decide themselves whether they should bid for the task. Factors that are taken into consideration are that the agent must decide whether it is capable of the expecting task, and that the agent must determine the quality constraints and the price information (if relevant).
+Awarding: Agents that send the task announcement must choose among the received bids and decide who to award the contract to. The result of this process is communicated to agents that submitted a bid.
+Expediting: This may involve the generation of further contract nets in the form of sub-contracting to complete the task.
+An example is in an electronic marketplace, a system in which buyers specify the goods that they want as well as a maximum price that they are willing to pay. The agent programs then would find other user(s) willing to sell the goods within the desired price range. The user with the lowest price would be selected to fulfill the contract. Other constraints could be applied such as delivery time and the location of the goods.
+
+
+== References ==
+
+The Contract Net Protocol, IEEE Transactions on Computers, Dec 1980. [1]
+
+
+== See also ==
+Multi-agent system
+Intelligent agent
+Agent-based model

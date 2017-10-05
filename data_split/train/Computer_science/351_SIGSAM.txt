@@ -1,0 +1,18 @@
+SIGSAM is the ACM Special Interest Group on Symbolic and Algebraic Manipulation. It publishes the ACM Communications in Computer Algebra and often sponsors the International Symposium on Symbolic and Algebraic Computation (ISSAC).
+
+
+== External links ==
+ACM Official SIGSAM web site
+ISSAC 2009, Seoul, Korea
+ISSAC 2008, ("RISC Linz"), Hagenberg, Austria
+ISSAC 2007, Waterloo, Ontario
+ISSAC 2006, Genoa
+ISSAC 2005, Beijing
+ISSAC 2004, Santander, Cantabria
+ISSAC 2003, Philadelphia
+ISSAC 2002, Lille
+ISSAC 2001, London, Ontario
+ISSAC 2000, St. Andrews
+ISSAC 1999, Vancouver
+ISSAC 1998, Rostock
+ISSAC 1997, Maui

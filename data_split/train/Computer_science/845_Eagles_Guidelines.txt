@@ -1,0 +1,13 @@
+The Eagles Guidelines provide guidance for markup to be used with text corpora, particularly for identifying features relevant in computational linguistics and lexicography.
+The Expert Advisory Group on Language Engineering Standards (EAGLES) is an initiative of the European Commission, within DG XIII Linguistic Research and Engineering programme. Numerous well-known companies, research centres, universities and professional bodies across the European Union collaborate under the aegis of EC DGXIII to produce the EAGLES Guidelines, which set out recommendations for de facto standards and for good practice in the above areas of language engineering. The EAGLES initiative is coordinated by Consorzio Pisa Ricerche, Pisa, Italy.
+EAGLES aims to accelerate the provision of standards for:
+Very large-scale language resources (such as text corpora, computational lexicons and speech corpora);
+Means of manipulating such knowledge, via computational linguistic formalisms, mark up languages and various software tools;
+Means of assessing and evaluating resources, tools and products.
+
+
+== Notes ==
+
+
+== External links ==
+Official page for the Eagles Guidelines

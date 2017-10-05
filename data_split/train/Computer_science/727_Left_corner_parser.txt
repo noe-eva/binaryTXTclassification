@@ -1,0 +1,7 @@
+In computer science, a left corner parser is a type of chart parser used for parsing context-free grammars. It combines the top-down and bottom-up approaches of parsing. The name derives from the use of the left corner of the grammar's production rules.
+An early description of a left corner parser is "A Syntax-Oriented Translator" by Peter Zilahy Ingerman.
+
+
+== References ==
+Blackburn, Patrick; Striegnitz, Kristina (August 29, 2002). "Left-Corner Parsing". Natural Language Processing Techniques in Prolog. Schenectady, New York: Union College Computer Science department. Retrieved 30 August 2017. 
+Specific

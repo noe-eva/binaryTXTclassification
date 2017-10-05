@@ -1,0 +1,15 @@
+The North American Chapter of the Association for Computational Linguistics (NAACL) provides a regional focus for members of the Association for Computational Linguistics (ACL) in North America as well as in Central and South America, organizes annual conferences, promotes cooperation and information exchange among related scientific and professional societies, encourages and facilitates ACL membership by people and institutions in the Americas, and provides a source of information on regional activities for the ACL Executive Committee.
+The NAACL hosts an annual professional conference in a North American city during alternating years in which the ACL holds its annual conference elsewhere.
+The current officers of the NAACL include Owen Rambow (chair), Lillian Lee (secretary), Christopher Manning (treasurer), and Graeme Hirst (past chair).
+
+
+== References ==
+
+
+== External links ==
+NAACL web site
+NAACL home page
+ACL home page
+ACL Anthology
+ACL Wiki
+EACL home page

@@ -1,0 +1,4 @@
+In scientific visualization a streamsurface is the 3D generalization of a streamline. It is the union of all streamlines seeded densely on a curve. Like a streamline, a streamsurface is used to visualize flows – three-dimensional flows in this case. Specifically, it is "the locus of an infinite set of such curves [streamlines], rooted at every point along a continuous originating line segment."
+
+
+== References ==

@@ -1,0 +1,27 @@
+Worley noise is a noise function introduced by Steven Worley in 1996. In computer graphics it is used to create procedural textures, that is textures that are created automatically in arbitrary precision and don't have to be drawn by hand. Worley noise comes close to simulating textures of stone, water, or cell noise.
+
+
+== Basic algorithm ==
+The basic idea is to take random points in space (2- or 3-dimensional) and then for every point in space take the distance to the nth-closest point (e.g. the second-closest point) as some kind of color information. More precisely:
+Randomly distribute feature points in space
+Noise Fn(x) is distance to nth-closest point to x
+Typical implementations, in three dimensions, divide the space into cubes. A fixed number of positions are generated for each cube. In the case of three dimensions, nine cubes' points need to be generated, to be sure to find the closest.
+
+
+== See also ==
+
+Fractal
+Voronoi diagram
+
+
+== References ==
+
+
+== Further reading ==
+Worley, Steven (1996). A cellular texture basis function (PDF). Proceedings of the 23rd annual conference on computer graphics and interactive techniques. acm.org. pp. 291–294. ISBN 0-89791-746-4. 
+David S. Ebert; F. Kenton Musgrave; Darwyn Peachey; Ken Perlin; Steve Worley (2002). Texturing and Modeling: A Procedural Approach. Morgan Kaufmann. pp. 135–155. ISBN 978-1-55860-848-1. 
+
+
+== External links ==
+A Good Tutorial on Worley Noise
+Detailed description on how to implement cell noise

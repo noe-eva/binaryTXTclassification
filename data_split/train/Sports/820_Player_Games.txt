@@ -1,0 +1,8 @@
+Player Games is a statistic used to estimate the number of games a player is responsible for. It was developed by Dean Oliver, the first full-time statistical analyst in the NBA.
+Player Games=Team Games*((3*(Poss/Team Poss)+3*(Stops/Team Stops)+(Minutes Played/Team Minutes Played))/7)
+It places a high weight on the number of offensive and defensive possessions accounted for by a player rather than making player games a function based solely on minutes.
+Stops are a player or teams estimated defensive stops. More information about that stat can be found in the book Basketball on Paper.
+
+
+== References ==
+http://basketball-reference.com/about/glossary.html

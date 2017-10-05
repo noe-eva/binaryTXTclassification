@@ -1,0 +1,7 @@
+XML UK: the United Kingdom Forum for Structured Information Standards
+The organization provides a forum for XML and SGML users and developers to share their experiences and ideas concerning the use of XML, SGML and other related standards.
+XML UK is the United Kingdom chapter of the International SGML/XML Users' Group (ISUG) (which is closing) and is a recognized Affiliate Group of the British Computer Society.
+
+
+== External links ==
+Official site

@@ -1,0 +1,146 @@
+The Digital Preservation Award is an international award sponsored by the Digital Preservation Coalition. The award 'recognises the many new initiatives being undertaken in the challenging field of digital preservation'.[1] It was inaugurated in 2004. It was initially presented as part of the Institute of ConservationConservation Awards. Since 2012 the prize is presented independently. The prize includes a trophy and a cheque. Awards ceremonies have taken place at the British Library, the British Museum and the Wellcome Trust.
+
+
+== Winners and shortlisted entries ==
+
+
+=== 2004 ===
+
+
+==== Winner ====
+The Digital Archive: The National Archives of the United Kingdom
+
+
+==== Shortlisted ====
+The CAMiLEON Project: University of Leeds & University of Michigan (Special Commendation)
+JISC Continuing Access and Digital Preservation Strategy: Jisc
+Preservation Metadata Extraction Tool: National Library of New Zealand
+Wellcome Library/JISC Web Archiving Project: Wellcome Library & Jisc
+
+
+=== 2005 ===
+
+
+==== Winner ====
+PREMIS (Preservation Metadata: Implementation Strategies): PREMIS Working Group
+
+
+==== Shortlisted ====
+Choosing the optimal digital preservation strategy: Vienna University of Technology
+Digital Preservation Testbed: National Archives of the Netherlands
+Reverse Standards Conversion: British Broadcasting Corporation
+UK Web Archiving Consortium
+
+
+=== 2007 ===
+
+
+==== Winner ====
+Active Preservation at The National Archives - PRONOM Technical Registry and DROID file format identification tool: The National Archives of the United Kingdom
+
+
+==== Shortlisted ====
+LIFE: British Library
+Web Curator Tool software development project: National Library of New Zealand & British Library
+PARADIGM (The Personal Archives Accessible in Digital Media): Bodleian Library, University of Oxford, & John Rylands University Library, University of Manchester
+Digital Repository Audit and Certification: Center for Research Libraries, RLG-OCLC, NARA, Digital Curation Centre, Digital Preservation Europe and NESTOR
+
+
+=== 2010 ===
+
+
+==== Winner ====
+The Memento Project: Time Travel for the Web : Old Dominion University and the Los Alamos National Laboratory in the United States
+
+
+==== Shortlisted ====
+Web Continuity: ensuring access to online government information, from The National Archives UK
+PLATO 3: Preservation Planning made simple from Vienna University of Technology and the PLANETS Project
+The Blue Ribbon Task Force on Sustainable Digital Preservation and Access
+Preserving Virtual Worlds, University of Illinois at Urbana Champaign with Rochester Institute of Technology, University of Maryland, Stanford University and Linden Lab in the United States
+
+
+=== 2012 ===
+
+
+==== Winner - outstanding contribution to teaching and communication in digital preservation in the last 2 years ====
+The Digital Preservation Training Programme, University of London Computing Centre
+
+
+==== Shortlisted - outstanding contribution to teaching and communication in digital preservation in the last 2 years ====
+The Signal, Library of Congress
+Keeping Research Data Safe Project, Charles Beagrie Ltd and partners
+Digital Archaeology Exhibition, Story Worldwide Ltd
+
+
+==== Winner - outstanding contribution to research and innovation in digital preservation in the last two years ====
+The PLANETS Project  Preservation and Long-term Access through Networked Services, The Open Planets Foundation and partners
+
+
+==== Shortlisted - outstanding contribution to research and innovation in digital preservation in the last two years ====
+Data Management Planning Toolkit, The Digital Curation Centre and partners
+TOTEM Trustworthy Online Technical Environment Metadata Registry, University of Portsmouth and partners
+The KEEP Emulation Framework, Koninklijke Bibliotheek (National Library of the Netherlands) and partners
+
+
+==== Winner - most outstanding contribution to digital preservation in the last decade ====
+The Archaeology Data Service at the University of York
+
+
+==== Shortlisted - most outstanding contribution to digital preservation in the last decade ====
+The International Internet Preservation Consortium
+The National Archives for the PRONOM and DROID services
+The PREMIS Preservation Metadata Working Group for the PREMIS Standard
+
+
+=== 2014 ===
+
+
+==== Winner - OPF Award for Research and Innovation ====
+bwFLA Functional Long Term Archiving and Access by the University of Freiburg and partners
+
+
+==== Shortlisted - OPF Award for Research and Innovation ====
+Jpylyzer by the KB (Royal Library of the Netherlands) and partners
+The SPRUCE Project by The University of Leeds and partners
+
+
+==== Winner - NCDD Award for Teaching and Communications ====
+Practical Digital Preservation: a how to guide for organizations of any size  by Adrian Brown
+
+
+==== Shortlisted - NCDD Award for Teaching and Communications ====
+Skilling the Information Professional by Aberystwyth University
+Introduction to Digital Curation: An open online UCLeXtend Course by University College London
+
+
+==== Winner - Award for the Most Distinguished Student Work in Digital Preservation ====
+Game Preservation in the UK by Alasdair Bachell, University of Glasgow
+
+
+==== Shortlisted - Award for the Most Distinguished Student Work in Digital Preservation ====
+Voices from a Disused Quarry by Kerry Evans, Ann MacDonald and Sarah Vaughan, University of Aberystwyth and partners
+Emulation v Format Conversion by Victoria Sloyan, University College London
+
+
+==== Winner - Award for Safeguarding the Digital Legacy ====
+Carcanet Press Email Archive, University of Manchester
+
+
+==== Shortlisted - Award for Safeguarding the Digital Legacy ====
+Conservation and Re-enactment of Digital Art Ready-Made, by the University of Freiburg and Rhizome
+Inspiring Ireland, Digital Repository of Ireland and Partners
+The Cloud and the Cow, Archives and Records Council of Wales
+
+
+== See also ==
+Digital preservation
+Digital Preservation Coalition
+
+
+== References ==
+
+
+== External links ==
+Digital Preservation Awards website
+Conservation Awards website

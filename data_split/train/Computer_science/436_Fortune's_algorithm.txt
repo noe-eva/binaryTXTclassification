@@ -1,0 +1,1078 @@
+Fortune's algorithm is a sweep line algorithm for generating a Voronoi diagram from a set of points in a plane using O(n log n) time and O(n) space. It was originally published by Steven Fortune in 1986 in his paper "A sweepline algorithm for Voronoi diagrams."
+
+
+== Algorithm description ==
+The algorithm maintains both a sweep line and a beach line, which both move through the plane as the algorithm progresses. The sweep line is a straight line, which we may by convention assume to be vertical and moving left to right across the plane. At any time during the algorithm, the input points left of the sweep line will have been incorporated into the Voronoi diagram, while the points right of the sweep line will not have been considered yet. The beach line is not a straight line, but a complicated, piecewise curve to the left of the sweep line, composed of pieces of parabolas; it divides the portion of the plane within which the Voronoi diagram can be known, regardless of what other points might be right of the sweep line, from the rest of the plane. For each point left of the sweep line, one can define a parabola of points equidistant from that point and from the sweep line; the beach line is the boundary of the union of these parabolas. As the sweep line progresses, the vertices of the beach line, at which two parabolas cross, trace out the edges of the Voronoi diagram. The beach line progresses by keeping each parabola base exactly half way between the points initially swept over with the sweep line, and the new position of the sweep line. Mathematically, this means each parabola is formed by using the sweep line as the directrix and the input point as the focus.
+The algorithm maintains as data structures a binary search tree describing the combinatorial structure of the beach line, and a priority queue listing potential future events that could change the beach line structure. These events include the addition of another parabola to the beach line (when the sweep line crosses another input point) and the removal of a curve from the beach line (when the sweep line becomes tangent to a circle through some three input points whose parabolas form consecutive segments of the beach line). Each such event may be prioritized by the x-coordinate of the sweep line at the point the event occurs. The algorithm itself then consists of repeatedly removing the next event from the priority queue, finding the changes the event causes in the beach line, and updating the data structures.
+As there are O(n) events to process (each being associated with some feature of the Voronoi diagram) and O(log n) time to process an event (each consisting of a constant number of binary search tree and priority queue operations) the total time is O(n log n).
+
+
+=== Pseudocode ===
+Pseudocode description of the algorithm.
+
+let 
+  
+    
+      
+        ∗
+        (
+        z
+        )
+      
+    
+    {\displaystyle *(z)}
+   be the transformation 
+  
+    
+      
+        ∗
+        (
+        z
+        )
+        =
+        (
+        
+          z
+          
+            x
+          
+        
+        ,
+        
+          z
+          
+            y
+          
+        
+        +
+        d
+        (
+        z
+        )
+        )
+      
+    
+    {\displaystyle *(z)=(z_{x},z_{y}+d(z))}
+  ,
+  where 
+  
+    
+      
+        d
+        (
+        z
+        )
+      
+    
+    {\displaystyle d(z)}
+   is the Euclidean distance between z and the nearest site
+let T be the "beach line"
+let 
+  
+    
+      
+        
+          R
+          
+            p
+          
+        
+      
+    
+    {\displaystyle R_{p}}
+   be the region covered by site p.
+let 
+  
+    
+      
+        
+          C
+          
+            p
+            q
+          
+        
+      
+    
+    {\displaystyle C_{pq}}
+   be the boundary ray between sites p and q.
+let 
+  
+    
+      
+        
+          p
+          
+            1
+          
+        
+        ,
+        
+          p
+          
+            2
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          p
+          
+            m
+          
+        
+      
+    
+    {\displaystyle p_{1},p_{2},...,p_{m}}
+   be the sites with minimal y-coordinate, ordered by x-coordinate
+
+  
+    
+      
+        Q
+        ←
+        S
+        −
+        
+          
+            p
+            
+              1
+            
+          
+          ,
+          
+            p
+            
+              2
+            
+          
+          ,
+          .
+          .
+          .
+          ,
+          
+            p
+            
+              m
+            
+          
+        
+      
+    
+    {\displaystyle Q\gets S-{p_{1},p_{2},...,p_{m}}}
+  
+create initial vertical boundary rays 
+  
+    
+      
+        
+          C
+          
+            
+              p
+              
+                1
+              
+            
+            ,
+            
+              p
+              
+                2
+              
+            
+          
+          
+            0
+          
+        
+        ,
+        
+          C
+          
+            
+              p
+              
+                2
+              
+            
+            ,
+            
+              p
+              
+                3
+              
+            
+          
+          
+            0
+          
+        
+        ,
+        .
+        .
+        .
+        
+          C
+          
+            
+              p
+              
+                m
+                −
+                1
+              
+            
+            ,
+            
+              p
+              
+                m
+              
+            
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle C_{p_{1},p_{2}}^{0},C_{p_{2},p_{3}}^{0},...C_{p_{m-1},p_{m}}^{0}}
+  
+
+  
+    
+      
+        T
+        ←
+        ∗
+        (
+        
+          R
+          
+            
+              p
+              
+                1
+              
+            
+          
+        
+        )
+        ,
+        
+          C
+          
+            
+              p
+              
+                1
+              
+            
+            ,
+            
+              p
+              
+                2
+              
+            
+          
+          
+            0
+          
+        
+        ,
+        ∗
+        (
+        
+          R
+          
+            
+              p
+              
+                2
+              
+            
+          
+        
+        )
+        ,
+        
+          C
+          
+            
+              p
+              
+                2
+              
+            
+            ,
+            
+              p
+              
+                3
+              
+            
+          
+          
+            0
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        ∗
+        (
+        
+          R
+          
+            
+              p
+              
+                m
+                −
+                1
+              
+            
+          
+        
+        )
+        ,
+        
+          C
+          
+            
+              p
+              
+                m
+                −
+                1
+              
+            
+            ,
+            
+              p
+              
+                m
+              
+            
+          
+          
+            0
+          
+        
+        ,
+        ∗
+        (
+        
+          R
+          
+            
+              p
+              
+                m
+              
+            
+          
+        
+        )
+      
+    
+    {\displaystyle T\gets *(R_{p_{1}}),C_{p_{1},p_{2}}^{0},*(R_{p_{2}}),C_{p_{2},p_{3}}^{0},...,*(R_{p_{m-1}}),C_{p_{m-1},p_{m}}^{0},*(R_{p_{m}})}
+  
+while not IsEmpty(Q) do
+    p ← DeleteMin(Q)
+    case p of
+    p is a site in 
+  
+    
+      
+        ∗
+        (
+        V
+        )
+      
+    
+    {\displaystyle *(V)}
+  :
+        find the occurrence of a region 
+  
+    
+      
+        ∗
+        (
+        
+          R
+          
+            q
+          
+        
+        )
+      
+    
+    {\displaystyle *(R_{q})}
+   in T containing p,
+          bracketed by 
+  
+    
+      
+        
+          C
+          
+            r
+            q
+          
+        
+      
+    
+    {\displaystyle C_{rq}}
+   on the left and 
+  
+    
+      
+        
+          C
+          
+            q
+            s
+          
+        
+      
+    
+    {\displaystyle C_{qs}}
+   on the right
+        create new boundary rays 
+  
+    
+      
+        
+          C
+          
+            p
+            q
+          
+          
+            −
+          
+        
+      
+    
+    {\displaystyle C_{pq}^{-}}
+   and 
+  
+    
+      
+        
+          C
+          
+            p
+            q
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle C_{pq}^{+}}
+   with bases p
+        replace 
+  
+    
+      
+        ∗
+        (
+        
+          R
+          
+            q
+          
+        
+        )
+      
+    
+    {\displaystyle *(R_{q})}
+   with 
+  
+    
+      
+        ∗
+        (
+        
+          R
+          
+            q
+          
+        
+        )
+        ,
+        
+          C
+          
+            p
+            q
+          
+          
+            −
+          
+        
+        ,
+        ∗
+        (
+        
+          R
+          
+            p
+          
+        
+        )
+        ,
+        
+          C
+          
+            p
+            q
+          
+          
+            +
+          
+        
+        ,
+        ∗
+        (
+        
+          R
+          
+            q
+          
+        
+        )
+      
+    
+    {\displaystyle *(R_{q}),C_{pq}^{-},*(R_{p}),C_{pq}^{+},*(R_{q})}
+   in T
+        delete from Q any intersection between 
+  
+    
+      
+        
+          C
+          
+            r
+            q
+          
+        
+      
+    
+    {\displaystyle C_{rq}}
+   and 
+  
+    
+      
+        
+          C
+          
+            q
+            s
+          
+        
+      
+    
+    {\displaystyle C_{qs}}
+  
+        insert into Q any intersection between 
+  
+    
+      
+        
+          C
+          
+            r
+            q
+          
+        
+      
+    
+    {\displaystyle C_{rq}}
+   and 
+  
+    
+      
+        
+          C
+          
+            p
+            q
+          
+          
+            −
+          
+        
+      
+    
+    {\displaystyle C_{pq}^{-}}
+  
+        insert into Q any intersection between 
+  
+    
+      
+        
+          C
+          
+            p
+            q
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle C_{pq}^{+}}
+   and 
+  
+    
+      
+        
+          C
+          
+            q
+            s
+          
+        
+      
+    
+    {\displaystyle C_{qs}}
+  
+    p is a Voronoi vertex in 
+  
+    
+      
+        ∗
+        (
+        V
+        )
+      
+    
+    {\displaystyle *(V)}
+  :
+        let p be the intersection of 
+  
+    
+      
+        
+          C
+          
+            q
+            r
+          
+        
+      
+    
+    {\displaystyle C_{qr}}
+   on the left and 
+  
+    
+      
+        
+          C
+          
+            r
+            s
+          
+        
+      
+    
+    {\displaystyle C_{rs}}
+   on the right
+        let 
+  
+    
+      
+        
+          C
+          
+            u
+            q
+          
+        
+      
+    
+    {\displaystyle C_{uq}}
+   be the left neighbor of 
+  
+    
+      
+        
+          C
+          
+            q
+            r
+          
+        
+      
+    
+    {\displaystyle C_{qr}}
+   and
+          let 
+  
+    
+      
+        
+          C
+          
+            s
+            v
+          
+        
+      
+    
+    {\displaystyle C_{sv}}
+   be the right neighbor of 
+  
+    
+      
+        
+          C
+          
+            r
+            s
+          
+        
+      
+    
+    {\displaystyle C_{rs}}
+   in T
+        create a new boundary ray 
+  
+    
+      
+        
+          C
+          
+            q
+            s
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle C_{qs}^{0}}
+   if 
+  
+    
+      
+        
+          q
+          
+            y
+          
+        
+        =
+        
+          s
+          
+            y
+          
+        
+      
+    
+    {\displaystyle q_{y}=s_{y}}
+  ,
+          or create 
+  
+    
+      
+        
+          C
+          
+            q
+            s
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle C_{qs}^{+}}
+   if p is right of the higher of q and s,
+          otherwise create 
+  
+    
+      
+        
+          C
+          
+            q
+            s
+          
+          
+            −
+          
+        
+      
+    
+    {\displaystyle C_{qs}^{-}}
+  
+        replace 
+  
+    
+      
+        
+          C
+          
+            q
+            r
+          
+        
+        ,
+        ∗
+        (
+        
+          R
+          
+            r
+          
+        
+        )
+        ,
+        
+          C
+          
+            r
+            s
+          
+        
+      
+    
+    {\displaystyle C_{qr},*(R_{r}),C_{rs}}
+   with newly created 
+  
+    
+      
+        
+          C
+          
+            q
+            s
+          
+        
+      
+    
+    {\displaystyle C_{qs}}
+   in T
+        delete from Q any intersection between 
+  
+    
+      
+        
+          C
+          
+            u
+            q
+          
+        
+      
+    
+    {\displaystyle C_{uq}}
+   and 
+  
+    
+      
+        
+          C
+          
+            q
+            r
+          
+        
+      
+    
+    {\displaystyle C_{qr}}
+  
+        delete from Q any intersection between 
+  
+    
+      
+        
+          C
+          
+            r
+            s
+          
+        
+      
+    
+    {\displaystyle C_{rs}}
+   and 
+  
+    
+      
+        
+          C
+          
+            s
+            v
+          
+        
+      
+    
+    {\displaystyle C_{sv}}
+  
+        insert into Q any intersection between 
+  
+    
+      
+        
+          C
+          
+            u
+            q
+          
+        
+      
+    
+    {\displaystyle C_{uq}}
+   and 
+  
+    
+      
+        
+          C
+          
+            q
+            s
+          
+        
+      
+    
+    {\displaystyle C_{qs}}
+  
+        insert into Q any intersection between 
+  
+    
+      
+        
+          C
+          
+            q
+            s
+          
+        
+      
+    
+    {\displaystyle C_{qs}}
+   and 
+  
+    
+      
+        
+          C
+          
+            s
+            v
+          
+        
+      
+    
+    {\displaystyle C_{sv}}
+  
+        record p as the summit of 
+  
+    
+      
+        
+          C
+          
+            q
+            r
+          
+        
+      
+    
+    {\displaystyle C_{qr}}
+   and 
+  
+    
+      
+        
+          C
+          
+            r
+            s
+          
+        
+      
+    
+    {\displaystyle C_{rs}}
+   and the base of 
+  
+    
+      
+        
+          C
+          
+            q
+            s
+          
+        
+      
+    
+    {\displaystyle C_{qs}}
+  
+        output the boundary segments 
+  
+    
+      
+        
+          C
+          
+            q
+            r
+          
+        
+      
+    
+    {\displaystyle C_{qr}}
+   and 
+  
+    
+      
+        
+          C
+          
+            r
+            s
+          
+        
+      
+    
+    {\displaystyle C_{rs}}
+  
+    endcase
+endwhile
+output the remaining boundary rays in T
+
+
+== Weighted sites and disks ==
+As Fortune describes in  a modified version of the sweepline algorithm can be used to construct an additively weighted Voronoi diagram, in which the distance to each site is offset by the weight of the site; this may equivalently be viewed as a Voronoi diagram of a set of disks, centered at the sites with radius equal to the weight of the site.
+Weighted sites may be used to control the areas of the Voronoi cells when using Voronoi diagrams to construct treemaps. In an additively weighted Voronoi diagram, the bisector between sites is in general a hyperbola, in contrast to unweighted Voronoi diagrams and power diagrams of disks for which it is a straight line.
+
+
+== References ==
+
+
+== External links ==
+Steven Fortune's C implementation
+Fortune's Voronoi algorithm implemented in C++
+Fortune's algorithm implemented in JavaScript

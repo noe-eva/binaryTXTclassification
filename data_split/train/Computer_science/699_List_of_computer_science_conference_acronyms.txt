@@ -1,0 +1,230 @@
+This is a list of academic conferences in computer science, ordered by their acronyms or abbreviations.
+
+
+== A ==
+AAAI – AAAI Conference on Artificial Intelligence
+ABZ – International Conference on Abstract State Machines, Alloy, B and Z
+ACL – Annual Meeting of the Association for Computational Linguistics
+ALGO – ALGO Conference
+AMCIS – Americas Conference on Information Systems
+ANTS – Algorithmic Number Theory Symposium
+ARES – International Conference on Availability, Reliability and Security
+ASIACRYPT – International Conference on the Theory and Application of Cryptology and Information Security
+ASP-DAC – Asia and South Pacific Design Automation Conference
+ASE – IEEE/ACM International Conference on Automated Software Engineering
+ASWEC – Australian Software Engineering Conference
+ATMOS – Workshop on Algorithmic Approaches for Transportation Modeling, Optimization, and Systems
+
+
+== C ==
+CADE – Conference on Automated Deduction
+CAV – Computer Aided Verification
+CC – International Conference on Compiler Construction
+CCSC – Consortium for Computing Sciences in Colleges
+CHES – Workshop on Cryptographic Hardware and Embedded Systems
+CHI – ACM Conference on Human Factors in Computing Systems
+CIAA – International Conference on Implementation and Application of Automata
+CIBB - International Meeting on Computational Intelligence Methods for Bioinformatics and Biostatistics
+CICLing – International Conference on Intelligent Text Processing and Computational Linguistics
+CIDR – Conference on Innovative Data Systems Research
+CIKM - Conference on Information and Knowledge Management
+CRYPTO – International Cryptology Conference
+CUSEC – Canadian University Software Engineering Conference
+CVPR – Conference on Computer Vision and Pattern Recognition
+
+
+== D ==
+DAC – Design Automation Conference
+DATE – Design, Automation, and Test in Europe
+DCFS – International Workshop on Descriptional Complexity of Formal Systems
+DISC – International Symposium on Distributed Computing
+DLT – International Conference on Developments in Language Theory
+DSN – International Conference on Dependable Systems and Networks
+
+
+== E ==
+ECAI – European Conference on Artificial Intelligence
+ECCO – Conference of the European Chapter on Combinatorial Optimization
+ECIS – European Conference on Information Systems
+ECML PKDD – European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
+ECOOP – European Conference on Object-Oriented Programming
+ECSS – European Computer Science Summit
+ER - International Conference on Conceptual Modeling
+ESA – European Symposium on Algorithms
+ESOP – European Symposium on Programming
+ESWC – Extended (formerly European) Semantic Web Conference
+ETAPS – European Joint Conferences on Theory and Practice of Software
+EUROCRYPT – International Conference on the Theory and Applications of Cryptographic Techniques
+Eurographics – Annual Conference of the European Association for Computer Graphics
+EWSN – European Conference on Wireless Sensor Networks
+
+
+== F ==
+FASE - International Conference on Fundamental Approaches to Software Engineering
+FAST – USENIX Conference on File and Storage Technologies
+FCRC – Federated Computing Research Conference
+FLoC – Federated Logic Conference
+FOCS – IEEE Symposium on Foundations of Computer Science
+FORTE – IFIP International Conference on Formal Techniques for Networked and Distributed Systems
+FoSSaCS - International Conference on Foundations of Software Science and Computation Structures
+FSE – Fast Software Encryption Workshop
+FTP – International Workshop on First-Order Theorem Proving
+
+
+== G ==
+GD – International Symposium on Graph Drawing
+GlobeCom – IEEE Global Communications Conference
+GraphiCon – International Conference on Computer Graphics and Vision
+
+
+== H ==
+HICSS – Hawaii International Conference on System Sciences
+HiPC – International Conference on High Performance Computing
+HOPL – History of Programming Languages Conference
+Hot Interconnects – IEEE Symposium on High Performance Interconnects
+
+
+== I ==
+ICALP – International Colloquium on Automata, Languages and Programming
+ICASSP – International Conference on Acoustics, Speech, and Signal Processing
+ICCAD – International Conference on Computer-Aided Design
+ICC – IEEE International Conference on Communications
+ICCIT – International Conference on Computer and Information Technology
+ICCV – International Conference on Computer Vision
+ICDCS – International Conference on Distributed Computing Systems
+ICFP – International Conference on Functional Programming
+ICIS – International Conference on Information Systems
+ICL – International Conference on Interactive Computer Aided Learning
+ICLP – International Conference on Logic Programming
+ICML – International Conference on Machine Learning
+ICPADS - International Conference on Parallel and Distributed Systems
+ICSE – International Conference on Software Engineering
+ICSOC - International Conference on Service Oriented Computing
+ICSR – International Conference on Software Reuse
+ICTer – International Conference on Advances in ICT for Emerging Regions
+ICWS – International Conference on Web Services
+IJCAI – International Joint Conference on Artificial Intelligence
+IJCAR – International Joint Conference on Automated Reasoning
+IJCBS – International Joint Conferences on Bioinformatics, Systems Biology and Intelligent Computing
+IndoCrypt – International Conference on Cryptology in India
+IPDPS – IEEE International Parallel and Distributed Processing Symposium
+IPSN – ACM/IEEE International Conference on Information Processing in Sensor Networks
+ISAAC - International Symposium on Algorithms and Computation
+ISCA – International Symposium on Computer Architecture
+ISCAS – IEEE International Symposium on Circuits and Systems
+ISMAR - IEEE International Symposium on Mixed and Augmented Reality
+ISWC – International Semantic Web Conference
+ISPD – International Symposium on Physical Design
+ISSCC – International Solid-State Circuits Conference
+ISWC – International Symposium on Wearable Computers
+
+
+== K ==
+KDD – ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+
+
+== L ==
+LICS – IEEE Symposium on Logic in Computer Science
+LREC – International Conference on Language Resources and Evaluation
+
+
+== M ==
+MM – ACM International Conference on Multimedia
+MobiCom – ACM International Conference on Mobile Computing and Networking
+MobiHoc – ACM International Symposium on Mobile Ad Hoc Networking and Computing
+MobileHCI – Conference on Human-Computer Interaction with Mobile Devices and Services
+
+
+== N ==
+NAACL – Annual Conference of the North American Chapter of the Association for Computational Linguistics
+NIPS – Conference on Neural Information Processing Systems
+NIME - New Interfaces for Musical Expression
+
+
+== O ==
+OOPSLA – Conference on Object-Oriented Programming, Systems, Languages, and Applications
+
+
+== P ==
+PACIS – Pacific Asia Conference on Information Systems
+PIMRC – International Symposium on Personal, Indoor and Mobile Radio Communications
+PKC – International Workshop on Practice and Theory in Public Key Cryptography
+PKDD – European Conference on Principles and Practice of Knowledge Discovery in Databases
+PLDI – ACM SIGPLAN Conference on Programming Language Design and Implementation
+PLoP – Pattern Languages of Programs
+PODC – ACM Symposium on Principles of Distributed Computing
+PODS – ACM Symposium on Principles of Database Systems
+POPL – Symposium on Principles of Programming Languages
+POST - Conference on Principles of Security and Trust
+PPoPP – ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
+PSB – Pacific Symposium on Biocomputing
+
+
+== R ==
+RECOMB - Research in Computational Molecular Biology
+REV – International Conference on Remote Engineering and Virtual Instrumentation
+RSA – RSA Conference
+RTA – International Conference on Rewriting Techniques and Applications
+
+
+== S ==
+SAC – ACM SIGAPP Symposium on Applied Computing
+SAC – Selected Areas in Cryptography
+SAME - Semantic Ambient Media Experiences
+SEAMS – Software Engineering for Adaptive and Self-Managing Systems
+SEFM – International Conference on Software Engineering and Formal Methods
+SenSys – ACM Conference on Embedded Networked Sensor Systems
+SIGCOMM – ACM SIGCOMM Conference
+SIGCSE – ACM Technical Symposium on Computer Science Education
+SIGDOC – ACM International Conference on Design of Communication
+SIGGRAPH – International Conference on Computer Graphics and Interactive Techniques
+SIGIR – Annual International ACM SIGIR Conference
+SIGMOD – ACM SIGMOD Conference
+SPAA – ACM Symposium on Parallelism in Algorithms and Architectures
+SRDS – IEEE International Symposium on Reliable Distributed Systems
+STACS – Symposium on Theoretical Aspects of Computer Science
+STOC – ACM Symposium on Theory of Computing
+SWAT – Scandinavian Symposium and Workshops on Algorithm Theory
+
+
+== T ==
+TABLEAUX – International Conference on Automated Reasoning with Analytic Tableaux and Related Methods
+TACAS - International Conference on Tools and Algorithms for the Construction and Analysis of Systems
+TAMC - International Conference on Theory and Applications of Models of Computation
+TCC – Theory of Cryptography Conference
+TPHOLs – Theorem Proving in Higher-Order Logics
+TSD – Text, Speech and Dialogue
+
+
+== U ==
+USENIX – USENIX Annual Technical Conference
+
+
+== V ==
+VIS – IEEE Visualization
+VLDB – International Conference on Very Large Data Bases
+
+
+== W ==
+WABI – Workshop on Algorithms in Bioinformatics
+WADS – Algorithms and Data Structures Symposium
+WAE – Workshop on Algorithms Engineering
+WAOA – Workshop on Approximation and Online Algorithms
+WDAG – Workshop on Distributed Algorithms on Graphs
+WikiSym – International Symposium on Wikis and Open Collaboration
+WINE - Conference on Web and Internet Economics
+WLAN – IEEE Workshops on Wireless LAN
+WMSCI – World Multiconference on Systemics, Cybernetics and Informatics
+WWW – World Wide Web Conference
+
+
+== Z ==
+ZUM – Z User Meeting
+
+
+== See also ==
+List of computer science conferences for more conferences organised by field.
+Conference acronym index for conferences and workshops published in LNCS, LNAI and LNBI proceedings series by Springer.
+
+
+== References ==

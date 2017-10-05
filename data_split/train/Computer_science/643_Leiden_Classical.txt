@@ -1,0 +1,37 @@
+Leiden Classical is a distributed computing project run by the Theoretical Chemistry Department of the Leiden Institute of Chemistry at Leiden University. Leiden Classical is part of the BOINC system, and enables scientists or science students to submit their own test simulations of various molecules and atoms in a classical mechanics environment. ClassicalDynamics is a program (and with it a library) completely written in C++. The library is covered by the LGPL license and the main program is covered by the GPL.
+
+
+== Joining the project ==
+Participation is possible via the BOINC manager. Using this software one can create an account in the project. Then someone can make a model of a dynamic system and simulation participating run. There are several models possible, to interactions between molecules or planets.
+
+
+== User Submitted Calculations ==
+To create a personal calculation, your model must have 6 defined variables:
+Colors of your molecules
+Box in which the model is run
+Number of particles in the simulation
+Interaction between the particles
+Gravity
+Coulomb force
+Lennard-Jones interaction
+Morse interaction
+Rydberg interaction
+Harmonic spirit
+Harmonic bending
+Recurrent torsion interactions
+
+Distance conditions
+Confirmation parameter(s)
+
+
+== See also ==
+List of distributed computing projects
+
+
+== References ==
+
+Leiden Classical Forum
+
+
+== External links ==
+Leiden Classical website

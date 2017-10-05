@@ -1,0 +1,108 @@
+The LogP machine is a model for parallel computation. It aims at being more practical than the PRAM model while still allowing for easy analysis of computation. The name is not related to the mathematical logarithmic function: Instead, the machine is described by the four parameters 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  , 
+  
+    
+      
+        o
+      
+    
+    {\displaystyle o}
+  , 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   and 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  .
+The LogP machine consists of arbitrarily many processing units with distributed memory. The processing units are connected through an abstract communication medium which allows point-to-point communication. This model is pair-wise synchronous and overall asynchronous.
+The machine is described by the four parameters:
+
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  , the latency of the communication medium.
+
+  
+    
+      
+        o
+      
+    
+    {\displaystyle o}
+  , the overhead of sending and receiving a message.
+
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  , the gap required between two send/receive operations. A more common interpretation of this quantity is as the inverse of the bandwidth of a processor-processor communication channel.
+
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  , the number of processing units. Each local operation on each machine takes the same time ('unit time'). This time is called a processor cycle.
+The units of the parameters 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  , 
+  
+    
+      
+        o
+      
+    
+    {\displaystyle o}
+   and 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   are measured in multiples of processor cycles.
+
+
+== See also ==
+Bulk Synchronous Parallel
+Parallel programming model
+
+
+== Notes ==
+
+
+== References ==
+Culler, David; Karp, Richard; Patterson, David; Sahay, Abhijit; Schauser, Klaus Erik; Santos, Eunice; Subramonian, Ramesh; Von Eicken, Thorsten (July 1993), "LogP: Towards a realistic model of parallel computation" (PDF), ACM SIGPLAN Notices, 28 (7): 1–12, doi:10.1145/173284.155333

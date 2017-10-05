@@ -1,0 +1,87 @@
+International Conference on Computer and Information Technology or ICCIT is a series of computer science and information technology based conferences that is hosted in Bangladesh since 1997 by a different university each year. ICCIT provides a forum for researchers, scientists, and professionals from both academia and industry to exchange up-to-date knowledge and experience in different fields of Computer Science/Engineering and Information and Communication Technology (ICT). This is a regularly held ICT based major annual conference (held typically in December) in Bangladesh now in its 15th year. ICCIT series has succeeded in engaging the most number of universities in Bangladesh from both public and private sectors. Each new university in Bangladesh have been investing in computer science, computer engineering, information systems, and related fields.
+Starting 2008, the ICCIT is co-sponsored by IEEE. For ICCIT 2011, for example, 353 manuscripts were submitted from all over the world; 126 of the submitted manuscripts (approximately 35%) were accepted for presentation and inclusion in the IEEE Xplore Digital Library, one of the largest scholarly research database containing over two million records that indexes, abstracts, and provides full-text for articles and papers on computer science, electrical engineering, electronics, information technology, and physical sciences.
+ICCIT 2017 will be held on 22–24 December 2017 at the University of Asia Pacific, at Dhaka, Bangladesh.
+
+
+== History ==
+ICCIT trace its history to 1997 when University of Dhaka organised a conference, National Conference on Computer and Information Systems (NCCIS) based on IT and Computer Science. Probably it was the first initiative to organise an IT based conference in Bangladesh with participation from multiple universities. Very next year in 1998, this conference was renamed to its current name and gained international status by opening its door to the participants from outside of Bangladesh. Since then each year a university approved by the ICCIT committee hosts this event during late December.
+
+
+== Areas ==
+ICCIT is mainly focused on computer science and information technology but also covers related electronic engineering topics. Major areas of ICCIT include, but not limited to:
+Algorithms
+Artificial Intelligence
+Bengali Language Processing
+Bio-informatics
+Computer Vision
+Computer Graphics and Multimedia
+Computer Network and Data Communications
+Computer Based Education
+Database Systems
+Digital Signal Processing and Image Processing
+Digital System and Logic Design
+Distributed and Parallel Processing
+E-commerce and E-governance
+Human Computer Interaction
+Information Systems
+Internet and Web Applications
+Knowledge Data Engineering
+Neural Networks
+Pattern Recognition
+Robotics
+Software Engineering
+System Security
+Ubiquitous Computing
+VLSI
+Wireless Communications and Mobile Computing
+"Technical Challenges and Design Issues in Bengali Language Processing" , edited by Mohammad Ataul Karim, Mohammad Kaykobad and Manzur Murshed, is an outcome of ICCIT series that seeks to provide a state-of-the-art platform for Bengali-based computing work, of significance to nearly 300 million Bengali-speaking people who live in Bangladesh and India.
+
+
+== Past Conferences ==
+Starting 1997, ICCIT has had 15 successful events at 14 different universities.
+1997 University of Dhaka, Dhaka (as NCCIS '97)
+1998 Bangladesh University of Engineering and Technology (BUET), Dhaka
+1999 Shahjalal University of Science and Technology, Sylhet
+2000 North South University, Dhaka
+2001 University of Dhaka, Dhaka
+2002 East West University, Dhaka
+2003 Jahangirnagar University, Savar
+2004 BRAC University, Dhaka
+2005 Islamic University of Technology (IUT), Gazipur
+2006 Independent University Bangladesh (IUB), Dhaka
+2007 United International University (UIU), Dhaka
+2008 Khulna University of Engineering and Technology (KUET), Khulna
+2009 Independent University Bangladesh (IUB) and Military Institute of Science and Technology, Dhaka
+2010 Ahsanullah University of Science and Technology, Dhaka
+2011 American International University-Bangladesh, Dhaka
+2012 Chittagong University, Chittagong
+2013 Khulna University, Khulna
+2014 Daffodil International University, Dhaka
+
+
+== Recent Events ==
+Daffodil International University (DIU), Dhaka, ICCIT 2014 (17th ICCIT).
+
+
+== International Program Committee ==
+The key to the success of ICCIT is its International Program Committee (IPC), chaired by Professor Mohammad Ataul Karim, Provost & Executive Vice-Chancellor of University of Massachusetts Dartmouth. The IPC for ICCIT 2012, for example, is a body of eighty five (85) field experts all of who are affiliated with either a university or a research organisation from outside of Bangladesh. The national make-up of the latest IPC is as follows: USA (43), Australia (12), Canada(6), UK (5), Malaysia (4), Japan (3), Germany (2), India (2), Korea (2), New Zealand (2), Belgium (1), China (1), Ireland (1), Norway (1), and Switzerland (1).
+
+
+== Journal Special Issues ==
+Starting with ICCIT 2008, a selected number of manuscripts after further enhancement and extensive review process are being included in one of several journal special issues. ICCIT doesn’t end with just conference proceedings but with those that are indexed worldwide and takes many of its better papers to its next logical level to the journals. To date, 14 journal special issues have been produced by ICCIT IPC featuring works of Bangladesh-based researchers in the fields of communications, computing, multimedia, networks, and software. This is a serious feat for Bangladesh its many researchers; the outcome from this single conference is allowing for about 30–35 team of researchers each year to be able to showcase their research through archival and indexed journals that really matter. It is a major scholarly milestone which makes ICCIT series different from all other technical conferences held in Bangladesh. In its latest iteration, 32 selected enhanced ICCIT 2011 manuscripts after having gone through extensive reviews have been accepted now for inclusion in the following international journals.
+Journal of Communications
+Guest Editors: M.N. Islam, SUNY Farmingdale, US; K.M. Iftekharuddin, Old Dominion University, US; M.A. Karim, Old Dominion University, US; M.A. Salam, Southern University & A&M College, Louisiana, US
+Journal of Computers
+Guest Editors: S.M. Aziz, University of South Australia, Australia; M.S. Alam, University of South Alabama, US; K.V. Asari, University of Dayton, US; M. Alamgir Hossain, University of Northumbria, UK; M.A. Karim, Old Dominion University, US; M. Milanova, University of Arkansas at Little Rock, US
+Journal of Multimedia
+Guest Editors: M. Murshed, Monash University, Australia; M.A. Karim, Old Dominion University, US; M. Paul, Monash University, Australia; S. Zhang, College of Staten Island, US
+Journal of Networks
+Guest Editors: S. Jabir, France Telecom, Japan; J. Abawajy, Deakin University, Australia; F. Ahmed, Johns Hopkins University Applied Physics Laboratory, US; M.A. Karim, Old Dominion University, US; J. Kamruzzaman, Monash University, Australia; Nurul I. Sarkar, Auckland University of Technology, New Zealand
+
+
+== References ==
+
+
+== External links ==
+11th ICCIT Home page
+15th ICCIT Home page

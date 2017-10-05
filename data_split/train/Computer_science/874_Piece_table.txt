@@ -1,0 +1,9 @@
+A piece table is a data structure typically used to represent a series of edits on a (potentially) read-only text document. An initial reference (or 'span') to the whole of the original file is created, with subsequent inserts and deletes being created as combinations of one, two, or three references to sections of either the original document or of the spans associated with earlier inserts.
+Typically the text of the original document is held in one immutable block, and the text of each subsequent insert is stored in new immutable blocks. Because even deleted text is still included in the piece table, this makes multi-level or unlimited undo easier to implement with a piece table than with alternative data structures such as a gap buffer.
+J Strother Moore invented the piece table.
+Several text editors use an in-RAM piece table internally, including the highly influential Bravo. and Abiword.
+The "fast save" feature in some versions of Microsoft Word uses a piece table for the on-disk file format.
+The on-disk representation of text files in the Oberon System uses a piece chain technique that allows pieces of one document to point to text stored in some other document, similar to transclusion. 
+
+
+== References ==

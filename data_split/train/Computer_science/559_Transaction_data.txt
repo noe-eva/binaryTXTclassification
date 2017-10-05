@@ -1,0 +1,22 @@
+Transaction data are data describing an event (the change as a result of a transaction) and is usually described with verbs. Transaction data always has a time dimension, a numerical value and refers to one or more objects (i.e. the reference data).
+Typical transactions are:
+Financial: orders, invoices, payments
+Work: Plans, activity records
+Logistics: Deliveries, storage records, travel records, etc.
+Typical transaction processing systems (systems generating transactions) are SAP and Oracle Financials.
+
+
+== Records management ==
+
+Recording and retaining transactions is called records management. The record of the transaction is stored in a place where the retention can be guaranteed and where data are archived/removed following a retention period. The format of the transaction can be data (to be stored in a database), but it can also be a document.
+
+
+== Data warehousing ==
+Transaction data can be summarised in a data warehouse, which helps accessibility and analysis of the data.
+
+
+== See also ==
+Data modeling
+Data architecture
+Information lifecycle management
+Reference data

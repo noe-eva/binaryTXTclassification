@@ -1,0 +1,24 @@
+Speculative multithreading (SpMT), also known as thread level speculation (TLS), is a dynamic parallelization technique that depends on out-of-order execution to achieve speedup on multiprocessor CPUs. It is a kind of speculative execution that occurs at the thread level as opposed to the instruction level.
+
+
+== Further reading ==
+Yiapanis, Paraskevas; Rosas-Ham, Demian; Brown, Gavin; Lujan, Mikel (2013). "Optimizing Software Runtime Systems for Speculative Parallelization". ACM Transactions on Architecture and Code Optimization. 9 (4). doi:10.1145/2400682.2400698. 
+Johnson, Nick P.; Kim, Hanjun; Prabhu, Prakash; Zaks, Ayal; August, David I. (2012). "Speculative separation for privatization and reductions" (PDF). PLDI. pp. 359–370. 
+Bhowmik, Anasua; Franklin, Manoj (2002). "A General Compiler Framework for Speculative Multithreading". SPAA. pp. 99–108. 
+Bruening, Derek; Devabhaktuni, Srikrishna; Amarasinghe, Saman (2000). "Softspec: Software-based Speculative Parallelism". FDDO-3. pp. 1–10. 
+Chen, Michael K.; Olukotun, Kunle (1998). "Exploiting Method-Level Parallelism in Single-Threaded Java Programs". PACT. pp. 176–184. 
+Chen, Michael K.; Olukotun, Kunle (2003). "The Jrpm System for Dynamically Parallelizing Java Programs". ISCA. pp. 434–446. 
+Cintra, Marcelo; Llanos, Diego R. (2003). "Toward Efficient and Robust Software Speculative Parallelization on Multiprocessors". PPoPP. pp. 13–24. 
+Cook, Jonathan J. (2002). "Reverse Execution of Java Bytecode". The Computer Journal. 45 (6): 608–619. doi:10.1093/comjnl/45.6.608. 
+Quinones, Carlos Garcia; Madriles, Carlos; Sanchez, Jesus; Marcuello, Pedro; Gonzalez, Antonio; Tullsen, Dean M. (2005). "Mitosis Compiler: An Infrastructure for Speculative Threading Based on Pre-Computation Slices". PLDI. pp. 269–279. 
+Hu, Shiwen; Bhargava, Ravi; John, Lizy Kurian (2003). "The Role of Return Value Prediction in Exploiting Speculative Method-Level Parallelism" (PDF). JILP. 5: 1–21. 
+Kazi, Iffat H. (2000). "A Dynamically Adaptive Parallelization Model Based on Speculative Multithreading". Ph.D. thesis, University of Minnesota. pp. 1–188. 
+Pickett, Christopher J.F.; Verbrugge, Clark (2005). "SableSpMT: A Software Framework for Analysing Speculative Multithreading in Java". PASTE. pp. 59–66. 
+Pickett, Christopher J.F.; Verbrugge, Clark (2005). "Software Thread Level Speculation for the Java Language and Virtual Machine Environment". LCPC. pp. 304–318. 
+Porter, Leo; Choi, Bumyong; Tullsen, Dean M. (2009). "Mapping Out a Path from Hardware Transactional Memory to Speculative Multithreading". PACT. pp. 313–324. 
+Rundberg, Peter; Stenstrom, Per (2001). "An All-Software Thread-Level Data Dependence Speculation System for Multiprocessors" (PDF). JILP. 3: 1–28. 
+Steffan, J. Gregory; Colohan, Christopher; Zhai, Antonia; Mowry, Todd C. (2005). "The STAMPede Approach to Thread-Level Speculation". TOCS. 23 (3): 253–300. doi:10.1145/1082469.1082471. 
+Whaley, John; Kozyrakis, Christos (2005). "Heuristics for Profile-driven Method-level Speculative Parallelization". ICPP. pp. 147–156. 
+Jose Renau; Karin Strauss; Luis Ceze; Wei Liu; Smruti Sarangi; James Tuck & Josep Torrellas (2006). "Energy-Efficient Thread-Level Speculation on a CMP" (PDF): 12. 
+Yoshizoe, Kazuki; Matsumoto, Takashi; Hiraki, Kei (1998). "Speculative Parallel Execution on JVM". UK Workshop on HPNC. pp. 1–20. 
+Oancea, Cosmin E.; Mycroft, Alan; Harris, Tim (2009). "A Lightweight In-Place Implementation for Software Thread-Level Speculation". SPAA '09. pp. 1–10.

@@ -1,0 +1,15 @@
+Milind Tambe is Helen N. and Emmett H. Jones Professor in Engineering and a Professor of Computer Science and Industrial and Systems Engineering at the University of Southern California, Los Angeles. He is a fellow of AAAI (Association for Advancement of Artificial Intelligence) and has received ACM SIGART Autonomous Agents Research Award.
+Milind Tambe's research is focused on agents and multi-agent systems and his algorithms have been deployed by USA security agencies such as LAX police division, the Federal Air Marshals Service, the US Coast Guard and the Transportation Security Administration.
+In 2013 he became a Fellow of the Association for Computing Machinery.
+
+
+== Bibliography ==
+Security and Game Theory: Algorithms, Deployed Systems, Lessons Learned (1st edition) 2011. Cambridge University Press, ISBN 1-107-09642-1
+Keep the Adversary Guessing: Agent Security by Policy Randomization 2008. VDM Verlag Dr. Mueller e.K., ISBN 3-639-01925-3
+
+
+== References ==
+
+
+== External links ==
+Home page: Milind Tambe

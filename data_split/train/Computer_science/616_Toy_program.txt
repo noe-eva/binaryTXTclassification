@@ -1,0 +1,4 @@
+A toy program is a small computer program typically used for educational purposes. Toy programs are generally of little practical use, although the concepts implemented may be useful in a much more sophisticated program.
+A toy program typically focuses on a specific problem, such as computing the Nth term in a sequence, finding the roots of a quadratic equation and testing if a number is prime.
+Toy programs are also used for a developer trying out a new programming language, to test all of the language's syntax and coding methods.
+you can begin learning any new programming language by writing a toy programme.

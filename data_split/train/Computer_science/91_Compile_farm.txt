@@ -1,0 +1,15 @@
+A compile farm is a server farm, a collection of one or more servers, which has been set up to compile computer programs remotely for various reasons. Uses of a compile farm include:
+Cross-platform development: When writing software that runs on multiple processor architectures and operating systems, it can be infeasible for each developer to have their own machine for each architecture — for example, one platform might have an expensive or obscure type of CPU. In this scenario, a compile farm is useful as a tool for developers to build and test their software on a shared server running the target OS and CPU. Compile farms may be preferable to cross-compilation as cross compilers are often complicated to configure, and in some cases compilation is only possible on the target, making cross-compilation impossible.
+Cross-platform continuous integration testing: under this scenario, each server has a different processor architecture or runs a different operating system; scripts automatically build the latest version of a source tree from a version control repository. One of the difficulties of cross-platform development is that a programmer may unintentionally introduce an error that causes the software to stop functioning on a different CPU/OS platform from the one they are using. By using a cross-platform compile farm, such errors can be identified and fixed.
+Distributed compilation: Building software packages typically requires operations that can be run in parallel (for example, compiling individual source code files). By using a compile farm, these operations can be run in parallel on separate machines. An example of a program which can be used to do this is distcc.
+One example of a compile farm was the service provided by SourceForge until 2006. The SourceForge compile farm was composed of twelve machines of various computer architectures running a variety of operating systems, and was intended to allow developers to test and use their programs on a variety of platforms before releasing them to the public. After a power spike destroyed several of the machines it became non-operational some time in 2006, and was officially discontinued on February 8, 2007.
+Other examples are:
+GCC Compile Farm https://gcc.gnu.org/wiki/CompileFarm
+OpenSUSE Build Service
+FreeBSD reports service which lets package maintainers test their own changes on a variety of versions and architectures.
+Launchpad Build Farm https://launchpad.net/builders
+Mozilla has a build farm, but it is not public https://wiki.mozilla.org/ReleaseEngineering
+Debian has a build farm https://buildd.debian.org/
+
+
+== References ==

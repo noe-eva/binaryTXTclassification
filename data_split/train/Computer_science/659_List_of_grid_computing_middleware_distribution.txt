@@ -1,0 +1,20 @@
+A Grid Middleware Distribution is a software stack or a set of cooperating components, services and protocols which enable users access to the distributed resources of a grid.
+
+
+== The Grid Computing Middlewares ==
+ARC
+DIET
+EMI
+gLite
+Globus toolkit
+GridWay
+The OMII-UK distribution
+Oracle Grid Engine
+Alchemi
+LSF
+GNU parallel
+GNU Queue
+HTCondor
+OpenLava
+pexec
+Nimrod (computing)

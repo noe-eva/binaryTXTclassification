@@ -1,0 +1,58 @@
+Not to be confused with computer engineering.
+Computational science and engineering (CSE) is a relatively new discipline that deals with the development and application of computational models and simulations, often coupled with high-performance computing, to solve complex physical problems arising in engineering analysis and design (computational engineering) as well as natural phenomena (computational science). CSE has been described as the "third mode of discovery" (next to theory and experimentation). In many fields, computer simulation is integral and therefore essential to business and research. Computer simulation provides the capability to enter fields that are either inaccessible to traditional experimentation or where carrying out traditional empirical inquiries is prohibitively expensive. CSE should neither be confused with pure computer science, nor with computer engineering, although a wide domain in the former is used in CSE (e.g., certain algorithms, data structures, parallel programming, high performance computing) and some problems in the latter can be modeled and solved with CSE methods (as an application area).
+It is typically offered as a masters or doctorate program at several institutions.
+
+
+== Methods ==
+Computational Science and Engineering methods and frameworks include:
+High performance computing and techniques to gain efficiency (through change in computer architecture, parallel algorithms etc.)
+Modeling and simulation
+Algorithms for solving discrete and continuous problems
+Analysis and visualization of data
+Mathematical foundations: Numerical and applied linear algebra, initial & boundary value problems, Fourier analysis, optimization
+Data Science for developing methods and algorithms to handle and extract knowledge from large scientific data
+With regard to computing, computer programming, algorithms, and parallel computing play a major role in CSE. The most widely used programming language in the scientific community is FORTRAN. Recently, C++ and C have increased in popularity over FORTRAN. Due to the wealth of legacy code in FORTRAN and its simpler syntax, the scientific computing community has been slow in completely adopting C++ as the lingua franca. Because of its very natural way of expressing mathematical computations, and its built-in visualization capacities, the proprietary language/environment MATLAB is also widely used, especially for rapid application development and model verification. Python along with external libraries (such as NumPy, SciPy, Matplotlib) has gain some popularity as a free and Copycenter alternative to MATLAB.
+
+
+== Applications ==
+
+Computational Science and Engineering finds diverse applications, including in:
+Aerospace Engineering and Mechanical Engineering: combustion simulations, structural dynamics, computational fluid dynamics, computational thermodynamics, computational solid mechanics, vehicle crash simulation, biomechanics, trajectory calculation of satellites
+Astrophysical systems
+Battlefield simulations and military gaming, homeland security, emergency response
+Biology and Medicine: protein folding simulations (and other macromolecules), bioinformatics, genomics, computational neurological modeling, modeling of biological systems (e.g., ecological systems), 3D CT ultrasound, MRI imaging, molecular bionetworks, cancer and seizure control
+Chemistry: calculating the structures and properties of chemical compounds/molecules and solids, computational chemistry/cheminformatics, molecular mechanics simulations, computational chemical methods in solid state physics, chemical pollution transport
+Civil Engineering: finite element analysis, structures with random loads, construction engineering, water supply systems, transportation/vehicle modeling
+Computer Engineering, Electrical Engineering, and Telecommunications: VLSI, computational electromagnetics, semiconductor modeling, simulation of microelectronics, energy infrastructure, RF simulation, networks
+Epidemiology: influenza spread
+Environmental Engineering and Numerical weather prediction: climate research, Computational geophysics (seismic processing), modeling of natural disasters
+Finance: derivative pricing, risk management
+Industrial Engineering: discrete event and Monte-Carlo simulations (for logistics and manufacturing systems for example), queueing networks, mathematical optimization
+Material Science: glass manufacturing, polymers, and crystals
+Nuclear Engineering: nuclear reactor modeling, radiation shielding simulations, fusion simulations
+Petroleum engineering: petroleum reservoir modeling, oil and gas exploration
+Physics: Computational particle physics, automatic calculation of particle interaction or decay, plasma modeling, cosmological simulations
+Transportation
+
+
+== See also ==
+Computational science
+Applied mathematics
+Computational fluid dynamics
+Numerical analysis
+Multiphysics
+Grand Challenges
+
+
+== References ==
+
+
+== External links ==
+Scope of Computational engineering
+Society of Industrial and Applied Mathematics
+International Centre for Computational Engineering (IC2E)
+Georgia Institute of Technology, USA, MS/PhD Programme Computational Science & Engineering
+The graduate program for the University of Tennessee at Chattanooga
+Master and PhD Program in Computational Modeling at Rio de Janeiro State University
+Computational Science and Engineering with Scilab
+Internacional Center for Numerical Methods in Engineering (CIMNE)

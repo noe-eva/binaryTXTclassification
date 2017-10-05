@@ -1,0 +1,25 @@
+A Processing Instruction (PI) is an SGML and XML node type, which may occur anywhere in the document, intended to carry instructions to the application.
+Processing instructions are exposed in the Document Object Model as Node.PROCESSING_INSTRUCTION_NODE, and they can be used in XPath and XQuery with the 'processing-instruction()' command.
+
+
+== Syntax ==
+An SGML processing instruction is enclosed within <? and >.
+An XML processing instruction is enclosed within <? and ?>, and contains a target and optionally some content, which is the node value, that cannot contain the sequence ?>.
+
+The XML Declaration at the beginning of an XML document (shown below) is not a processing instruction, however its similar syntax has often resulted in it being referred to as a processing instruction.
+
+
+== Examples ==
+The most common use of a processing instruction is to request the XML document be rendered using a stylesheet using the 'xml-stylesheet' target, which was standardized in 1999. It can be used for both XSLT and CSS stylesheets.
+
+The DocBook XSLT stylesheets understand a number of processing instructions to override the default behaviour.
+A draft specification for Robots exclusion standard rules inside XML documents uses processing instructions.
+
+
+== References ==
+
+
+== External links ==
+XML specification section: Processing Instructions
+XSLT FAQ: Processing Instructions, Dave Pawson
+xslt:processing-instruction, Mozilla

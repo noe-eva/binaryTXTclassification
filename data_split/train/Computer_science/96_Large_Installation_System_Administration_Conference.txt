@@ -1,0 +1,45 @@
+LISA is the Large Installation System Administration Conference, co-sponsored by the computing professional organizations USENIX and its LISA special interest group (formerly known as SAGE).
+The word "large" was dropped from the title of the 6th conference in 1992 (though retaining the "LISA" name). The full acronym was restored in the title of the 2003 conference and remains in use today. The definition of "large" was originally understood to mean sites with over 100 users or over 100 terabytes of storage.
+
+
+== History ==
+The LISA conference were first held in 1986. The USENIX web site lists proceedings as far back as 1987, though only those proceedings from 1993 onward are available online. Attendance has recently been in the 1000-2000 range.
+
+
+== Content ==
+The conference is typically held in the fall in a conference center hotel somewhere in the United States. Between 1987 and 2008, roughly half of them were somewhere in California. It generally runs six days: six days of full-day and half-day tutorial training sessions, three days of technical sessions, and a two-day vendor exhibition. The technical sessions usually include multiple tracks, including a peer reviewed refereed paper track, invited talks, and a "Guru-Is-In" Q&A track.
+For many years, the conference often ended with a LISA quiz show trivia contest, but that has been replaced with a plenary session to close out the week.
+
+
+== Proceedings ==
+The refereed papers are published in a proceedings volume. Many important topics in system administration were first disseminated publicly via LISA papers.
+
+
+== External links ==
+LISA '15 - 29th conference November 8-13 2015, Washington, D.C.
+LISA ‘14 - 28th Conference November 9-14, 2014, Seattle, WA
+LISA ‘13 - 27th Conference November 3-8, 2013, Washington, DC
+LISA ‘12 - 26th Conference December 9–14, 2012, San Diego, CA
+LISA ‘11 – 25th Conference December 4–9, 2011, Boston, MA
+LISA ‘10 – 24th Conference November 7–12, 2010, San Jose, CA
+LISA ‘09 – 23rd Conference November 1–6, 2009, Baltimore, MD
+LISA '08 – 22nd Conference November 9–14, 2008, San Diego, CA
+LISA '07 – 21st Conference November 11–16, 2007, Dallas, TX
+LISA '06 – 20th Conference December 3–8, 2006, Washington, DC
+LISA '05 – 19th Conference December 4–9, 2005, San Diego, CA
+The LISA '05 Conference Blog
+LISA '04 - 18th Conference November 14-19, 2004, Atlanta, GA
+LISA '03 - 17th Conference October 26-31, 2003, San Diego, CA
+LISA '02 - 16th Conference November 3-8, 2002, Philadelphia, PA
+LISA '01 - 15th Conference December 2-7, 2001, San Diego, CA
+LISA '00 - 14th Conference December 3-8, 2000, New Orleans, LA
+LISA '99 - 13th Conference November 7-12, 1999, Seattle, WA
+LISA '98 - 12th Conference December 6-11, 1998, Boston, MA
+LISA '97 - 11th Conference October 26-31, 1997, San Diego, CA
+LISA '96 - 10th Conference September 29 - October 4, 1996, Chicago, IL
+LISA '95 - 9th Conference September 18-22, 1995, Monterey, CA
+LISA '94 - 8th Conference September 19-23, 1994, San Diego, CA
+LISA '93 - 7th Conference November 1-5, 1993, Monterey, CA
+
+
+== References ==

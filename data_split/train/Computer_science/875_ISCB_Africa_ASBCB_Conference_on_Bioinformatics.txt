@@ -1,0 +1,25 @@
+The ISCB Africa ASBCB Conference on Bioinformatics is a biennial academic conference on the subjects of bioinformatics and computational biology, organized by the African Society for Bioinformatics and Computational Biology (ASBCB). The conference was first held in 2007 as the "ASBCB Conference on the Bioinformatics of African Pathogens, Hosts and Vectors". Since 2009, the conference has been jointly organized with the International Society for Computational Biology (ISCB) and held in different locations within Africa. Although having an evident African focus, the meeting is intended to be a truly international event, encompassing scientists and students from leading institutions in the US, Latin America, Europe and Africa. Holding this event in Africa, ISCB and ASBCB intend to promote local efforts for cooperation and dissemination of leading research techniques to combat major African diseases.
+
+
+== Format of the Meeting ==
+The meeting usually consists of a 3-day conference followed by practical workshops. The main 3-day meeting includes keynote presentations by up to 6 invited speakers from around the world, including Africa. Session Chairs introduce Keynote Speakers with an overview of the session, highlighting the most significant challenges and the current state of the art in the field before the keynote speakers launch their presentations. Highly accomplished researchers, primarily but not exclusively from non-African countries, present during the post conference tutorial workshops.
+
+
+== Conference Goals ==
+To directly impact existing capacity to develop public health interventions in endemic Africa countries by driving collaboration and networks development and training.
+To expose and educate young and established scientists to the latest bioinformatics tools and techniques used in researching treatments and cures for African hosts, vectors and disease.
+
+
+== Scientific publications ==
+Since 2009, the ISCB Africa ASBCB Conference has been partnering with the Genes, Infection and Evolution journal to publish top papers presented at the conference.
+
+
+== List of conferences ==
+
+
+== References ==
+
+
+== External links ==
+2011 Conference Website
+2009 Conference Website

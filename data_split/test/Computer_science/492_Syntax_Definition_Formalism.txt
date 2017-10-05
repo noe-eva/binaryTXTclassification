@@ -1,0 +1,55 @@
+The Syntax Definition Formalism (SDF) is a metasyntax used to define context-free grammars: that is, a formal way to describe formal languages. It can express the entire range of context-free grammars. Its current version is SDF3[1]. A parser and parser generator for SDF specifications are provided as part of the free ASF+SDF Meta Environment. These operate using the SGLR (Scannerless GLR parser). An SDF parser outputs parse trees or, in the case of ambiguities, parse forests.
+
+
+== Overview ==
+Features of SDF:
+Supports the entire range of context-free languages
+Allows modular syntax definitions (grammars can import subgrammars) which enables reuse
+Supports annotations
+
+
+== Examples ==
+The following example defines a simple Boolean expression syntax in SDF2:
+
+module basic/Booleans
+
+exports
+  sorts Boolean
+  context-free start-symbols Boolean
+
+context-free syntax
+   "true"                      -> Boolean
+   "false"                     -> Boolean
+   lhs:Boolean "|" rhs:Boolean -> Boolean {left}         
+   lhs:Boolean "&" rhs:Boolean -> Boolean {left}       
+   "not" "(" Boolean ")"       -> Boolean           
+   "(" Boolean ")"             -> Boolean
+
+ context-free priorities
+   Boolean "&" Boolean -> Boolean >
+   Boolean "|" Boolean -> Boolean
+
+
+== Program analysis and transformation systems using SDF ==
+ASF+SDF Meta Environment provides SDF
+RascalMPL
+Spoofax/IMP [2]
+Stratego/XT
+Strafunski
+
+
+== See also ==
+Backus-Naur Form
+GNU bison
+ANTLR
+
+
+== Further reading ==
+A Quick Introduction to SDF, Visser, J. & Scheerder, J. (2000) CWI
+The Syntax Definition Formalism SDF, Mark van den Brand, Paul Klint, Jurgen Vinju (2007) CWI
+
+
+== External links ==
+Grammar Deployment Kit
+SdfMetz computes metrics for SDF grammars
+Download SDF from the ASF+SDF Meta Environment homepage

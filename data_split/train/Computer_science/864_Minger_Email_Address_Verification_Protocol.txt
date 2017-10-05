@@ -1,0 +1,5 @@
+Minger Email Address Verification Protocol is an Internet Engineering Task Force draft for lightweight verification of an e-mail address between trusted servers. It was created by Arvel Hathcock and Jonathan Merkel as a practical alternative to the Finger protocol or SMTP call-forward. The MDaemon e-mail server uses Minger to realize domain sharing over multiple servers with distributed mailboxes.
+On February 3, 2010, draft 6 expired. On March 9, 2016, draft 7 was released, but it is available only within Alt-N MDaemon's documentation.
+
+
+== References ==

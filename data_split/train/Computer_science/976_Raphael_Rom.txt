@@ -1,0 +1,18 @@
+Raphael "Raphi" Rom is an Israeli computer scientist working at Technion – Israel Institute of Technology.
+Rom earned his Ph.D. in 1975 from the University of Utah, under the supervision of Thomas Stockham. He is known for his contribution to the development of the Catmull–Rom spline, and for his research on computer networks.
+
+
+== Selected publications ==
+Catmull, E.; Rom, R. (1974), "A class of local interpolating splines", in Barnhill, R. E.; Riesenfeld, R. F., Computer Aided Geometric Design, New York: Academic Press, pp. 317–326 .
+Rom, R.; Sidi, M. (1990), Multiple Access Protocols: Performance and Analysis, Springer .
+Orda, A.; Rom, R. (1990), "Shortest-path and minimum-delay algorithms in networks with time-dependent edge-length", Journal of the ACM, 37 (3): 607–625, MR 1072271, doi:10.1145/79147.214078 .
+Orda, A..; Rom, R.; Shimkin, N. (1993), "Competitive routing in multiuser communication networks", IEEE/ACM Transactions on Networking, 1 (5): 510–521, doi:10.1109/90.251910 .
+Azar, Yossi; Naor, Joseph; Rom, Raphael (1995), "The competitiveness of on-line assignments", Journal of Algorithms, 18 (2): 221–237, MR 1317665, doi:10.1006/jagm.1995.1008 .
+Cidon, I.; Rom, R.; Shavitt, Y. (1999), "Analysis of multi-path routing", IEEE/ACM Transactions on Networking, 7 (6): 885–896, doi:10.1109/90.811453 .
+
+
+== References ==
+
+
+== External links ==
+Home page

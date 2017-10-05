@@ -1,0 +1,14 @@
+The Computer-Aided Design Technical Committee (more commonly known as CANDE, for Computer-Aided Network DEsign) is a Technical Committee of IEEE Circuits and Systems Society(IEEE-CAS), one of the many societies that comprise the IEEE.
+The purpose of CANDE is to promote research and best practices in the development and use of computer-aided design software in the design and test of microelectronic circuits and systems.
+
+
+== Activities ==
+The main activities of CANDE are:
+CANDE sponsors, co-sponsors, and technically participates in conferences, workshops and symposia in the field of electronic design automation.
+CANDE holds a workshop on EDA once a year. Attendance is by invitation only.
+CANDE provides IEEE-CAS with proposals for computer-aided design projects.
+CANDE advises IEEE-CAS on appointments in the relevant fields.
+
+
+== See also ==
+IEEE Council on Electronic Design Automation

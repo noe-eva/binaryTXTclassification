@@ -1,0 +1,28 @@
+The International Association for Pattern Recognition (IAPR) is an international association of non-profit, scientific or professional organizations (being national, multi-national, or international in scope) concerned with pattern recognition, computer vision, and image processing in a broad sense. Normally, only one organization is admitted from any one country, and individuals interested in taking part in IAPR's activities may do so by joining their national organization.
+
+
+== Publications ==
+The IAPR publishes four main academic publications of record:
+The IAPR Newsletter is published quarterly
+Pattern Recognition Letters is published monthly by Elsevier (ISSN 0167-8655)
+Machine Vision and Applications is published bimonthly by Springer Verlag
+International Journal on Document Analysis and Recognition  is published quarterly by Springer Verlag
+
+
+== Conferences ==
+IAPR Conferences
+The International Conference on Pattern Recognition in Bioinformatics
+The International Conference on Pattern Recognition and Image Analysis
+The International Conference on Document Analysis and Recognition
+2013 - Washington, DC, USA 
+2015 - Nancy, France 
+2017 - Kyoto, Japan 
+
+The IAPR Fellow Award has been awarded biennially since 1994 to recognize distinguished contributions to the field of pattern recognition.
+
+
+== References ==
+
+
+== External links ==
+Official website

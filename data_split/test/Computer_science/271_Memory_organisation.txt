@@ -1,0 +1,19 @@
+There are several ways to organise memories with respect to the way they are connected to the cache:
+one-word-wide memory organisation
+wide memory organisation
+interleaved memory organisation
+independent memory organisation
+
+
+== One-Word-Wide ==
+The memory is one word wide and connected via a one word wide bus to the cache.
+
+
+== Wide ==
+The memory is more than one word wide (usually four words wide) and connected by an equally wide bus to the low level cache (which is also wide). From the cache multiple busses of one word wide go to a MUX which selects the correct bus to connect to the high level cache.
+
+
+== Interleaved ==
+
+There are several memory banks which are one word wide, and one word wide bus. There is some logic in the memory that selects the correct bank to use when the memory gets accessed by the cache.
+Memory interleaving is a way to distribute individual addresses over memory modules. Its aim is to keep the most of modules busy as computations proceed. With memory interleaving, the low-order k bits of the memory address generally specify the module on several buses.

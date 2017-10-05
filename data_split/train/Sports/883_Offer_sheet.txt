@@ -1,0 +1,37 @@
+In US professional sports an offer sheet is a contract offered to a restricted free agent by a team other than the one for which he played during the prior season. Different leagues have different ways to handle offer sheets.
+
+
+== NHL ==
+In the National Hockey League, an offer sheet is a contract offered to a restricted free agent by a team other than the one for which he played during the prior season. If the player signs the offer sheet, his current team has seven days to match the contract offer and keep the player or else he goes to the team that gave the offer sheet, with compensation going to his first team.
+
+
+=== Time period ===
+Restricted (Group 2) NHL free agents can discuss new contracts with other teams beginning on the day after that season's entry draft, which is also the deadline for a team to make a qualifying offer. Discussions must cease if a player accepts a contract from his own team or is confirmed to go into arbitration with his team, be it player- or team-filed.
+
+
+=== Compensation ===
+When a player accepts an offer sheet and his team declines to match the value of the contract, his former team is entitled to draft pick compensation in the next upcoming draft or drafts based on the averaged yearly salary of the contract. This averaged annual salary is determined by dividing the total compensation by the lesser of the number of years of the Offer Sheet or five years (the latter clause has potentially come into play with one offer sheet---offered to Shea Weber in the 2012 offseason). These values were originally set for the 2005 offseason to coincide with the new NHL Collective Bargaining Agreement, with percentage increases annually equal to the same percentage increase in the average salaries of all NHL players. The 2005 and 2017 offseason values are as follows:
+A team may not have two different players sign offer sheets at the same time if the value of the offered contracts would involve any of the same draft picks as compensation. For example, if a restricted free agent accepts a contract with a yearly salary of at least $8,410,977, the team can only offer to other restricted free agents contracts less than $3,364,392 per year, since those would not require any first round pick as compensation. In addition, if a team does not have a pick in the next upcoming draft available for compensation, they may not make a contract offer in the certain range where that pick is needed for compensation. Teams may not use draft picks acquired in trades with other teams, but extra acquired draft picks can influence a team's decision to submit an offer sheet.
+
+
+=== Effect of the salary cap ===
+Prior to the 2004–05 NHL lockout, teams could spend as much or as little as they wanted, therefore most offer sheets were matched. This caused offers to restricted free agents to be rare to avoid ill will amongst general managers; there were no offer sheets made in the six years prior to the lockout. Beginning with the 2005 NHL Collective Bargaining Agreement, the NHL assigned a salary cap ceiling and floor for each season, so teams must spend money more wisely. This means it is more likely that general managers will offer a contract to a younger player with potential that their team does not see as much value in matching, rather saving money for other players. This also leads to teams signing their own players to long-term contracts before they are eligible for restricted free agency, possibly locking them in at a lower rate than they will have to pay later, depending on each player's future performance; contracts cannot be renegotiated under the current CBA. A potential benefit to a player whose current team matches an offer sheet is that the player cannot be traded for the next calendar year.
+Since the 2004-05 lockout, seven restricted free agents have signed offer sheets, and only one player has changed teams as the result of an offer sheet: Dustin Penner prior to the 2007–08 season. Penner is also the only player since 1997 (Chris Gratton) to change teams via an offer sheet. The risk invested in real and cap dollars along with the negative reaction to an offer sheet has led to the act of signing an offer sheet becoming rare under the current CBA.
+
+
+=== NHL Players signing offer sheets ===
+
+
+== NBA ==
+The National Basketball Association uses the term offer sheet to refer to a contract offered by another team to a restricted free agent of at least one year. His current team has three days to match the offer or lose the player to the new team. However, unlike NHL offer sheets, NBA offer sheets do not require a team to relinquish a draft pick or other compensation.
+
+
+== NFL ==
+The National Football League uses the term offer sheet to refer to an offer made by another team to a restricted free agent. If the restricted free agent accepts an offer sheet from a new club, his old club has "right of first refusal", a seven-day period in which it may match the offer and retain him, or choose not to match the offer, in which case it may receive one or more draft picks for the upcoming draft from the player's new club. If an offer sheet is not executed, the player's rights revert to his old club the day after negotiations must end.
+
+
+== Footnotes ==
+
+
+== References ==
+2005 NHL Collective Bargaining Agreement

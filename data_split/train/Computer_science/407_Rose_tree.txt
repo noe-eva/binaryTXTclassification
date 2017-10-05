@@ -1,0 +1,14 @@
+In computing, a multi-way tree or rose tree is a tree data structure with a variable and unbounded number of branches per node. The name rose tree for this structure is prevalent in the functional programming community, e.g., in the context of the Bird–Meertens formalism. It was coined by Lambert Meertens to evoke the similarly-named, and similarly-structured, common rhododendron.
+
+
+== Definition ==
+The following is a definition in Haskell:
+
+
+== Sources ==
+
+
+== External links ==
+Rose tree on the Haskell wiki
+Bayesian Rose Trees
+Data.Tree, an implementation of basic rose tree operations in the Haskell containers package

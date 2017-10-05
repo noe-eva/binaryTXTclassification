@@ -1,0 +1,13 @@
+The Kleene Award  is awarded at the annual IEEE Symposium on Logic in Computer Science (LICS) to the author(s) of the best student paper(s). A paper qualifies as a student paper if each author is a student at the date of the submission. Also eligible are authors who have graduated only recently, provided the submitted paper is based on work carried out when he or she still was a student. The award decision is made by the Program Committee.
+The award is named after Stephen Cole Kleene, who did pioneering work in the field of logic as related to computer science.
+
+
+== See also ==
+Machtey Award
+
+
+== Notes ==
+
+
+== External links ==
+Kleene award

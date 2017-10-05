@@ -1,0 +1,24 @@
+The Gesellschaft für Informatik (abbreviated as "GI" and translated as "German Informatics Society") is a German organization of approximately 20,000 computer science educators, researchers, and professionals.
+
+
+== History ==
+The Gesellschaft für Informatik was founded in Bonn, Germany, on September 16, 1969. Initially aimed primarily at researchers, it expanded in the mid-1970s to include computer science professionals, and in 1978 it founded its journal Informatik Spektrum to reach this broader audience.
+The Deutsche Informatik-Akademie in Bonn was founded in 1987 by the Gesellschaft für Informatik in order to provide seminars and continuing education for computer science professionals. In 1990, the Gesellschaft für Informatik contributed to the founding of the International Conference and Research Center for Computer Science (renamed since as the Leibniz Center for Informatics) at Dagstuhl; since its founding, Schloss Dagstuhl has become a major center for international academic workshops.
+In 1983, the Gesellschaft für Informatik became a member society of the International Federation for Information Processing (IFIP), taking over the role of representing Germany from the Deutsche Arbeitsgemeinschaft für Rechenanlagen. In 1989, it joined the Council of European Professional Informatics Societies.
+
+
+== Activities ==
+The main activity of the association is to support the professional development of its members in every aspect of the rapidly changing field of informatics. In order to realise this aim the Gesellschaft für Informatik maintains a large number of committees, special interest groups, and working groups in the field of theory of computation, artificial intelligence, bioinformatics, software engineering, human computer interaction, databases, technical informatics, graphics and information visualisation, business informatics, legal aspects of computing, computer science education, social computing, and computer security. Up to now the GI runs more than 30 local groups in cooperation with the German chapter of the Association for Computing Machinery.[2][6] Other important GI activities include raising public awareness of informatics, including its benefits and risks. Lobbying activities have been organised by the office in Berlin since 2013. Additionally, the GI runs programmes designed for young people and women to foster interest in informatics.
+In addition to the Informatik Spektrum, which is the journal of the society, most of the society's special interest groups maintain their own journals. Overall the society has approximately 40 regular publications, and it sponsors a similar number of conferences and events annually. Many of these conferences have their proceedings published in the GI's book series, Lecture Notes in Informatics, which also publishes Ph.D. thesis abstracts and research monographs.
+Every two years, the Gesellschaft für Informatik awards the Konrad Zuse Medal to an outstanding German computer science researcher. It also offers prizes for the best Ph.D. thesis, for computer science education, for practical innovations, and for teams of student competitors. Each year beginning in 2002, the GI has elected a small number of its members as fellows, its highest membership category.
+
+
+== Conferences ==
+One of the biggest informatics conferences in the German-speaking world is the INFORMATIK. The conference is organised in cooperation with universities, each year in a different location. More than 1.000 participants visit workshops and keynotes regarding current challenges in the field of information technology. In addition, several special interest groups organise large meetings with an international reputation, for example the „Software Engineering (SE)“, the „Multikonferenz Wirtschaftsinformatik (MKWI), the „Mensch-Computer-Interaktion (MCI)“ and the „Datenbanksysteme für Business, Technologie und Web(BTW)“.
+
+
+== References ==
+
+
+== External links ==
+Official website

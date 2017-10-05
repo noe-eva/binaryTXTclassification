@@ -1,0 +1,43 @@
+Lactate inflection point (LIP), is the exercise intensity at which the blood concentration of lactate and/or lactic acid begins to exponentially increase. Often expressed as 85% of maximum heart rate or 75% of maximum oxygen intake. When exercising at or below the LT, any lactate produced by the muscles is removed by the body without it building up.
+The onset of blood lactate accumulation (OBLA) is often confused with the lactate threshold. With a higher exercise intensity the lactate production exceeds at a rate which it cannot be broken down, the blood lactate concentration will show an increase equal to 4.0mM; it then accumulates at the muscle and then moves to the bloodstream.
+Regular endurance exercise leads to adaptations in skeletal muscle which prevent lactate levels from rising. This is mediated via activation of PGC-1α which alters the isoenzyme composition of the LDH complex and decreases the activity of the lactate generating enzyme LDHA, while increasing the activity of the lactate metabolizing enzyme LDHB.
+
+
+== Training types ==
+The lactate threshold is a useful measure for deciding exercise intensity for training and racing in endurance sports (e.g., long distance running, cycling, rowing, long distance swimming and cross country skiing), but varies between individuals and can be increased with training.
+
+
+=== Interval training ===
+Interval training uses different work and rest periods allowing the body to temporarily exceed the lactate threshold at a high intensity, and then recover (reduce blood-lactate). This type of training uses the ATP-PC and the lactic acid system whilst exercising, which provides the most energy when there are short bursts of high intensity exercise followed by a recovery period. Interval training can take the form of many different types of exercise and should closely replicate the movements found in the sport. Interval training can be adjusted to the individual, however it is important to consider the intensity of each interval, duration or distance of each interval, length of rest/recovery, number of repetitions, frequency of training and recovery type.
+
+
+=== Fartlek training ===
+Fartlek and interval training are similar, the main difference being the structure of the exercise. Fartlek is a Swedish word, meaning speed play. This type of training is a combination of continuous (generally aerobic) and interval training (generally anaerobic), involving consistent changes of pace/intensity throughout the session.
+
+
+=== Aerobic and Anaerobic training ===
+It is important to understand the difference between lactate threshold and lactic acid. Aerobic training will not help with lactic acid tolerance however it will increase the lactate threshold. The body will build a better tolerance to the effects of lactic acid over time during training. Anaerobic training improves the muscles’ alkaline reserves, allowing the muscles’ ability to work in the presence of increased lactic acid. Training at or slightly above the intensity where this occurs improves the lactate threshold.
+
+
+== Measuring lactate threshold ==
+Your muscles are producing lactate even at rest, usually about 0.8-1.5 mmol/L. Although the lactate threshold is defined as the point when lactic acid starts to accumulate, some testers approximate this by crossing the lactate threshold and using the point at which lactate reaches a concentration of 4 mmol/L of lactate. Another way to measure lactate levels non-invasively is using Near-infrared spectroscopy. There are wearable NIRS sensors for professionals, so they can monitor their lactate levels real-time. Accurately measuring the lactate blood concentration involves taking blood samples (normally a pinprick to the finger, earlobe or thumb) during a ramp test where the exercise intensity is progressively increased.
+
+
+== Accuracy of blood samples ==
+Blood samples are a popular way of measuring the lactate blood concentration, however there are many factors that may affect the sample. Each individual has a different health status, thus the results from the blood lactate response can vary from factors prior to exercise such as the glycogen status of the participant and ambient temperature. “Furthermore, the lactate concentration measured may vary depending on the sampling site sweat contamination, and the accuracy of the lactate analyser.”  There are many factors that may give this test a false reading, it is important that an individual takes these into consideration, to receive an accurate test.
+
+
+== Lactate Measurement of Aerobic and Anaerobic Thresholds ==
+The aerobic threshold (AeT or AerT) is sometimes defined as the exercise intensity at which blood lactate concentrations rise above resting levels. Anaerobic threshold (AnT) is sometimes defined equivalently to the lactate threshold(LT); as the exercise intensity beyond which blood lactate concentration is no longer linearly related to exercise intensity, but increases with both exercise intensity and duration. The blood lactate concentration at the anaerobic threshold is called the "maximum steady-state lactate concentration" (MLSS).
+Aet is the exercise intensity at which aerobic energy pathways start to operate, considered to be around 65-85% of an individual's maximum heart rate. Some have suggested this is where blood lactate reaches a concentration of 2 mmol/litre (at rest it is around 1). The anaerobic energy system increases the ability to produce blood lactate during maximal exercise, resulting from an increased amount of glycogen stores and glycolytic enzymes.
+
+
+== See also ==
+Aerobic exercise
+Anaerobic exercise
+Running economy
+VO2 max
+vVO2max
+
+
+== References ==

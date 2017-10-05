@@ -1,0 +1,223 @@
+The algebraic reconstruction technique (ART) is a class of iterative algorithms used in computed tomography. These reconstruct an image from a series of angular projections (a sinogram). Gordon, Bender and Herman first showed its use in image reconstruction; whereas the method is known as Kaczmarz method in numerical linear algebra.
+ART can be considered as an iterative solver of a system of linear equations 
+  
+    
+      
+        A
+        x
+        =
+        b
+      
+    
+    {\displaystyle Ax=b}
+  . The values of the pixels are considered as variables collected in a vector 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , and the image process is described by a matrix 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  . The measured angular projections are collected in a vector 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  . Given a real or complex 
+  
+    
+      
+        m
+        ×
+        n
+      
+    
+    {\displaystyle m\times n}
+   matrix 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and a real or complex vector 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  , respectively, the method computes an approximation of the solution of the linear systems of equations as in the following formula,
+
+  
+    
+      
+        
+          x
+          
+            k
+            +
+            1
+          
+        
+        =
+        
+          x
+          
+            k
+          
+        
+        +
+        
+          λ
+          
+            k
+          
+        
+        
+          
+            
+              
+                b
+                
+                  i
+                
+              
+              −
+              ⟨
+              
+                a
+                
+                  i
+                
+              
+              ,
+              
+                x
+                
+                  k
+                
+              
+              ⟩
+            
+            
+              ∥
+              
+                a
+                
+                  i
+                
+              
+              
+                ∥
+                
+                  2
+                
+              
+            
+          
+        
+        
+          a
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x^{k+1}=x^{k}+\lambda _{k}{\frac {b_{i}-\langle a_{i},x^{k}\rangle }{\lVert a_{i}\rVert ^{2}}}a_{i}}
+  
+where 
+  
+    
+      
+        i
+        =
+        k
+        
+        
+          mod
+          
+            
+          
+        
+        m
+        +
+        1
+      
+    
+    {\displaystyle i=k\,{\bmod {\,}}m+1}
+  , 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+      
+    
+    {\displaystyle a_{i}}
+   is the i-th row of the matrix 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , 
+  
+    
+      
+        
+          b
+          
+            i
+          
+        
+      
+    
+    {\displaystyle b_{i}}
+   is the i-th component of the vector 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  , and 
+  
+    
+      
+        
+          λ
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \lambda _{k}}
+   is a relaxation parameter. The above formulae gives a simple iteration routine.
+An advantage of ART over other reconstruction methods (such as filtered backprojection) is that it is relatively easy to incorporate prior knowledge into the reconstruction process. ART falls into the category of Iterative reconstruction techniques.
+For further details see Kaczmarz method.
+
+
+== References ==

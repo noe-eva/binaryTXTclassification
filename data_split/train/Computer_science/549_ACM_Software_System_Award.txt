@@ -1,0 +1,50 @@
+The ACM Software System Award is an annual award that honors people or an organization "for developing a software system that has had a lasting influence, reflected in contributions to concepts, in commercial acceptance, or both". It is awarded by the Association for Computing Machinery (ACM) since 1983, with a cash prize sponsored by IBM of currently $35,000.
+
+
+== Recipients ==
+The following is a list of recipients of the ACM Software System Award:
+2016 – Andrew File System: John H. Howard, Michael L. Kazar, David A. Nichols, Sherri Nichols, Mahadev Satyanarayanan, Robert N. Sidebotham, Alfred Spector, Michael West
+2015 – GCC: Richard Stallman
+2014 – Mach: Rick Rashid, Avie Tevanian
+2013 – Coq: Thierry Coquand, Gérard Huet, Christine Paulin-Mohring, Bruno Barras, Jean-Christophe Filliâtre, Hugo Herbelin, Chet Murthy, Yves Bertot and Pierre Castéran
+2012 – LLVM: Vikram S. Adve, Evan Cheng and Chris Lattner
+2011 – Eclipse: John Wiegand, Dave Thomson, Gregory Adams, Philippe Mulet, Julian Jones, John Duimovich, Kevin Haaland, Stephen Northover, and Erich Gamma
+2010 – GroupLens Collaborative Filtering Recommender Systems: Peter Bergstrom, Lee R. Gordon, Jonathan L. Herlocker, Neophytos Iacovou, Joseph A. Konstan, Shyong (Tony) K. Lam, David Maltz, Sean M. McNee, Bradley N. Miller, Paul J. Resnick, John T. Riedl, Mitesh Suchak
+2009 – VMware Workstation for Linux 1.0: Edouard Bugnion, Scott Devine, Mendel Rosenblum, Jeremy Sugerman, Edward Y. Wang
+2008 – Gamma Parallel Database System: David DeWitt, Robert Gerber, Murali Krishna, Donovan Schneider, Shahram Ghandeharizadeh, Goetz Graefe, Michael Heytens, Hui-I Hsiao, Jeffrey Naughton, Anoop Sharma
+2007 – Statemate: David Harel, Hagi Lachover, Amnon Naamad, Amir Pnueli, Michal Politi, Rivi Sherman, Mark Trakhtenbrot, Aron Trauring
+2006 – Eiffel: Bertrand Meyer
+2005 – The Boyer-Moore Theorem Prover: Robert S. Boyer, Matt Kaufmann, J Strother Moore
+2004 – Secure Network Programming: Raghuram Bindignavle, Simon S. Lam, Shaowen Su, Thomas Y. C. Woo
+2003 – make: Stuart Feldman
+2002 – Java: James Gosling
+2001 – SPIN model checker: Gerard Holzmann
+1999 – The Apache Group: Brian Behlendorf, Roy Fielding, Rob Hartill, David Robinson, Cliff Skolnick, Randy Terbush, Robert S. Thau, Andrew Wilson
+1998 – S: John Chambers
+1997 – Tcl/Tk: John Ousterhout
+1995 – NCSA Mosaic: Marc Andreessen, Eric Bina
+1995 – World Wide Web: Tim Berners-Lee, Robert Cailliau
+1994 – Remote Procedure Call: Andrew Birrell, Bruce Nelson
+1993 – Sketchpad: Ivan Sutherland
+1992 – Interlisp: Daniel Bobrow, Richard R. Burton, L. Peter Deutsch, Ronald Kaplan, Larry Masinter, Warren Teitelman
+1991 – TCP/IP: Vinton G. Cerf, Robert E. Kahn
+1990 – NLS: Douglas C. Engelbart, William English, Jeff Rulifson
+1989 – PostScript: Douglas K. Brotz, Charles M. Geschke, William H. Paxton, Edward A. Taft, John E. Warnock
+1988 – INGRES: Gerald Held, Michael Stonebraker, Eugene Wong
+1988 – System R: Donald Chamberlin, Jim Gray, Raymond Lorie, Gianfranco Putzolu, Patricia Selinger, Irving Traiger
+1987 – Smalltalk: Adele Goldberg, Daniel Henry Holmes Ingalls, Jr., Alan C. Kay
+1986 – TeX: Donald E. Knuth
+1985 – VisiCalc: Dan Bricklin, Bob Frankston
+1984 – Xerox Alto: Butler W. Lampson, Robert Taylor, Charles P. Thacker
+1983 – UNIX: Dennis Ritchie, Ken Thompson
+
+
+== See also ==
+Software system
+
+
+== References ==
+
+
+== External links ==
+Software System Award — ACM Awards

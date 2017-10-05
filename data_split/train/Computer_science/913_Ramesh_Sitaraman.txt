@@ -1,0 +1,12 @@
+Ramesh Sitaraman is an Indian American computer scientist currently in the computer science department at University of Massachusetts Amherst. He is known for his work on distributed algorithms, content delivery networks, streaming video delivery, and application delivery networks.
+
+
+== Biography ==
+Ramesh Sitaraman received a B.Tech in Electrical Engineering from the Indian Institute of Technology, Madras and a Ph.D in computer science from Princeton University. In the past, he helped build Akamai's high-performance network for delivering web and media content  and is an Akamai Fellow. Currently, he is at the computer science department at University of Massachusetts, Amherst.
+
+
+== Research Interests ==
+Sitaraman's early research centered on algorithms for building reliable parallel networks from unreliable components by emulating a virtual overlay network on top of an underlying unreliable parallel network. Later, serving as a principal architect, he helped build the Akamai network, a large overlay network that currently delivers 15-30% of all web traffic using 190,000 servers in 110 countries in over 1,100 networks. He is known for helping pioneer Iarge distributed networks for web content delivery, streaming media delivery, and application delivery on the Internet. His current research is focused on energy efficiency of Internet-scale distributed networks. He is also known for his early work in building large-scale video delivery networks, measuring their performance, and more recently studying the impact of streaming video performance on users.
+
+
+== References ==

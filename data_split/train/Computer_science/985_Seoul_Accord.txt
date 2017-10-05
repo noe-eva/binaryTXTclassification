@@ -1,0 +1,38 @@
+The Seoul Accord is an international accreditation agreement for professional computing and information technology academic degrees, between the bodies responsible for accreditation in its signatory countries. Established in 2008, the signatories as of 2016 are Australia, Canada, Chinese Taipei, Hong Kong China, Japan, Korea, the United Kingdom and the United States. Provisional signatories include Ireland, New Zealand and Philippines.
+This agreement mutually recognizes tertiary level computing and IT qualifications between the signatory agencies. Graduates of accredited programs in any of the signatory countries are recognized by the other signatory countries as having met the academic requirements as IT professionals.
+
+
+== Scope ==
+The Seoul Accord covers tertiary undergraduate computing degrees. Engineering and Engineering Technology programs are not covered by the Seoul accord, although some Software engineering programs have dual accreditation with the Washington Accord.
+
+
+== Signatories ==
+The following are the signatory accreditation bodies of the Seoul Accord, their respective countries and territories, and years of admission:
+Australia - (Australian Computer Society, 2008)
+Canada - (Canadian Information Processing Society, 2008)
+Chinese Taipei - (Institute of Engineering Education Taiwan, 2008)
+Hong Kong China - (The Hong Kong Institution of Engineers, 2008)
+Japan - (JABEE, 2008)
+Korea - (Accreditation Board for Engineering Education of Korea, 2008)
+United Kingdom - (British Computer Society, 2008)
+United States - (ABET, 2008)
+The following are Provisional Signatories of the Seoul Accord, along with their respective countries and territories and years of admission:
+Ireland - (Engineers Ireland, 2015)
+New Zealand - (Institute of IT Professionals, 2015)
+Philippines - (The Philippine Information and Computing Accreditation Board, 2015]
+
+
+== See also ==
+Washington Accord - professional engineering degrees
+Sydney Accord - engineering technologists
+Dublin Accord - engineering technicians
+Chartered Engineer
+Outcome-based education
+Professional Engineer
+
+
+== References ==
+
+
+== External links ==
+Seoul Accord

@@ -1,0 +1,10 @@
+The Pacific Symposium on Biocomputing (PSB) is a multidisciplinary scientific meeting held annually since 1996. The conference is to presentation and discuss research in the theory and application of computational methods for biology. Papers and presentations are peer reviewed and published.
+PSB brings together researchers from the US and the Asian Pacific nations, to exchange research results and address open issues in all aspects of computational biology. PSB is a forum for the presentation of work in databases, algorithms, interfaces, visualization, modeling, and other computational methods, as applied to biological problems, with emphasis on applications in data-rich areas of molecular biology.
+The PSB aims for "critical mass" in sub-disciplines within biocomputing. For that reason, it is the only meeting whose sessions are defined dynamically each year in response to specific proposals. PSB sessions are organized by leaders in the emerging areas and targeted to provide a forum for publication and discussion of research in biocomputing's topics.
+
+
+== References ==
+
+
+== External links ==
+Pacific Symposium on Biocomputing web site

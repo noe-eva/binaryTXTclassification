@@ -1,0 +1,12 @@
+A prefix hash tree (PHT) is a distributed data structure that enables more sophisticated queries over a distributed hash table (DHT). The prefix hash tree uses the lookup interface of a DHT to construct a trie-based data structure that is both efficient (updates are doubly logarithmic in the size of the domain being indexed), and resilient (the failure of any given node in a prefix hash tree does not affect the availability of data stored at other nodes).
+
+
+== External links ==
+https://www.eecs.berkeley.edu/~sylvia/papers/pht.pdf - Prefix Hash Tree: An Indexing Data Structure over Distributed Hash Tables
+http://pier.cs.berkeley.edu - PHT was developed as part of work on the PIER project.
+http://www.tecnohobby.net/ppal/index.php/programacion/java/35-solucionador-de-puzzles-usando-arboles-trie-trie-trees-o-prefix-trees - Java implementation for searching words in a puzzle using a prefix tree.
+
+
+== See also ==
+Prefix tree
+P-Grid

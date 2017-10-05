@@ -1,0 +1,16 @@
+Successive Linear Programming (SLP), also known as Sequential Linear Programming, is an optimization technique for approximately solving nonlinear optimization problems.
+Starting at some estimate of the optimal solution, the method is based on solving a sequence of first-order approximations (i.e. linearizations) of the model. The linearizations are linear programming problems, which can be solved efficiently. As the linearizations need not be bounded, trust regions or similar techniques are needed to ensure convergence in theory. 
+SLP has been used widely in the petrochemical industry since the 1970s. 
+
+
+== See also ==
+Sequential quadratic programming
+
+
+== References ==
+
+
+== Sources ==
+Nocedal, Jorge; Wright, Stephen J. (2006). Numerical Optimization (2nd ed.). Berlin, New York: Springer-Verlag. ISBN 978-0-387-30303-1. 
+Bazaraa, Mokhtar S.; Sheraly, Hanif D.; Shetty, C.M. (1993). Nonlinear Programming, Theory and Applications (2nd ed.). John Wiley & Sons. ISBN 0-471-55793-5. 
+Palacios-Gomez, F.; Lasdon, L.; Enquist, M. (October 1982). "Nonlinear Optimization by Successive Linear Programming". Management Science. 28 (10). doi:10.1287/mnsc.28.10.1106.

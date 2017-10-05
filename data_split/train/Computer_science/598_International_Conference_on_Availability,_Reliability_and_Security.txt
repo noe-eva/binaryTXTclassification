@@ -1,0 +1,84 @@
+The ARES - The International Conference on Availability, Reliability and Security focuses on rigorous and novel research in the field of dependability, computer and information security. In cooperation with the conference several workshops are held covering a huge variety of security topics. The Conference and Workshop Proceedings are published by IEEE Computer Society Press. In the CORE ranking, ARES is ranked as B. Participants from almost 40 countries attend ARES 2013.
+The conference is hosted by universities and research institutions:
+2006: Vienna University of Technology, Austria
+2007: Vienna University of Technology, Austria, in co-operation with ENISA - The Network and Information Security Agency of the European Union
+2008: Polytechnic University of Catalonia, Spain, in co-operation with ENISA
+2009: Fukuoka Institute of Technology, Japan
+2010: Krakowska Akademia, Poland
+2011: Vienna University of Technology, Austria
+2012: University of Economics, Prague, Czech Republic
+2013: University of Regensburg, Germany
+
+
+== 2013: University of Regensburg, Germany ==
+In 2013 the keynotes of the ARES conference are held by
+Elena Ferrari, University of Insubria, Italy
+Carl Gunter, University of Illinois, USA
+Furthermore, a panel about Threats & Risk Management - Bridging the Gap between Industry needs and Research takes place. The panelists are:
+Gary McGraw, Cigital, US
+Greg Soukiassian, BC & RS, France
+Chris Wills, CARIS Research, UK
+Tutorials are held by Gary McGraw, Haya Shulman, Ludwig Fuchs, Stefan Katzenbeisser
+
+
+== 2012: University of Economics, Prague, Czech Republic ==
+In 2012 the keynotes of the ARES conference are held by:
+Annie Antón, Georgia Institute of Technology (US)
+Chenxi Wang, Vice President, Principal Analyst at Forrester Research (US)
+Further, a panel will be moderated by Shari Lawrence Pfleeger with the panelists:
+Angela Sasse, University College London (UK)
+David Budgen, Durham University (UK)
+Kelly Caine, Indiana University (US)
+
+
+== 2011: Vienna University of Technology, Austria ==
+In 2011 the keynotes of the ARES conference will be held by:
+Gary McGraw
+Shari Pfleeger
+Furthermore, Gene Spafford will give an invited talk.
+
+
+== 2010: Krakowska Akademia, Poland ==
+In 2010 the keynotes of the ARES conference were held by:
+Gene Spafford (Purdue University)
+Ross J. Anderson (Cambridge University)
+
+
+== 2009: Fukuoka Institute of Technology, Japan ==
+In 2009 the keynotes of the ARES conference were held by:
+Prof. Elisa Bertino (Purdue University)
+Sushil Jajodia (George Mason University Fairfax)
+Eiji Okamoto (Tsukuba University)
+Additionally an invited talk was held by:
+Solange Ghernaouti (University of Lausanne)
+The acceptance rate for ARES 2009 was 25% (= 40 full papers)
+
+
+== 2008: Polytechnic University of Catalonia (UPC) Barcelona, Spain ==
+In 2008 the keynotes of the ARES conference were held by:
+Prof. Ravi Sandhu, Executive Director, Chief Scientist and Founder, Institute for Cyber Security (ICS) and Lutcher Brown Endowed Chair in Cyber-Security
+Prof. Günther Pernul, Department of Information Systems, University of Regensburg
+Prof. Vijay Atluri, Management Science and Information Systems Department, Research Director of the Center for Information Management, Integration and Connectivity (CIMIC), Rutgers University
+The acceptance rate ARES 2008: 40 full papers of 190 submissions
+
+
+== 2007 Vienna University of Technology, Austria ==
+Since 2007 the ARES conference was held in conjunction with the CISIS conference. In 2007 the keynotes of the ARES conference were held by:
+Prof. Reinhard Posch, Chief Information Officer for the Federal Republic of Austria
+Prof. Bhavani Thuraisingham, Director of Cyber Security Research Center, University of Texas at Dallas (UTD)
+
+
+== 2006: Vienna University of Technology, Austria ==
+The first ARES conference in 2006 was held in conjunction with the AINA conference. In 2006 the keynotes of the ARES conference were held by:
+Dr. Louis Marinos, ENISA Security Competence Department, Risk Management, Greece
+Prof. Andrew Steane, Centre for Quantum Computation, University of Oxford, UK
+Prof. David Basin, Information Security, Department of Computer Science, ETH Zurich, Switzerland
+
+
+== External links ==
+Current and past ARES Conferences
+List of publications of the past ARES Conferences
+Current and past CISIS Conferences
+ENISA
+AINA
+DBLP

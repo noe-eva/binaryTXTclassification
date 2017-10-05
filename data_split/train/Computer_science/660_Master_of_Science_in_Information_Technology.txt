@@ -1,0 +1,25 @@
+A Master of Science in Information Technology (abbreviated M.Sc. IT, MSc IT or MSIT) is a type of postgraduate academic master's degree usually offered in a University's College of Business and in the recent years in integrated Information Science & Technology colleges. The MSIT degree is designed for those managing information technology, especially the information systems development process. The MSIT degree is functionally equivalent to a Master of Information Systems Management, which is one of several specialized master's degree programs recognized by the Association to Advance Collegiate Schools of Business (AACSB). MCA is a three year professional master's degree in the field of computer applications, awarded in India. The MCA program is designed for students with variety of undergraduate backgrounds, such as commerce and science, focusing in the field of IT.
+A joint committee of Association for Information Systems (AIS) and Association for Computing Machinery (ACM) members develop a model curriculum for the Master of Science in Information Systems (MSIT). The most recent version of the MSIS Model Curriculum was published in 2006.
+The course of study is concentrated around the Information Systems discipline. The core courses are (typically) Systems analysis, Systems design, Data Communications, Database design, Project management and Security. The degree typically includes coursework in both computer science and business skills, but the core curriculum might depend on the school and result in other degrees and specializations, including:
+Master of Science (Information Technology) M.Sc.(I.T)
+Master in Information Science (MIS)
+Master of Science in Information Systems Management (MISM)
+Master of Science in Information Technology (MSIT)
+Master of Computer Science (MCS)
+Master of Science in Information Systems (MSIS)
+Master of Science in Management of Information Technology (M.S. in MIT)
+Master of Information Technology (M.I.T.)
+Master of IT (M. IT or MIT) in Denmark
+Master of Computer Applications (MCA)
+Candidatus/candidata informationis technologiæ (Cand. it.) in Denmark
+
+
+== See also ==
+
+ABET - Accreditation Board for Engineering and Technology (United States)
+List of master's degrees
+Bachelor of Computer Information Systems
+Bachelor of Science in Information Technology
+
+
+== References ==

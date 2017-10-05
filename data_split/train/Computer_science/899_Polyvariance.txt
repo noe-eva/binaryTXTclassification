@@ -1,0 +1,4 @@
+In program analysis, an analysis is called polyvariant if functions are analyzed multiple times—typically once at each call site—to improve the precision of the analysis.
+
+
+== References ==

@@ -1,0 +1,11 @@
+Medoids are representative objects of a data set or a cluster with a data set whose average dissimilarity to all the objects in the cluster is minimal. Medoids are similar in concept to means or centroids, but medoids are always members of the data set. Medoids are most commonly used on data when a mean or centroid cannot be defined, such as for 3-D trajectories or in the gene expression context. The term is used in computer science in data clustering algorithms.
+For some data sets there may be more than one medoid, as with medians. A common application of the medoid is the k-medoids clustering algorithm, which is similar to the k-means algorithm but works when a mean or centroid is not definable. This algorithm basically works as follows. First, a set of medoids is chosen at random. Second, the distances to the other points are computed. Third, data are clustered according to the medoid they are most similar to. Fourth, the medoid set is optimized via an iterative process.
+Note that a medoid is not equivalent to a median or a geometric median. A median is only defined on 1-dimensional data, and it only minimizes dissimilarity to other points for a specific distance metric (Manhattan norm). A geometric median is defined in any dimension, but is not necessarily a point from within the original dataset.
+
+
+== See also ==
+k-medoids
+k-means algorithm
+
+
+== References ==

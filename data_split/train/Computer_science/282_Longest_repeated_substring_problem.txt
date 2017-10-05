@@ -1,0 +1,25 @@
+In computer science, the longest repeated substring problem is the problem of finding the longest substring of a string that occurs at least twice.
+This problem can be solved in linear time and space [ Θ(n) ] by building a suffix tree for the string (with a special end-of-string symbol like '$' appended), and finding the deepest internal node in the tree. Depth is measured by the number of characters traversed from the root. The string spelled by the edges from the root to such a node is a longest repeated substring. The problem of finding the longest substring with at least 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   occurrences can be solved by first preprocessing the tree to count the number of leaf descendants for each internal node, and then finding the deepest node with at least 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   leaf descendants that have no children. To avoid overlapping repeats, you can check that the list of suffix lengths has no consecutive elements with less than prefix-length difference.
+In the figure with the string "ATCGATCGA$", the longest substring that repeats at least twice is "ATCGA".
+
+
+== External links ==
+Allison, L. "Suffix Trees". Retrieved 2008-10-14. 
+C implementation of Longest Repeated Substring using Suffix Tree
+Online Demo: Longest Repeated Substring

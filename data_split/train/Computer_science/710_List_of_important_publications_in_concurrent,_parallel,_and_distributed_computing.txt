@@ -1,0 +1,34 @@
+This is a list of important publications in concurrent, parallel, and distributed computing, organized by field.
+Some reasons why a particular publication might be regarded as important:
+Topic creator – A publication that created a new topic
+Breakthrough – A publication that changed scientific knowledge significantly
+Influence – A publication which has significantly influenced the world or has had a massive impact on the teaching of concurrent, parallel, and distributed computing.
+
+
+== Consensus, synchronization, and mutual exclusion ==
+Synchronizing concurrent processes. Achieving consensus in a distributed system in the presence of faulty nodes, or in a wait-free manner. Mutual exclusion in concurrent systems.
+Dijkstra: “Solution of a problem in concurrent programming control”
+Dijkstra, E. W. (1965). "Solution of a problem in concurrent programming control". Communications of the ACM. 8 (9): 569. doi:10.1145/365559.365617. 
+This paper presented the first solution to the mutual exclusion problem. Leslie Lamport writes that this work “started the field of concurrent and distributed algorithms”.
+Pease, Shostak, Lamport: “Reaching agreement in the presence of faults”Lamport, Shostak, Pease: “The Byzantine generals problem”
+Pease, Marshall; Shostak, Robert; Lamport, Leslie (1980), "Reaching agreement in the presence of faults", Journal of the ACM, 27 (1): 228–234, doi:10.1145/322186.322188 .
+Lamport, Leslie; Shostak, Robert; Pease, Marshall (1982), "The Byzantine generals problem", ACM Transactions on Programming Languages and Systems, 4 (3): 382–401, doi:10.1145/357172.357176 .
+These two papers introduced and studied the problem that is nowadays known as Byzantine fault tolerance. The 1980 paper presented the classical lower bound that agreement is impossible if at least 1/3 of the nodes are faulty; it received the Edsger W. Dijkstra Prize in Distributed Computing in 2005. The highly cited 1982 paper gave the problem its present name, and also presented algorithms for solving the problem.
+Herlihy, Shavit: “The topological structure of asynchronous computation”Saks, Zaharoglou: “Wait-free k-set agreement is impossible …”
+Herlihy, Maurice; Shavit, Nir (1999), "The topological structure of asynchronous computation" (PDF), Journal of the ACM, 46 (6): 858–923, doi:10.1145/331524.331529 . Gödel prize lecture.
+Saks, Michael; Zaharoglou, Fotios (2000), "Wait-free k-set agreement is impossible: The topology of public knowledge", SIAM Journal on Computing, 29 (5): 1449–1483, doi:10.1137/S0097539796307698 .
+These two papers study wait-free algorithms for generalizations of the consensus problem, and showed that these problems can be analyzed by using topological properties and arguments. Both papers received the Gödel Prize in 2004.
+
+
+== Foundations of distributed systems ==
+Fundamental concepts such as time and knowledge in distributed systems.
+Halpern, Moses: “Knowledge and common knowledge in a distributed environment”
+Halpern, Joseph; Moses, Yoram (1990), "Knowledge and common knowledge in a distributed environment", Journal of the ACM, 37 (3): 549–587, doi:10.1145/79147.79161 .
+This paper formalized the notion of “knowledge” in distributed systems, demonstrated the importance of the concept of “common knowledge” in distributed systems, and also proved that common knowledge cannot be achieved if communication is not guaranteed. The paper received the Gödel Prize in 1997 and the Edsger W. Dijkstra Prize in Distributed Computing in 2009.
+
+
+== Notes ==
+
+
+== External links ==
+"Top-ranked Papers in "Distributed and Parallel Computing"", Microsoft Academic Search, archived from the original on 7 December 2009

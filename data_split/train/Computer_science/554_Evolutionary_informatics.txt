@@ -1,0 +1,42 @@
+Evolutionary informatics is a subfield of informatics addressing the practice of information processing in, and the engineering of information systems for, the study of biological evolution, as well as the study of information in evolutionary systems, natural and artificial.
+
+
+== Information processing in the study of biological evolution ==
+
+Scientists have gathered an enormous volume of information on biological evolution, and there are problems in management of that information similar to those in bioinformatics and genomics. Indeed, bioinformatics and genomics are pertinent to the study of evolution, and utilization of information from those areas is of concern in evolutionary informatics.
+
+
+=== Evolutionary Informatics Definitions ===
+The Evolutionary Informatics Lab defines:
+
+Evolutionary informatics merges theories of evolution and information, thereby wedding the natural, engineering, and mathematical sciences. Evolutionary informatics studies how evolving systems incorporate, transform, and export information.
+
+By comparison, the University of Edinburgh School of Informatics states:
+
+Informatics studies the representation, processing, and communication of information in natural and engineered systems. [...] The central notion is the transformation of information - whether by computation or communication, whether by organisms or artifacts. [...] Computational systems, whether natural or engineered, are distinguished by their great complexity, as regards both their internal structure and behaviour, and their rich interaction with the environment. Informatics seeks to understand and to construct (or reconstruct) such systems, using analytic, experimental and engineering methodologies.
+
+In 2006, the National Evolutionary Synthesis Center (NESCent), sponsored by the National Science Foundation, funded the NESCent Evolutionary Informatics Working Group and conference series:
+
+Though evolutionary biologists have developed powerful tools for inferring phylogenies, detecting selection, and so on, integrating evolutionary methodology into workflows in bioinformatics does not depend so much on the power of analysis tools as it does on a well-developed informatics infrastructure: software and standards for data exchange, visualization, input-and-output, editing, control, and storage-and-retrieval. We propose a working group to facilitate (directly and indirectly) the development of this infrastructure. Through a series of four meetings, each with presentations, discussion, and actual software development, the working group will build on the foundation provided by current analysis tools and available standards.
+
+The working group has filed its first (June 2007) and second (December 2007) reports to NESCent.
+
+
+== Study of information processing in evolutionary systems ==
+The notion that information processing is essential to life and to evolution predates the entry of the term informatics into the English language (1966). Various investigators argued in the 1940s that certain principles of information processing apply both in living and engineered systems, and much of their thinking is encapsulated in Norbert Wiener's Cybernetics, or Control and Communication in the Animal and the Machine (1948). Wiener regarded evolution as phylogenetic learning, or accrual of information in the genome. While cybernetics and biocybernetics address information, they place an emphasis on principles of feedback and control that informatics does not.
+Relatively recent work has focused on evolution as optimization of fitness functions, and has addressed the role of information in optimization. Beginning with a 1995 technical report and continuing with a 1997 article, "No Free Lunch Theorems for Optimization" Wolpert and Macready established that evolutionary algorithms have average performance no better than that of random search. They argued that superior performance could be achieved only if algorithms incorporate prior knowledge of problems, and provided an information-geometric analysis of how algorithms and problems are matched (and mismatched).
+English argued in 1996 that there was no free lunch due to an underlying "conservation of information," and pursued the notion further in 1999. In that work, conservation was characterized in terms of Shannon information and mutual information. In 2000, English turned to Kolmogorov complexity as a measure of information in instances of fitness functions and optimization algorithms. He observed that almost all problems exhibit a high degree of Kolmogorov randomness, and thus are easy for almost all optimization algorithms. In 2004, English gave a new perspective on conservation by way of characterizing approximate satisfaction of a necessary and sufficient condition for "no free lunch."
+Wolpert and Macready proved the existence of coevolutionary "free lunches" in 2005. This may be interpreted as the discovery of a problem class for which some coevolutionary algorithms are generally better informed than others of how to solve problems.
+
+
+== Controversy ==
+
+In 2007, Professor Robert J. Marks II included among his web pages at the Baylor University website some pages regarding an "Evolutionary Informatics Laboratory" (EIL). The university's administration subsequently removed those pages, which included unpublished scholarly papers coauthored by Marks and intelligent design advocate William A. Dembski. The EIL's website is now EvolutionaryInformatics.org.
+As of February August 2012, the publications portion of the Evolutionary Informatics Laboratory's website highlights seven major papers by Marks and Dembski et al. on the conservation of information and constraints on Darwinian searches. It provides a list of published papers and books on related topics by Affiliates of The Evolutionary Informatics Lab.
+
+
+== References ==
+
+
+== External links ==
+Evolutionary Bioinformatics Laboratory, Hunter College, CUNY

@@ -1,0 +1,4 @@
+In process calculus a stochastic probe is a measurement device that measures the time between arbitrary start and end events over a stochastic process algebra model.
+
+
+== References ==

@@ -1,0 +1,34 @@
+Howard Gobioff (1971 – 2008) was a computer scientist. He graduated magna cum laude with a double major in computer science and mathematics from the University of Maryland, College Park. At Carnegie Mellon University, he worked on the network attached secure disks project, before he went on to earn his PhD in computer science. He died suddenly from lymphoma at the age of 36.
+
+
+== Career ==
+In 1999, Gobioff went to work for Google, which was then just a 40-person startup. As a software engineer, he worked on the advertising system and the crawling and indexing system. In 2004, as Google's engineering director, he launched and led their Tokyo research and development center.
+
+
+== Google File System ==
+Gobioff was one of the architects of the Google File System, a proprietary distributed file system developed by Google for its own use. In "The Google File System," the seminal paper about the software, Gobioff and his co-authors outlined their design, reported measurements, and presented real world use of the system.
+Apache Hadoop's MapReduce and Hadoop Distributed File System components were originally derived respectively from Google's MapReduce and Google File System papers. Using the Google File System and MapReduce, or the Hadoop Distributed File System and MapReduce, a project can perform a computation over 10 Tbytes of data using 1,000 nodes, which previously would have been unachievable for most projects.
+
+
+== Gobioff Foundation ==
+The Gobioff Foundation was founded by Howard Gobioff in 2007, months before his sudden death in March 2008. His directive was to "make the world a better place." The Foundation funds the same causes that Gobioff himself supported and awards grants and microgrants in the fields of education, arts, and human rights.
+Among other initiatives, the Gobioff Foundation supports the Think Small to Think Big arts microgrant program in Tampa, Florida, which funded nearly 50 projects in the fields of dance, theater, installation, performance, sculpture, painting, jazz, punk rock, film, and digital art between 2011 and 2014.
+In 2014, the Gobioff Foundation joined a team of Florida grantmakers led by the Florida Philanthropic Network on Capitol Hill to meet with Florida's congressional delegation to discuss local philanthropic efforts and related legislative and public policy issues. These meetings were part of the annual Foundations on the Hill event organized by the Forum of Regional Associations of Grantmakers, in partnership with the Council on Foundations and the Alliance for Charitable Reform.
+
+
+== U.S. patents ==
+Gobioff was registered as co-inventor on 11 U.S. patents during his lifetime and post-mortem.
+United States Patent 7065618 – Ghemawat, Gobioff, & Leung (2006). Leasing scheme for data-modifying operations.
+United States Patent 7107419 – Ghemawat, Gobioff, Leung, & Desjardins (2006). Systems and methods for performing record append operations.
+United States Patent 7222119 – Ghemawat, Gobioff, & Leung (2007). Namespace locking scheme.
+United States Patent 7739233 – Ghemawat, Gobioff, & Leung (2010). Systems and methods for replicating data.
+United States Patent 7827214 – Ghemawat, Gobioff, & Leung (2010). Maintaining data in a file system.
+United States Patent 7865536 – Ghemawat, Gobioff, & Leung (2011). Garbage collecting systems and methods.
+United States Patent 8042112 – Zhu, Ibel, Acharya, & Gobioff (2011). Scheduler for search engine crawler.
+United States Patent 8065268 – Ghemawat, Gobioff, & Leung (2011). Systems and methods for replicating data.
+United States Patent 8504518 – Ghemawat, Gobioff, & Leung (2013). Systems and methods for replicating data.
+United States Patent 8707312 – Zhu, Ibel, Acharya, & Gobioff (2014). Document reuse in a search engine crawler.
+United States Patent 8707313 – Zhu, Ibel, Acharya, & Gobioff (2014). Scheduler for search engine crawler.
+
+
+== References ==

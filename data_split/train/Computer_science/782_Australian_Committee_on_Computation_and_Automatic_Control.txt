@@ -1,0 +1,16 @@
+The Australian Committee on Computation and Automatic Control (ANCCAC) was formed in 1958, with Professor John Bennett as the Foundation Chairman. It ran a computing conferences in Australia from 1960 and in 1961 was accepted as a member of the International Federation for Information Processing (IFIP). The Australian Computer Society took over these roles in 1969 and ANCCAC was dissolved.
+
+
+== ANCCAC Prize ==
+The ANCCAC Prize was established by ACS in 1969, to commemorate Australia's computer pioneers. A medal and a cash prize is awarded each year for the paper published each year in the ACS Journal.
+
+
+=== ANCCAC Prize recipients ===
+1991 Swatman P.A., Swatman P.M.C. and Everett J.E. (1990) "Stages of Growth of an Innovative Software House: an Additional Criterion for Software Package Selection", Australian Computer Journal, Vol. 22, No. 7, August, 88-98.
+2002 Sale, A. (2001) "Broadband Internet Access in Regional Australia", Journal of Research and Practice in Information Technology 33(4): 346-355.
+2003 C. A. Middleton (2002) "Who needs a `Killer App`? Two Perspectives on Content in Residential Broadband Networks". Journal of Research and Practice in Information Technology 34(2): 67-81.
+
+
+== External links ==
+ACS web site
+ACS ANCCAC Award

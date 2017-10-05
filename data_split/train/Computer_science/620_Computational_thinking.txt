@@ -1,0 +1,52 @@
+Computational thinking is the thought processes involved in formulating a problem and expressing its solution(s) in such a way that a computer—human or machine—can effectively carry out.
+Computational Thinking is an iterative process based on three stages (captured by the figure to the right):
+Problem formulation (abstraction);
+Solution expression (automation);
+Solution execution and evaluation (analyses).
+The history of computational thinking dates back at least to the 1950s but most ideas are much older. The term computational thinking was first used by Seymour Papert in 1980 and again in 1996. Computational thinking can be used to algorithmically solve complicated problems of scale, and is often used to realize large improvements in efficiency.
+
+
+== Overview ==
+The characteristics that define computational thinking are decomposition, pattern recognition / data representation, generalization/abstraction, and algorithms. By decomposing a problem, identifying the variables involved using data representation, and creating algorithms, a generic solution results. The generic solution is a generalization or abstraction that can be used to solve a multitude of variations of the initial problem.
+The phrase computational thinking was brought to the forefront of the computer science community as a result of an ACM Communications article on the subject by Jeannette Wing. The article suggested that thinking computationally was a fundamental skill for everyone, not just computer scientists, and argued for the importance of integrating computational ideas into other disciplines.
+
+
+== Computational thinking in K-12 in education ==
+Jeannette Wing envisioned computational thinking becoming an essential part of every child's education. However, since her article (published in 2006) integrating computational thinking into the K-12 curriculum has faced several challenges including the agreement on the definition of computational thinking. Currently Computational Thinking is broadly defined as a set of cognitive skills and problem solving processes that include (but are not limited to) the following characteristics:
+Using abstractions and pattern recognition to represent the problem in new and different ways
+Logically organizing and analyzing data
+Breaking the problem down into smaller parts
+Approaching the problem using programmatic thinking techniques such as iteration, symbolic representation, and logical operations
+Reformulating the problem into a series of ordered steps (algorithmic thinking)
+Identifying, analyzing, and implementing possible solutions with the goal of achieving the most efficient and effective combination of steps and resources
+Generalizing this problem-solving process to a wide variety of problems
+Current integration computational thinking into the K-12 curriculum comes in two forms: in computer science classes directly or through the use and measure of computational thinking techniques in other subjects. Teachers in Science, Technology, Engineering, and Mathematics (STEM) focused classrooms that include computational thinking, allow students to practice problem-solving skills such as trial and error (Barr, et al, 2011). Valerie Barr and Chris Stephenson describe computational thinking patterns across disciplines in a 2011 ACM Inroads article However Conrad Wolfram has argued that computational thinking should be taught as a distinct subject.
+
+
+== Center for Computational Thinking ==
+Carnegie Mellon University in Pittsburgh has a Center for Computational Thinking. The Center's major activity is conducting PROBEs or PROBlem-oriented Explorations. These PROBEs are experiments that apply novel computing concepts to problems to show the value of computational thinking. A PROBE experiment is generally a collaboration between a computer scientist and an expert in the field to be studied. The experiment typically runs for a year. In general, a PROBE will seek to find a solution for a broadly applicable problem and avoid narrowly focused issues. Some examples of PROBE experiments are optimal kidney transplant logistics and how to create drugs that do not breed drug-resistant viruses. 
+
+
+== Computational Thinking Resources ==
+There are a handful of on-line institutions which provide curriculum, and other related resources to build and strengthen pre-college students with Computational Thinking, Analysis and Problems Solving. One prominent one is the Carnegie Mellon Robotics Academy. It offers training sessions for both pre-college students, as well as teachers. CMU's programs exercise instructional scaffolding methods via engineering process. There is also another online site named legoengineering.com. offering similar resources.
+As far as a physical facility, in Central New Jersey, there is a small institution, named Storming Robots, offering technology programs to Grade 4 to 12 with an emphasis on Algorithmic and Computational Thinking via robotics projects throughout the school year. Students may follow its road map starting from Grade 4 until they graduate to college.
+
+
+== Criticism ==
+The concept of Computational Thinking has been criticized as too vague, as it's rarely made clear how it is different from other forms of thought. Some computer scientists worry about the promotion of Computational Thinking as a substitute for a broader computer science education, as computational thinking represents just one small part of the field. Others worry that the emphasis on Computational Thinking encourages computer scientists to think too narrowly about the problems they can solve, thus avoiding the social, ethical and environmental implications of the technology they create.
+
+
+== See also ==
+Computer-Based Math
+
+
+== References ==
+
+
+== External links ==
+The Robotics Academy, Carnegie Mellon University
+Rise of the Machines, Larry Wasserman
+What is Computational Thinking ?
+How to Teach Computational Thinking
+Cos'è il Pensiero Computazionale, In Italian
+L'alfabetizzazione al Pensiero Computazionale, In Italian

@@ -1,0 +1,35 @@
+Text, Speech and Dialogue (TSD) is an annual conference involving topics on natural language processing and computational linguistics. The meeting is held every September alternating in Brno and Pilsen, Czech Republic.
+The first Text, Speech and Dialogue conference took place in Brno in 1998.
+
+
+== Overview ==
+TSD series evolved as a prime forum for interaction between researchers in both spoken and written language processing from all over the world. Proceedings of TSD form a book published by Springer-Verlag in their Lecture Notes in Artificial Intelligence (LNAI) series.  TSD Proceedings are regularly indexed by Thomson Reuters Conference Proceedings Citation Index. Moreover, LNAI series are listed in all major citation databases such as DBLP, SCOPUS, EI, INSPEC or COMPENDEX.
+The conference is organized by the Faculty of Informatics, Masaryk University, Brno, and the Faculty of Applied Sciences, University of West Bohemia, Pilsen. The conference is supported by International Speech Communication Association. 
+
+
+== Conference Topics ==
+Corpora and Language Resources (monolingual, multilingual, text and spoken corpora, large web corpora, disambiguation, specialized lexicons, dictionaries)
+Speech Recognition (multilingual, continuous, emotional speech, handicapped speaker, out-of-vocabulary words, alternative way of feature extraction, new models for acoustic and language modelling)
+Tagging, Classification and Parsing of Text and Speech (morphological and syntactic analysis, synthesis and disambiguation, multilingual processing, sentiment analysis, credibility analysis, automatic text labeling, summarization, authorship attribution)
+Speech and Spoken Language Generation (multilingual, high fidelity speech synthesis, computer singing)
+Semantic Processing of Text and Speech (information extraction, information retrieval, data mining, semantic web, knowledge representation, inference, ontologies, sense disambiguation, plagiarism detection)
+Integrating Applications of Text and Speech Processing (natural language understanding, question-answering strategies, assistive technologies)
+Machine Translation (statistical, rule-based, example-based, hybrid, text and speech translation)
+Automatic Dialogue Systems (self-learning, multilingual, question-answering systems, dialogue strategies, prosody in dialogues)
+Multimodal Techniques and Modelling (video processing, facial animation, visual speech synthesis, user modeling, emotions and personality modeling)
+
+
+== Past Keynote Speakers ==
+
+
+== See also ==
+The list of computer science conferences contains other academic conferences.
+
+
+== References ==
+
+
+== External links ==
+ACL Member Portal
+TSD official website
+Perfil-CC rank

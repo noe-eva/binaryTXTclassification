@@ -1,0 +1,6 @@
+AQUA@home was a distributed computing project operated by D-Wave Systems and running on the Berkeley Open Infrastructure for Network Computing (BOINC) software platform. It closed down in August 2011. Its goal was to predict the performance of superconducting adiabatic quantum computers on a variety of problems arising in fields ranging from materials science to machine learning. It designed and analyzed quantum computing algorithms, using Quantum Monte Carlo techniques.
+AQUA@home was the first BOINC project to provide multi-threaded applications. It was also the first project to deploy an OpenCL test application under BOINC.
+Papers resulting from AQUA@home's computations are available at.
+
+
+== References ==

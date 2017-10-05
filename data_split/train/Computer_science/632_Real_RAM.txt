@@ -1,0 +1,24 @@
+In computing, especially computational geometry, a real RAM (random access machine) is a mathematical model of a computer that can compute with exact real numbers instead of the binary numbers used by most actual computers. The real RAM was formulated by Michael Ian Shamos in his 1978 Ph.D. dissertation.
+
+
+== Model ==
+The "RAM" part of the real RAM model name stands for "random access machine". This is a model of computing that resembles a simplified version of a standard computer architecture. It consists of a stored program, a computer memory unit consisting of an array of cells, and a central processing unit with a bounded number of registers. Each memory cell or register can store a real number. Under the control of the program, the real RAM can transfer real numbers between memory and registers, and perform arithmetic operations on the values stored in the registers.
+The allowed operations typically include addition, subtraction, multiplication, and division, as well as comparisons, but not modulus or rounding to integers. The reason for avoiding integer rounding and modulus operations is that allowing these operations could give the real RAM unreasonable amounts of computational power, enabling it to solve PSPACE-complete problems in polynomial time.
+When analyzing algorithms for the real RAM, each allowed operation is typically assumed to take constant time.
+
+
+== Implementation ==
+Software libraries such as LEDA have been developed which allow programmers to write computer programs that work as if they were running on a real RAM. These libraries represent real values using data structures which allow them to perform arithmetic and comparisons with the same results as a real RAM would produce. The time analysis of the underlying real RAM algorithm can be interpreted as counting the number of library calls needed by a given algorithm.
+
+
+== Related models ==
+The real RAM closely resembles the later Blum–Shub–Smale machine, which however lacks the memory unit that gives the real RAM the "RAM" part of its name. However, the real RAM is typically used for the analysis of concrete algorithms in computational geometry, while the Blum–Shub–Smale machine instead forms the basis for extensions of the theory of NP-completeness to real-number computation.
+An alternative to the real RAM is the word RAM, in which both the inputs to a problem and the values stored in memory and registers are assumed to be integers with a fixed number of bits. The word RAM model can perform some operations more quickly than the real RAM; for instance, it allows fast integer sorting algorithms, while sorting on the real RAM must be done with slower comparison sorting algorithms. However, some computational geometry problems have inputs or outputs that cannot be represented exactly using integer coordinates; see for instance the Perles configuration, an arrangement of points and line segments that has no integer-coordinate representation.
+
+
+== References ==
+
+
+== External links ==
+Feasible Real Random Access Machines References
+Geometric Computing The Science of Making Geometric Algorithms Work

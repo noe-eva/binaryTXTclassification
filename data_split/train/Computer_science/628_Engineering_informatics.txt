@@ -1,0 +1,142 @@
+Engineering Informatics is an engineering discipline combining information technology (IT) – or informatics – with engineering concepts; It is an interdisciplinary scientific area focusing on the application of advanced computing, information and communication technologies to engineering; The study of use of information and the design of information structures that facilitate the practice of engineering and of designed artifacts that embody and embed information technology and science to achieve social, economic and environmental goals. Given this perspective, the rest of the introduction identifies different strands of concepts that inform and support the evolution of engineering informatics as a distinct discipline that lives at the interface between engineering and informatics, in the same vein as bioinformatics, geoinformatics, medical informatics, and other applied disciplines.
+
+
+== Engineering Informatics as a discipline of field study ==
+Computer-aided design (CAD), intelligent CAD, engineering analysis, collaborative design support, computer-aided engineering, and product life-cycle management are some of the terms that have emerged over the past decades of computing in engineering. Codification and automation of engineering knowledge and methods have had major impact on engineering practice. The use of computers by engineers has consistently tracked advancements in computer and information sciences. Computing, algorithms, computational methods, and engineering have increasingly intertwined themselves as developments in theory and practice in both disciplines influence each other. Therefore, it is now time to begin using the term “engineering informatics” to cover the science of the information that flows through these processes.
+Informatics, with origins in the German word "Informatik" referring to automated information processing, has evolved to its current broad definition. The rise of the term informatics can be attributed to the breadth of disciplines that are now accepted and envisioned as contributing to the field of computing and information sciences. A common definition of informatics adopted by many departments/schools of informatics comes from the University of Edinburgh: "the study of the structure, behavior, and interactions of natural and artificial computational systems that store, process and communicate information.” Informatics includes the science of information, the practice of information processing, and the engineering of information systems.
+The history of engineering and computers shows a trend of increasing sophistication in the type of engineering problems being solved. Early CAD was primarily geometry driven (using mathematics and computer science). Then came the engineering use of AI, driven by theories of cognitive science and computational models of cognition (logic and pattern based). More recently, models of collaboration and representation and acquisition of collective knowledge have been introduced, driven by fields of social sciences (ethnography, sociology of work) and philosophy.
+Information technology and sciences to have both created the need for, and play a role in, facilitating the management of complex sociotechnical processes. Information is context specific and its engineering is an integral part of any exchange among people and machines. Thus, informatics is the process of:
+creating and codifying the linguistic worlds (representational structures) represented by the object worlds in the relevant domain, and
+managing the attendant meanings through their contexts of use and accumulation through synthesis and classification.
+Engineering informatics is a reflective task beyond the software/hardware that supports engineering; it is a cross-disciplinary perspective on the nature of collective intellectual work. It thereby becomes critical that a consciousness of the use of languages and their implications in the storage and retrieval of information in a work community be addressed as part of any information engineering task.
+The role informatics plays in engineering products and services has become significant in the past decades. Most of the development has happened in an ad hoc manner, as can be expected. Techniques appeared in computer science and in programming practice; these techniques get used in engineering as is. Early computing in engineering was limited due to the capacities of computers. Computational power and telecommunications systems have started to converge, resulting in the possibilities of untethered connections and exchange of information that was just a distant dream in the early computing days. These developments have made the problems of distance less onerous and allow for global design, manufacturing, and supply chains. However, the problem of managing a global supply chain still is a daunting task with numerous incompatibilities in information exchange and coordination.
+The problem of integrating entire sets of industries in a flexible and ad hoc manner is still a dream especially for small-scale industries within the larger global environment. For this dream to become a reality, standards become critical. With technology evolving continuously, the task of creating information standards for varieties of exchanges from the syntactic to the semantic is a challenge yet to be resolved.
+Computer scientists or engineers by themselves cannot solve engineering informatics problems or the processes required to manage information in the context of engineered systems—it has to be a collaborative effort. The lack of skills among computer scientists in engineering and engineers in computing has led to problems bridging the disciplines. What pedagogical stance can help prepare students to deal with the complexities that are inherent in the task of engineering informatics? The culture of learning has to encourage the appreciation of diversity at the same time looking for the core essence and canonical nature of the experiences. While the products of today are increasingly designed for variety, we still have not mastered this process conceptually, let alone are we preparing our students. The fundamental characteristic of engineering informatics is that it is applicable at local levels of decision making in a design process as well as at the holistic level of product management and organizational design.
+Nowadays, people are entering an era of networks where different infrastructural networks can be connected through information networks. The information network can connect the manufacturing network to the design and supply chain network in almost real time using information systems that include sensors and ID tags. One’s imagination is the limit in this integrative power of information networks. It is this new complex world that we need to teach students, among other things, the ability to reflect on the information they use and how to handle this information, what it means to use (or not) computational tools, the need to create tools at different scales of inquiry and across disciplines, and how to view one’s own discipline from an engineering informatics point of view.
+
+
+== Engineering technology areas ==
+It encompasses engineering technology areas in:
+Neural Network Engineering and Intelligent System Application
+Decision Support System and Information Modelling System
+Reverse Software Engineering and Reusable Software Engineering
+The application of Cryptography in Computer Security System
+Enterprise Architectural Framework and Application
+Distributed Engineering and Business Services
+Sensing, Monitoring, Control and Structural Dynamics
+Human and Social Modelling for Design Simulations
+Computational Engineering
+Virtual Office and Optimization
+Networking computing for Engineering
+IT Applications in Engineering
+Systems and Network Technologies
+Interactive Media and Internet Development
+Supply Chain and Logistics Management
+etc.
+
+
+== Universities and institutions offering Engineering Informatics ==
+Engineering Informatics is a field of undergraduate study in some universities and polytechnics:
+
+
+=== Czech Republic ===
+Tomas Bata University in Zlín, Zlín, Czech Republic
+
+
+=== Germany ===
+Otto-von-Guericke University Magdeburg, Magdeburg, Germany
+Hochschule für Technik und Wirtschaft Berlin, Berlin, Germany
+Technische Universität Ilmenau, Ilmenau, Germany
+
+
+=== Georgia ===
+Georgian Technical University, Ibilisi, Georgia
+
+
+=== Guatemala ===
+Universidad Mesoamericana, Guatemala City, Guatemala
+
+
+=== Greece ===
+University of Western Macedonia, Kozani, Greece
+International Hellenic University, Thessaloniki, Greece
+Technological Educational Institute of Central Macedonia, Serres, Greece
+Technological Educational Institute of West Macedonia, Kastoria, Greece
+
+
+=== Hungary ===
+Budapest University of Technology and Economics, Budapest, Hungary
+
+
+=== Indonesia ===
+Indonesia Computer University, Bandung, Indonesia
+Institut Teknologi Bandung, Bandung, Indonesia
+Telkom University, Bandung, Indonesia
+Budi Luhur University, Jakarta, Indonesia
+Pancasila University, Jakarta, Indonesia
+University of Bunda Mulia, Jakarta, Indonesia
+Universitas Bengkulu, Bengkulu, Indonesia
+Pamulang University, South Tangerang, Indonesia
+Indonesia Institute of Technology, South Tangerang, Indonesia
+Multimedia Nusantara University, South Tangerang, Indonesia
+Sanata Dharma University, Yogyakarta, Indonesia
+Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia
+Universitas Brawijaya, Malang, Indonesia
+
+
+=== Japan ===
+Waseda University, Shinjuku, Tokyo, Japan
+University of Tokyo, Bunkyo, Tokyo, Japan
+
+
+=== Lithuania ===
+Vilnius Gediminas Technical University, Vilnius, Lithuania
+
+
+=== Portugal ===
+Madeira University, Funchal, Ilha da Madeira, Portugal
+
+
+=== Singapore ===
+Nanyang Polytechnic, Ang Mo Kio, Singapore
+
+
+=== Taiwan ===
+Chung Hua University, Hsinchu, Taiwan
+
+
+=== United Kingdom ===
+Newcastle University, Newcastle upon Tyne, North East England, United Kingdom
+University of Cambridge, Cambridge, England, United Kingdom
+Cardiff University, Cardiff, Wales, United Kingdom
+
+
+=== United States ===
+Columbia University, Manhattan, New York City, United States
+Harvard University, Manhattan, Cambridge, Massachusetts, United States
+Massachusetts Institute of Technology, Cambridge, Massachusetts, United States
+Princeton University, New Jersey, United States
+Stanford University, Stanford, California, United States
+University of California, Berkeley, California, United States
+
+
+=== Venezuela ===
+Universidad Centroccidental Lisandro Alvarado, Barquisimeto, Venezuela
+Andrés Bello Catholic University, Caracas, Venezuela
+Alejandro de Humboldt University, Caracas, Venezuela
+Universidad Nacional Experimental de Guayana, Ciudad Guayana
+
+
+== Publications ==
+Advanced Engineering Informatics is a journal publication in the field of engineering informatics.
+The Need for a Science of Engineering Informatics. Artificial Intelligence for Engineering Design, Analysis and Manufacturing (AI-EDAM), 2007, 21:1(23–26).
+JCISE Special Issue, March 2008 This special issue has a guest editorial and a few research papers in the Engineering Informatics domain.
+Special Issue on “Engineering Informatics”, by Eswaran Subrahmanian and Sudarsan Rachuri, J. Comput. Inf. Sci. Eng. 8(1), 010301 (Feb 28, 2008).
+
+
+== Research ==
+Engineering Informatics Group, a research group at Stanford University, USA
+Portal:Information technology
+
+
+== References ==

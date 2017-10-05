@@ -1,0 +1,17 @@
+Leslie Blackett Wilson (born 1930) was chair of Computing Science at the University of Stirling, appointed on August, 1979. Previously, he was a Senior Lecturer in Computer Science at the Computing Laboratory of the University of Newcastle upon Tyne. He joined the Computing Laboratory in 1964. Before that, since 1951, he was a Senior Scientific Officer at the Naval Construction Research Establishment at Dunfermline.
+He has written four books in computer science and combinatorics. His book Comparative Programming Languages was regarded among the major textbooks on programming languages and has received positive reviews since its first edition. This book was translated into French in its second edition. As a researcher, he is best known for his contributions to extensions of the stable marriage problem.
+He was the doctoral advisor of Jayme Luiz Szwarcfiter.
+
+
+== Education ==
+Leslie Blackett Wilson got a B.Sc. in Mathematics from Durham University in 1951 and a D.Sc. degree from the University of Newcastle upon Tyne in 1980.
+
+
+== Books ==
+Wilson, Leslie Blackett; Clark, Robert George (1993). Comparative programming languages (second ed.). Boston, MA, USA: Addison-Wesley. p. 374. ISBN 0-201-56885-3. . Translated into French.
+Page, Ewan Stafford; Wilson, Leslie Blackett (1983). Information Representation and Manipulation Using Pascal. Cambridge Computer Science Texts. 15. New York, NY, USA: Cambridge University Press. p. 284. ISBN 0-521-24954-6. 
+Page, Ewan Stafford; Wilson, Leslie Blackett (1979). An introduction to computational combinatorics. Cambridge Computer Science Texts. 9. New York, NY, USA: Cambridge University Press. p. 228. ISBN 0-521-29492-4. 
+Page, Ewan Stafford; Wilson, Leslie Blackett (1978). Information, Representation and Manipulation in a Computer (second ed.). New York, NY, USA: Cambridge University Press. ISBN 0-521-29357-X. 
+
+
+== References ==

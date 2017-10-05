@@ -1,0 +1,16 @@
+Sportvision is a private company that provides various television viewing enhancements to a number of different professional sporting events. They work with NFL, NBA, NASCAR, NHL, MLB, PGA and college football broadcasts.
+In 1996, Stan Honey developed a way to track hockey pucks with a blue halo as seen by television viewers. It was assumed at that time that viewers had a hard time keeping track of the puck. Released as the FoxTrax puck, it was not a success but led to the 1998 formation of the Sportvision company and later that year the development of the 1st & Ten computer system, which generates and displays the yellow first down line that a TV viewer sees during a live football broadcast. The system became a major hit with television viewers when used during a broadcast of the Super Bowl. It has since become part of all standard American professional and college football and Canadian pro football broadcasts.
+Another popular Sportvision product is seen in broadcasts of NASCAR races. It is called RACEf/x, and creates virtual flags above the cars to make them easier to follow by the viewers.
+Sportvision also created the PITCHf/x system used by Major League Baseball to provide pitch data to users of MLB.com GameDay and viewers of Fox, Fox Sports Net, Rogers Sports Net and TBS, until its replacement by Statcast in 2017.
+The latest attempt for hockey was tested for deployment during the 2015 NHL All-Star weekend. The new system used computer chips to standardize and increase the volume of data tracked during the course of a game.
+
+
+== See also ==
+PVI Virtual Media Services
+
+
+== References ==
+
+
+== External links ==
+http://www.sportvision.com/

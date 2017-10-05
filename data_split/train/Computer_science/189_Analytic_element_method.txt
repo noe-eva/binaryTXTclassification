@@ -1,0 +1,20 @@
+The analytic element method (AEM) is a numerical method used for the solution of partial differential equations. It was initially developed by O.D.L. Strack at the University of Minnesota. It is similar in nature to the boundary element method (BEM), as it does not rely upon discretization of volumes or areas in the modeled system; only internal and external boundaries are discretized. One of the primary distinctions between AEM and BEMs is that the boundary integrals are calculated analytically.
+The analytic element method has been applied to problems of groundwater flow governed by a variety of linear partial differential equations including the Laplace, the Poisson equation, the modified Helmholtz equation, the heat equation, and the biharmonic equations.
+The basic premise of the analytic element method is that, for linear differential equations, elementary solutions may be superimposed to obtain more complex solutions. A suite of 2D and 3D analytic solutions ("elements") are available for different governing equations. These elements typically correspond to a discontinuity in the dependent variable or its gradient along a geometric boundary (e.g., point, line, ellipse, circle, sphere, etc.). This discontinuity has a specific functional form (usually a polynomial in 2D) and may be manipulated to satisfy Dirichlet, Neumann, or Robin (mixed) boundary conditions. Each analytic solution is infinite in space and/or time. In addition, each analytic solution contains degrees of freedom (coefficients) that may be calculated to meet prescribed boundary conditions along the element's border. To obtain a global solution (i.e., the correct element coefficients), a system of equations is solved such that the boundary conditions are satisfied along all of the elements (using collocation, least-squares minimization, or a similar approach). Notably, the global solution provides a spatially continuous description of the dependent variable everywhere in the infinite domain, and the governing equation is satisfied everywhere exactly except along the border of the element, where the governing equation is not strictly applicable due to the discontinuity.
+The ability to superpose numerous elements in a single solution means that analytical solutions can be realized for arbitrarily complex boundary conditions. That is, models that have complex geometries, straight or curved boundaries, multiple boundaries, transient boundary conditions, multiple aquifer layers, piecewise varying properties and continuously varying properties can be solved. Elements can be implemented using far-field expansions such that model containing many thousands of elements can be solved efficiently to high precision.
+A contemporary student of Strack's who is a proponent of the Analytic Element Method (AEM) in groundwater modeling applications is Dr. David Steward of Kansas State University.
+
+
+== See also ==
+Boundary element method
+
+
+== References ==
+Haitjema, H. M. (1995). Analytic element modeling of groundwater flow. San Diego, CA: Academic Press. ISBN 978-0-12-316550-3. 
+Strack, O. D. L. (1989). Groundwater Mechanics. Englewood Cliffs, NJ: Prentice Hall. 
+Fitts, C. R. (2012). Groundwater Science (2nd ed.). San Diego, CA: Elsevier/Academic Press. ISBN 9780123847058. 
+
+
+== External links ==
+Analytic elements community wiki
+Fitts Geolsolutions, AnAqSim (analytic aquifer simulator) and AnAqSimEDU (free) web site

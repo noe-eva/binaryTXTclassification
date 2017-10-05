@@ -1,0 +1,110 @@
+In computer science, a bidirectional map, or hash bag, is an associative data structure in which the 
+  
+    
+      
+        (
+        k
+        e
+        y
+        ,
+        v
+        a
+        l
+        u
+        e
+        )
+      
+    
+    {\displaystyle (key,value)}
+   pairs form a one-to-one correspondence. Thus the binary relation is functional in each direction: 
+  
+    
+      
+        v
+        a
+        l
+        u
+        e
+      
+    
+    {\displaystyle value}
+   can also act as a key to 
+  
+    
+      
+        k
+        e
+        y
+      
+    
+    {\displaystyle key}
+  . A pair 
+  
+    
+      
+        (
+        a
+        ,
+        b
+        )
+      
+    
+    {\displaystyle (a,b)}
+   thus provides a unique coupling between 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   and 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   so that 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   can be found when 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   is used as a key and 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   can be found when 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   is used as a key.
+
+
+== External links ==
+Boost.org
+Commons.apache.org
+Cablemodem.fibertel.com.ar (archived version)
+Codeproject.com
+Guava-libraries.googlecode.com
+bidict (bidirectional map implementation for Python)

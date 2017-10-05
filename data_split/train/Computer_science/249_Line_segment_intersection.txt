@@ -1,0 +1,26 @@
+In computational geometry, the line segment intersection problem supplies a list of line segments in the Euclidean plane and asks whether any two of them intersect, or cross.
+Simple algorithms examine each pair of segments. However, if a large number of possibly intersecting segments are to be checked, this becomes increasingly inefficient since most pairs of segments are not close to one another in a typical input sequence. The most common, more efficient way to solve this problem for a high number of segments is to use a sweep line algorithm, where we imagine a line sliding across the line segments and we track which line segments it intersects at each point in time using a dynamic data structure based on binary search trees. The Shamos–Hoey algorithm applies this principle to solve the line segment intersection detection problem, as stated above, of determining whether or not a set of line segments has an intersection; the Bentley–Ottmann algorithm works by the same principle to list all intersections in logarithmic time per intersection.
+
+
+== See also ==
+Line-line intersection
+
+
+== References ==
+
+
+=== Inline citations ===
+
+
+=== General references ===
+Mark de Berg; Marc van Kreveld; Mark Overmars; and Otfried Schwarzkopf (2000). Computational Geometry (2nd ed.). Springer. ISBN 3-540-65620-0.  Chapter 2: Line Segment Intersection, pp. 19–44.
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. Introduction to Algorithms, Second Edition. MIT Press and McGraw-Hill, 1990. ISBN 0-262-03293-7. Section 33.2: Determining whether any pair of segments intersects, pp. 934–947.
+J. L. Bentley and T. Ottmann., Algorithms for reporting and counting geometric intersections, IEEE Trans. Comput. C28 (1979), 643–647.
+
+
+== External links ==
+Intersections of Lines and Planes Algorithms and sample code by Dan Sunday
+Robert Pless. Lecture 4 notes. Washington University in St. Louis, CS 506: Computational Geometry.
+Line segment intersection in CGAL, the Computational Geometry Algorithms Library
+"Line Segment Intersection" lecture notes by Jeff Erickson.
+Line-Line Intersection Method With C Code Sample Darel Rex Finley

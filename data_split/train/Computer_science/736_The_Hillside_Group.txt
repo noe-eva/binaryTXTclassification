@@ -1,0 +1,55 @@
+The Hillside Group is an educational nonprofit organization founded in August 1993 to help software developers analyze and document common development and design problems as software design patterns. The Hillside Group supports the patterns community through sponsorship of the Pattern Languages of Programs conferences.
+
+
+== History ==
+In August 1993, Kent Beck and Grady Booch sponsored a mountain retreat in Colorado where a group converged on foundations for software patterns. Ward Cunningham, Ralph Johnson, Ken Auer, Hal Hildebrand, Grady Booch, Kent Beck and Jim Coplien struggled with Alexander's ideas and our own experiences to forge a marriage of objects and patterns. The Group agreed that we were ready to build on Erich Gamma's foundation work studying object-oriented patterns, to use patterns in a generative way in the sense that Christopher Alexander uses patterns for urban planning and building architecture. We then used the term generative to mean creational to distinguish them from Gamma patterns that captured observations. The Group was meeting on the side of a hill when all this occurred, hence the name.
+Since then, the Hillside Group has been incorporated as an educational non-profit. It currently sponsors and helps run various PLoP (Pattern Languages of Programming) conferences such as GuruPLoP, PLoP, EuroPlop, ChiliPlop, GuruPLoP, Asian PLoP, Scrum PLoP, Viking PLoP and Sugarloaf PLoP. Following are a list of historical PLoP conferences sponsored by The Hillside Group: ParaPLoP, KoalaPLoP, Mensore PLoP, ParaPLoP, Meta PLoP and UP97) The Hillside Group has also been responsible for getting the Pattern Languages Of Program Design series of books put together and published.
+
+
+== Activities ==
+The Hillside Group sponsors the Pattern Languages of Programs conferences in various countries, including the U.S., Brazil, Norway, Germany, Australia, and Japan. The Hillside Group assisted in publishing the Pattern Languages of Program Design book series until 2006. Since 2006, The Hillside Group has published patterns and conference proceedings through the Association for Computing Machinery (ACM) Digital Library.
+
+
+== Patterns Library ==
+The Hillside Patterns Library contains a comprehensive archive of patterns developed by the community, either directly or indirectly through the PLoP conferences.
+
+
+== Conferences ==
+The Hillside Group sponsors the conferences listed. The conferences focus on writing patterns, workshops, and invited talks related to pattern development. Most of the conferences are held annually and encourage attendees to submit papers pre-conference for inclusion in the writer's workshops. The papers undergo a shepherding process, where they are analyzed and evolved before conference attendance.
+PLoP: Pattern Languages of Programs
+ChiliPLoP: Southwestern Conference on Pattern Languages of Programs [1]
+EuroPLoP: European Conference on Pattern Languages of Programs [2]
+AsianPLoP: Japanese Conference on Pattern Languages of Programs [3]
+SugarLoafPLoP: Latin American Conference on Pattern Languages of Programming [4]
+VikingPLoP: Nordic Conference on Pattern Languages of Programs [5]
+ScrumPLoP: Conference on Pattern Languages of Scrum [6]
+EduPLoP: Educational Patterns Writing Workshop [7]
+
+
+== The Hillside Group Board ==
+The President of The Hillside Group for 2010–2014 is Joseph Yoder of The Refactory, Inc.
+The Hillside Group is led by a Board consisting of the President, Vice-President, Chief Operating Officer, Treasurer, two Directors, Secretary, two Editors in Chief and four Members.
+
+
+== Current Board ==
+
+
+== Founding members ==
+Ward Cunningham
+Ralph Johnson
+Ken Auer
+Hal Hildebrand
+Grady Booch
+Kent Beck
+Jim Coplien
+
+
+== References ==
+
+
+== External links ==
+The Hillside Group official website
+The Hillside Group European website
+List of PLoP Conferences
+LNCS Transactions on Pattern Languages of Programming
+ACM Digital Library

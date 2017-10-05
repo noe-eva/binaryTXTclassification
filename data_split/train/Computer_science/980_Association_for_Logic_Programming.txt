@@ -1,0 +1,26 @@
+The Association for Logic Programming (ALP) was founded in 1986. Its mission is "to contribute to the development of Logic Programming, relate it to other formal and also to humanistic sciences, and to promote its uses in academia and industry all over the world". It manages the International Conference on Logic Programming, oversees the Theory and Practice of Logic Programming (TPLP) journal published by Cambridge University Press, and publishes an electronic newsletter.
+The activities of the Association are directed by an Executive Committee and President, elected by ALP members. The current president is Torsten Schaub at the University of Potsdam. The previous presidents were: Keith Clark at Imperial College London from 1986 to 1990, Herve' Gallaire at ECRC in Munich from 1990 to 1993, David Scott Warren at Stony Brook from 1993 to 1997, Krzysztof Apt at CWI in Amsterdam from 1997 to 2001, Veronica Dahl at Simon Fraser University from 2001 to 2004, Manuel Hermenegildo at the Technical University of Madrid from 2004 to 2010, and Gopal Gupta at the University of Texas, Dallas from 2010 to 2014.
+In 1997, the ALP bestowed to fifteen recognized researchers in logic programming the title Founders of Logic Programming to recognize them as pioneers in the field.
+Maurice Bruynooghe (Belgium)
+Jacques Cohen (US)
+Alain Colmerauer (France)
+Keith Clark (UK)
+Veronica Dahl (Canada/Argentina)
+Maarten van Emden (Canada)
+Hervé Gallaire (France)
+Robert Kowalski (UK)
+Jack Minker (US)
+Fernando Pereira (US)
+Luís Moniz Pereira (Portugal)
+Ray Reiter (Canada)
+J. Alan Robinson (US)
+Peter Szeredi (Hungary)
+David H. D. Warren (UK)
+
+
+== References ==
+
+
+== External links ==
+Association for Logic Programming (ALP)
+Theory and Practice of Logic Programming journal

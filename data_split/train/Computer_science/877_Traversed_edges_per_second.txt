@@ -1,0 +1,13 @@
+The number of traversed edges per second that can be performed by a supercomputer cluster is a measure of both the communications capabilities and computational power of the machine. This is in contrast to the more standard metric of floating point operations per second (FLOPS), which does not give any weight to the communication capabilities of the machine. The term first entered usage in 2010 with the advent of petascale computing, and has since been measured for many of the world's largest supercomputers.
+In this context, an edge is a connection between two vertices on a graph, and the traversal is the ability of the machine to communicate data between these two points. The standardized benchmark associated with Graph500, as of September, 2011, calls for executing graph generation and search algorithms on graphs as large as 1.1 Petabyte.
+The ability of an application to utilize a supercomputer cluster effectively depends not only on the raw speed of each processor, but also on the communication network. The importance of communication capability varies from application to application, but it is clear that the LINPACK benchmarks traditionally used for rating the FLOPS of supercomputers do not require the same communications capability as many scientific applications. Therefore, alternative metrics that characterize the performance of a machine in a more holistic manner may be more relevant for many scientific applications, and may be desirable for making purchasing decisions.
+
+
+== See also ==
+TOP500
+Graph500
+HPCG benchmark
+Criticism of LINPACK benchmarks
+
+
+== References ==

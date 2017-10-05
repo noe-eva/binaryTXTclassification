@@ -1,0 +1,35 @@
+A testbed (also "test bed") is a platform for conducting rigorous, transparent, and replicable testing of scientific theories, computational tools, and new technologies.
+The term is used across many disciplines to describe experimental research and new product development platforms and environments. They may vary from hands-on prototype development in manufacturing industries such as automobiles (known as "mules"), aircraft engines or systems and to intellectual property refinement in such fields as computer software development shielded from the hazards of testing live.
+
+
+== Software development ==
+In software development testbedding is a method of testing a particular module (function, class, or library) in an isolated fashion. It may be used as a proof of concept or when a new module is tested apart from the program/system it will later be added to. A skeleton framework is implemented around the module so that the module behaves as if already part of the larger program.
+A typical testbed could include software, hardware, and networking components. In software development, the specified hardware and software environment can be set up as a testbed for the application under test. In this context, a testbed is also known as the test environment.
+Testbeds are also pages on the Internet where the public are given the opportunity to test CSS or HTML they have created and want to preview the results.
+
+
+=== Examples ===
+The Arena web browser was created by the World Wide Web Consortium (W3C) and CERN for testing HTML3, Cascading Style Sheets (CSS), Portable Network Graphics (PNG) and the libwww. Arena was replaced by Amaya to test new web standards 
+The Line Mode browser got a new function to interact with the libwww library as a sample and test application.
+The libwww was also created to test network protocols which are under development or to experiment with new protocols.
+
+
+== Aircraft engine development ==
+
+In development of new aircraft engines, these are fitted to a testbed aircraft for flight testing, before certification. For this adaptation, is required among other changes, new instrumentation wiring and equipment, fuel system and piping, as well structural modifications of wing. Allied Signal, Honeywell Aviation Services and Pratt Whitney Canada all used Boeing 720B jetliners as flying testbed aircraft.
+
+
+== References ==
+
+
+== See also ==
+
+Sandbox (software development)
+
+
+== External links ==
+PlanetLab Europe, the European portion of the publicly available PlanetLab testbed
+CMU's eRulemaking Testbed
+US National Science Foundation GENI - Global Environment for Network Innovations Initiative
+Helsinki Testbed (meteorology)
+Collaborative Adaptive Sensing of the Atmosphere (CASA) IP1 test bed

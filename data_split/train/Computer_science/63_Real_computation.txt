@@ -1,0 +1,19 @@
+In computability theory, the theory of real computation deals with hypothetical computing machines using infinite-precision real numbers. They are given this name because they operate on the set of real numbers. Within this theory, it is possible to prove interesting statements such as "The complement of the Mandelbrot set is only partially decidable."
+These hypothetical computing machines can be viewed as idealised analog computers which operate on real numbers, whereas digital computers are limited to computable numbers. They may be further subdivided into differential and algebraic models (digital computers, in this context, should be thought of as topological, at least insofar as their operation on computable reals is concerned). Depending on the model chosen, this may enable real computers to solve problems that are inextricable on digital computers (For example, Hava Siegelmann's neural nets can have noncomputable real weights, making them able to compute nonrecursive languages.) or vice versa. (Claude Shannon's idealized analog computer can only solve algebraic differential equations, while a digital computer can solve some transcendental equations as well. However this comparison is not entirely fair since in Claude Shannon's idealized analog computer computations are immediately done; i.e. computation is done in real time. Shannon's model can be adapted to cope with this problem.)
+A canonical model of computation over the reals is Blum–Shub–Smale machine (BSS).
+If real computation were physically realizable, one could use it to solve NP-complete problems, and even #P-complete problems, in polynomial time. Unlimited precision real numbers in the physical universe are prohibited by the holographic principle and the Bekenstein bound.
+
+
+== See also ==
+Hypercomputation, for other such powerful machines.
+
+
+== References ==
+
+
+== Further reading ==
+Lenore Blum, Felipe Cucker, Michael Shub, and Stephen Smale. Complexity and Real Computation. ISBN 0-387-98281-7. CS1 maint: Multiple names: authors list (link)
+Campagnolo, Manuel Lameiras (July 2001). Computational complexity of real valued recursive functions and analog circuits. Universidade Técnica de Lisboa, Instituto Superior Técnico. 
+Natschläger, Thomas, Wolfgang Maass, Henry Markram. The "Liquid Computer" A Novel Strategy for Real-Time Computing on Time Series (PDF). CS1 maint: Multiple names: authors list (link)
+Siegelmann, Hava. Neural Networks and Analog Computation: Beyond the Turing Limit. ISBN 0-8176-3949-7. 
+Siegelmann, Hava & Sontag, Eduardo D. On The Computational Power Of Neural Nets.

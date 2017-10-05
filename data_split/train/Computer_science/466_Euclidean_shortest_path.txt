@@ -1,0 +1,30 @@
+The Euclidean shortest path problem is a problem in computational geometry: given a set of polyhedral obstacles in a Euclidean space, and two points, find the shortest path between the points that does not intersect any of the obstacles.
+In two dimensions, the problem can be solved in polynomial time in a model of computation allowing addition and comparisons of real numbers, despite theoretical difficulties involving the numerical precision needed to perform such calculations. These algorithms are based on two different principles, either performing a shortest path algorithm such as Dijkstra's algorithm on a visibility graph derived from the obstacles or (in an approach called the continuous Dijkstra method) propagating a wavefront from one of the points until it meets the other.
+In three (and higher) dimensions the problem is NP-hard in the general case, but there exist efficient approximation algorithms that run in polynomial time based on the idea of finding a suitable sample of points on the obstacle edges and performing a visibility graph calculation using these sample points.
+There are many results on computing shortest paths which stays on a polyhedral surface. Given two points s and t, say on the surface of a convex polyhedron, the problem is to compute a shortest path that never leaves the surface and connects s with t. This is a generalization of the problem from 2-dimension but it is much easier than the 3-dimensional problem.
+Also, there are variations of this problem, where the obstacles are weighted, i.e., one can go through an obstacle, but it incurs an extra cost to go through an obstacle. The standard problem is the special case where the obstacles have infinite weight. This is termed as the weighted region problem in the literature.
+
+
+== See also ==
+Shortest path problem
+
+
+== Notes ==
+
+
+== References ==
+Aleksandrov, Lyudmil; Maheshwari, Anil; Sack, Joerg (2005), "Determining approximate shortest paths in weighted polyhedral surfaces", Journal of the ACM, 52: 25–53, doi:10.1145/1044731.1044733 .
+Chiang, Yi-Jen; Mitchell, Joseph S. B. (1999), "Two-point Euclidean shortest path queries in the plane", Proc. 10th ACM-SIAM Symposium on Discrete Algorithms (SODA 1999), pp. 215–224 .
+Choi, Joonsoo; Sellen, Jürgen; Yap, Chee-Keng (1994), "Approximate Euclidean shortest path in 3-space", Proc. 10th ACM Symposium on Computational Geometry, pp. 41–48, ISBN 0-89791-648-4, doi:10.1145/177424.177501 .
+Hershberger, John; Suri, Subhash (1999), "An optimal algorithm for Euclidean shortest paths in the plane", SIAM Journal on Computing, 28 (6): 2215–2256, doi:10.1137/S0097539795289604 .
+Kapoor, S.; Maheshwari, S. N. (1988), "Efficient algorithms for Euclidean shortest path and visibility problems with polygonal obstacles", Proc. 4th ACM Symposium on Computational Geometry, pp. 172–182, ISBN 0-89791-270-5, doi:10.1145/73393.73411 .
+Kapoor, S.; Maheshwari, S. N.; Mitchell, Joseph S. B. (1997), "An efficient algorithm for Euclidean shortest paths among polygonal obstacles in the plane", Discrete and Computational Geometry, 18 (4): 377–383, doi:10.1007/PL00009323 .
+Lanthier, Mark; Maheshwari, Anil; Sack, Joerg (2001), "Approximating shortest paths on weighted polyhedral surfaces", Algorithmica, pp. 527–562 .
+Lee, D. T.; Preparata, F. P. (1984), "Euclidean shortest paths in the presence of rectilinear barriers", Networks, 14 (3): 393–410, doi:10.1002/net.3230140304 .
+Li, Fajie; Klette, Reinhard (2011), Euclidean Shortest Paths: Exact or Approximate Algorithms, Springer-Verlag, ISBN 978-1-4471-2255-5, doi:10.1007/978-1-4471-2256-2 .
+Samuel, David; Toussaint, Godfried T. (1990), "Computing the external geodesic diameter of a simple polygon", Computing, 44 (1): 1–19, doi:10.1007/BF02247961 .
+Toussaint, Godfried T. (1989), "Computing geodesic properties inside a simple polygon" (PDF), Revue D'Intelligence Artificielle, 3 (2): 9–42 .
+
+
+== External links ==
+Implementation of Euclidean Shortest Path algorithm in KernelCAD software

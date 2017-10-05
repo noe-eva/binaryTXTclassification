@@ -1,0 +1,6 @@
+Lost in hyperspace (sometimes called Lost in hypertext) refers to the phenomenon of disorientation that a reader can experience when reading hypertext documents.
+
+
+== References ==
+J. Conklin, Hypertext: A survey and introduction, IEEE Computer, 20 (9) :17-41, 1987
+Deborah M. Edwards, Lynda Hardman, Lost in hyperspace: cognitive mapping and navigation in a hypertext environment, In: McAleese, Ray (ed.): Hypertext: theory into practice, Edinburgh, 1999, 90-105.

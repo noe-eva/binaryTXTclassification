@@ -1,0 +1,17 @@
+An automatic scorer is the computerized scoring system introduced into bowling alleys in the 1970s. The use of automatic scorers took away the task of keeping score by hand. This also introduced new bowlers to the game that otherwise would not participate. Most modern systems not only tally the score of a game, but also keep track of handicaps and the scores of league players. Brunswick Bowling & Billiards and QubicaAMF Worldwide are leaders in the research and development of computer systems for bowling alleys for score keeping and other related business (i.e. finance bookkeeping, payrolls, account receivables, account payables).
+Automatic scoring equipment is considered as a cornerstone of the bowling center and is marketed as such by capital equipment manufacturers. Today's systems offer advanced graphics, advertising, and marketing features and can also support scoring non-traditional games such as no-tap.
+Automatic scorers detect electronically a bowling pin with a wood core and an ionomer cladding. The pin has a fluorescent coating on the outer surface usually in the neck portion. The reason for this is so that electronically it can be detected if still standing or it has been knocked down. This is done with an ultraviolet light detecting system.
+Many bowlers didn't trust automatic scorers when they were introduced in the 1970s. Many continued to keep score using the traditional method on paper score sheets to verify the accuracy of the automatic scorers. Today, however, automatic scorers are found in most modern bowling centers. A 16-lane bowling center in Chicago installed the first Automatic Scorer in 1967 by Brunswick Corporation.
+In some installations, the automatic scoring is connected directly to the pinsetter circuitry with results sent electronically to the scorer. On string-based pin setting (used in five pin and some ten pin facilities) scores are determined by identifying which pin strings were tugged. Automatic scoring can also be directly connected to a Brunswick GS series pinsetter, which lowers the pin table after each ball.
+The automatic scoring is directly connected to the foul detection unit so that foul line violations are automatically scored.
+
+
+== Footnotes ==
+
+
+== References ==
+Optical bowling pin sensor
+Bowling pin detection system
+International Bowling Museum and Hall of Fame
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION - Form 10-K Intellectual Property Brunswick Annual Report
+Kane, Joseph Nathan et al., Famous first facts: a record of first happenings, discoveries, and inventions in American history, H.W. Wilson, 1997, ISBN 0-8242-0930-3

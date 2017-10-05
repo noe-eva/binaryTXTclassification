@@ -1,0 +1,23 @@
+Semantic computing is a field of computing that combines elements of semantic analysis, natural language processing, data mining and related fields.
+Semantic computing addresses three core problems:
+Understanding the (possibly naturally-expressed) intentions (semantics) of users and expressing them in a machine-processable format
+Understanding the meanings (semantics) of computational content (of various sorts, including, but is not limited to, text, video, audio, process, network, software and hardware) and expressing them in a machine-processable format
+Mapping the semantics of user with that of content for the purpose of content retrieval, management, creation, etc.
+The IEEE has held an International Conference on Semantic Computing since 2007.
+
+
+== See also ==
+Semantic audio
+Semantic Computing, eds. P. Sheu, H. Yu, C.V. Ramamoorthy, A. Joshi and L.A. Zadeh, IEEE/Wiley, 2010
+
+
+== References ==
+
+
+== External links ==
+IEEE International Conference on Semantic Computing
+IEEE International School on Semantic Computing
+International Journal of Semantic Computing
+Institute for Semantic Computing
+Semantic Computing Research Group
+Semantic Link Network

@@ -1,0 +1,15 @@
+In metadata, property equivalence is the statement that two properties have the same property extension or values. This usually (but not always) implies that the two properties have the same semantics or meaning. Technically it only implies that the data elements have the same values.
+Property equivalence is one of the three ways that a metadata registry can store equivalence mappings to other metadata registries.
+Note that property equivalence is not the same as property equality. Equivalent properties have the same "values" (i.e., the same property extension), but may have different intensional meaning (i.e., denote different concepts). Property equality should be expressed with the owl:sameAs construct. As this requires that properties are treated as individuals, such axioms are only allowed in OWL Full.
+
+
+== See also ==
+Metadata registry
+Web ontology language
+Class equivalence
+Synonym Ring
+
+
+== External links ==
+OWL equivalent property definition
+OWL same as definition

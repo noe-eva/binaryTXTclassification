@@ -1,0 +1,119 @@
+Biodiversity Informatics is the application of informatics techniques to biodiversity information for improved management, presentation, discovery, exploration and analysis. It typically builds on a foundation of taxonomic, biogeographic, or ecological information stored in digital form, which, with the application of modern computer techniques, can yield new ways to view and analyse existing information, as well as predictive models for information that does not yet exist (see niche modelling). Biodiversity informatics is a relatively young discipline (the term was coined in or around 1992) but has hundreds of practitioners worldwide, including the numerous individuals involved with the design and construction of taxonomic databases. The term "Biodiversity Informatics" is generally used in the broad sense to apply to computerized handling of any biodiversity information; the somewhat broader term "bioinformatics" is often used synonymously with the computerized handling of data in the specialized area of molecular biology.
+
+
+== Overview ==
+Biodiversity informatics (different but linked to bioinformatics) is the application of information technology methods to the problems of organizing, accessing, visualizing and analyzing primary biodiversity data. Primary biodiversity data is composed of names, observations and records of specimens, and genetic and morphological data associated to a specimen. Biodiversity informatics may also have to cope with managing information from unnamed taxa such as that produced by environmental sampling and sequencing of mixed-field samples. The term biodiversity informatics is also used to cover the computational problems specific to the names of biological entities, such as the development of algorithms to cope with variant representations of identifiers such as species names and authorities, and the multiple classification schemes within which these entities may reside according to the preferences of different workers in the field, as well as the syntax and semantics by which the content in taxonomic databases can be made machine queryable and interoperable for biodiversity informatics purposes...
+
+
+== History of the discipline of Biodiversity Informatics ==
+Biodiversity Informatics can be considered to have commenced with the construction of the first computerized taxonomic databases in the early 1970s, and progressed through subsequent developing of distributed search tools towards the late 1990s including the Species Analyst from Kansas University, the North American Biodiversity Information Network NABIN, CONABIO in Mexico, and others, the establishment of the Global Biodiversity Information Facility in 2001, and the parallel development of a variety of niche modelling and other tools to operate on digitized biodiversity data from the mid-1980s onwards (e.g. see ). In September 2000, the U.S. journal Science devoted a special issue to "Bioinformatics for Biodiversity", the journal "Biodiversity Informatics" commenced publication in 2004, and several international conferences through the 2000s have brought together Biodiversity Informatics practitioners, including the London e-Biosphere conference in June 2009. A supplement to the journal BMC Bioinformatics (Volume 10 Suppl 14) published in November 2009 also deals with Biodiversity Informatics.
+
+
+== History of the term "Biodiversity Informatics" ==
+According to correspondence reproduced by Walter Berendsohn, the term "Biodiversity Informatics" was coined by John Whiting in 1992 to cover the activities of an entity known as the Canadian Biodiversity Informatics Consortium, a group involved with fusing basic biodiversity information with environmental economics and geospatial information in the form of GPS and GIS. Subsequently, it appears to have lost any obligate connection with the GPS/GIS world and be associated with the computerized management of any aspects of biodiversity information (e.g. see )
+
+
+== Current Biodiversity Informatics issues ==
+
+
+=== Global list of all species ===
+One major issue for biodiversity informatics at a global scale is the current absence of a complete master list of currently recognised species of the world, although this is an aim of the Catalogue of Life project which has ca. 1.65 million species of an estimated 1.9 million described species in its 2016 Annual Checklist. A similar effort for fossil taxa, the Paleobiology Database documents some 100,000+ names for fossil species, out of an unknown total number.
+
+
+=== Problems with genus and species scientific names as unique and persistent identifiers ===
+Application of the Linnaean system of binomial nomenclature for species, and uninomials for genera and higher ranks, has led to many advantages but also problems with homonyms (the same name being used for multiple taxa, either inadvertently or legitimately across multiple kingdoms), synonyms (multiple names for the same taxon), as well as variant representations of the same name due to orthographic differences, minor spelling errors, variation in the manner of citation of author names and dates, and more. In addition, names can change through time on account of changing taxonomic opinions (for example, the correct generic placement of a species, or the elevation of a subspecies to species rank or vice versa), and also the circumscription of a taxon can change according to different authors' taxonomic concepts. One proposed solution to this problem is the usage of Life Science Identifiers (LSIDs) for machine-machine communication purposes, although there are both proponents and opponents of this approach.
+
+
+=== Achieving a consensus classification of organisms ===
+Organisms can be classified in a multitude of ways (see main page Biological classification), which can create design problems for Biodiversity Informatics systems aimed at incorporating either a single or multiple classification to suit the needs of users, or to guide them towards a single "preferred" system. Whether a single consensus classification system can ever be achieved is probably an open question, however the Catalogue of Life has commissioned activity in this area which has been succeeded by a published system proposed in 2015 by M. Ruggiero and co-workers.
+
+
+== Mobilizing primary biodiversity information ==
+"Primary" biodiversity information can be considered the basic data on the occurrence and diversity of species (or indeed, any recognizable taxa), commonly in association with information regarding their distribution in either space, time, or both. Such information may be in the form of retained specimens and associated information, for example as assembled in the natural history collections of museums and herbaria, or as observational records, for example either from formal faunal or floristic surveys undertaken by professional biologists and students, or as amateur and other planned or unplanned observations including those increasingly coming under the scope of citizen science. Providing online, coherent digital access to this vast collection of disparate primary data is a core Biodiversity Informatics function that is at the heart of regional and global biodiversity data networks, examples of the latter including OBIS and GBIF.
+As a secondary source of biodiversity data, relevant scientific literature can be parsed either by humans or (potentially) by specialized information retrieval algorithms to extract the relevant primary biodiversity information that is reported therein, sometimes in aggregated / summary form but frequently as primary observations in narrative or tabular form. Elements of such activity (such as extracting key taxonomic identifiers, keywording / index terms, etc.) have been practiced for many years at a higher level by selected academic databases and search engines. However, for the maximum Biodiversity Informatics value, the actual primary occurrence data should ideally be retrieved and then made available in a standardized form or forms; for example both the Plazi and INOTAXA projects are transforming taxonomic literature into XML formats that can then be read by client applications, the former using TaxonX-XML and the latter using the taXMLit format. The Biodiversity Heritage Library is also making significant progress in its aim to digitize substantial portions of the out-of-copyright taxonomic literature, which is then subjected to OCR (optical character recognition) so as to be amenable to further processing using Biodiversity Informatics tools.
+
+
+== Biodiversity Informatics standards and protocols ==
+In common with other data-related disciplines, Biodiversity Informatics benefits from the adoption of appropriate standards and protocols in order to support machine-machine transmission and interoperability of information within its particular domain. Examples of relevant standards include the Darwin Core XML schema for specimen- and observation-based biodiversity data developed from 1998 onwards, plus extensions of the same, Taxonomic Concept Transfer Schema, plus standards for Structured Descriptive Data and Access to Biological Collection Data (ABCD); while data retrieval and transfer protocols include DiGIR (now mostly superseded) and TAPIR (TDWG Access Protocol for Information Retrieval). Many of these standards and protocols are currently maintained, and their development overseen, by the Taxonomic Databases Working Group (TDWG).
+
+
+== Current Biodiversity Informatics activities ==
+At the 2009 e-Biosphere conference in the U.K., the following themes were adopted, which is indicative of a broad range of current Biodiversity Informatics activities and how they might be categorized:
+Application: Conservation / Agriculture / Fisheries / Industry / Forestry
+Application: Invasive Alien Species
+Application: Systematic and Evolutionary Biology
+Application: Taxonomy and Identification Systems
+New Tools, Services and Standards for Data Management and Access
+New Modeling Tools
+New Tools for Data Integration
+New Approaches to Biodiversity Infrastructure
+New Approaches to Species Identification
+New Approaches to Mapping Biodiversity
+
+National and Regional Biodiversity Databases and Networks
+A post-conference workshop of key persons with current significant Biodiversity Informatics roles also resulted in a Workshop Resolution that stressed, among other aspects, the need to create durable, global registries for the resources that are basic to biodiversity informatics (e.g., repositories, collections); complete the construction of a solid taxonomic infrastructure; and create ontologies for biodiversity data.
+
+
+== Biodiversity Informatics projects of the world ==
+Global projects:
+The Global Biodiversity Information Facility (GBIF), and the Ocean Biogeographic Information System (OBIS) (for marine species)
+The Species 2000, ITIS (Integrated Taxonomic Information System), and Catalogue of Life projects
+Global Names
+EOL, The Encyclopedia of Life project
+The Consortium for the Barcode of Life project
+The Map of Life project
+The uBio Universal Biological Indexer and Organizer, from the Woods Hole Marine Biological Laboratory
+The Index to Organism Names (ION) from Thomson Reuters, providing access to scientific names of taxa from numerous journals as indexed in the Zoological Record
+ZooBank, the registry for nomenclatural acts and relevant systematic literature in zoology
+The Index Nominum Genericorum, compilation of generic names published for organisms covered by the International Code of Botanical Nomenclature, maintained at the Smithsonian Institution in the U.S.A.
+The International Plant Names Index
+MycoBank, documenting new names and combinations for fungi
+The List of Prokaryotic names with Standing in Nomenclature (LPSN) - Official register of valid names for bacteria and archaea, as governed by the International Code of Nomenclature of Bacteria
+The Biodiversity Heritage Library project - digitising biodiversity literature
+Wikispecies, open source (community-editable) compilation of taxonomic information, companion project to Wikipedia
+TaxonConcept.org, a Linked Data project that connects disparate species databases
+Instituto de Ciencias Naturales. Universidad Nacional de Colombia. Virtual Collections and Biodiversity Informatics Unit
+ANTABIF. The Antarctic Biodiversity Information Facility gives free and open access to Antarctic Biodiversity data, in the spirit of the Antarctic Treaty.
+Genesys (website), database of plant genetic resources maintained in national, regional and international gene banks
+VertNet, Access to vertebrate primary occurrence data from data sets worldwide.
+Regional and national projects:
+Fauna Europaea
+Atlas of Living Australia
+A Pan-European Species-directories Infrastructure (PESI)
+Symbiota
+i4Life project
+Sistema de Información sobre Biodiversidad de Colombia
+India Biodiversity Portal (IBP)
+Bhutan Biodiversity Portal (BBP)
+Weed Identification and Knowledge in the Western Indian Ocean (WIKWIO)
+LifeWatch is proposed by ESFRI as a pan-European research (e-)infrastructure to support Biodiversity research and policy-making.
+A listing of over 600 current biodiversity informatics related activities can be found at the TDWG "Biodiversity Information Projects of the World" database.
+
+
+== See also ==
+Biodiversity
+Global biodiversity
+Taxonomic database
+Web-based taxonomy
+List of biodiversity databases
+
+
+== References ==
+
+
+== Further reading ==
+OECD Megascience Forum Working Group on Biological Informatics (1999). Final Report of the OECD Megascience Forum Working Group on Biological Informatics, January 1999. pp. 1–74. 
+Canhos, V.P.; Souza, S.; Giovanni, R. & Canhos, D.A.L. (2004). "Global biodiversity informatics: setting the scene for a "new world" of ecological modeling". Biodiversity Informatics. 1: 1–13. 
+Soberón, J. & Peterson, A.T. (2004). "Biodiversity informatics: managing and applying primary biodiversity data". Phil. Trans. R. Soc. Lond. B359: 689–698. doi:10.1098/rstb.2003.1439. 
+Chapman, A.D. (2005). Uses of Primary Species-Occurrence Data (PDF). Copenhagen: Global Biodiversity Information Facility. pp. 1–106. 
+Johnson, N.F. (2007). "Biodiversity informatics". Annual Review of Entomology. 52: 421–438. PMID 16956323. doi:10.1146/annurev.ento.52.110405.091259. 
+Sarkar, I.N. (2007). "Biodiversity informatics: organizing and linking information across the spectrum of life". Briefings in Bioinformatics. 8 (5): 347–357. PMID 17704120. doi:10.1093/bib/bbm037. 
+Guralnick, R.P.; Hill, A (2009). "Biodiversity Informatics: Automated Approaches for Documenting Global Biodiversity Patterns and Processes". Bioinformatics. 25 (4): 421–428. PMID 19129210. doi:10.1093/bioinformatics/btn659. 
+
+
+== External links ==
+Biodiversity Informatics (journal)
+Phyloinformatics (journal; closed business in 2006)
+ZooKeys (journal)
+Website of the 2009 e-Biosphere International Conference on Biodiversity Informatics
+Biodiversity Informatics at the University of Reading

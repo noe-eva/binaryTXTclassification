@@ -1,0 +1,5 @@
+Mobile automaton (plural: mobile automata) is a class of automata similar to cellular automata but which have a single "active" cell instead of updating all cells in parallel. In a mobile automaton, the evolution rules apply only to the active cell, and also specify how the active cell moves from one generation to the next. All cells that are not active remain the same from one generation to the next. Mobile automata can therefore be considered a hybrid between elementary cellular automata and Turing machines.
+
+
+== References ==
+Weisstein, Eric W. "Mobile Automaton". MathWorld.

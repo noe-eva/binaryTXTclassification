@@ -1,0 +1,20 @@
+Marlon Gerardo Dumas Menjivar (born 22 August 1975) is a Honduran computer scientist, and Professor of Software Engineering at the University of Tartu in Estonia, known for his contributions in the field of Business Process Management.
+Born in Honduras, Dumas received his PhD in Computer Science at the University of Grenoble in France in 2000. From 2000 to 2009 he was Lecturer at the Queensland University of Technology in Brisbane, Australia. In 2007 he was appointed Professor of Software Engineering at the University of Tartu in Estonia.
+In 2004 and 2007 Dumas was awarded the Queensland Government Fellowship to "undertake research on service-oriented software architectures in collaboration with SAP AG."
+Dumas is married with an Estonian, whom he has a daughter with.
+
+
+== Publications ==
+Dumas authored and co-authored numerous publications in the field of computer science. Books:
+Marlon Dumas, Wil M.P. van der Aalst, Arthur H.M. ter Hofstede (Editors), Process-Aware Information Systems: Bridging People and Software Through Process Technology, John Wiley & Sons, September 2005.
+Marlon Dumas, Marcello La Rosa, Jan Mendling, Hajo A. Reijers. Fundamentals of Business Process Management, Springer, February 2013
+Articles, a selection:
+Zeng, L., Benatallah, B., Dumas, M., Kalagnanam, J., & Sheng, Q. Z. (2003, May). Quality driven web services composition. In Proceedings of the 12th international conference on World Wide Web (pp. 411–421). ACM.
+Zeng, Liangzhao, et al. "QoS-aware middleware for web services composition." Software Engineering, IEEE Transactions on 30.5 (2004): 311-327.
+
+
+== References ==
+
+
+== External links ==
+Marlon Dumas at University of Tartu

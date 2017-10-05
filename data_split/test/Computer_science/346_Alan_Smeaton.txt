@@ -1,0 +1,23 @@
+Professor Alan F. Smeaton MRIA is a researcher and academic at Dublin City University. Among his accomplishments are founding TRECVid, the Centre for Digital Video Processing, and being a winner of the University President's Research Award in Science and Engineering in 2002 and the DCU Educational Trust Leadership Award in 2009. He is a founding director of Insight Centre for Data Analytics at Dublin City University (2013-2019). Prior to that he was a Principal Investigator and Deputy Director of CLARITY: Centre for Sensor Web Technologies, (2008-2013) and .
+Currently (2013), Prof. Smeaton also serves on the editorial boards for the ACM Journal on Computers and Cultural Heritage, Information Processing and Management and the journal Foundations and Trends in Information Retrieval. Prof. Smeaton was elected a Member of the Royal Irish Academy in May 2013, the highest academic distinction in Ireland.
+In 2012 Prof. Smeaton was appointed by Minister Sean Sherlock to the board of the Irish Research Council
+
+
+== Published works ==
+Books by Alan Smeaton include:
+Smeaton, Alan F (1987). Using Parsing of Natural Language as Part of Document Retrieval. 
+Smeaton, Alan F; Dublin, National Institute for Higher Education (1989*). Information Retrieval and Natural Language Processing.  
+Agosti, Maristella; Smeaton, Alan F (1996). Information retrieval and hypertext. ISBN 9780792397106. 
+Smeaton, Alan F; Society, British Computer (1990). AI and cognitive science '89: Dublin City University, 14-15 September, 1989. ISBN 9783540196082. 
+Representative Papers by Alan Smeaton include:
+TRECVID: Benchmarking the Effectiveness of Information Retrieval Tasks on Digital Video, Alan Smeaton and Paul Over, in Proceedings of the Second International Conference on Image and Video Retrieval, CIVR 2003, Springer Lecture Notes in Computer Science, vol. LNCS2728, Springer, London, 2003.
+Evaluation Campaigns and TRECVID, Alan Smeaton, Paul Over, and Wessel Kraaij, in Proceedings of the Eight ACM International Workshop on Multimedia Information Retrieval, MIR 2006, ACM, 2006.
+Smeaton, A. F. (1992). "Progress in the Application of Natural Language Processing to Information Retrieval Tasks". The Computer Journal. 35 (3): 268. doi:10.1093/comjnl/35.3.268. 
+
+
+== References ==
+
+
+== External links ==
+"Alan Smeaton's Home Pages". DCU School of Computing. 
+"Staff Details: Prof Alan Smeaton". DCU School of Computing. Archived from the original on 8 July 2013.

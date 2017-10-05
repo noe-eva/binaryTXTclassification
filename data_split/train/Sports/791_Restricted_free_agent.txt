@@ -1,0 +1,53 @@
+A restricted free agent is a type of free agent in the National Football League (NFL), National Hockey League (NHL), or National Basketball Association (NBA). Such players have special restrictions on the terms under which they can retain or change employment status with their athletic club teams.
+
+
+== NFL ==
+In the National Football League, a restricted free agent (RFA) is one with three accrued seasons (six or more regular season games with a team) of service, who has received a "qualifying" offer (a salary level predetermined by the Collective Bargaining Agreement between the league and its players, known as a "tender") from his current club. He can negotiate with any club through a certain date. If the restricted free agent accepts an offer sheet from a new club, his old club has "right of first refusal," a five-day period in which it may match the offer and retain him, or choose not to match the offer, in which case it may receive one or more draft picks for the upcoming draft from the player's new club. If an offer sheet is not executed, the player's rights revert to his old club the day after negotiations must end.
+
+
+=== Tender amounts ===
+In 2007, a second-round tender offer was added, and after the 2011 lockout, the top tender was removed. The three tender amounts for 2013 are as follows:
+Each player that signs a tender receives a non-guaranteed one-year salary that corresponds to the tender level. Teams which choose not to match an offer on a player with a low tender receive a draft pick corresponding to the round in which the player was originally drafted (except that the highest pick that can be surrendered for such a tender is a second-round pick). For example, a player who was originally drafted in the sixth round of the NFL Draft would force the team signing him to give his former team a sixth-round pick in the upcoming draft as compensation for his service. No compensation is required for an undrafted player on the lowest tender amount, so teams with valued undrafted RFAs are taking a notable risk by offering such tenders. (The top tender prior to 2011 required first- and third-round picks as compensation.)
+
+
+=== Examples of possible outcomes ===
+In addition to the following outcomes, if a player does not receive an offer sheet from his original team, he becomes an unrestricted free agent. If a player signs the offer sheet from his original team, he remains with that team.
+Team declining to match offer sheet. Carolina Panthers cornerback Ricky Manning, Jr. was a restricted free agent in the 2006 offseason. Based on the tender placed on Manning by the Panthers, the team would receive a third-round pick in the NFL Draft if Manning signed with another team. On April 21, the Chicago Bears signed Manning to an offer sheet - a five-year contract worth up to $23 million. Although the Panthers had a full week to decide if they wanted to match the offer sheet, they announced on April 24 that they would not match. At this time, Manning became a member of the Bears and the Panthers received a third-round draft choice in the 2006 draft from Chicago.
+Team matching offer sheet. Arizona Cardinals offensive guard Reggie Wells was a restricted free agent in the 2006 offseason. On March 17, the Buffalo Bills signed him to an offer sheet - a five-year deal worth approximately $18 million. Four days later on March 21, the Cardinals matched the Bills' offer sheet for Wells, and he reverted to the Cardinals.
+Team consummating a trade. The Miami Dolphins offered wide receiver Wes Welker a second-round tender in 2007. Although it was widely rumored that the New England Patriots would offer Welker a seven-year, $35 million deal, the Patriots ultimately traded their second- and seventh-round draft picks to the Dolphins for Welker, signing Welker to a five-year, $18 million contract.
+
+
+== NHL ==
+A player who is no longer considered to be entry-level, but does not qualify as an unrestricted free agent, becomes a restricted free agent when his contract expires. A player may only declare himself to be an unrestricted free agent if he is over the age of 27 or has played in the league for a minimum of 7 years.
+
+
+=== Qualifying offers ===
+The current team must extend a "qualifying offer" to a restricted free agent to retain negotiating rights to that player. Qualifying offers are for one year contracts. The minimum salary for the qualifying offer depends on the player's prior year salary.
+Players who earned less than $660,000 in the previous season must be offered 110 percent of last season's salary. Players making up to $1 million must be offered 105 percent. Players making over $1 million must be offered 100 percent.
+If the qualifying offer is not made, the player becomes an unrestricted free agent.
+If the player rejects a qualifying offer, he remains a restricted free agent.
+If the player does not sign before December 1, he is ineligible to play in the NHL for the remainder of the season.
+
+
+=== Possible outcomes ===
+If a player accepts a qualifying offer, he then signs a one-year contract with his current team under the terms of the offer. If the player rejects the qualifying offer, or has not yet accepted it he is able to negotiate offer sheets with other teams. Qualifying offers are required for a team to retain a player's rights, but in most cases the player and team will agree to a contract differing from the qualifying offer. Should the player sign an offer sheet with another team, his current team is notified and can no longer negotiate a new contract or trade the player rights to another team. The current team has 7 days to make a decision whether to match the offer sheet, or decline and receive draft pick compensation from the team making the offer sheet.
+Accept The player remains with his current team on a contract identical to that of the offer sheet. With the exception that the current team does not have to match any clauses restricting their ability to trade or reassign the player like a "no trade clause". The team is not allowed to trade the player for one year.
+Decline The player becomes a member of the team with whom he signed the offer sheet under all the terms of said offer sheet. His now former team claims draft picks from the player’s new team as compensation. Compensatory draft picks are determined by the player’s new salary on a sliding scale.
+For example:
+In 2008 a team that signed a restricted free agent to a salary averaging $2,615,625 to $3,923,437 per season lost a first-round draft pick and a third-round draft pick to the player’s former team.
+Signing a restricted free agent to a contract worth over $6,539,062 per year costs a team four first-round draft picks.
+At any point during the negotiation process, if the player has been in the NHL for longer than 4 years (less if the player signed his first contract after the age of 20), either the player or his current team may file for salary arbitration as a means of settling a contract dispute. At this point the player may no longer sign an offer sheet. The deadline to file for salary arbitration is July 5 with cases being heard between late July and early August.
+Salary Arbitration. Both the player and his current team submit their expectations for the player's salary for the coming year. The team cannot request a reduction in salary of greater than 15%. The arbitrator hears the case from both player and team and renders a verdict. The verdict sets the salary the team is required to pay the player. After the arbitrator's verdict is rendered, the team must make a decision within 48 hours of the verdict being rendered. If the team accepts, the player is signed to a new contract at the salary set in the verdict. Should the team decline, the player then becomes an unrestricted free agent.
+A team can take a player to arbitration once in his career. Players may request salary arbitration as often as they please.
+
+
+== NBA ==
+
+Players in the National Basketball Association (NBA) with four or less years of experience may become restricted free agents under certain conditions.
+
+
+== KHL ==
+Kontinental Hockey League players under 28 years of age as of July 1 of a given calendar year whose contracts are expired are considered restricted free agents. Just like the NHL and the NBA, the original team of a player who signed an offer sheet tendered by another team has seven days to match the offer sheet. However, unlike its North American counterpart, teams that decide not to match offer sheets collect transfer fees instead.
+
+
+== References ==

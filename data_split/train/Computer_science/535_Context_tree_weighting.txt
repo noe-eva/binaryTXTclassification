@@ -1,0 +1,11 @@
+The context tree weighting method (CTW) is a lossless compression and prediction algorithm by Willems, Shtarkov & Tjalkens 1995. The CTW algorithm is among the very few such algorithms that offer both theoretical guarantees and good practical performance (see, e.g. Begleiter, El-Yaniv & Yona 2004). The CTW algorithm is an “ensemble method,” mixing the predictions of many underlying variable order Markov models, where each such model is constructed using zero-order conditional probability estimators.
+
+
+== References ==
+Willems; Shtarkov; Tjalkens (1995), The Context-Tree Weighting Method: Basic Properties, 41, IEEE Transactions on Information Theory 
+Begleiter; El-Yaniv; Yona (2004), On Prediction Using Variable Order Markov Models (PDF), 22, Journal of Artificial Intelligence Research: Journal of Artificial Intelligence Research, pp. 385–421 
+
+
+== External links ==
+Relevant CTW papers and implementations
+CTW Official Homepage

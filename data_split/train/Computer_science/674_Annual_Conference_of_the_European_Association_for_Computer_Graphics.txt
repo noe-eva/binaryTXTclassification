@@ -1,0 +1,24 @@
+Eurographics is a Europe-wide professional computer graphics association. The association supports its members in advancing the state of the art in computer graphics and related fields such as multimedia, scientific visualization and human–computer interaction.
+
+
+== Major activities ==
+Eurographics organises many different activities and services for its members, who include researchers, developers, educators and those who work in the computer graphics industry, both as users and providers of computer graphics hardware, software, and applications. The events and services of the Association are open to everyone. The association organizes several prestigious venues such as the Eurographics Workshop on Rendering Techniques and the SIGGRAPH/EUROGRAPHICS Workshop On Graphics Hardware. Eurographics also publishes among others the Computer Graphics Forum, a quarterly journal.
+
+
+== Symposiums ==
+Eurographics Symposium on Geometry Processing
+Eurographics Symposium on Computer Animation
+Eurographics Symposium on Rendering
+Eurographics Symposium on Parallel Graphics and Visualization
+
+
+== Related Organizations ==
+SIGGRAPH — world biggest computer graphics conference
+Graphicon — the largest computer graphics conference in the former Soviet Union
+
+
+== External links ==
+Eurographics website
+all Eurographics publications are accessible through the Eurographics Digital Library
+Eurographics 2012 conference website
+Ke-Sen Huang page contains a directory of Eurographics publications.

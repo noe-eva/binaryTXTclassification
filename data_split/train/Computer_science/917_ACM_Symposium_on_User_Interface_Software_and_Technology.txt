@@ -1,0 +1,17 @@
+The ACM Symposium on User Interface Software and Technology (UIST) is an annual conference for technical innovations in human–computer interfaces. UIST is sponsored by ACM SIGCHI and ACM SIGGRAPH. By impact factor, it is the most impactful conference in the field of human–computer interaction. Scott Hudson is the current chair of the UIST community, which organizes the UIST conference.
+UIST 2014 was held in Honolulu, Hawaii, USA, 5–8 October 2014. UIST 2015 will be held in Charlotte, NC USA, 8-11 November 2015.
+
+
+== Overview ==
+UIST is a highly selective conference, with an acceptance rate of 20.3% over the last five years.
+
+
+== History ==
+ Through 2013, UIST was well known for its intimate single-track format. UIST 2014 introduced a new dual-track format.
+
+
+== Past Conferences ==
+Past and future UIST conferences include:
+
+
+== References ==

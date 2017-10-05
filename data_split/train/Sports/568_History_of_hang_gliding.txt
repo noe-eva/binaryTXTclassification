@@ -1,0 +1,190 @@
+Hang gliding is an air sport employing a foot-launchable aircraft known as a hang glider. Typically, a modern hang glider is constructed of an aluminium alloy or composite-framed fabric wing. The pilot is ensconced in a harness suspended from the airframe, and exercises control by shifting body weight in opposition to a control frame.
+
+
+== Overview ==
+Early hang glider designs did not reliably achieve safe flight, their builders lacking a comprehensive understanding of the underlying principles of flight. The first recorded controlled flights were by German engineer Otto Lilienthal, whose research, published in 1889, strongly influenced later designers. The type of aircraft employed by Lilienthal is now referred to as a hang glider. Further hang glider research was undertaken during the 1920s in Europe, Australia and the US, where designers tested several wing concepts and the 'pendulum weight-shift control system'.
+In 1957 the American space agency NASA began testing various formats of a new wing called the Rogallo wing with the intent of possibly implementing the design as a recovery system for the Gemini space capsules. The wing's simplicity of design and ease of construction, in combination with its slow flight characteristics, did not go unnoticed by hang glider enthusiasts; Rogallo's flexible wing airfoil was soon adapted to the purpose of recreational flight, launching a hang glider renaissance.
+
+
+== Early history ==
+By the end of the sixth century A.D., the Chinese had managed to build tethered kites large enough to sustain the weight of an average-sized man. Starting in the 1880s advancements were made in aerodynamics and construction that led to the first truly practical gliders; this information was often shared and published by early aviators and inventors, building a long series of incremental achievements. Through the 1880s several aviation pioneers emerged in different countries around the world all perusing glider designs with varying degrees of success. Chief among these were Otto Lilienthal in Berlin, Germany, Lawrence Hargrave in Sydney, New South Wales in Australia, Percy Pilcher in the United Kingdom, John Joseph Montgomery at Otay Mesa near San Diego, California (1880s) as well as at Santa Clara, California (1905) Octave Chanute and his team in Gary, Indiana, in the US, just to name a few.
+Otto Lilienthal duplicated some of his contemporaries' work and greatly expanded on it from 1874, publishing all of his research in 1889. He also produced a series of gliders, and in 1891 was able to make controlled flights of 25 metres (82 ft) or more routinely, as well as some soaring flights. He rigorously documented his work, influencing later designers; for this reason he is one of the best known and most influential of the early aviation pioneers. His type of aircraft is now known as a hang glider. By 1896 he had made about 2000 flights of 250 metres (820 ft) with a number of his designs when he crashed from a height of about 15 metres (49 ft), fracturing his spine.
+Percy Pilcher took a growing interest in aviation and built a glider called The Bat which he flew for the first time in 1895. Later that year Pilcher met and consulted with Otto Lilienthal, who was the leading expert in gliding; these discussions led to Pilcher building two more hang gliders, The Beetle and The Gull. Based on the work of his mentor Otto Lilienthal, in 1897 Pilcher built a third hang glider called The Hawk with which he broke the world distance record when he flew 250 metres (820 ft).
+
+
+=== Wasserkuppe ===
+The hang glider lost some importance from the introduction of wing warping in 1902 by the Wright brothers and subsequently of aileron control by the French. When World War 1 ended in 1918, the Treaty of Versailles practically ended engine-driven flights in Germany, thus, in the 1920s and 1930s, while aviators and aircraft makers in the rest of the world were working to improve the performance of powered aircraft, the Germans were designing, developing and flying ever more efficient gliders and discovering ways of using the natural forces in the atmosphere to make them fly farther and faster. These activities on Wasserkuppe promoted a renaissance of gliding aviation. Many of these gliders flown in 1920 were hang gliders in that they were controlled by the pilot's weight shift alone. The first Wasserkuppe glider competition was held in 1920, and from 1924 they were organised by Rhön-Rossitten Gesellschaft. Over the next decade, the contest grew in popularity. As many as 70 glider clubs from Europe sent their best gliders and pilots to compete for duration, altitude and distance prizes, the most coveted prize was that donated by President Paul von Hindenburg. As many as 60,000 spectators dotted the mountain slopes to watch these events. Virtually every European aeronautical engineer of the time tested and modified their aircraft there and reports were generated. Some competing hang glider designers were Alfried Gymnich, Gottlob Espenlaub, Alexander Lippisch, Heinz Schneider, Francis Chardon, Willi Pelzner, and Hans Richter while engineer Henri Mignet was busy in France and Czesław Tański was busy in Poland.
+
+
+== Invention of the flexible wing ==
+In 1904 Jan Lavezzari demonstrated a stiffened flexible-wing hang glider in flight at Berck-sur-Mer, France. In 1908, a glider with a triangular control frame and the pilot tethered behind it, was demonstrated in the territory of Breslau. These two developments were not reported to aircraft designers, so they bore no influence on the later flexible wing developments.
+In 1948, aeronautical engineer Francis Rogallo invented a self-inflating wing which he patented on March 20, 1951 as the Flexible Wing, also known as the flexwing and Rogallo wing. Francis Rogallo had first proposed his flexible wing concept to the Langley Research Center in the late 1940s as a simple, inexpensive approach to recreational flying, but the idea was not accepted as a project.
+
+It was on October 4, 1957, when the Russian satellite Sputnik became a concern to the United States and marked the beginning of the 'space race' and the creation of NASA. Rogallo was in position to seize the opportunity and with his help at the wind tunnels, NASA began a series of experiments testing Rogallo's flexible wing, which got renamed Parawing, in order to evaluate it as a recovery system for the project Gemini space capsules. Rogallo designed his flexible wing to allow the astronauts to deploy it like a parachute at subsonic speeds during reentry, then glide their capsule to a specified touchdown point. F. Rogallo's team collaborated with at least two American aircraft companies, Ryan Aeronautical Company and North American Aviation, as there was potential for gliders, dirigible parachutes, and other new types of manned aircraft; this mainly involved stabilizing the leading edges with compressed air beams or rigid structures like aluminium tubes. By 1961 NASA had already made test flights of an experimental STOL aerial utility aircraft – the Ryan XV-8 (also known as the "Flying Jeep" or "Fleep") and by March 1962, of a weight-shift glider called Paresev.
+Round parachutes were selected over the Rogallo wing to be used on the Gemini spacecraft and in 1965, funding on flexible wings research stopped.
+
+
+== Flexible-wing hang gliders ==
+
+The simplicity of the Rogallo wing, ease of construction, capability of slow flight and its gentle landing characteristics did not go unnoticed by some hang glider and ultralight glider enthusiasts. The publicity on the Fleep and the Paresev tests sparked interest in independent builders like Barry Palmer and John Dickenson, who separately explored distinct airframes and control systems to be adapted to a Rogallo wing and be flown as a hang glider.
+On August 1961, American engineer Barry Palmer developed and flew the first foot-launched Rogallo-wing hang glider. This took place near Latrobe, east of Sacramento, California. Palmer used aluminium tubing and no wires for construction, fearing kinking during assembly. Most flights were performed with just a set of inclined parallel bars that split his weight between his underarms and hands.
+The last of Palmer's foot-launched hang gliders flew in the summer of 1962 and it had a ski-lift type of seat mounted to the keel with a universal joint for pendulum weight-shift control. During the period from 1961 to 1963 Barry Palmer made tens of flights using this concept. His longest flight ranged in length up to 180 metres (590 ft), at altitudes up to 24 metres (79 ft), and had an overall glide ratio of 4.5 to 1.
+Palmer's wing was heavy by today's standards and was not particularly portable. Palmer relates that he had a good aerospace job and was flying for fun. He did not attempt to modernize or market the flexible-wing hang glider and shared all details with anybody interested.
+In April 1963 Mike Burns first flew the Skiplane, a flexible wing glider on pontoons. In September 1963, Australian inventor John Dickenson set out to build a water ski wing that could be released at altitude and glide to a safe landing. After seeing a Rogalo airfoil gliding parachute in a magazine, Dickenson designed the ski kite he called the Ski Wing. Dickenson fashioned an airframe that incorporated a triangle control frame and utilized wire bracing to distribute the load to the Rogallo airfoil; the pilot sat on a swinging seat. Dickenson's Ski Wing was stable and controllable, unlike the flat manned kites used at water ski shows at the time.
+The Ski Wing was first flown in public at the Grafton Jacaranda Festival, in Grafton, New South Wales, in September 1963 by Rod Fuller while towed behind a motorboat. The Ski Wing was light and portable so Dickenson decided to file for a patent; however, lacking resources, Dickenson procured a provisional patent – which would later lapse. By 1972, Australian builders Bill Bennett and Bill Moyes developed the Dickenson format of water ski kite into a foot-launched hang glider.
+In 2012, John Dickenson was awarded the Gold Medal by the Fédération Aéronautique Internationale, for "the invention of the modern hang glider".
+
+
+== Rigid-wing hang gliders ==
+
+There have been several rigid-wing hang gliders flown since Otto Lilienthal took his first flights in the 1890s. The first two high-performing modern hang gliders, however, were the Mitchell Wing and the Icarus.
+In 1908, a gliding club in Breslau had the pilot hung behind a cable-stayed triangle control frame for weight-shift control. Hang gliders with similar control were also built by Percy Pilcher, Augustus Herring, John J. Montgomery, Gottlob Espenlaub, Charles Richards, Barry Hill Palmer, George Spratt, Mike Burns, and John Dickenson.
+In the early 1940s Don Mitchell, an aeronautical engineer, first became involved with flying wing glider design and construction. WWII interrupted his research until 1974, with the advent of hang glider mania; adventurers were experimenting with design and exploring records worldwide. It was then that Mitchell's flying wing resurfaced. Dr. Howard Long took an interest and asked Don Mitchell to make him a refined 'flying wing' hang glider. The result was the foot-launched Mitchell Wing. When the foot-launched Mitchell Wing B-10 flew in the 1977 US Nationals, the hang gliding world was completely astounded. The Mitchell Wing then went on to set and hold every world record in its class. In 1980, George Worthington soared to 17,000 feet (5,200 m) high and glided 105 miles (169 km), setting two new rigid wing records. The Mitchell Wing had a single "D" spar with aircraft birch plywood torsion proof leading edge and 3-axes control. Foam ribs placed every 4.5 inches (110 mm) hold the D shape. The built-up truss ribs aft of the spar are covered with fabric. This structural design is simple, extremely strong and light (under 36.5 kg (80 lb).)
+In the 1950s Volmer Jensen designed the VJ-11, and VJ-23 biplane rigid-wing hang glider.
+In 1971, Jack Lambie, a schoolteacher from California, designed the popular Hang Loose Chanute-style biplane hang glider. Lambie organized the first modern era hang glider meet, the original Otto Meet, on the hills of Balboa in September 1972, and the Otto Lilienthal Universal Hang Glider Championships held on a hilltop in Corona del Mar, California, on May 23, 1971.
+On 1971 and 1972 the Icarus I and Icarus II were built, respectively. These were rigid biplane flying wing designs by Taras Kiceniuk, Jr. The Icarus V was essentially a monoplane version of the previous Icarus
+
+
+== Popularity ==
+The research by NASA as well as government reports and photographs of the flexible wing, were published and became available to the general public and soon, the Rogallo wing was turned into an easily constructed, inexpensive, foot-launchable glider. Barry Palmer corresponded with Richard Miller, who in 1964 developed the Bamboo Butterfly, followed by Tara Kiceniuk's Batso. Dave Kilbourne published his blueprint for a Rogallo wing Kilbo Kite hang glider in the early 1970s. Jim Foreman produced the Bat-Glider plans for a Rogallo-wing hang glider and sold copies for US$5 throughout the world; later, Taras Kiceniuk, Tom Dickinson and two other team members made a similar hang glider called Batso and sold copies of its plans. The plans of these hang gliders circulated in some magazines in the mid-1960s.
+Eventually, word of John Dickenson's success got out and more portable flexible wing gliders were built; the sudden commercial availability of his improved water ski hang gliders in 1969 by manufacturers like Bill Bennett (Delta Wing) and Bill Moyes (Moyes Gliders) added significantly to the flexible wing's popularity, which began to rise worldwide as a full-fledged sport.
+
+The extreme nature of foot-launched hang gliding appealed to the freewheeling culture of the early 1970s across America more as an expression of freedom than an air sport. Popularity was further fueled by the distribution of specialized international publications such as the Low & Slow magazine founded in 1971, Hang Glider Weekly and Ground Skimmer in 1972 and Glider Rider in 1975. Hang gliding was simultaneously promoted by major international publications such as Popular Mechanics, Popular Science and the Life magazine, all three magazines distributed worldwide in 1971; the Sky Riders hang gliding movie was released in 1976 with a powerful effect. The British SkyWings magazine has been published monthly since 1975 and Cross Country, the first truly international hang gliding magazine began publication in 1988.
+Free hang gliding took longer to catch on in Australia, where hang gliding was a water skiing sport and part of the New South Wales Water Skiing Association. In fact, Dickenson's Ski Wing was competing in the NSWWSA kite-flying section against the polygonal Japanese style flat kites. The first recorded foot-launched flight in Australia occurred in 1972 and the Australian Self Soaring Association was formed by foot-launched pilots in 1974. The first foot-launched Australian Championships were held in 1976.
+First flights in the early 1970s from Mt. Kilimanjaro by Moyes, and Caril Ridley's flights in India met with headlines. In 1973 the ZDF German Television produced a 30 min documentary on Mike Harker's world record hang glider flight from Mt. Zugspitze in Germany. This TV documentary helped promote the development of hang gliding in Europe. Harker also produced other hang gliding documentaries in the mid-1970s which were presented in TV by 16 countries.
+Although by the early 1970s many rigid wings were developed, none sold terribly well, while dozens of flexible-wing hang glider companies were springing up all over the world. The mid 1970s underwent significant improvements in hang glider design as manufacturers were bringing out new and improved models at a fast rate. From the simple structures of the early 1970s, the aspect ratio of the gliders increased dramatically, sails became tighter, battens became the rule, and the gliders became safer. In the late 1970s preformed aluminium battens became common. The Manta Fledgling IIB dominance at the 1979 US Nationals, invigorated interest in double surface wings and pilot-controlled surfaces. The "Fledge" demonstrated significant improvements in glide ratio and flight maneuvers. And in 1980, the Comet took the industry by storm and popularized the free-floating internalized crossbar and double-surface sail construction that has since become the standard.
+As usual, essentially parallel developments can be difficult to sort out and serialize, but in fact, the flexible-wing hang glider popularity started with the publicized Paresev and Fleep concept, followed by John Dickenson's adaptation and the aggressive entrepreneurial energies of Bill Bennett, Bill Moyes, Joe Faust, Dick Eipper, Mike Riggs, the Wills brothers and the massive enthusiasm of thousands of people wanting to glide, and began what is now an estimated US$50 million annual industry. Ironically, Dickenson never made any money and Francis Rogallo never claimed the rights to the patent he held, thus allowing his flexible wing airfoil to be used royalty free.
+It is certain that many people from many countries made contributions to the development of the flexible-wing hang glider. In the aviation context of 'first flights' and recreational vs. commercial developments new and old inventions often complement in synergy; it is in this evolutionary and social context that the crucial developments put together by Francis Rogallo and John Dickenson were the ones that were most successful and influential in the evolution of hang gliding.
+
+
+== Timeline ==
+
+1804 AD. Sir George Cayley built several gliders, distinguished between lift and drag and formulated the concepts of vertical tail surfaces, steering rudders and rear elevators.
+1883–86 John Joseph Montgomery independently built several gliders in the United States and used wind and water tables to formulate thoughts on lifting surfaces.
+1887 William Beeson instructs framed flexible-wing glider with trapezed pilot pendulumed: US Patent 376937, filed in 1887, William Beeson of Montana, US He evolved from his US Patents 243834, 245768, 361855 to his summary fertile 1887 teaching.
+1891 First controlled flights, Otto Lilienthal of Germany. His gliders have many features in common with modern hang gliders; they were foot-launched and controlled by displacing the center of gravity, referred to as 'weight-shift'.
+1891–96. First soaring flights. Germany, near Berlin at Gross Lichterfelde. Otto Lilienthal.
+1904, February 15. Jan Lavezzari flew a double lateen sail hang glider off Berck beach, France.
+1905 LIFE magazine shows a photograph of an early glider.
+1905 Aeronaut Daniel Maloney pilots a balloon-launched tandem Montgomery glider from thousands of feet above the ground to a landing at a predescribed location.
+1908. In the territory of Breslau, at a gliding club sports hang gliding meeting, the cable-stayed triangle control frame with hang glider pilot hung behind the triangle was flown.
+
+1920. Soaring becomes an organized sport at Wasserkuppe, Germany as the World War I Versailles treaty outlaws flying powered aircraft in Germany.
+1921. Dr. Wolfgang Klemperer breaks the Wright Brothers 1911 soaring record with a 13-minute flight in Germany. Both flights used ridge lift.
+1921. Gottlob Espenlaub demonstrates triangle control frame for his hang glider at Rhon, Germany.
+1923. Platz glider. Not foot-launchable by the pilot alone. Controlled by the pilot directly deforming the front canard wings. It was not a weight-shift hang glider but it was simple enough to be folded into a single length to be carried by Platz while riding a bicycle.
+1928. Austrian Robert Kronfeld proved that thermal lift could be used by a sailplane to gain altitude.
+
+1929. Aero towing becomes popular, the three forms of lift are becoming well known.
+1929. George A. Spratt demonstrated the use of the triangular control frame for hang glider pendulum weight-shift control, mechanically similar to that used in 1908 in a hang glider in Breslau. Later in the 1930s he invented the Control Wing aircraft.
+1933. Wave lift was discovered by Wolf Hirth and one of his students in Germany.
+1948. Francis Rogallo invents the flexible wing (Rogallo wing).
+1954 Igor Bensen continued emphatically the use of hung-pilot-behind triangle control frame for control method of kite gliders.
+1956. Aeronautical engineer Paul MacCready invents the MacCready Speed Ring, used by glider pilots the world over to select optimum flight speed.
+1957, October. Francis Rogallo released the flexible wing patent to the US government and NASA, producing the Parawing, to be used as a deployable space capsule parachute/glider.
+1960. Paresev (Paraglider Research Vehicle) – This experimental spacecraft re-entry kite/glider made use of the Rogallo wing; flight tests made in early 1962 inspired manufacture of flexible-wing hang gliders by hobbyists.
+1960 The 13-year-old Tony Prentice built a framed flexible-wing bi-conical hang glider with tether control system.
+1961. Fleep. Powered flexible wing aircraft design & manufacture begins.
+1961–62. First documented foot-launch with a Rogallo flex-wing hang glider: Barry Hill Palmer, California, US. Hang glider inspired from a photo of NASA's Fleep.
+1961. Celebrity Jim Hobson (James Hobson)(of Lawrence Welk Show fame) began experimenting with the Rogallo wing in model form, leading to the construction of a full-size glider which he flew it at Dockweiler Beach on January 2, 1962. The glider frame was fabricated from aluminum and aircraft bolts supported by aircraft cable attached to hardware store eye bolts and turnbuckles. A second larger hang glider was taken to Dockweiler Beach; it featured a 4 mil polyester film reinforced with fiberglass tape. Movies of August, 1962 flights were made.
+1961. Engineer Thomas Purcell builds a 4.9 metres (16 ft) wide Rogallo airfoil glider with an aluminium frame, wheels, a seat and basic control rods.
+1962. Ryan Aeronautical Company publicizes images of the Fleep flexible wing aircraft.
+1962. Mike Burns and Dick Swinbourne from Aerostructures, Sydney, Australia, design the Skiplane kite-glider based on the Rogallo wing. It used pendulum weight-shift control and floats.
+1963. John W. Dickenson, Australia. Making of the Ski Wing, the most influential hang glider model, encompassing a control frame and weight-shift control.
+1963, September. First flight of the Ski Wing, towed behind a motor boat. The kite/glider was piloted by Rod Fuller and then John Dickenson. Grafton, NSW, Australia.
+1963. First release and return to water of a Ski Wing. Grafton, Australia. Pilot: John Dickenson.
+1960s England. Tony Prentice designed and flew several non-Rogallo hang gliders.
+1966. Mike Burns and Dick Swinbourne (Aerostructures) begin commercial production of Dickenson's Mark V model using the Rogallo-based wing developed by Mike Burns.
+1966. Early flex-wing hang glider, Vista Del Mar. California, US by Richard Miller. His gliders, based on Barry Palmer's hang glider, were named Batso and Bamboo Butterfly. Their photos and plans were published in a few magazines during the 1960s. (See the Popularity section.)
+1966. Irvin Industries start marketing a commercial version of the Rogallo Wing to sport parachuting enthusiasts.
+1967, March. Bill Moyes and Bill Bennett taught to fly the Mark V hang glider by Mike Burns and John Dickenson.
+1967. First Australian ski-launch of a flexible-wing hang glider without auxiliary power (no towing). Launched from a snowed mountain with snow skis.- Bill Moyes. Mt. Crackenback, Australia. The hang glider was a Mark V purchased from Aerostructures.
+1969. Initial tether into headwind then released onto ridge to soar (32 minutes). Bill Moyes. NSW, Australia.
+1969. Tony Prentice. First flex-wing hang glider foot-launch in the United Kingdom.
+1971. Dave Kilbourne foot-launches and soars on ridge and thermal lift (1 hour) at Mission Peak, California, US. This seems to be the first foot-launch of a flexible wing not using skis.
+1971. Alfio Caronti, first flexible wing launched in Italy.
+1972. Rick Poynter and Murray Sargeson introduce hang gliding to New Zealand at the 'Fly a Kite Day' in Auckland. The New Zealand Hang Gliding Association is formed as a result of this.
+1973. Rick Poynter starts Pacific Sails in Auckland, New Zealand, manufacturing U.S. and Australian Hang Glider designs under license (Seagull III, Stinger), and developing competitive indigenous designs (Falcon, Lancer I, II, IV).
+1974. Caril Ridley conducted high altitude flights soaring from a Maharaja's lookout tower near Sonar Hot Springs, India. The event got worldwide coverage.
+1975. Weltmeisterschaft im alpinen Drachenflug in Koessen/Austria
+1975. First Silver Screen appearance in the Australian Kung-Fu film, The Man from Hong Kong.
+1976. Official FAI World Championships in Hang gliding in Koessen/Austria. Terry DeLore from New Zealand is crowned first World Hang Gliding Champion. Hang gliding is now on a FAI sanctioned air sport.
+1976. Rudy Kishazy performs the first loop and series of loops at Grands Montets, France.
+1977. Jerry Katz first to soar a distance of over 161 kilometres (100 mi), launching from Cerro Gordo Peak, in California's Owens Valley.
+1979 Manta Fledgling IIB success at US Nationals prompts new interest in double surface wings with aerodynamic controls. UP Comet design follows the improved glide ratio performance of the Fledge IIB.
+1980. East Germany bans hang gliding entirely, the only country to do so – ostensibly to prevent accidents, but in reality to prevent citizens using gliders to escape to the West.
+1983. Gérard Thévenot, the manufacturer of the Cosmos trike, introduced aerotowing, the use of weak links, parachute retrieval system of tow line and centre of thrust towing.
+1983. Larry Tudor breaks 200 mile barrier on flex-wing.
+1990. Larry Tudor breaks 300 mile barrier on flex-wing.
+1992. The Exxtacy rigid-wing hang glider, designed by Felix Ruehle.
+1999. The ATOS rigid-wing hang glider, designed by Felix Ruehle.
+2001. Manfred Ruhmer breaks 400 mile barrier on flex-wing.
+2012. John W. Dickenson is awarded the Gold Air Medal by the Fédération Aéronautique Internationale for the invention of the "modern hang glider".
+
+
+=== Production era ===
+The following generations follow the classification from the British Hang Gliding Museum's Hang Gliding History: Development in Britain of the Flexwing hang glider.
+
+1971–75. First Generation – Interest in the sport grew worldwide; development of hang gliders on a commercial scale.
+1974–76. Second Generation – Increased nose angle, deflexors.
+1977–79. Third Generation – Multiple deflexors.
+1978–80. Fourth Generation- Enclosed keel and tip rods.
+1978. The Atlas (La Mouette) entered the market. The pilot flew in a prone position. The Atlas had all of the safety elements that can still be found today.
+1980–97. Fifth Generation – Preformed battens. Floating cross bar. Cross bar enclosed in double surface. Hang glider performance then increased rapidly. The first truly successful "double surface" hang gliders were the Manta Fledge IIB (1979 US Nationals), Tom Peghiny's Kestrel and later the UP "Comet" designed by Roy Haggard (1980). Virtually all hang gliders over the next decade were refinements of the Comet. The first fifth-generation hang gliders to dispense with a raised keel pocket were the Wills Wing "HP" in the US and Enterprise Wings "Foil" in Australia (1984). Bob Trampenau of Seedwings introduced the VG (variable geometry), which was copied on most other hang gliders.
+1997 – present. Sixth Generation – Topless (without kingpost). While topless gliders had been experimented with in the past using struts or cantilever nose plates, in the late 1990s the use of strong carbon fiber crossbars allowed the kingpost on top of the wing to be more conveniently removed to further increase performance by reducing drag.
+
+
+== See also ==
+
+Aviation history
+Early flying machines
+Glider aircraft
+John W. Dickenson
+Hang gliding
+Paragliding
+Powered hang glider
+Rogallo wing
+Timeline of aviation
+
+
+== References ==
+
+
+== Print ==
+HGPAMag (2005). "April 2005 Issue". Hang Gliding and Paragliding Magazine. USHGPA. .
+Martin Hunt and David Hunn, Contribution by Dan Poynter. (1977). "Hang Gliding". 
+Lilienthal, Otto (1891). "Über meine diesjährigen Flugversuche (English translation)". Zeitschrift für Luftschiffahrt (12): 286–291. Retrieved December 27, 2005. .
+Lilienthal, Otto (1895). "Fliegesport und Fliegepraxis". Prometheus, Illustrirte Wochenschrift über die Fortschritte in Gewerbe, Industrie und Wissenschaft. 7 (322). Retrieved December 27, 2005.  (no. 322. vol. VII, 4. XII)
+Stéphane Malbos and Noel Whittall (2005). "And the World Could Fly". FAI Hang Gliding and Paragliding Commission (CIVL). 
+Markowski (1977). "The Hang Glider's Bible". 
+Mark Woodhams (2004–05). "Who invented the flex wing hang glider?". Newsletter of the British Columbia Hang Gliding and Paragliding Association, Volume 2 Issue 2. Retrieved October 24, 2006.  
+
+
+== External links ==
+Big Blue Sky is a feature length documentary about hang gliding
+The Oz Report – Worldwide Hang Gliding eZine and blog
+Horten flying wing
+Hortens forerunner of the modern hangglider, the HXb
+The Wing Is The Thing (TWITT)
+Flying wings
+Nurflugel
+The US Hang Gliding and Paragliding Association History
+Rogallo Hang Gliders
+
+
+=== Web and news ===
+"Rogallos of old". The Oz Report. 6 (218). October 22, 2002. Retrieved October 24, 2006.  Picture of Lavezzari Glider.
+"The Flying Prentice's". Homepage Stephan Nitsch > Links > Tony Prentice > Pictures. Retrieved January 1, 2006. 
+"Patent of Rogallos Flexible Kite". 1948. Retrieved December 27, 2005. 
+"Dick Cheney, Aircraft Designer/Builder". Published in October 1993 HANG GLIDING Magazine by John Heiney. 1993. Retrieved March 24, 2007. 
+"Hang Gliding and the Ultralight Trike". Barry Palmer's Web Site. Retrieved October 17, 2006. 
+"Chanute glider of 1896". Encyclopædia Britannica. Retrieved December 15, 2007. 
+"Grafton's Ski Wing". The Daily Examiner. October 21, 1963. 
+George, Negus (October 25, 2004). "Hang Gliders". Australian Broadcasting Corporation. 
+"Paresev (Parawing Research Vehicle)". NASA Dryden Photo Collections. Retrieved December 27, 2005. 
+"Hang Gliding History: Development in Britain of the Flexwing hang glider". British Hang Gliding Museum. Archived from the original on 2004-07-05. Retrieved December 26, 2005. 
+
+
+=== Video ===
+"Otto Lilienthal Universal Hang Glider Championships Corona del Mar, California May 23, 1971". Retrieved June 17, 2010. 
+"1988 Video of Francis Rogallo, John Dickenson, and Bill Moyes interviewed together". Retrieved May 5, 2010.

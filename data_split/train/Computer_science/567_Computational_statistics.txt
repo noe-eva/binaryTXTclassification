@@ -1,0 +1,63 @@
+Computational statistics, or statistical computing, is the interface between statistics and computer science. It is the area of computational science (or scientific computing) specific to the mathematical science of statistics. This area is also developing rapidly, leading to calls that a broader concept of computing should be taught as part of general statistical education.
+The terms 'computational statistics' and 'statistical computing' are often used interchangeably, although Carlo Lauro (a former president of the International Association for Statistical Computing) proposed making a distinction, defining 'statistical computing' as "the application of computer science to statistics", and 'computational statistics' as "aiming at the design of algorithm for implementing statistical methods on computers, including the ones unthinkable before the computer age (e.g. bootstrap, simulation), as well as to cope with analytically intractable problems" [sic].
+The term 'Computational statistics' may also be used to refer to computationally intensive statistical methods including resampling methods, Markov chain Monte Carlo methods, local regression, kernel density estimation, artificial neural networks and generalized additive models.
+
+
+== Computational statistics journals ==
+Communications in Statistics - Simulation and Computation
+Computational Statistics
+Computational Statistics & Data Analysis
+Journal of Computational and Graphical Statistics
+Journal of Statistical Computation and Simulation
+Journal of Statistical Software
+The R Journal
+Statistics and Computing
+Wiley Interdisciplinary Reviews Computational Statistics
+
+
+== Associations ==
+International Association for Statistical Computing
+
+
+== See also ==
+Free statistical software
+List of statistical packages
+Machine learning
+
+
+== References ==
+
+
+== Further reading ==
+
+
+=== Articles ===
+Albert, J.H.; Gentle, J.E. (2004), Albert, James H; Gentle, James E, eds., "Special Section: Teaching Computational Statistics", The American Statistician, 58: 1–1, doi:10.1198/0003130042872 
+Wilkinson, Leland (2008), "The Future of Statistical Computing (with discussion)", Technometrics, 50 (4): 418–435, doi:10.1198/004017008000000460 
+
+
+=== Books ===
+Drew, John H.; Evans, Diane L.; Glen, Andrew G.; Lemis, Lawrence M. (2007), Computational Probability: Algorithms and Applications in the Mathematical Sciences, Springer International Series in Operations Research & Management Science, Springer, ISBN 0-387-74675-7 
+Gentle, James E. (2002), Elements of Computational Statistics, Springer, ISBN 0-387-95489-9 
+Gentle, James E.; Härdle, Wolfgang; Mori, Yuichi, eds. (2004), Handbook of Computational Statistics: Concepts and Methods, Springer, ISBN 3-540-40464-3 
+Givens, Geof H.; Hoeting, Jennifer A. (2005), Computational Statistics, Wiley Series in Probability and Statistics, Wiley-Interscience, ISBN 978-0-471-46124-1 
+Klemens, Ben (2008), Modeling with Data: Tools and Techniques for Statistical Computing, Princeton University Press, ISBN 978-0-691-13314-0 
+Monahan, John (2001), Numerical Methods of Statistics, Cambridge University Press, ISBN 978-0-521-79168-7 
+Rose, Colin; Smith, Murray D. (2002), Mathematical Statistics with Mathematica, Springer Texts in Statistics, Springer, ISBN 0-387-95234-9 
+Thisted, Ronald Aaron (1988), Elements of Statistical Computing: Numerical Computation, CRC Press, ISBN 0-412-01371-1 
+
+
+== External links ==
+
+
+=== Associations ===
+International Association for Statistical Computing
+Statistical Computing section of the American Statistical Association
+
+
+=== Journals ===
+Computational Statistics & Data Analysis
+Journal of Computational & Graphical Statistics
+Statistics and Computing
+Communications in Statistics – Simulation and Computation
+Journal of Statistical Computation and Simulation

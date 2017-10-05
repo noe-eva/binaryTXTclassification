@@ -1,0 +1,53 @@
+The European Symposium on Algorithms (ESA) is an international conference covering the field of algorithms. It has been held annually since 1993, typically in early Autumn in a different European location each year. Like most theoretical computer science conferences its contributions are strongly peer-reviewed; the articles appear in proceedings published in Springer Lecture Notes in Computer Science. Acceptance rate of ESA is 24% in 2012 in both Design and Analysis and Engineering and Applications tracks.
+
+
+== History ==
+The first ESA was held in 1993 and contained 35 papers. The intended scope was all research in algorithms, theoretical as well as applied, carried out in the fields of computer science and discrete mathematics. An explicit aim was to intensify the exchange between these two research communities.
+In 2002, ESA incorporated the conference Workshop on Algorithms Engineering (WAE). In its current format, ESA contains two distinct tracks with their own programme committees: a track on the design an analysis of algorithms, and a track on engineering and applications, together accepting around 70 contributions.
+
+
+== ALGO conferences ==
+Since 2001, ESA is co-located with other algorithms conferences and workshops in a combined meeting called ALGO. This is the largest European event devoted to algorithms, attracting hundreds of researchers.
+Other events in the ALGO conferences include the following.
+WABI, the Workshop on Algorithms in Bioinformatics, was part of ALGO in 2001–2006 and 2008.
+WAOA, the Workshop on Approximation and Online Algorithms, has been part of ALGO since 2003.
+ATMOS, the Workshop on Algorithmic Approaches for Transportation Modeling, Optimization and Systems, formerly the Workshop on Algorithmic Methods and Models for Optimization of Railways, has been part of ALGO in 2003–2006 and 2008–2009.
+IPEC, the International Symposium on Parameterized and Exact Computation, founded in 2004 and formerly the International Workshop on Parameterized and Exact Computation (IWPEC), is part of ALGO since 2011
+ATMOS was co-located with the International Colloquium on Automata, Languages and Programming (ICALP) in 2001–2002.
+
+
+== ESA locations ==
+
+1993 – Bad Honnef, Germany
+1994 – Utrecht, Netherlands
+1995 – Corfu, Greece
+1996 – Barcelona, Spain
+1997 – Graz, Austria
+1998 – Venice, Italy
+1999 – Prague, Czech Republic
+2000 – Saarbrücken, Germany
+2001 – Århus, Denmark
+2002 – Rome, Italy
+2003 – Budapest, Hungary
+2004 – Bergen, Norway
+2005 – Palma de Mallorca, Spain
+2006 – Zürich, Switzerland
+2007 – Eilat, Israel
+2008 – Karlsruhe, Germany
+2009 – Copenhagen, Denmark
+2010 – Liverpool, United Kingdom
+2011 – Saarbrücken, Germany
+2012 – Ljubljana, Slovenia
+2013 - Sophia Antipolis, France
+2014 - Wrocław, Poland
+2015 - Patras, Greece
+2016 - Aarhus, Denmark
+
+
+== External links ==
+Web site of ESA.
+ALGO History on ALGO 2009 web site.
+Index of ESA proceedings.
+
+
+== References ==

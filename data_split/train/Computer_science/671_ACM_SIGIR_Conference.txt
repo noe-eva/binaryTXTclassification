@@ -1,0 +1,23 @@
+SIGIR is the Association for Computing Machinery's Special Interest Group on Information Retrieval. The scope of the group's specialty is the theory and application of computers to the acquisition, organization, storage, retrieval and distribution of information; emphasis is placed on working with non-numeric information, ranging from natural language to highly structured data bases.
+
+
+== Conferences ==
+The annual international SIGIR conference, which began in 1978, is considered the most important in the field of information retrieval. SIGIR also sponsors the annual Joint Conference on Digital Libraries (JCDL) in association with SIGWEB, the Conference on Information and Knowledge Management (CIKM), and the International Conference on Web Search and Data Mining (WSDM) in association with SIGKDD, SIGMOD, and SIGWEB.
+
+
+=== SIGIR conference locations ===
+
+
+== Awards ==
+The group gives out several awards to contributions to the field of information retrieval. The most important award is the Gerard Salton Award (named after the computer scientist Gerard Salton), which is awarded every three years to an individual who has made "significant, sustained and continuing contributions to research in information retrieval". Additionally, SIGIR presents a Best Paper Award  to recognize the highest quality paper at each conference. "Test of time" Award  is a recent award that is given to a paper that has had "long-lasting influence, including impact on a subarea of information retrieval research, across subareas of information retrieval research, and outside of the information retrieval research community". This award is selected from a set of full papers presented at the main SIGIR conference 10-12 years before.
+
+
+== See also ==
+Conference on Information and Knowledge Management
+
+
+== References ==
+
+
+== External links ==
+Official website

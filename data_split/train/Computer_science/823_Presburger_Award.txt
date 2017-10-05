@@ -1,0 +1,13 @@
+The Presburger Award, started in 2010, is awarded each year by the European Association for Theoretical Computer Science (EATCS) to "a young scientist for outstanding contributions in theoretical computer science, documented by a published paper or a series of published papers." The award is named after Mojżesz Presburger who accomplished his path-breaking work on decidability of the theory of addition (which today is called Presburger arithmetic) as a student in 1929.
+Past recipients of the award are:
+Mikołaj Bojańczyk (2010)
+Patricia Bouyer-Decitre (2011)
+Venkatesan Guruswami and Mihai Pătraşcu (2012)
+Erik Demaine (2013) 
+David Woodruff (2014) 
+Xi Chen (2015)
+Mark Braverman (2016)
+Alexandra Silva (2017)
+
+
+== References ==

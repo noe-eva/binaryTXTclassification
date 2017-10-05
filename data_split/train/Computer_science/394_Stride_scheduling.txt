@@ -1,0 +1,7 @@
+The stride scheduling is a type of scheduling mechanism that has been introduced as a simple concept to achieve proportional CPU capacity reservation among concurrent processes. Stride scheduling aims to sequentially allocate a resource for the duration of standard time-slices (quantum) in a fashion, that performs periodic recurrences of allocations. Thus, a process p1 which has reserved twice the share of a process p2 will be allocated twice as often as p2. In particular, process p1 will even be allocated two times every time p2 is waiting for allocation, assuming that neither of the two processes performs a blocking operation.
+
+
+== See also ==
+
+
+== References ==

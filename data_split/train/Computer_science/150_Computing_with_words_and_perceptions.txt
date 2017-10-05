@@ -1,0 +1,15 @@
+In computing with words and perceptions (CWP), the objects of computation are words, perceptions, and propositions drawn from a natural language. The central theme of CWP is the concept of a generalised constraint. The meaning of a proposition is expressed as a generalised constraint.
+CWP is a necessary tool when the available information is perception-based or not precise enough to use numbers.
+
+
+== See also ==
+Fuzzy set
+Lotfi Zadeh
+Perceptual Computing
+Type-2 Fuzzy Sets and Systems
+Soft computing
+
+
+== References ==
+
+[1] L. A. Zadeh, “Fuzzy logic = computing with words,” IEEE Trans. on Fuzzy Systems, vol. 4, pp. 103-111, 1996.

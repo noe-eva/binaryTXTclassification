@@ -1,0 +1,163 @@
+Computational sociology is a branch of sociology that uses computationally intensive methods to analyze and model social phenomena. Using computer simulations, artificial intelligence, complex statistical methods, and analytic approaches like social network analysis, computational sociology develops and tests theories of complex social processes through bottom-up modeling of social interactions.
+It involves the understanding of social agents, the interaction among these agents, and the effect of these interactions on the social aggregate. Although the subject matter and methodologies in social science differ from those in natural science or computer science, several of the approaches used in contemporary social simulation originated from fields such as physics and artificial intelligence. Some of the approaches that originated in this field have been imported into the natural sciences, such as measures of network centrality from the fields of social network analysis and network science.
+In relevant literature, computational sociology is often related to the study of social complexity. Social complexity concepts such as complex systems, non-linear interconnection among macro and micro process, and emergence, have entered the vocabulary of computational sociology. A practical and well-known example is the construction of a computational model in the form of an "artificial society", by which researchers can analyze the structure of a social system.
+
+
+== History ==
+
+
+=== Background ===
+In the past four decades, computational sociology has been introduced and gaining popularity . This has been used primarily for modeling or building explanations of social processes and are depending on the emergence of complex behavior from simple activities. The idea behind emergence is that properties of any bigger system don't always have to be properties of the components that the system is made of. The people responsible for the introduction of the idea of emergence are Alexander, Morgan, and Broad, who were classical emergentists. The time at which these emergentists came up with this concept and method was during the time of the early twentieth century. The aim of this method was to find a good enough accommodation between two different and extreme ontologies, which were reductionist materialism and dualism.
+While emergence has had a valuable and important role with the foundation of Computational Sociology, there are those who do not necessarily agree. One major leader in the field, Epstein, doubted the use because there were aspects that are unexplainable. Epstein put up a claim against emergentism, in which he says it "is precisely the generative sufficiency of the parts that constitutes the whole's explanation".
+Agent-based models have had a historical influence on Computational Sociology. These models first came around in the 1960s, and were used to simulate control and feedback processes in organizations, cities, etc. During the 1970s, the application introduced the use of individuals as the main units for the analyses and used bottom-up strategies for modeling behaviors. The last wave occurred in the 1980s. At this time, the models were still bottom-up; the only difference is that the agents interact interdependently.
+
+
+=== Systems theory and structural functionalism ===
+
+In the post-war era, Vannevar Bush's differential analyser, John von Neumann's cellular automata, Norbert Wiener's cybernetics, and Claude Shannon's information theory became influential paradigms for modeling and understanding complexity in technical systems. In response, scientists in disciplines such as physics, biology, electronics, and economics began to articulate a general theory of systems in which all natural and physical phenomena are manifestations of interrelated elements in a system that has common patterns and properties. Following Émile Durkheim's call to analyze complex modern society sui generis, post-war structural functionalist sociologists such as Talcott Parsons seized upon these theories of systematic and hierarchical interaction among constituent components to attempt to generate grand unified sociological theories, such as the AGIL paradigm. Sociologists such as George Homans argued that sociological theories should be formalized into hierarchical structures of propositions and precise terminology from which other propositions and hypotheses could be derived and operationalized into empirical studies. Because computer algorithms and programs had been used as early as 1956 to test and validate mathematical theorems, such as the four color theorem, social scientists and systems dynamicists anticipated that similar computational approaches could "solve" and "prove" analogously formalized problems and theorems of social structures and dynamics.
+
+
+=== Macrosimulation and microsimulation ===
+
+By the late 1960s and early 1970s, social scientists used increasingly available computing technology to perform macro-simulations of control and feedback processes in organizations, industries, cities, and global populations. These models used differential equations to predict population distributions as holistic functions of other systematic factors such as inventory control, urban traffic, migration, and disease transmission. Although simulations of social systems received substantial attention in the mid-1970s after the Club of Rome published reports predicting global environmental catastrophe based upon the predictions of global economy simulations, the inflammatory conclusions also temporarily discredited the nascent field by demonstrating the extent to which results of the models are highly sensitive to the specific quantitative assumptions (backed by little evidence, in the case of the Club of Rome) made about the model's parameters. As a result of increasing skepticism about employing computational tools to make predictions about macro-level social and economic behavior, social scientists turned their attention toward micro-simulation models to make forecasts and study policy effects by modeling aggregate changes in state of individual-level entities rather than the changes in distribution at the population level. However, these micro-simulation models did not permit individuals to interact or adapt and were not intended for basic theoretical research.
+
+
+=== Cellular automata and agent-based modeling ===
+
+The 1970s and 1980s were also a time when physicists and mathematicians were attempting to model and analyze how simple component units, such as atoms, give rise to global properties, such as complex material properties at low temperatures, in magnetic materials, and within turbulent flows. Using cellular automata, scientists were able to specify systems consisting of a grid of cells in which each cell only occupied some finite states and changes between states were solely governed by the states of immediate neighbors. Along with advances in artificial intelligence and microcomputer power, these methods contributed to the development of "chaos theory" and "complexity theory" which, in turn, renewed interest in understanding complex physical and social systems across disciplinary boundaries. Research organizations explicitly dedicated to the interdisciplinary study of complexity were also founded in this era: the Santa Fe Institute was established in 1984 by scientists based at Los Alamos National Laboratory and the BACH group at the University of Michigan likewise started in the mid-1980s.
+This cellular automata paradigm gave rise to a third wave of social simulation emphasizing agent-based modeling. Like micro-simulations, these models emphasized bottom-up designs but adopted four key assumptions that diverged from microsimulation: autonomy, interdependency, simple rules, and adaptive behavior. Agent-based models are less concerned with predictive accuracy and instead emphasize theoretical development. In 1981, mathematician and political scientist Robert Axelrod and evolutionary biologist W.D. Hamilton published a major paper in Science titled "The Evolution of Cooperation" which used an agent-based modeling approach to demonstrate how social cooperation based upon reciprocity can be established and stabilized in a prisoner's dilemma game when agents followed simple rules of self-interest. Axelrod and Hamilton demonstrated that individual agents following a simple rule set of (1) cooperate on the first turn and (2) thereafter replicate the partner's previous action were able to develop "norms" of cooperation and sanctioning in the absence of canonical sociological constructs such as demographics, values, religion, and culture as preconditions or mediators of cooperation. Throughout the 1990s, scholars like William Sims Bainbridge, Kathleen Carley, Michael Macy, and John Skvoretz developed multi-agent-based models of generalized reciprocity, prejudice, social influence, and organizational information processing. In 1999, Nigel Gilbert published the first textbook on Social Simulation: Simulation for the social scientist and established its most relevant journal: the Journal of Artificial Societies and Social Simulation.
+
+
+=== Data mining and social network analysis ===
+
+Independent from developments in computational models of social systems, social network analysis emerged in the 1970s and 1980s from advances in graph theory, statistics, and studies of social structure as a distinct analytical method and was articulated and employed by sociologists like James S. Coleman, Harrison White, Linton Freeman, J. Clyde Mitchell, Mark Granovetter, Ronald Burt, and Barry Wellman. The increasing pervasiveness of computing and telecommunication technologies throughout the 1980s and 1990s demanded analytical techniques, such as network analysis and multilevel modeling, that could scale to increasingly complex and large data sets. The most recent wave of computational sociology, rather than employing simulations, uses network analysis and advanced statistical techniques to analyze large-scale computer databases of electronic proxies for behavioral data. Electronic records such as email and instant message records, hyperlinks on the World Wide Web, mobile phone usage, and discussion on Usenet allow social scientists to directly observe and analyze social behavior at multiple points in time and multiple levels of analysis without the constraints of traditional empirical methods such as interviews, participant observation, or survey instruments. Continued improvements in machine learning algorithms likewise have permitted social scientists and entrepreneurs to use novel techniques to identify latent and meaningful patterns of social interaction and evolution in large electronic datasets.
+
+The automatic parsing of textual corpora has enabled the extraction of actors and their relational networks on a vast scale, turning textual data into network data. The resulting networks, which can contain thousands of nodes, are then analysed by using tools from Network theory to identify the key actors, the key communities or parties, and general properties such as robustness or structural stability of the overall network, or centrality of certain nodes. This automates the approach introduced by quantitative narrative analysis, whereby subject-verb-object triplets are identified with pairs of actors linked by an action, or pairs formed by actor-object.
+
+
+=== Computational content analysis ===
+Content analysis has been a traditional part of social sciences and media studies for a long time. The automation of content analysis has allowed a "big data" revolution to take place in that field, with studies in social media and newspaper content that include millions of news items. Gender bias, readability, content similarity, reader preferences, and even mood have been analyzed based on text mining methods over millions of documents. The analysis of readability, gender bias and topic bias was demonstrated in Flaounas et al. showing how different topics have different gender biases and levels of readability; the possibility to detect mood shifts in a vast population by analysing Twitter content was demonstrated as well.
+The analysis of vast quantities of historical newspaper content has been pioneered by Dzogang et al., which showed how periodic structures can be automatically discovered in historical newspapers. A similar analysis was performed on social media, again revealing strongly periodic structures.
+
+
+== Challenges ==
+Computational sociology, as with any field of study, faces a set of challenges. These challenges need to be handled meaningfully so as to make the maximum impact on society.
+
+
+=== Levels and their interactions ===
+Each society that is formed tends to be in one level or the other and there exists tendencies of interactions between and across these levels. Levels need not only be micro-level or macro-level in nature. There can be intermediate levels in which a society exists say - groups, networks, communities etc.
+The question however arises as to how to identify these levels and how they come into existence? And once they are in existence how do they interact within themselves and with other levels?
+If we view entities(agents) as nodes and the connections between them as the edges, we see the formation of networks. The connections in these networks do not come about based on just objective relationships between the entities, rather they are decided upon by factors chosen by the participating entities. The challenge with this process is that, it is difficult to identify when a set of entities will form a network. These networks may be of trust networks, co-operation networks, dependence networks etc. There have been cases where heterogeneous set of entities have shown to form strong and meaningful networks among themselves.
+As discussed previously, societies fall into levels and in one such level, the individual level, a micro-macro link refers to the interactions which create higher-levels. There are a set of questions that needs to be answered regarding these Micro-Macro links. How they are formed? When do they converge? What is the feedback pushed to the lower levels and how are they pushed?
+Another major challenge in this category concerns the validity of information and their sources. In recent years there has been a boom in information gathering and processing. However, little attention was paid to the spread of false information between the societies. Tracing back the sources and finding ownership of such information is difficult.
+
+
+=== Culture modelling ===
+The evolution of the networks and levels in the society brings about cultural diversity. A thought which arises however is that, when people tend to interact and become more accepting of other cultures and beliefs, how is it that diversity still persists? Why is there no convergence? A major challenge is how to model these diversities. Are there external factors like mass media, locality of societies etc. which influence the evolution or persistence of cultural diversities?
+
+
+=== Experimentation and evaluation ===
+Any study or modelling when combined with experimentation needs to be able to address the questions being asked. Computational social science deals with large scale data and the challenge becomes much more evident as the scale grows. How would one design informative simulations on a large scale? And even if a large scale simulation is brought up, how is the evaluation supposed to be performed?
+
+
+=== Model choice and model complexities ===
+Another challenge is identifying the models that would best fit the data and the complexities of these models. These models would help us predict how societies might evolve over time and provide possible explanations on how things work.
+
+
+==== Generative models ====
+Generative models helps us to perform extensive qualitative analysis in a controlled fashion. A model proposed by Epstein, is the agent-based simulation, which talks about identifying an initial set of heterogeneous entities(agents) and observe their evolution and growth based on simple local rules.
+But what are these local rules? How does one identify them for a set of heterogeneous agents? Evaluation and impact of these rules state a whole new set of difficulties.
+
+
+==== Heterogeneous or ensemble models ====
+Integrating simple models which perform better on individual tasks to form a Hybrid model is an approach that can be looked into. These models can offer better performance and understanding of the data. However the trade-off of identifying and having a deep understanding of the interactions between these simple models arises when one needs to come up with one combined, well performing model. Also, coming up with tools and applications to help analyse and visualize the data based on these hybrid models is another added challenge.
+
+
+== Impact ==
+Computational sociology can bring impacts to science, technology and society.
+
+
+=== Impact on science ===
+In order for the study of computational sociology to be effective, there has to be valuable innovations. These innovation can be of the form of new data analytics tools, better models and algorithms. The advent of such innovation will be a boon for the scientific community in large.
+
+
+=== Impact on society ===
+One of the major challenges of computational sociology is the modelling of social processes. Various law and policy makers would be able to see efficient and effective paths to issue new guidelines and the mass in general would be able to evaluate and gain fair understanding of the options presented in front of them enabling an open and well balanced decision process..
+
+
+== Journals and academic publications ==
+The most relevant journal of the discipline is the Journal of Artificial Societies and Social Simulation.
+Complexity Research Journal List, from UIUC, IL
+Related Research Groups, from UIUC, IL
+
+
+== Associations, conferences and workshops ==
+North American Association for Computational Social and Organization Sciences
+ESSA: European Social Simulation Association
+
+
+== Academic programs, departments and degrees ==
+University of Bristol "Mediapatterns" project
+Carnegie Mellon University, PhD program in Computation, Organizations and Society (COS)
+George Mason University
+PhD program in CSS (Computational Social Sciences)
+MA program in Master's of Interdisciplinary Studies, CSS emphasis
+
+Portland State, PhD program in Systems Science
+Portland State, MS program in Systems Science
+UCD, PhD Program in Complex Systems and Computational Social Science (University College Dublin, Ireland)
+UCLA, Minor in Human Complex Systems
+UCLA, Major in Computational & Systems Biology (including behavioral sciences)
+Univ. of Michigan, Minor in Complex Systems
+Systems Sciences Programs List, Portland State. List of other worldwide related programs.
+
+
+== Centers and institutes ==
+
+
+=== USA ===
+Center for Complex Networks and Systems Research, Indiana University, Bloomington, IN, USA.
+Center for Complex Systems Research, University of Illinois at Urbana-Champaign, IL, USA.
+Center for Social Complexity, George Mason University, Fairfax, VA, USA.
+Center for Social Dynamics and Complexity, Arizona State University, Tempe, AZ, USA.
+Center of the Study of Complex Systems, University of Michigan, Ann Arbor, MI, USA.
+Human Complex Systems, University of California Los Angeles, Los Angeles, CA, USA.
+Institute for Quantitative Social Science, Harvard University, Boston, MA, USA.
+Northwestern Institute on Complex Systems (NICO), Northwestern University, Evanston, IL USA.
+Santa Fe Institute, Santa Fe, NM, USA.
+Duke Network Analysis Center, Duke University, Durham, NC, USA
+
+
+=== Europe ===
+Centre for Policy Modelling, Manchester, UK.
+Centre for Research in Social Simulation, University of Surrey, UK.
+Dynamics Lab, Geary Institute, University College Dublin, Dublin, Ireland.
+Groningen Center for Social Complexity Studies (GCSCS), Groningen, NL.
+Chair of Sociology, in particular of Modeling and Simulation (SOMS), Zürich, Switzerland.
+Research Group on Experimental and Computational Sociology (GECS), Brescia, IT.
+
+
+=== Asia ===
+Bandung Fe Institute, Centre for Complexity in Surya University, Bandung, Indonesia.
+
+
+== See also ==
+Artificial society
+Simulated reality
+Social simulation
+Agent-based social simulation
+Social complexity
+Computational economics
+Computational epidemiology
+Cliodynamics
+Predictive analytics
+
+
+== References ==
+
+
+== External links ==
+On-line book "Simulation for the Social Scientist" by Nigel Gilbert and Klaus G. Troitzsch, 1999, second edition 2005
+Journal of Artificial Societies and Social Simulation
+Agent based models for social networks, interactive java applets
+Sociology and Complexity Science Website

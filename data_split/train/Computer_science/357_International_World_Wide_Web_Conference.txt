@@ -1,0 +1,49 @@
+The International World Wide Web Conference (abbreviated as WWW) is a yearly international academic conference on the topic of the future direction of the World Wide Web. The WWW was first created by Tim Berners-Lee in 1989 at CERN in Geneva, Switzerland. The first conference of many was held and organized by Robert Cailliau in 1994, the conference has been organized by the International World Wide Web Conferences Steering Committee (IW3C2), also founded by Robert Cailliau and colleague Joseph Hardin, every year since. The conference’s location rotates among North America, Europe, and Asia and its events usually span a period of five days. The conference aims to provide a forum in which "key influencers, decision makers, technologists, businesses and standards bodies" can both present their ongoing work, research, and opinions as well as receive feedback from some of the most knowledgeable people in the field.
+The conference series is aimed at providing a global forum for discussion and debate in regard to the standardization of its associated technologies and the impact of said technologies on society and culture. Developers, researchers, internet users as well as commercial ventures and organizations come together at the conference to discuss the latest advancements of the Web and its evolving uses and trends, such as the development and popularization of the eTV and eBusiness. The conferences usually include a variety of events, such as tutorials and workshops, as well as the main conference and special dedications of space in memory of the history of the Web and specific notable events. The conferences are organized by the IW3C2 in collaboration with Local Organizing Committees and Technical Program Committees.
+The World Wide Web Consortium (W3C) is a partner to these conferences but does not organize them.
+
+
+== History ==
+Robert Cailliau, a founder of the World Wide Web himself, lobbied inside CERN and at conferences like the Hypertext conference 1991 in San Antonio, Texas, and 1993 in Seattle, Washington. As he came back from the conference 1993 he announced a new conference called World Wide Web Conference 1 and was actually 23 hours faster than the NCSA announced Mosaic and the Web. After funding the IW3C2 with Joseph Hardin from the NCSA they decided the next Conferences in Geneva.
+
+
+== Content ==
+Though the way in which its content is organized varies from year to year, the World-Wide Web Conference nevertheless has continued to be the "premiere venue for researchers, academics, businesses, and standard bodies to come together and discuss [the] latest updates and the state and evolutionary path of the Web". People from all across the world come together in the spirit of such a tradition, submitting their own cutting-edge, exciting new research to be peer reviewed by some of the World Wide Web community’s most knowledgeable members.
+At its most recent conference, WWW’s largest program, peer reviewed research paper presentations, fell into one of eleven categories:
+Behavioral analysis and personalization
+Content analysis
+Crowd phenomena
+Internet economics and monetization
+Security, privacy, trust and abuse
+Semantic web
+Social networks and graph analysis
+Software infrastructure, performance, scalability, and availability
+User interfaces, human factors, and smart devices
+Web mining
+Web search systems and applications
+Those papers accepted will not only be presented at the conference itself, but appear in the online conference proceedings published by the ACM Digital Library as well as the conference’s website. Furthermore, many of these papers continue to be submitted to other peer-reviewed journals consequent to the conclusion of the conference.
+In addition to presenting breakthrough research on the Web and its associated technologies, the Conference acts as a stage for developers to demonstrate and receive feedback on their ongoing work in a dedicated session. The Demo Track allows researchers and practitioners to demonstrate new systems in a dedicated session. The Developer Track is a track dedicated solely to web development, a stage upon which web developers can present "new trends and interesting ideas [as well as the] code and APIs of emerging applications, platforms, and standards." 
+Though peer-reviewed research paper presentations, demo, and developer tracks are a large portion of the conference’s program, it is not merely a launch pad for individuals who have completed cutting edge research in the field. Students studying the Web and its associated technologies can submit unfinished work for review. Beginner as well as senior PhD students are encouraged to present their ideas to the PhD Symposium for review. This is a unique opportunity to receive feedback on their work from experienced researchers as well as other senior PhD students working in related research areas. All applications and submissions are looked over by the Symposium Program Committee. This committee includes other experienced researches. These people are able to help the applicants and guide them in their work. Researchers and practitioners are also encouraged to submit their new and innovative work-in-progress. Providing them with a unique opportunity to gain feedback from their peers in an informal setting, the Poster Track provides its presenters invaluable feedback from knowledgeable sources as well as other conference attendees with an opportunity to learn about novel ongoing research projects whose results already appear promising, despite their incompletion.
+Lastly, the Conference allows for a series of co-located workshops to its attendees dedicated to emergent Web topics. These workshops work to not only create an open dialogue amongst all researchers and practitioners of Web technologies but also a potential means of collaboration in present and future endeavors.
+
+
+== List of conference editions ==
+Past and future WWW conferences include:
+
+
+== See also ==
+ACM KDD
+ACM SIGIR
+ACM CIKM
+WSDM
+IEEE ICDM
+SDM
+ICML
+NIPS
+
+
+== References ==
+
+
+== External links ==
+List of Past and Future WWW Conferences on IW3C2 site

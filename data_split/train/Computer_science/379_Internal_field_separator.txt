@@ -1,0 +1,14 @@
+For many command line interpreters (“shell”) of Unix operating systems, the internal field separator (abbreviated IFS) refers to a variable which defines the character or characters used to separate a pattern into tokens for some operations.
+IFS typically includes the space, tab, and the newline.
+From the bash man page:
+
+The shell treats each character of $IFS as a delimiter, and splits the results of the other expansions into words on these characters. If IFS is unset, or its value is exactly <space><tab><newline>, the default, then sequences of <space>, <tab>, and <newline> at the beginning and end of the results of the previous expansions are ignored, and any sequence of IFS characters not at the beginning or end serves to delimit words. If IFS has a value other than the default, then sequences of the whitespace characters space and tab are ignored at the beginning and end of the word, as long as the whitespace character is in the value of IFS (an IFS whitespace character). Any character in IFS that is not IFS whitespace, along with any adjacent IFS whitespace characters, delimits a field. A sequence of IFS whitespace characters is also treated as a delimiter. If the value of IFS is null, no word splitting occurs.
+
+IFS was usable as an exploit in some versions of Unix. A program with root permissions could be fooled into executing user-supplied code if it ran (for instance) system("/bin/mail") and was called with $IFS set to "/", in which case it would run the program "bin" (in the current directory and thus writable by the user) with root permissions. This has been fixed by making the shells not inherit the IFS variable.
+
+
+== External links ==
+Some examples on how to apply the use of IFS in Bash scripts:
+http://tldp.org/LDP/abs/html/internalvariables.html
+http://mindspill.net/computing/linux-notes/using-the-bash-ifs-variable-to-make-for-loops-split-with-non-whitespace-characters/
+http://www.cyberciti.biz/faq/bash-for-loop-spaces/

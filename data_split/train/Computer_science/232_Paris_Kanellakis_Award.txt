@@ -1,0 +1,12 @@
+The Paris Kanellakis Theory and Practice Award is granted yearly by the Association for Computing Machinery (ACM) to honor "specific theoretical accomplishments that have had a significant and demonstrable effect on the practice of computing". It was instituted in 1996, in memory of Paris C. Kanellakis, a computer scientist who died with his immediate family in an airplane crash in South America in 1995 (American Airlines Flight 965). The award is accompanied by a prize of $10,000 and is endowed by contributions from Kanellakis's parents, with additional financial support provided by four ACM Special Interest Groups (SIGACT, SIGDA, SIGMOD, and SIGPLAN), the ACM SIG Projects Fund, and individual contributions.
+
+
+== Winners ==
+
+
+== Notes ==
+
+
+== External links ==
+Paris Kanellakis Theory and Practice Award on the ACM website.
+The Paris Kanellakis Theory and Practice Award Committee on the ACM website.

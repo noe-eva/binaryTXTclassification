@@ -1,0 +1,4 @@
+A turnaround document is a document that has been output from a computer, some extra information added to it, and then returned to become an input document. For example, meter cards are produced for collecting readings from gas meters, photocopiers, water meters etc. These are filled in by the customer and then returned to the company for scanning using ICR (Intelligent Character Recognition) so that the system can produce the bills for the customer. Earlier versions used punched cards, sometimes with mark sense technology.
+
+
+== References ==

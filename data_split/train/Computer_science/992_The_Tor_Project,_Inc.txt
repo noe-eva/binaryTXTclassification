@@ -1,0 +1,31 @@
+The Tor Project, Inc is a Massachusetts-based 501(c)(3) research-education nonprofit organization founded by computer scientists Roger Dingledine, Nick Mathewson and five others. The Tor Project is primarily responsible for maintaining software for the Tor anonymity network.
+
+
+== History ==
+The Tor Project was founded by computer scientists Roger Dingledine, Nick Mathewson and five others in December 2006. The Electronic Frontier Foundation (EFF) acted as The Tor Project's fiscal sponsor in its early years, and early financial supporters of The Tor Project included the U.S. International Broadcasting Bureau, Internews, Human Rights Watch, the University of Cambridge, Google, and Netherlands-based Stichting.net.
+In October 2014 The Tor Project hired the public relations firm Thomson Communications in order to improve its public image (particularly regarding the terms "Dark Net" and "hidden services") and to educate journalists about the technical aspects of Tor.
+In May 2015, The Tor Project ended the Tor Cloud Service.
+In December 2015, The Tor Project announced that it had hired Shari Steele, former executive director of the Electronic Frontier Foundation, as its new executive director. Roger Dingledine, who had been acting as interim executive director since May 2015, remained at The Tor Project as a director and board member. Later that month, The Tor Project announced that the Open Technology Fund will be sponsoring a bug bounty program that will be coordinated by HackerOne. The program will initially be invite-only and will focus on finding vulnerabilities that are specific to The Tor Project's applications.
+On May 25, 2016 core developer and the public face of the Tor Project, Jacob Appelbaum, stepped down from his position; this was announced on June 2 in a two-line statement by Tor. Over the following days, allegations of sexual mistreatment were made public by several people. On June 4, Shari Steele, the Executive Director of the Tor project, published a statement saying that the recent allegations of sexual mistreatment regarding Appelbaum were consistent with "rumors some of us had been hearing for some time," but she asserted that "...the most recent allegations are much more serious and concrete than anything we had heard previously." Appelbaum has denounced the allegations as part of a concerted strategy to damage his reputation.
+On July 13, 2016, the complete board of the Tor Project – Meredith Hoban Dunn, Ian Goldberg, Julius Mittenzwei, Rabbi Rob Thomas, Wendy Seltzer, Roger Dingledine and Nick Mathewson – was replaced with Matt Blaze, Cindy Cohn, Gabriella Coleman, Linus Nordberg, Megan Price and Bruce Schneier.
+In July 2016 the Tor Project announced the results of a seven-week investigation led by a private investigator. The allegations against Jacob Appelbaum were determined to be accurate, and Shari Steele noted that while they “did everything in our power” to treat Mr. Appelbaum fairly, “we determined that the allegations against him appear to be true.” The investigation concluded that "many people inside and outside the Tor Project have reported incidents of being humiliated, intimidated, bullied, and frightened" by Jacob Appelbaum, and that "several experienced unwanted sexually aggressive behavior from him." Two other, unnamed individuals involved in inappropriate behavior are themselves no longer part of the project.  Institutionally, despite not being a top-down management organization, and working as it does with volunteers and employees from other organizations, a new anti-harassment policy has approved by the new board, as well as a conflicts of interest policy, procedures for submitting complaints, and an internal complaint review process.  Initially the affair had caused a split in the wider but still close-knit privacy community, with some coming to Appelbaum's defense and others presenting even more allegations.
+The affair continues to be controversial, with considerable dissent within the Tor community. 
+
+
+== Funding ==
+As of 2012, 80% of The Tor Project's $2 million annual budget came from the United States government, with the U.S. State Department, the Broadcasting Board of Governors, and the National Science Foundation as major contributors, "to aid democracy advocates in authoritarian states". The Swedish government and other organizations provided the other 20%, including NGOs and thousands of individual sponsors. Dingledine said that the United States Department of Defense funds are more similar to a research grant than a procurement contract. Tor executive director Andrew Lewman said that even though it accepts funds from the U.S. federal government, the Tor service did not collaborate with the NSA to reveal identities of users.
+In June 2016, The Tor Project received an award from Mozilla's Open Source Support program (MOSS). The award was to "to significantly enhance the Tor network’s metrics infrastructure so that the performance and stability of the network can be monitored and improvements made as appropriate." 
+
+
+== Recognition ==
+In March 2011, The Tor Project received the Free Software Foundation's 2010 Award for Projects of Social Benefit. The citation read, "Using free software, Tor has enabled roughly 36 million people around the world to experience freedom of access and expression on the Internet while keeping them in control of their privacy and anonymity. Its network has proved pivotal in dissident movements in both Iran and more recently Egypt."
+In September 2012, The Tor Project received the 2012 EFF Pioneer Award, along with Jérémie Zimmermann and Andrew Huang.
+In November 2012, Foreign Policy magazine named Dingledine, Mathewson, and Syverson among its Top 100 Global Thinkers "for making the web safe for whistleblowers".
+In 2014, Roger Dingledine, Nick Mathewson and Paul Syverson received the USENIX Test of Time Award for their paper titled "Tor: The Second-Generation Onion Router", which was published in the Proceedings of the 13th USENIX Security Symposium, August 2004.
+
+
+== References ==
+
+
+== External links ==
+Official website

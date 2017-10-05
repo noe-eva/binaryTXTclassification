@@ -1,0 +1,228 @@
+In geometry, the positive and negative Voronoi poles of a cell in a Voronoi diagram are certain vertices of the diagram.
+
+
+== Definition ==
+Let 
+  
+    
+      
+        
+          V
+          
+            p
+          
+        
+      
+    
+    {\displaystyle V_{p}}
+   be the Voronoi cell of the site 
+  
+    
+      
+        p
+        ∈
+        P
+      
+    
+    {\displaystyle p\in P}
+  . If 
+  
+    
+      
+        
+          V
+          
+            p
+          
+        
+      
+    
+    {\displaystyle V_{p}}
+   is bounded then its positive pole is the Voronoi vertex in 
+  
+    
+      
+        
+          V
+          
+            p
+          
+        
+      
+    
+    {\displaystyle V_{p}}
+   with maximal distance to the sample point 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  . Furthermore, let 
+  
+    
+      
+        
+          
+            
+              u
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {u}}}
+   be the vector from 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   to the positive pole. If the cell is unbounded, then a positive pole is not defined, and 
+  
+    
+      
+        
+          
+            
+              u
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {u}}}
+   is defined to be a vector in the average direction of all unbounded Voronoi edges of the cell.
+The negative pole is the Voronoi vertex 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   in 
+  
+    
+      
+        
+          V
+          
+            p
+          
+        
+      
+    
+    {\displaystyle V_{p}}
+   with the largest distance to 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   such that the vector 
+  
+    
+      
+        
+          
+            
+              u
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {u}}}
+   and the vector from 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   to 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   make an angle larger than 
+  
+    
+      
+        
+          
+            π
+            2
+          
+        
+      
+    
+    {\displaystyle {\frac {\pi }{2}}}
+  .
+
+
+== Example ==
+
+Here 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is the positive pole of 
+  
+    
+      
+        
+          V
+          
+            p
+          
+        
+      
+    
+    {\displaystyle V_{p}}
+   and 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   its negative. As the cell corresponding to 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   is unbounded only the negative pole 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   exists.
+
+
+== References ==
+Boissonnat, Jean-Daniel (2007). Effective Computational Geometry for Curves and Surfaces. Berlin: Springer. ISBN 978-3-540-33258-9.

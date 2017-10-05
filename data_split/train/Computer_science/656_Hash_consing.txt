@@ -1,0 +1,17 @@
+In computer science, particularly in functional programming, hash consing is a technique used to share values that are structurally equal. The term hash consing originates from implementations of Lisp that attempt to reuse cons cells that have been constructed before, avoiding the penalty of memory allocation. Hash consing is most commonly implemented with hash tables storing weak references that may be garbage-collected when the data stored therein contains no references from outside the table. Hash consing has been shown to give dramatic performance improvements—both space and time—for symbolic and dynamic programming algorithms. An interesting property of hash consing is that two structures can be tested for equality in constant time, which in turn can improve efficiency of divide and conquer algorithms when data sets contain overlapping blocks.
+In other communities a similar idea is known as the Flyweight pattern. When applied to strings this technique is also known as string interning.
+
+
+== Examples ==
+
+
+=== Scheme ===
+Simple, not very efficient, but suitable for demonstration of the concept implementation of a memoizer by means of hash table and weak references in Scheme:
+
+
+== References ==
+
+
+== Further reading ==
+Ershov, A.P. (1958). "On programming of arithmetic operations". Communications of the ACM. 1 (8): 3–6. doi:10.1145/368892.368907. 
+Jean Goubault. Implementing Functional Languages with Fast Equality, Sets and Maps: an Exercise in Hash Consing. In Journées Francophones des Langages Applicatifs (JFLA’93), pages 222–238, Annecy, February 1993.

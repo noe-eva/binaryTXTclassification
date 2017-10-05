@@ -1,0 +1,12 @@
+Operability is the ability to keep an equipment, a system or a whole industrial installation in a safe and reliable functioning condition, according to pre-defined operational requirements.
+In a computing systems environment with multiple systems this includes the ability of products, systems and business processes to work together to accomplish a common task such as finding and returning availability of inventory for flight.
+In the gas turbine engine business, engine operability is the ability of the engine to operate without compressor stall or surge, combustor flame-out or other power loss. Operability engineers work in the fields of engine and compressor modeling, control and test to ensure the engine meets its ignition, starting, acceleration, deceleration and over-speed requirements under the most extreme operating conditions.
+Operability is considered one of the ilities and is closely related to reliability, supportability and maintainability.
+Operability also refers to whether or not a surgical operation can be performed to treat a patient with a reasonable degree of safety and chance of success.
+
+
+== References ==
+
+
+== External links ==
+Software Operability

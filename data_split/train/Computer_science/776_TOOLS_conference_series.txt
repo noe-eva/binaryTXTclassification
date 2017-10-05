@@ -1,0 +1,49 @@
+The TOOLS conference series was a long-running conferences on object technology, component-based development, model-based development and other advanced software technologies. The name originally stood for "Technology of Object-Oriented Languages and Systems" although later it was usually no longer expanded, the conference being known simply as "the TOOLS conference".
+The first conference was held in Paris in 1988, organized by Eiffel Software. The TOOLS conference series started next year, in 1989. Over the following 15 years it held 45 sessions: TOOLS EUROPE (usually in Paris), TOOLS USA (usually in Santa Barbara, California), TOOLS PACIFIC (usually Sydney), TOOLS ASIA (Peking) and TOOLS EASTERN EUROPE.
+TOOLS has played a major role in the development of object technology; many seminal software concepts now taken for granted were first discussed at TOOLS. Invited speakers have included countless luminaries of science and industry such as Kent Beck, Robert Binder, Peter Coad, Alistair Cockburn, Steve Cook, James Coplien, Brad Cox, Miguel de Icaza, John Dvorak, Martin Fowler, Erich Gamma, Adele Goldberg, Richard Helms, Tony Hoare, Ivar Jacobson, Philippe Kahn, Alan Kay, Bertrand Meyer, Jim Miller, Robin Milner, David Parnas, Trygve Reenskaug, Michael Stal, Dave Thomas, David Taylor, Tony Wasserman and many others.
+In 2007, after an interruption of four years, TOOLS started again as an annual conference with an extended scope, encompassing not only objects and components but all modern approaches to software technology. For the last editions of the conference, see the TOOLS page. In 2012, in its 50th edition, The Triumph of Objects was declared and the series closed.
+In 2013, after the end of TOOLS, Software Technologies: Applications and Foundations (STAF) emerged as an umbrella conference that aims to establish continuity, with its participating conferences focusing on diverse software technology areas such as software technology foundations, testing and formal analysis, graph and model transformations, model-driven engineering, and tools.
+
+
+== Goals and scope ==
+TOOLS is devoted to the study and application of advanced software development methods, techniques, tools and languages, with a special emphasis on object-oriented techniques, component-based development, model-based development and design patterns. The conference distinguishes itself by combining selective peer review process, as in academic conferences, with a strong practical slant and concern about relevance to industry.
+
+
+== Hosted conferences ==
+The TOOLS federated conference has hosted the following associated conferences in recent years:
+Software Composition (SC): since 2007.
+Test and Proofs (TAP): since 2007.
+Software Engineering Advances For Outsourced and Offshore Development (SEAFOOD): 2008 - 2009.
+International Conference on Model Transformation (ICMT): since 2008.
+
+
+== List of past conferences ==
+This list includes a reference to the proceedings when known.
+TOOLS 50: TOOLS EUROPE 2012 The Triumph of Objects: Prague (Czech Republic), May 29–31, 2012, http://toolseurope2012.fit.cvut.cz/. Conference chair: Bertrand Meyer. Proceedings: Springer Verlag LNCS no. 7304, ed. Carlo A. Furia, Sebastian Nanz.
+TOOLS 49: TOOLS EUROPE 2011: Zurich(Switzerland), http://toolseurope2011.lcc.uma.es/
+TOOLS 48: TOOLS EUROPE 2010: Málaga (Spain), June 28-July 2, 2010. Program chair: Jan Vitek; Organizing chair: Antonio Valecillo. Proceedings: Springer Verlag LNCS no. 6141, ed. Jan Vitek.
+TOOLS 47: TOOLS EUROPE 2009: Zurich (Switzerland), June 29-July 3, 2009. Program chair: Manuel Oriol; Conference chair: Bertrand Meyer. Proceedings: Springer Verlag LNBIP no. 33, ed. Manuel Oriol, Bertrand Meyer.
+TOOLS 46: TOOLS EUROPE 2008: Zurich (Switzerland), June 30-July 4, 2008. Program chair: Richard Paige; Conference chair: Bertrand Meyer. Proceedings: Springer Verlag LNBIP no. 11, ed. Richard Paige.
+TOOLS 45: TOOLS EUROPE 2007: Zurich (Switzerland), June 25–27, 2007. Program chair: Jean Bézivin. Proceedings published in the Journal of Object Technology, Vol 6, No. 9, July 2007. http://tools.ethz.ch/tools2007/
+TOOLS 19: TOOLS EUROPE 1996: Paris(France); program chair: Richard Mitchell. Proceedings edited by Prentice Hall. ISBN 0-13-491903-3
+TOOLS 17: TOOLS USA 1995: Santa Barbara (USA); Program chair: Raimund Ege. Proceedings edited by Prentice Hall, ISBN 0-13-461484-4
+TOOLS 16: TOOLS EUROPE 1995: Versailles (France); Program chairs: Ian Graham & Boris Magnuusson. Proceedings edited by Prentice Hall, ISBN 0-13-443128-6
+TOOLS 15: TOOLS PACIFIC 1994: Melbourne (Australia); Program chair: Christine Mingins. Proceedings edited by Prentice Hall, ISBN 0-13-438292-7
+TOOLS 13: TOOLS EUROPE 1994: Versailles (France); Program chairs: Boris Magnusson & Jean-François Perrot. Proceedings edited by Prentice Hall, ISBN 0-13-350539-1
+TOOLS 12: TOOLS PACIFIC 1993: Melbourne (Australia); Program chair: William Haebich. Proceedings edited by Prentice Hall, ISBN 978-0-13-124512-9
+TOOLS 11: TOOLS USA 1993: Santa Barbara (USA); Program chair: Raimund Ege. Proceedings edited by Prentice Hall, ISBN 0-13-103979-2
+TOOLS 10: TOOLS EUROPE 1993: Versailles (France); Program chairs: Boris Magnusson & Jean-François Perrot. Proceedings edited by Prentice Hall, ISBN 0-13-443128-6
+TOOLS 9: TOOLS PACIFIC 1992: Sydney (Australia); Program chair: John Potter. Proceedings edited by Prentice Hall, ISBN 978-0-13-124512-9
+TOOLS 4: TOOLS EUROPE 1991: Paris (France); Program chair: Jean Bézivin. Proceedings edited by Prentice Hall, ISBN 0-13-923160-9
+TOOLS 3: TOOLS PACIFIC 1990: Sydney (Australia); Program chair: John Potter.
+TOOLS 2: TOOLS EUROPE 1990: Paris (France); Program chair: Jean Bézivin. Proceedings edited by Angkor, ISBN 2-87892-000-7
+TOOLS 1: TOOLS EUROPE 1988: Paris (France); Program chair: Jean Bézivin.
+
+
+== References ==
+
+
+== External links ==
+TOOLS series page
+2010 conference (Málaga)
+Past TOOLS Conferences

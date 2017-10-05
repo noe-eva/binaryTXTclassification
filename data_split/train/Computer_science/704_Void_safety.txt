@@ -1,0 +1,30 @@
+Void safety (also known as null safety) is a guarantee within an object-oriented programming language that no object references will have null or void values.
+In object-oriented languages, access to objects is achieved through references (or, equivalently, pointers). A typical call is of the form:
+
+x.f(a, ...)
+
+where f denotes an operation and x denotes a reference to some object. At execution time, however, a reference can be void (or null). In such cases, the call above will be a void call, leading to a run-time exception, often resulting in abnormal termination of the program.
+Void safety is a static (compile-time) guarantee that no void calls will ever arise.
+
+
+== History ==
+In a 2009 talk, Tony Hoare traced the invention of the null pointer to his design of the Algol W language and called it a "mistake":
+
+I call it my billion-dollar mistake. It was the invention of the null reference in 1965. At that time, I was designing the first comprehensive type system for references in an object oriented language (ALGOL W). My goal was to ensure that all use of references should be absolutely safe, with checking performed automatically by the compiler. But I couldn't resist the temptation to put in a null reference, simply because it was so easy to implement. This has led to innumerable errors, vulnerabilities, and system crashes, which have probably caused a billion dollars of pain and damage in the last forty years.
+
+Bertrand Meyer introduced the term "void safety".
+
+
+== In programming languages ==
+An early attempt to guarantee void safety was the design of the Self programming language.
+The Spec# language, a research language from Microsoft Research, has a notion of "non-nullable type" addressing void safety.
+The Eiffel language is void-safe according to its ISO-ECMA standard; the void-safety mechanism is implemented in EiffelStudio starting with version 6.1 and using a modern syntax starting with version 6.4.
+The Kotlin language, a JVM language, uses null-safe types by default.
+
+
+== See also ==
+Nullable type
+Option type
+
+
+== References ==

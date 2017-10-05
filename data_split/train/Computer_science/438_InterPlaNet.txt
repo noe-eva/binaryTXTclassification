@@ -1,0 +1,15 @@
+InterPlaNet (IPN), not to be confused with InterPlanetary Network, is a computer networking protocol designed to operate at interplanetary distances, where traditional protocols such as the Internet Protocol break down. It is the base for Interplanetary Internet. It has been under development by Vint Cerf and NASA since 1998 and a permanent network link to Mars was planned by 2008 until the Mars Telecommunications Orbiter was canceled in 2005. The protocol was expected to be space-qualified and ready for use by around 2010.
+
+
+== See also ==
+Intergalactic Computer Network
+Interplanetary Internet
+Delay-tolerant networking
+
+
+== References ==
+
+
+== External links ==
+InterPlanetary Internet Special Interest Group
+https://web.archive.org/web/20090426064555/http://nssdc.gsfc.nasa.gov/nost/nost/wwwclassic/documents/pdf/CCSDS-B10.0-Y-17.pdf

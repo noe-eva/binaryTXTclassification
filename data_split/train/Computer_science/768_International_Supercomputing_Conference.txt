@@ -1,0 +1,14 @@
+The International Supercomputing Conference is a yearly conference on supercomputing which has been held in Europe since 1986.
+Not to be confused with the ACM/IEEE Supercomputing Conference which has been held in the US since 1988.
+
+
+== History ==
+In 1986 Professor Dr. Hans Werner Meuer, director of the computer centre and professor for computer science at the University of Mannheim (Germany) co-founded and organized the "Mannheim Supercomputer Seminar" which had 81 participants. This was held yearly and became the annual International Supercomputing Conference and Exhibition (ISC). The conference is attended by speakers, exhibitors, and researchers from all over the world. Since 1993 the conference has been the venue for one of the twice yearly TOP500 announcements where the fastest 500 supercomputers in the world are named. The other annual announcement is in November at Supercomputing (The International Conference for High Performance Computing, Networking, Storage and Analysis) in the USA.
+The conference celebrated 25 years with the 30 March 2010 meeting in Hamburg, Germany.
+
+
+== References ==
+
+
+== External links ==
+International Supercomputing Conference Official Website

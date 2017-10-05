@@ -1,0 +1,87 @@
+The University of London Institute of Computer Science (ICS) was an Institute based in London in England. The Institute was founded by the University of London to support and provide academic research, postgraduate teaching, computer services and network services. It was founded as the University of London's Computer Unit at some point in the 1950s, changed its name to the Institute of Computer Science in the 1960s, and dissolved in 1974.
+
+
+== History ==
+The exact date of foundation remains to be established, but the Institute appears to have already existed by the 1950s. Richard Buckingham was Director, first of the Computer Unit and later of the Institute of Computer Science, from 1957 to 1973.
+The name of Institute had been given by 1962, when John Buxton became one of its lecturers. It was dissolved in 1974 and its Director moved to Birkbeck College. Some of the material in this description of the institute is derived from a history of the School of Computer Science & Information System at that college
+
+
+== Staff ==
+The Institute staff included, at various times –
+Richard Buckingham (Director, 1957 to 1973)
+Michael P Barnett, Reader in Information Processing, 1964–1965.
+Michael Bernal
+John Buxton
+David Cooper
+George Coulouris – moved to Imperial College in 1965 and to QMC in 1971
+Andrew Colin
+Jean Dollimore
+Alan Fairbourn
+Peter Higginson (see below Research, Higginson & Kirstein)
+Bryan Higman (see below, Research) – moved to Lancaster University in 1970.
+Dick Housden
+David Howarth
+Peter T. Kirstein
+Benedict Nixon
+Eric Nixon (see Research, Software Firsts Change Ringing, below)
+Anthony Ralston (Tony)
+John Washbrook
+Keith Wolfenden
+David E. Barton – moved to QMC in 1974, became head of Computer Science and Statistics Dept. (now deceased)
+Michael Clarke – moved to QMC in 1974, became head of Computer Science and Statistics, (now deceased).
+Following the dissolution of the ICS staff moved to a number of other institutions-
+Birkbeck: Professor/Director of ICS: Richard Buckingham
+QMC: Jean Dollimore, David Barton, Michael Clarke, George Coulouris (via Imperial)
+UCL: Peter Kirstein (now emeritus professor), John Washbrook (now emeritus professor), Peter Higginson
+Imperial College: Dave Howarth (later Professor), Mike Bernal, George Coulouris (later QMC)
+Kings College: Alan Fairbourn
+UEA: Dick Housden – Professor
+Barnett had already returned to the US, where he later became a Professor of Library Science at Columbia University, and then Professor of Computer and Information Science at City University of New York.
+
+
+== Research ==
+The Institute conducted research in computer systems and applications.
+Publications by staff and students include – [In the list below all publications are published papers unless otherwise specified. “Comp J” is the Computer Journal of the British Computer Society (BCS)] –
+Coulouris, G.F.; Goodey, T.J.; Hill, Roberta W.; Keeling, R.W; Lewin, D. (1968). "The London CPL1 Compiler" (PDF). Comp J. BCS. 
+Higman, Bryan (1967–1977). A comparative study of programming languages. Macdonald and Jane's. ISBN 978-0-354-04068-6. 
+Housden, R J W (1969). "A note on list-processing in BCL" (PDF). Comp J. BCS. 
+Bird, Richard (1974). "On transformations of programs". Journal of Computer and System Sciences. 8 (1): 22–35. doi:10.1016/S0022-0000(74)80020-6. 
+Housden, R J W (1969). "The definition and implementation of Lsix in BCL" (PDF). Comp J. BCS. 
+Higman, Bryan (1967). "Paging and segmentation [letter]" (PDF). Comp J. BCS. 
+Hendry, D F; Samet, P A (1969). "Towards FORTRAN VI? Part 2. FORTRAN in the Modern World". Comp J. BCS. doi:10.1093/comjnl/12.3.218. 
+Nixon, Eric. "Software Firsts (change ringing)". 
+Paige, СС (1972). "Computational Variants of the Lanczos Method for the Eigenproblem" (PDF). J. Inst. Maths Applics. 
+Dollimore, Jean (1966). "A General Fourier Synthesis Program for the London University Atlas Computer". Comp J. BCS. doi:10.1093/comjnl/8.4.347. 
+Mitra, G.; Wolfenden, K. (1968). "A Computer Technique for Optimizing the Sites and Heights of Transmission Line Towers—a Dynamic Programming Approach". Comp J. BCS. 10 (4): 347. doi:10.1093/comjnl/10.4.347. 
+- and – numerous early RFCs (Internet standards)
+North, J.B. (August 1971). "RFC211 ARPA Network Mailing Lists". 
+Anon (October 1972). "RFC402 ARPA Network Mailing Lists". 
+Anon (January 1972). "RFC300 ARPA Network Mailing Lists". 
+Anon (May 1971). "RFC168 ARPA Network Mailing Lists". 
+Anon (May 1972). "RFC329 ARPA Network Mailing Lists". 
+Anon (August 1972). "RFC363 ARPA Network Mailing Lists". 
+PhD degrees were awarded to Barnett's graduate students
+John Michael Gerard, Synthesizing non-linear forms from linear descriptions by syntactic analysis, July 1965.
+Arthur William Charles Sambles, On the mechanisation of algebraic manipulation by digital computer, July 1965.
+To expedite their work, Gerard and Sambles were sent to MIT, to work with Barnett for several months before his return to England, and published several papers with the MIT Cooperative Computing Laboratory as joint affiliation. These included two of the earliest papers that reported the production of built up mathematical formulas, constructed by symbolic calculation, and recorded using computer typesetting software. Gerard and Sambles went on to CERN to work on the mechanised detection of particle events.
+Barnett's work at the Institute focused on exploring the practical problems and social consequences of electronic typesetting.
+
+
+== Teaching ==
+The Master of Science (MSc) in Computer Science of the Institute was one of the first courses in the subject. Barnett also ran informal courses, at the Institute and at the London College of Printing, to explain computer typesetting to officials of the trade unions concerned with the printing industry.
+A number of distinguished software and hardware engineers and scientists taught and supervised the M.Sc. and Ph.D degrees awarded by the Institute (see Staff above). Prominent graduates of the Institute include – Michael Newman, Professor of Information Systems, Manchester Business School [1], Nick Fiddian, Professor and Head of Department of Computer Science, Cardiff University, [2] and Gautam Mitra, OptiRisk Systems Ltd, Professor of Computational Optimisation, Brunel University, [3]
+
+
+== Computer Services ==
+The Institute provided early mainframe computer services on an Atlas computer, as the University of London Atlas Computing Service. The Atlas Computer (Manchester) was an early transistor machine and only three ever existed. A number of pioneering programmes were developed on the ICS Atlas including the CPL1 Compiler, A General Fourier Synthesis Program, A Computer Technique for Optimizing the Sites and Heights of Transmission Line Towers and even an early work in computing for English Change Ringing. All of these are described in papers under Research above. When the Institute closed, services were taken over by the University of London Computer Centre (ULCC)  although ULCC did initially run in parallel with the Atlas service.
+
+
+== Networking ==
+The Institute provided batch and interactive communications. The main services were the first UK Arpanet node and Remote Job Entry (RJE) to the IBM 360/195 at the Rutherford Laboratory in Oxfordshire. The Arpanet node was the first in Europe and is therefore the first place where what became the Internet was available in Europe. The RJE service using a Digital Equipment Corporation PDP-9 emulating an IBM 1130 (presumably a HASP workstation) was the first remote user of the 360/195,
+
+
+== References ==
+
+
+== External links ==
+University of London

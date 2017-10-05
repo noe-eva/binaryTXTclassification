@@ -1,0 +1,3 @@
+The serpentine system is a method employed in the organization of a competition to define the seeded teams and arrange them in pools. The n ranked teams that will be involved in the tournament are distributed in m pools according to the following algorithm:
+For instance, 12 teams would be organized in four-team pools, according to the serpentine system, as follows:
+To improve competitivity, this method is sometimes used in conjunction with the drawing of lots method: the serpentine system is used only for some of the teams involved in a competition ("seeds"); the rest is distributed in pools following a drawing of lots.

@@ -1,0 +1,11 @@
+The recursive join is an operation used in relational databases, also sometimes called a "fixed-point join". It is a compound operation that involves repeating the join operation, typically accumulating more records each time, until a repetition makes no change to the results (as compared to the results of the previous iteration).
+For example, if a database of family relationships is to be searched, and the record for each person has "mother" and "father" fields, a recursive join would be one way to retrieve all of a person's known ancestors: first the person's direct parents' records would be retrieved, then the parents' information would be used to retrieve the grandparents' records, and so on until no new records are being found.
+In this example, as in many real cases, the repetition involves only a single database table, and so is more specifically a "recursive self-join".
+Recursive joins can be very time-consuming unless optimized through indexing, the addition of extra key fields, or other techniques.
+Recursive joins are highly characteristic of hierarchical data, and therefore become a serious issue with XML data. In XML, operations such as determining whether one element contains another are extremely common, and the recursive join is perhaps the most obvious way to implement them when the XML data is stored in a relational database.
+The standard way to define recursive joins in the SQL:1999 standard is by way of recursive common table expressions. Database management systems that support recursive CTEs include Microsoft SQL Server, Oracle, PostgreSQL and others.
+
+
+== See also ==
+Join
+Hierarchical and recursive queries in SQL

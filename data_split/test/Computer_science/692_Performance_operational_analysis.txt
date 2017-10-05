@@ -1,0 +1,28 @@
+In performance engineering, operational analysis is a set of basic quantitative relationships between performance quantities. Basically the Operational Analysis is based on operational laws, e.g. Utilization Law, Service Demand Law, The Forced Flow Law, Little's Law and Interactive Response Time Law and is used to predict the response time, throughput, availability, reliability, security, scalability and extensibility.
+
+
+== Simple example: utilization law for a single server system ==
+Following Denning, consider a single server queuing system. It has a stream of arriving requests, which first go into a queue and then into a server --- eventually completing. This system has four basic quantities that can be observed in a finite period:
+T – the length of the period
+A – the number of arrivals occurring during the period
+B – the total amount of time during which the server is busy during the period
+C – the number of completions during the period
+From those we can derive some more quantities:
+lambda = A/T – the arrival rate
+X = C/T – the output rate
+U = B/T – the utilization
+S = B/C – the mean service time
+The utilization law is U = XS. This is established by nothing more than algebra.
+There is a corresponding law in more general settings.
+
+
+== See also ==
+Performance engineering
+Queueing theory
+
+
+== References ==
+
+
+== External links ==
+The Operational Analysis of Queueing Network Models

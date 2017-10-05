@@ -1,0 +1,4 @@
+ISAAC, the International Symposium on Algorithms and Computation, is an academic conference in the field of theoretical computer science. ISAAC has been organized annually since 1990. The proceedings are published by Springer-Verlag in the LNCS series.
+
+
+== References ==

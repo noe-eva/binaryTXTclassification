@@ -1,0 +1,14 @@
+The arithmetic IF statement is a three-way arithmetic conditional statement, first seen in the first release of Fortran in 1957, and found in all later versions, and some other programming languages, such as FOCAL. Unlike the logical IF statements seen in other languages, the Fortran statement defines three different branches depending on whether the result of an expression is negative, zero, or positive, in said order, written as:
+
+While it originally was the only kind of IF statement provided in Fortran, the feature has been used less and less frequently after the logical IF statements were introduced, and was finally labeled obsolescent in Fortran 90.
+
+
+== See also ==
+Sign function
+Three-way comparison
+Conditional (programming)
+
+
+== References ==
+arithmetic IF @ everything2.com
+Modular Programming with Fortran 90 - Obsolescent Features

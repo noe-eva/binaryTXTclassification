@@ -1,0 +1,5 @@
+In Conway's Game of Life and related cellular automata, a spacefiller is a pattern that spreads out indefinitely, eventually filling the entire space with a still life pattern. It typically consists of three components: stretchers that resemble spaceships at the four corners of the pattern, a growing boundary region along the edges of the pattern, and the still life in the interior pattern.
+It resembles a breeder in that both types of patterns have a quadratic growth rate in their numbers of live cells, and in both having a three-component architecture. However, in a breeder the moving part of the breeder (corresponding to the stretcher) leaves behind a fixed sequence of glider guns which fill space with gliders, moving objects (gliders or spaceships) rather than still life patterns. With a spacefiller, unlike a breeder, every point in the space eventually becomes part of the space-filling still life pattern.
+
+
+== References ==

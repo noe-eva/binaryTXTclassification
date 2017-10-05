@@ -1,0 +1,19 @@
+Attentive user interfaces (AUI) are user interfaces that manage the user's attention. For instance, an AUI can manage notifications (Horvitz et al. 2003), deciding when to interrupt the user, the kind of warnings, and the level of detail of the messages presented to the user. Attentive user interfaces, by generating only the relevant information, can in particular be used to display information in a way that increase the effectiveness of the interaction (Huberman & Wu 2008).
+According to Vertegaal, there are four main types of attentive user interfaces (Vertegaal 2003) (Vertegaal et al. 2006):
+Visual attention
+Turn management
+Interruption decision interfaces
+Visual detail management interfaces
+
+
+== See also ==
+Adaptive hypermedia
+Attention management
+Principles of attention stress
+
+
+== References ==
+Horvitz, E.; Kadie, C. M.; Paek, T.; Hovel, D. (2003). "Models of Attention in Computing and Communications: From Principles to Applications". Communications of the ACM. 46 (3): 52–59. doi:10.1145/636772.636798. 
+Huberman, Bernardo A.; Wu, Fang (2008). "The Economics of Attention: Maximizing User Value in Information Rich Environments" (PDF). Advances in Complex Systems. 11 (4): 487–496. doi:10.1142/S0219525908001830. 
+Vertegaal, Roel (2003). "Attentive User Interfaces" (PDF). Communications of the ACM. 46 (3): 30. doi:10.1145/636772.636794. Archived from the original (PDF) on 2010-09-29. 
+Vertegaal, Roel; Shell, J. S.; Chen, D.; Mamuji, A. (2006). "Designing for augmented attention: Towards a framework for attentive user interfaces". Computers in Human Behavior. 22 (4): 771–789. doi:10.1016/j.chb.2005.12.012.

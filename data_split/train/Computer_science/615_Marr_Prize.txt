@@ -1,0 +1,124 @@
+The Marr Prize is a prestigious biennial award in computer vision given by the IEEE-sponsored committee of the International Conference on Computer Vision. Named after David Marr, the Marr Prize is considered one of the top honors for a computer vision researcher [1].
+
+
+== Papers ==
+The list of papers that won the Marr Prize from 1987 are listed below.
+
+
+=== 1st ICCV, 1987, London, United Kingdom ===
+Marr Prize Paper: David Heeger, Optical Flow using Spatiotemporal Filters
+Marr Prize Honorable Mention Papers:
+John Tsotsos, A `Complexity Level' Analysis of Immediate Vision
+Michael Kass, Andrew Witkin, and Demetri Terzopoulos, Snakes: Active Contour Models
+Yiannis Aloimonos and Issac Weiss, Active Vision
+
+
+=== 2nd ICCV, 1988, Tampa, U.S.A. ===
+Marr Prize Paper: Brian Funt and Jian Ho, Color from Black and White
+Marr Prize Honorable Mention Papers
+David Lowe, Organization of Smooth Image Curves at Multiple Scales
+Vishvjit Nalwa, Representing Oriented Piecewise C2 Surfaces
+
+
+=== 3rd ICCV, 1990, Osaka, Japan ===
+Marr Prize Paper: Shree K. Nayar, Katsushi Ikeuchi, and Takeo Kanade, Shape from Interreflections
+
+
+=== 4th ICCV, 1993, Berlin, Germany ===
+Charles A. Rothwell, David A. Forsyth, Andrew Zisserman, and Joseph L. Mundy, Extracting Projective Structure from Single Perspective Views of 3D Point Sets
+
+
+=== 5th ICCV, 1995, Cambridge, U.S.A. ===
+Marr Prize Papers
+Michael Oren and Shree K. Nayar, A Theory of Specular Surface Geometry
+Toshikazu Wada, Hiroyuki Ukida, and Takashi Matsuyama, Shape from Shading with Interreflections under a Proximal Light Source: Distortion-Free Copying of an Unfolded Book
+
+Marr Prize Honorable Mention Papers
+Paul Viola and William Wells III, Alignment by Maximization of Mutual Information
+Anders Heyden, Reconstruction from Image Sequences by Means of Relative Depths
+Yalin Xiong and Steven Shafer, Hypergeometric Filters for Optical Flow and Affine Matching
+
+
+=== 6th ICCV, 1998, Bombay, India ===
+Marr Prize Papers
+Marc Pollefeys, Reinhard Koch, and Luc Van Gool, Self-Calibration and Metric Reconstruction in spite of Varying and Unknown Internal Camera Parameters
+Phil Torr, Andrew Fitzgibbon, and Andrew Zisserman, The Problem of Degeneracy in Structure and Motion Recovery from Uncalibrated Image Sequences
+
+Marr Prize Honorable Mention Paper: Richard Szeliski and Polina Golland, Stereo Matching with Transparency and Matting
+
+
+=== 7th ICCV, 1999, Kerkyra, Greece ===
+Marr Prize Papers
+Kiriakos Kutulakos and Steven Seitz, A Theory of Shape by Space Carving
+Yi Ma, Stefano Soatto, Jana Kosecka, and Shankar Sastry, Euclidean Reconstruction and Reprojection up to Subgroups
+
+Marr Prize Honorable Mention Papers
+Michael Black and David Fleet, Probabilistic Detection and Tracking of Motion Discontinuities
+Ying Nian Wu and Song-Chun Zhu, Equivalence of Texture Modeling and Analysis?
+
+
+=== 8th ICCV, 2001, Vancouver, Canada ===
+Marr Prize Papers
+Kentaro Toyama and Andrew Blake, Probabilistic Tracking with Exemplars in a Metric Space
+Steven Seitz, The Space of All Stereo Images
+
+Marr Prize Honorable Mention Papers
+Yaron Caspi and Michal Irani, Alignment of Non-Overlapping Sequences
+Lior Wolf and Amnon Shashua, On Projection Matrices and their Applications in Computer Vision
+
+
+=== 9th ICCV, 2003, Nice, France ===
+Marr Prize Papers
+Andrew Fitzgibbon, Yonatan Wexler, and Andrew Zisserman, Image-based Rendering using Image-based Priors
+Zhuowen Tu, Xiangrong Chen, Alan L. Yuille, and Song-Chun Zhu, Image Parsing: Unifying Segmentation, Detection and Recognition
+Paul Viola, Michael J. Jones, and Daniel Snow, Detecting Pedestrians using Patterns of Motion and Appearance
+
+
+=== 10th ICCV, 2005, Beijing, China ===
+Marr Prize Paper: "Globally Optimal Estimates for Geometric Reconstruction Problems", Fredrik Kahl, Didier Henrion
+Honorable Mention
+"A Theory of Refractive and Specular Shape by Light-Path Triangulation", Kiriakos N. Kutulakos, Eron Steger
+"Detecting Irregularities in Images and in Video", Oren Boiman, Michal Irani
+"On the Spatial Statistics of Optical Flow", Stefan Roth, Michael J. Black
+
+
+=== 11th ICCV, 2007, Rio de Janeiro, Brazil ===
+Marr Prize Paper: Bradley Davis, P. Thomas Fletcher, Elizabeth Bullitt, Sarang Joshi: Population Shape Regression From Random Design Data
+Honorable Mention:
+Ying Nian Wu, Zhangzhang Si, Chuck Fleming, Song-Chun Zhu: Deformable Template As Active Basis
+Abhijeet Ghosh, Shruthi Achutha, Wolfgang Heidrich, Matthew O'Toole: BRDF Acquisition with Basis Illumination
+Manmohan Chandraker, Sameer Agarwal, David Kriegman, Serge Belongie: Globally Optimal Affine and Metric Upgrades in Stratified Autocalibration
+
+
+=== 12th ICCV, 2009, Kyoto, Japan ===
+Marr Prize Paper: Chaitanya Desai, Deva Ramanan, Charless Fowlkes. "Discriminative models for multi-class object layout"
+Marr Prize Honorable Mention Paper: Ahmed Kirmani, Tyler Hutchison, James Davis, Ramesh Raskar. "Looking Around the corner using Transient Imaging"
+
+
+=== 13th ICCV, 2011, Barcelona, Spain ===
+Marr Prize Paper: Devi Parikh, Kristen Grauman: "Relative Attributes"
+
+
+=== 14th ICCV, 2013, Sydney, Australia ===
+Marr Prize Paper:
+Vicente Ordonez, Jia Deng, Yejin Choi, Alexander C. Berg, and Tamara L. Berg. "From Large Scale Image Categorization to Entry-Level Categories"
+
+Marr Prize Honorable Mention:
+Yuandong Tian and Srinivasa Narasimhan. "Hierarchical Data-driven Descent for Efficient Optimal Deformation Estimation"
+Christoph Vogel, Konrad Schindler, Stefan Roth. "Piecewise Rigid Scene Flow"
+
+
+=== 15th ICCV, 2015, Santiago, Chile ===
+Marr Prize Paper:
+Peter Kontschieder, Madalina Fiterau, Antonio Criminisi, and Samuel Rota Bulò. "Deep Neural Decision Forests", supplementary material
+
+Marr Prize Honorable Mention:
+Saining Xie and Zhuowen Tu. "Holistically-Nested Edge Detection"
+
+
+== References ==
+
+
+== External links ==
+Award history
+ICCV 2009 prize website

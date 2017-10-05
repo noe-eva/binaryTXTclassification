@@ -1,0 +1,17 @@
+Adaptive optimization is a technique in computer science that performs dynamic recompilation of portions of a program based on the current execution profile. With a simple implementation, an adaptive optimizer may simply make a trade-off between just-in-time compilation and interpreting instructions. At another level, adaptive optimization may take advantage of local data conditions to optimize away branches and to use inline expansion to decrease the cost of procedure calls.
+Consider a hypothetical banking application that handles transactions one after another. These transactions may be checks, deposits, and a large number of more obscure transactions. When the program executes, the actual data may consist of clearing tens of thousands of checks without processing a single deposit and without processing a single check with a fraudulent account number. An adaptive optimizer would compile assembly code to optimize for this common case. If the system then started processing tens of thousands of deposits instead, the adaptive optimizer would recompile the assembly code to optimize the new common case. This optimization may include inlining code.
+Examples of adaptive optimization include HotSpot and HP's Dynamo system.
+In some systems, notably the Java Virtual Machine, execution over a range of bytecode instructions can be provably reversed. This allows an adaptive optimizer to make risky assumptions about the code. In the above example, the optimizer may assume all transactions are checks and all account numbers are valid. When these assumptions prove incorrect, the adaptive optimizer can 'unwind' to a valid state and then interpret the byte code instructions correctly.
+
+
+== See also ==
+
+Profile-guided optimization
+Hot spot (computer science)
+
+
+== References ==
+
+
+== External links ==
+CiteSeer for "Adaptive Optimization in the Jalapeño JVM (2000)" by Matthew Arnold, Stephen Fink, David Grove, Michael Hind, Peter F. Sweeney. Contains links to the full paper in various formats.

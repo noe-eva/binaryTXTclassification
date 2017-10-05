@@ -1,0 +1,168 @@
+The graph isomorphism problem is the computational problem of determining whether two finite graphs are isomorphic.
+The problem is not known to be solvable in polynomial time nor to be NP-complete, and therefore may be in the computational complexity class NP-intermediate. It is known that the graph isomorphism problem is in the low hierarchy of class NP, which implies that it is not NP-complete unless the polynomial time hierarchy collapses to its second level. At the same time, isomorphism for many special classes of graphs can be solved in polynomial time, and in practice graph isomorphism can often be solved efficiently.
+This problem is a special case of the subgraph isomorphism problem, which asks whether a given graph G contains a subgraph that is isomorphic to another given graph H and which is known to be NP-complete. It is also known to be a special case of the non-abelian hidden subgroup problem over the symmetric group.
+In the area of image recognition it is known as the exact graph matching.
+
+
+== State of the art ==
+The best currently accepted theoretical algorithm is due to Babai & Luks (1983), and is based on the earlier work by Luks (1982) combined with a subfactorial algorithm of V. N. Zemlyachenko (Zemlyachenko, Korneenko & Tyshkevich 1985). The algorithm has run time 2O(√n log n) for graphs with n vertices and relies on the classification of finite simple groups. Without CFSG, a slightly weaker bound 2O(√n log2 n) was obtained first for strongly regular graphs by László Babai (1980), and then extended to general graphs by Babai & Luks (1983). Improvement of the exponent √n is a major open problem; for strongly regular graphs this was done by Spielman (1996). For hypergraphs of bounded rank, a subexponential upper bound matching the case of graphs was obtained by Babai & Codenotti (2008).
+In November 2015, Babai announced a quasipolynomial time algorithm for all graphs, that is, one with running time 
+  
+    
+      
+        
+          2
+          
+            O
+            (
+            (
+            log
+            ⁡
+            n
+            
+              )
+              
+                c
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle 2^{O((\log n)^{c})}}
+   for some fixed 
+  
+    
+      
+        c
+        >
+        0
+      
+    
+    {\displaystyle c>0}
+  . On January 4 2017, Babai retracted the quasi-polynomial claim and stated a sub-exponential time bound instead after Harald Helfgott discovered a flaw in the proof. On January 9 2017, Babai announced a correction (published in full on January 19) and restored the quasi-polynomial claim, with Helfgott confirming the fix. Helfgott further claims that one can take c = 3, so the running time is 2O((log n)3).
+There are several competing practical algorithms for graph isomorphism, such as those due to McKay (1981), Schmidt & Druffel (1976), and Ullman (1976). While they seem to perform well on random graphs, a major drawback of these algorithms is their exponential time performance in the worst case.
+The graph isomorphism problem is computationally equivalent to the problem of computing the automorphism group of a graph, and is weaker than the permutation group isomorphism problem and the permutation group intersection problem. For the latter two problems, Babai, Kantor & Luks (1983) obtained complexity bounds similar to that for graph isomorphism.
+
+
+== Solved special cases ==
+A number of important special cases of the graph isomorphism problem have efficient, polynomial-time solutions:
+Trees
+Planar graphs (In fact, planar graph isomorphism is in log space, a class contained in P)
+Interval graphs
+Permutation graphs
+Circulant graphs
+Bounded-parameter graphs
+Graphs of bounded treewidth
+Graphs of bounded genus (Note: planar graphs are graphs of genus 0)
+Graphs of bounded degree
+Graphs with bounded eigenvalue multiplicity
+k-Contractible graphs (a generalization of bounded degree and bounded genus)
+Color-preserving isomorphism of colored graphs with bounded color multiplicity (i.e., at most k vertices have the same color for a fixed k) is in class NC, which is a subclass of P
+
+
+== Complexity class GI ==
+Since the graph isomorphism problem is neither known to be NP-complete nor known to be tractable, researchers have sought to gain insight into the problem by defining a new class GI, the set of problems with a polynomial-time Turing reduction to the graph isomorphism problem. If in fact the graph isomorphism problem is solvable in polynomial time, GI would equal P.
+As is common for complexity classes within the polynomial time hierarchy, a problem is called GI-hard if there is a polynomial-time Turing reduction from any problem in GI to that problem, i.e., a polynomial-time solution to a GI-hard problem would yield a polynomial-time solution to the graph isomorphism problem (and so all problems in GI). A problem 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   is called complete for GI, or GI-complete, if it is both GI-hard and a polynomial-time solution to the GI problem would yield a polynomial-time solution to 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  .
+The graph isomorphism problem is contained in both NP and co-AM. GI is contained in and low for Parity P, as well as contained in the potentially much smaller class SPP. That it lies in Parity P means that the graph isomorphism problem is no harder than determining whether a polynomial-time nondeterministic Turing machine has an even or odd number of accepting paths. GI is also contained in and low for ZPPNP. This essentially means that an efficient Las Vegas algorithm with access to an NP oracle can solve graph isomorphism so easily that it gains no power from being given the ability to do so in constant time.
+
+
+=== GI-complete and GI-hard problems ===
+
+
+==== Isomorphism of other objects ====
+There are a number of classes of mathematical objects for which the problem of isomorphism is a GI-complete problem. A number of them are graphs endowed with additional properties or restrictions:
+digraphs
+labelled graphs, with the proviso that an isomorphism is not required to preserve the labels, but only the equivalence relation consisting of pairs of vertices with the same label
+"polarized graphs" (made of a complete graph Km and an empty graph Kn plus some edges connecting the two; their isomorphism must preserve the partition)
+2-colored graphs
+explicitly given finite structures
+multigraphs
+hypergraphs
+finite automata
+Markov Decision Processes
+commutative class 3 nilpotent (i.e., xyz = 0 for every elements x, y, z) semigroups
+finite rank associative algebras over a fixed algebraically closed field with zero squared radical and commutative factor over the radical.
+context-free grammars
+balanced incomplete block designs
+Recognizing combinatorial isomorphism of convex polytopes represented by vertex-facet incidences.
+
+
+==== GI-complete classes of graphs ====
+A class of graphs is called GI-complete if recognition of isomorphism for graphs from this subclass is a GI-complete problem. The following classes are GI-complete:
+connected graphs
+graphs of diameter 2 and radius 1
+directed acyclic graphs
+regular graphs
+bipartite graphs without non-trivial strongly regular subgraphs
+bipartite Eulerian graphs
+bipartite regular graphs
+line graphs
+split graphs
+chordal graphs
+regular self-complementary graphs
+polytopal graphs of general, simple, and simplicial convex polytopes in arbitrary dimensions.
+
+Many classes of digraphs are also GI-complete.
+
+
+==== Other GI-complete problems ====
+There are other nontrivial GI-complete problems in addition to isomorphism problems.
+The recognition of self-complementarity of a graph or digraph.
+A clique problem for a class of so-called M-graphs. It is shown that finding an isomorphism for n-vertex graphs is equivalent to finding an n-clique in an M-graph of size n2. This fact is interesting because the problem of finding an (n − ε)-clique in a M-graph of size n2 is NP-complete for arbitrarily small positive ε.
+The problem of homeomorphism of 2-complexes.
+
+
+==== GI-hard problems ====
+The problem of counting the number of isomorphisms between two graphs is polynomial-time equivalent to the problem of telling whether even one exists.
+The problem of deciding whether two convex polytopes given by either the V-description or H-description are projectively or affinely isomorphic. The latter means existence of a projective or affine map between the spaces that contain the two polytopes (not necessarily of the same dimension) which induces a bijection between the polytopes.
+
+
+== Program checking ==
+Manuel Blum and Sampath Kannan (1995) have shown a probabilistic checker for programs for graph isomorphism. Suppose P is a claimed polynomial-time procedure that checks if two graphs are isomorphic, but it is not trusted. To check if G and H are isomorphic:
+Ask P whether G and H are isomorphic.
+If the answer is "yes':
+Attempt to construct an isomorphism using P as subroutine. Mark a vertex u in G and v in H, and modify the graphs to make them distinctive (with a small local change). Ask P if the modified graphs are isomorphic. If no, change v to a different vertex. Continue searching.
+Either the isomorphism will be found (and can be verified), or P will contradict itself.
+
+If the answer is "no":
+Perform the following 100 times. Choose randomly G or H, and randomly permute its vertices. Ask P if the graph is isomorphic to G and H. (As in AM protocol for graph nonisomorphism).
+If any of the tests are failed, judge P as invalid program. Otherwise, answer "no".
+
+This procedure is polynomial-time and gives the correct answer if P is a correct program for graph isomorphism. If P is not a correct program, but answers correctly on G and H, the checker will either give the correct answer, or detect invalid behaviour of P. If P is not a correct program, and answers incorrectly on G and H, the checker will detect invalid behaviour of P with high probability, or answer wrong with probability 2−100.
+Notably, P is used only as a blackbox.
+
+
+== Applications ==
+Graphs are commonly used to encode structural information in many fields, including computer vision and pattern recognition, and graph matching, i.e., identification of similarities between graphs, is an important tools in these areas. In these areas graph isomorphism problem is known as the exact graph matching. 
+In cheminformatics and in mathematical chemistry, graph isomorphism testing is used to identify a chemical compound within a chemical database. Also, in organic mathematical chemistry graph isomorphism testing is useful for generation of molecular graphs and for computer synthesis.
+Chemical database search is an example of graphical data mining, where the graph canonization approach is often used. In particular, a number of identifiers for chemical substances, such as SMILES and InChI, designed to provide a standard and human-readable way to encode molecular information and to facilitate the search for such information in databases and on the web, use canonization step in their computation, which is essentially the canonization of the graph which represents the molecule.
+In electronic design automation graph isomorphism is the basis of the Layout Versus Schematic (LVS) circuit design step, which is a verification whether the electric circuits represented by a circuit schematic and an integrated circuit layout are the same.
+
+
+== See also ==
+Graph automorphism problem
+Graph canonization
+
+
+== Notes ==
+
+
+== References ==

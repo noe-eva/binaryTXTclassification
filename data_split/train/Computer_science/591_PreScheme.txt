@@ -1,0 +1,24 @@
+PreScheme or Pre-Scheme is a statically-typed dialect of Scheme with the efficiency and low-level machine access of C while retaining many of the desirable features of Scheme.
+The PreScheme compiler is a part of Scheme48.
+
+
+== Variants ==
+Macro-Free PreScheme
+Obtained from Full PreScheme by expanding all macros.
+Pure PreScheme
+A tail-recursive, closure-free dialect of PreScheme, obtained from Macro-Free PreScheme by hoisting lambda expressions and beta expansion.
+VLISP PreScheme
+Simple PreScheme
+
+
+== Further reading ==
+Oliva, Dino P.; Wand, Mitchell (1991). "A Verified Compiler for Pure PreScheme". 
+A Guide to VLISP, A Verified Programming Language Implementation (1992)
+Oliva, Dino P.; Wand, Mitchell (1992). "A Verified Run-Time Structure for Pure PreScheme". 
+The VLISP PreScheme Front End (1992)
+The Revised VLISP PreScheme Front End (1993)
+Kelsey, Richard; Rees, Jonathan A. (1993). "A Tractable Scheme Implementation". 
+Tail-Recursive Stack Disciplines for an Interpreter (1993)
+Guttman, Joshua; Swarup, Vipin; Ramsdell, John (1995). "The VLISP Verified Scheme System". Lisp and Symbolic Computation. pp. 33–110. 
+A Verified Compiler for Multithreaded PreScheme (1996)
+Kelsey, Richard A. (1997). "Pre-Scheme: A Scheme Dialect for Systems Programming".

@@ -1,0 +1,7 @@
+Lernmatrix, an associative-memory-like architecture of an artificial neural network, invented around 1960 by Karl Steinbuch.
+
+
+== External links ==
+A new theoretical framework for the Steinbuch's Lernmatrix
+Pattern recognition and classification using weightless neural networks (WNN) and Steinbuch Lernmatrix
+DARPA project will study neural network processes

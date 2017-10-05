@@ -1,0 +1,4 @@
+In computer science, a skew binomial heap (or skew binomial queue) is a variant of the binomial heap that supports worst-case O(1) insertion, rather than the O(log n) worst-case insertion from the original binomial heap. Just as binomial heaps are based on the binary number system, skew binary heaps are based on the skew binary number system.
+
+
+== References ==

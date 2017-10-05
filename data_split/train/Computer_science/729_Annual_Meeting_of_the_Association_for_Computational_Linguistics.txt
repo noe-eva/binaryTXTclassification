@@ -1,0 +1,40 @@
+The Association for Computational Linguistics (ACL) is the international scientific and professional society for people working on problems involving natural language and computation. An annual meeting is held each summer in locations where significant computational linguistics research is carried out. It was founded in 1962, originally named the Association for Machine Translation and Computational Linguistics (AMTCL). It became the ACL in 1968.
+The ACL has a European (EACL) and a North American (NAACL) chapter.
+The ACL journal, Computational Linguistics, is the primary forum for research on computational linguistics and natural language processing. Since 1988, the journal has been published for the ACL by MIT Press.
+The ACL book series, Studies in Natural Language Processing, is published by Cambridge University Press.
+Each year ACL and its chapters organize international conferences in different countries. ACL 2017 was held in Vancouver, Canada.
+
+
+== Special Interest Groups ==
+ACL has a large number of Special Interest Groups (SIGs), focusing on specific areas of natural language processing. Some current SIGs within ACL are:
+Linguistic Annotation: SIGANN
+Biomedical Language Processing: SIGBIOMED
+Linguistic data and corpus-based approaches: SIGDAT
+Dialogue Processing: SIGDIAL
+SIGFSM
+Natural Language Generation: SIGGEN
+Chinese Language Processing: SIGHAN
+Language Technologies for the Socio-Economic Sciences and the Humanities: SIGHUM
+Lexicon: SIGLEX (SIGLEX is the umbrella organization for the SemEval semantic evaluations and SENSEVAL word-sense evaluation exercises.)
+Mathematics of Language: SIGMOL
+Machine Translation: SIGMT
+Natural Language Learning: SIGNLL
+Natural Language Parsing: SIGPARSE
+Computational Morphology and Phonology: SIGMORPHON
+Computational Semantics: SIGSEM
+Speech & Language Processing for Assistive Technologies: SIGSLPAT
+Computational Approaches to Semitic Languages: SEMITIC
+Web as Corpus SIGWAC
+
+
+== Presidents ==
+Each year the ACL elects a distinguished computational linguist who becomes vice-president of the organization in the next calendar year and president one year later. Recent ACL presidents are:
+
+
+== External links ==
+ACL home page
+ACL Anthology
+ACL Wiki
+
+EACL home page
+NAACL home page

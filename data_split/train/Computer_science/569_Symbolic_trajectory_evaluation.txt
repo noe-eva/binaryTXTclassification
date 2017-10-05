@@ -1,0 +1,5 @@
+Symbolic trajectory evaluation (STE) is a lattice-based model checking technology that uses a form of symbolic simulation. STE is essentially used for computer hardware, that is circuit verification. The technique uses abstraction, meaning that details of the circuit behaviour are removed from the circuit model. It was first developed by Carl Seger and Randy Bryant in 1995 as an alternative to "classical" symbolic model checking.
+
+
+== References ==
+C.-J. H. Seger, and R. E. Bryant, Formal Verification by Symbolic Evaluation of Partially-Ordered Trajectories, Formal Methods in System Design, Vol. 6, No. 2 (March, 1995), pp. 147–190

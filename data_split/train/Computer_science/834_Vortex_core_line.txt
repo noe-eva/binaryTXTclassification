@@ -1,0 +1,36 @@
+In scientific visualization, a vortex core line is a line-like feature tracing the center of a vortex within a velocity field.
+
+
+== Detection methods ==
+Several methods exist to detect vortex core lines in a flow field. Jiang, Machiraju & Thompson (2004) studied and compared nine methods for vortex detection, including five methods for the identification of vortex core lines. Although this list is incomplete, they considered it representative for the state of the art (as of 2004).
+One of these five methods is by Sujudi & Haimes (1995): in a velocity field v(x,t) a vector x lies on a vortex core line if v(x,t) is an eigenvector of the tensor derivative 
+  
+    
+      
+        ∇
+        
+          v
+        
+        (
+        
+          x
+        
+        ,
+        t
+        )
+      
+    
+    {\displaystyle \nabla {\boldsymbol {v}}({\boldsymbol {x}},t)}
+   and the other – not corresponding – eigenvalues are complex.
+Another is the Lambda2 method, which is Galilean invariant and thus produces the same results when a uniform velocity field is added to the existing velocity field or when the field is translated.
+
+
+== See also ==
+
+Flow visualization
+
+
+== References ==
+
+Jiang, Ming; Machiraju, Raghu; Thompson, David (2004), "Detection and visualization of vortices", in Hansen, Charles D.; Johnson, Chris R., Visualization Handbook, Academic Press, pp. 295–309, ISBN 9780123875822 
+Sujudi, David; Haimes, Robert (1995), "Identification of swirling flow in 3-D vector fields", 12th AIAA Computational Fluid Dynamics Conference, and Open Forum. San Diego, 19–22 June, 1995, pp. 792–799, CiteSeerX 10.1.1.43.7739 

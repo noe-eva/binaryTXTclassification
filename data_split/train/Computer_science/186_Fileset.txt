@@ -1,0 +1,7 @@
+Fileset has several meanings, depending on the context:
+In the AIX operating system it is the smallest individually installable unit (a collection of files that provides a specific function).
+DCE/DFS uses the term fileset to define a tree containing directories, files, and mount points (links to other DFS filesets). A DFS fileset is also a unit of administrative control. Properties such as data location, storage quota, and replication are controlled at this level of granularity. The concept of a fileset in DFS is essentially identical to the concept of a volume in AFS. The glamor filesystem uses the same concept of filesets. Filesets are lightweight components compared to file systems, so management of a file set is easier.
+In IBM GPFS represents a set of files within a file system which have an independent inode space.
+
+
+== See also ==

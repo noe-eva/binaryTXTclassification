@@ -1,0 +1,40 @@
+The expression problem is a term used in discussing strengths and weaknesses of various programming paradigms and programming languages.
+Philip Wadler coined the term in response to a discussion with Rice University's Programming Languages Team (PLT):
+
+The expression problem is a new name for an old problem. The goal is to define a datatype by cases, where one can add new cases to the datatype and new functions over the datatype, without recompiling existing code, and while retaining static type safety (e.g., no casts).
+
+
+== History ==
+At ECOOP '98, Krishnamurthi et al. presented a design pattern solution to the problem of simultaneously extending an expression-oriented programming language and its tool-set. They dubbed it the "expressivity problem" because they thought programming language designers could use the problem to demonstrate the expressive power of their creations. For PLT, the problem had shown up in the construction of DrScheme, now DrRacket, and they solved it via a rediscovery of mixins. To avoid using a programming language problem in a paper about programming languages, Krishnamurthi et al. used an old geometry programming problem to explain their pattern-oriented solution. In conversations with Felleisen and Krishnamurthi after the ECOOP presentation, Wadler understood the PL-centric nature of the problem and he pointed out that Krishnamurthi's solution used a cast to circumvent Java's type system. The discussion continued on the types mailing list, where Corky Cartwright (Rice) and Kim Bruce (Williams) showed how type systems for OO languages might eliminate this cast. In response Wadler formulated his essay and stated the challenge, "whether a language can solve the expression problem is a salient indicator of its capacity for expression." The label "expression problem" puns on expression = "how much can your language express" and expression = "the terms you are trying to represent are language expressions".
+Others co-discovered variants of the expression problem around the same time as Rice University's PLT, in particular Thomas Kühne in his dissertation and Smaragdakis and Batory in a parallel ECOOP 98 article.
+Some follow-up work used the expression problem to showcase the power of programming language designs.
+The expression problem is also a fundamental problem in multi-dimensional Software Product Line design and in particular as an application or special case of FOSD Program Cubes.
+
+
+== Solutions ==
+There are various solutions to the expression problem. Each solution varies in the amount of code a user must write to implement them, and the language features they require.
+Multimethods
+Open classes
+Coproducts of functors
+Type classes
+Tagless-final / Object algebras
+
+
+== See also ==
+Applications of FOSD Program Cubes
+Generic programming
+POPLmark challenge
+
+
+== References ==
+
+
+== Further reading ==
+John C. Reynolds (1975). "User-defined types and procedural data structures as complementary approaches to data abstraction". New Directions in Algorithmic Languages, pp. 157–168.
+
+
+== External links ==
+The Expression Problem by Philip Wadler.
+Lecture: The Expression Problem by Ralf Lämmell.
+C9 Lectures: Dr. Ralf Lämmel - Advanced Functional Programming - The Expression Problem at Channel 9,
+Independently Extensible Solutions to the Expression Problem, Matthias Zenger and Martin Odersky, EPFL Lausanne

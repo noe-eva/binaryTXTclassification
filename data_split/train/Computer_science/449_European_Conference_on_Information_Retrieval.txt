@@ -1,0 +1,59 @@
+The European Conference on Information Retrieval (ECIR) is the main European research conference for the presentation of new results in the field of information retrieval (IR). It is organized by the Information Retrieval Specialist Group of the British Computer Society (BCS-IRSG).
+The event started its life as the Annual Colloquium on Information Retrieval Research in 1978 and was held in the UK each year until 1998 when it was hosted in Grenoble, France. Since then the venue has alternated between the United Kingdom and continental Europe. To mark the metamorphosis from a small informal colloquium to a major event in the IR research calendar, the BCS-IRSG later renamed the event to European Conference on Information Retrieval. In recent years, ECIR has continued to grow and has become the major European forum for the discussion of research in the field of Information Retrieval.
+Some of the topics dealt with include:
+IR models, techniques, and algorithms
+IR applications
+IR system architectures
+Test and evaluation methods for IR
+Natural Language Processing for IR
+Distributed IR
+Multimedia and cross-media IR
+
+
+== Time and Location ==
+Traditionally, the ECIR is held in Spring, near the Easter weekend. A list of locations and planned venues are presented below.
+Aberdeen, 2017 [1]
+Padova, Italy, 2016 [2]
+Vienna, Austria, 2015 [3]
+Amsterdam, Netherlands, 2014 [4]
+Moscow, Russia, 2013 [5]
+Barcelona, Spain, 2012 [6]
+Dublin, Ireland, 2011 [7]
+Milton Keynes, 2010 [8]
+Toulouse, 2009 [9]
+Glasgow, 2008 [10]
+Rome, 2007 [11]
+London, 2006 [12]
+Santiago, 2005 [13]
+Sunderland, 2004 [14]
+Pisa, 2003 [15]
+Glasgow, 2002 [16]*
+Darmstadt, 2001* (organized by GMD)
+Cambridge, 2000* (organized by Microsoft Research)
+Glasgow, 1999*
+Grenoble, 1998*
+Aberdeen, 1997*
+Manchester, 1996*
+Crewe, 1995* (organized by Manchester Metropolitan University)
+Drymen, Scotland, 1994* (organized by Strathclyde University)
+Glasgow, 1993* (organized by Strathclyde University)
+Lancaster, 1992*
+Lancaster, 1991*
+Huddersfield, 1990*
+Huddersfield, 1989*
+Huddersfield, 1988*
+Glasgow, 1987*
+Glasgow, 1986*
+Bradford, 1985*
+Bradford, 1984*
+Sheffield, 1983*
+Sheffield, 1982*
+Birmingham, 1981*
+Leeds, 1980*
+Leeds, 1979*
+
+*as the Annual Colloquium on Information Retrieval Research
+
+
+== External links ==
+Official page at the website of the British Computer Society

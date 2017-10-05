@@ -1,0 +1,24 @@
+Algebraic specification, is a software engineering technique for formally specifying system behavior. Algebraic specification seeks to systematically develop more efficient programs by:
+formally defining types of data, and mathematical operations on those data types
+abstracting implementation details, such as the size of representations (in memory) and the efficiency of obtaining outcome of computations
+formalizing the computations and operations on data types
+allowing for automation by formally restricting operations to this limited set of behaviors and data types.
+An algebraic specification achieves these goals by defining one or more data types, and specifying a collection of functions that operate on those data types. These functions can be divided into two classes:
+constructor functions: functions that create or initialize the data elements, or construct complex elements from simpler ones
+additional functions: functions that operate on the data types, and are defined in terms of the constructor functions.
+
+
+== Example ==
+Consider a formal algebraic specification for the boolean data type.
+One possible algebraic specification may provide two constructor functions for the data-element: a true constructor and a false constructor. Thus, a boolean data element could be declared, constructed, and initialized to a value. In this scenario, all other connective elements, such as XOR and AND, would be additional functions. Thus, a data element could be instantiated with either "true" or "false" value, and additional functions could be used to perform any operation on the data element.
+Alternatively, the entire system of boolean data types could be specified using a different set of constructor functions: a false constructor and a not constructor. In that case, an additional function could be defined to yield the value "true."
+The algebraic specification therefore describes all possible states of the data element, and all possible transitions between states.
+
+
+== See also ==
+Common Algebraic Specification Language
+Donald Sannella
+Formal specification
+
+
+== Notes ==

@@ -1,0 +1,35 @@
+SYSGO AG supplies operating systems and services for embedded systems with high safety and security-related requirements and is a pioneer in the use of Linux in the embedded market. For security-critical applications, the company offers the Hypervisor and RTOS PikeOS, which today is the world's first SIL 4 certified operating system for multicore processors and the foundation for intelligent devices in the Internet of Things (IoT). As an operating system manufacturer provider, SYSGO supports companies with the formal certification of software to international standards for Safety & Security in markets such as aerospace & defence, industrial automation, automotive, railway, medical as well as network infrastructure. SYSGO actively participates in a variety of international research projects and standardisation initiatives in the area of Safety & Security.
+
+
+== History ==
+SYSGO was founded in 1991. On the initiative of company founder Knut Degen, the company specialized in the use of Linux-based operating systems in embedded applications. In the 1990s, SYSGO worked mainly with LynxOS and became the first company to achieve certification of this operating system to the DO-178B Level A standard for safety-critical applications in avionics. In 1999, the company launched the first product of its own, a development environment for Linux-based embedded applications by the name of ELinOS.
+SYSGO introduced the first version of its PikeOS real-time operating system in 2005. With Hypervisor functionality integrated into its basic structure, this operating system allows multiple embedded applications with different functional security requirements to be operated on the same processor. The current version of PikeOS can run security-critical applications for aerospace, automotive, rail and other industrial applications with improved performance and efficiency.
+2009 saw the market launch of the first software-only implementation of an ADFX stack (Avionics Full DupleX Switched Ethernet) for Safety-Critical Ethernet in accordance with ARINC-664 Part 7, which was certified to DO-178B. In 2013, SYSGO also achieved the first SIL 4 certification on multicore processors for EN 50128, a European standard for safety-relevant software used in railway applications.
+The first subsidiary of the company was established in Ulm in 1997, followed by Prague (2004), Paris (2005) and Rostock (2008). In 2012, SYSGO was taken over by the Thales Group of France and has been Europe's leading provider of embedded real-time operating systems since 2013.
+
+
+== Products & Services ==
+SYSGO's best-known product is PikeOS, a real-time operating system with a separation kernel-based Hypervisor, which provides multiple partitions for a variety of other operating systems and equips them with time schedules.
+Other products include:
+ELinOS, a Linux operating system for embedded applications
+Safety-Critical Ethernet/AFDX, a software implementation of ARINC-664 Part 7
+Various components required for certification
+The PikeOS Hypervisor itself is certified to the highest industrial standards and thus forms a suitable foundation for critical systems in which both Safety & Security have to be ensured. The company also offers various certification kits which incorporate SYSGO's many years of certification expertise. These certification kits include, for example, comprehensive support documentation for development and testing and, if necessary, additional safety and security information to allow the development of standards-compliant systems.
+
+
+== Research ==
+Among other activities, SYSGO is the technical lead for the EU research project certMILS. The goal of certMILS is primarily to make a certified European MILS platform available, and thus simplify the certification of composite IT systems. The project is supported by the EU as part of the Horizon 2020 programme. Other research projects are listed on the SYSGO website.
+
+
+== Customers & Partner network ==
+Customers include companies that are working i.a. on solutions for the Internet of Things; especially suppliers and manufacturers in the areas aerospace & defence, automotive, railway and industrial sectors who have high safety and security requirements for their applications. They include e.g. Airbus, Continental, Magna, Thales, Raytheon, Rockwell Collins, Rheinmetall, B. Braun, Miele, Rohde & Schwarz and Selex.
+SYSGO maintains close partnerships with leading hardware and software suppliers to ensure that developers can achieve their goals efficiently. These include multinational companies such as ANSYS, CoreAVI, Lauterbach, Vector and AMD, ARM, Curtiss-Wright, Intel, Kontron, Men, Mercury, NXP, Renesas, TQ-Components and Xilinx.
+
+
+== External links ==
+Company page
+PikeOS Product page
+ELinOS Product page
+
+
+== References ==

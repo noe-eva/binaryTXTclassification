@@ -1,0 +1,47 @@
+The multi-stage fitness test, also known as the pacer test, is a series of stages that have different tasks sometimes used by sports coaches and trainers to estimate an athlete's VO2 max (maximum oxygen uptake). The most common variation of the multi-stage fitness test is the FitnessGram/Cooper PACER test. The test is especially useful for players of sports such as rugby, association football, Australian rules football, Gaelic football, hurling, hockey, netball, handball, tennis, squash, and fitness testing in schools and colleges plus many other sports; employed by many international sporting teams as an accurate test of cardiovascular fitness, one of the more important components of physical fitness. The test was created in 1982 by Luc Léger, University of Montreal and published in 1983 with a starting speed of 8 km/h and stages of 2 min duration. The test was re-published in the European Journal of Applied Physiology in 1988 in its present form with a starting speed of 8.5 km/h and 1 min stages under the name "The multistage 20 metre shuttle run test for aerobic fitness". Result equivalences between slightly modified versions are well explained by Tomkinson et al. in 2003.
+
+
+== Correlated measures ==
+VO2max = (Velocity (km/h) × 6.65 - 35.8) × 0.95 + 0.182 
+[METs] = VO2max / 3.5 
+
+
+== Rules ==
+The test involves running continuously between two points that are 20 m apart from side to side. The runs are synchronized with a pre-recorded audio tape, CD or laptop software, which plays beeps at set intervals. As the test proceeds, the interval between each successive beep decreases, forcing the athletes to increase their speed over the course of the test until it is impossible to keep in sync with the recording (or, on extremely rare occasions, until the athlete completes the test). Many people who test people using the multi-stage fitness test allow one level to beep before the person makes the line, but some middle and grade schools allow two missed laps. If the person being tested does not make the next interval, the most recent level they completed is their final score.
+The recording is typically structured into 21 'levels', each lasting around 62 s. Usually, the interval of beeps is calculated as requiring a speed at the start of 8.5 km/h (see format table), increasing by 0.5 km/h with each level thereafter. The progression from one level to the next is signaled by 3 quick beeps. The highest level attained before failing to keep up is recorded as the score for that test.
+
+
+== Format ==
+The original beep test was initially available on audio tape format. A problem with the tape was that it could stretch over time, or the tape player would play at inconsistent speed, making the timing between beeps inaccurate. Most versions of the tape had a one-minute recorded interval for calibrating the tape and tape player. Digital audio formats replaced the tapes, but checks were still required on the CD/player due to some tone controls possibly affecting the playback speed.
+Inexpensive beep test software is now popular due to modern electronic devices having excellent and consistent timing accuracy. The software generally runs on a portable electronic computer such as a tablet, phone or laptop, making the test easy to organise for teams, and also tracks player fitness over a season. The contemporary accepted format starts at 8.5 km/h with levels of 1 minute as described in Leger's and Lambert's paper of 1988.
+
+
+== Users ==
+
+
+== World record ==
+The Guinness World Record for the largest group beep test is held by RAF Honington, in Honington, Suffolk where over 586 men and women took part.
+
+
+== Known issues ==
+Like any other highly intensive physical activity, the beep test poses health risks for individuals with health issues such as asthma, anemia, and/or hypothyroidism, among other issues.
+
+
+== In popular culture ==
+The introductory explanation of one multi-stage fitness test, the FitnessGram pacer test, has been widely spread as a meme and copypasta due to the pacer test's modern use in schools, primarily in physical education classes.
+"The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20-meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. On your mark, get ready, start."
+Episode 12 of the Australian children's comedy show Little Lunch is called 'The Beep Test'. The plot revolves around the school students' reactions to participating in the multi-stage fitness test.
+
+
+== See also ==
+Harvard step test, a cardiovascular test
+Physical fitness test
+
+
+== References ==
+
+
+== External links ==
+Everything you need to know about the Beep Test - Beeptests.com
+Complete Guide to the Beep Test - TopEndSports.com
+Background information on the Beep Test - Rugbycoach.com

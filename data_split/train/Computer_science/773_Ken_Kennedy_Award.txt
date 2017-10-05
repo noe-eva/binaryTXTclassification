@@ -1,0 +1,22 @@
+The Ken Kennedy Award, established in 2009 by the Association for Computing Machinery and the IEEE Computer Society in memory of Ken Kennedy, is awarded annually and recognizes substantial contributions to programmability and productivity in computing and substantial community service or mentoring contributions. The award includes a $5,000 honorarium and the award recipient will be announced at the ACM - IEEE Supercomputing Conference.
+
+
+== Ken Kennedy Award Past Recipients ==
+2016 William Gropp. "For highly influential contributions to the programmability of high performance parallel and distributed computers."
+2015 Katherine Yelick. "For advancing the programmability of HPC systems, strategic national leadership, and mentorship in academia and government labs."
+2013 Jack Dongarra. "For influential contributions to mathematical software, performance measurement, and parallel programming, and significant leadership and service within the HPC community.” 
+2012 Mary Lou Soffa "For contributions to compiler technology and software engineering, exemplary service to the profession, and life-long dedication to mentoring and improving diversity in computing." 
+2011 Susan L. Graham. “For foundational compilation algorithms and programming tools; research and discipline leadership; and exceptional mentoring.”
+2010 David Kuck “For his pioneering contributions to compiler technology and parallel computing, the profound impact of his research on industry, and the widespread and long-lasting influence of his teaching and mentoring.”
+2009 Francine Berman. "For her influential leadership in the design, development and deployment of national-scale cyber infrastructure, her-inspiring work as a teacher and mentor, and her exemplary service to the high performance community.”
+
+
+== References ==
+
+
+== Nomination Process ==
+IEEE Computer Society Nomination Process
+
+
+== External links ==
+ACM - IEEE CS Ken Kennedy Award

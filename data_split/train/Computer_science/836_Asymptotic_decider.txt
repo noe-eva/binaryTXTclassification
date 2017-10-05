@@ -1,0 +1,142 @@
+In scientific visualization the asymptotic decider is an algorithm developed by Nielson and Hamann in 1991 that creates isosurfaces from a given scalar field. It was proposed as an improvement to the marching cubes algorithm, which can produce some "bad" topology, but can also be considered an algorithm in its own right.
+
+
+== Principle ==
+The algorithm first divides the scalar field into uniform cubes. It draws topologically correct contours on the sides (interface) of the cubes. These contours can then be connected to polygons and triangulated. The triangles of all cubes form the isosurfaces and are thus the output of the algorithm. Sometimes there is more than one way to connect adjacent constructs. This algorithm describes a method for resolving these ambiguous configurations in a consistent manner.
+Ambiguous cases often occur if diagonally opposing points are found on the same side of the isoline, but on a different side to the other points in the square (for 2D systems) or cube (for 3D systems). In a 2D case this means that there are two possibilities. If we suppose that we mark the corners as positive if their value is greater than that of the isoline, or negative if it is less, then either the positive corners are separated by two isolines, or the positive corners are in the main section of the square and the negative corners are separated by two isolines. The correct situation depends on the value at the asymptote of the isolines. Isolines are hyperbolae which can be described using the following formula:
+
+  
+    
+      
+        f
+        (
+        α
+        ,
+        β
+        )
+        =
+        γ
+        (
+        α
+        −
+        
+          α
+          
+            0
+          
+        
+        )
+        (
+        β
+        −
+        
+          β
+          
+            0
+          
+        
+        )
+        +
+        δ
+      
+    
+    {\displaystyle f(\alpha ,\beta )=\gamma (\alpha -\alpha _{0})(\beta -\beta _{0})+\delta }
+  
+where 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   is the normalised distance in the square from the left-hand side, and 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   is the normalised distance in the square from the bottom. The values 
+  
+    
+      
+        
+          α
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \alpha _{0}}
+   and 
+  
+    
+      
+        
+          β
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \beta _{0}}
+   are therefore the coordinates of the asymptotes, and 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+   is the value at the position 
+  
+    
+      
+        (
+        α
+        ,
+        β
+        )
+      
+    
+    {\displaystyle (\alpha ,\beta )}
+  . This point ought to belong to the section which contains two corners. Therefore if 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+   is greater than the value of the isoline the positive corners are in the main section of the square and the negative corners are separated by two isolines, and if 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+   is less than the value of isoline the negative corners are in the main section of the square and the positive corners are separated by two isolines. A similar solution is used the 3D version
+
+
+== See also ==
+Isosurface
+Marching cubes
+
+ Computer science portal
+ Science portal
+
+
+== References ==
+Notes
+
+Bibliography
+
+
+== Further reading ==
+Charles D. Hansen; Chris R. Johnson (2004). Visualization Handbook. Academic Press. pp. 7–12. ISBN 978-0-12-387582-2. 
+A. Lopes; K. Bordlie (2005). "Interactive approaches to contouring and isosurfaces for geovisualization". In Jason Dykes; Alan M. MacEachren; M. J. Kraak. Exploring Geovisualization. Elsevier. pp. 352–353. ISBN 978-0-08-044531-1.

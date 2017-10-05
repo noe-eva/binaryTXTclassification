@@ -1,0 +1,36 @@
+The Gelato Federation (usually just Gelato) was a "global technical community dedicated to advancing Linux on the Intel Itanium platform through collaboration, education, and leadership." Formed in 2001, membership included more than seventy academic and research organizations around the world, including several that operated Itanium-based supercomputers on the Top500 list. The organization was active in projects to enhance the Linux kernel for Itanium and GCC for Itanium. The organization took its name from the Italian dessert gelato, paying homage to this by naming sub-projects Gelato Vanilla and Gelato Coconut for varieties of the dessert.
+
+
+== History ==
+
+In late 2001, representatives from seven organizations met with Hewlett-Packard. The institutions were the Bioinformatics Institute, Singapore; Groupe ESIEE, France; Hewlett-Packard Company; National Center for Supercomputing Applications, USA; Tsinghua University, China; University of Illinois at Urbana-Champaign, USA; University of New South Wales, Australia; and University of Waterloo, Canada. These were the founding members of Gelato.
+Representatives from these organizations met twice a year. The first few meetings (in Palo Alto, California 2001 and Paris 2002) were primarily a "strategy council meeting" where the by-laws and charter were hammered out.
+The Sydney meeting in October 2002 was the first that included a day of technical presentations. These became a regular feature of the meetings, eventually expanded to conferences, and thus the two conferences each year were entirely composed of technical presentations by vendors and members.
+The organization apparently ceased operation in 2009.
+
+
+== Membership ==
+
+The federation grew markedly after its inception. By April 2007, there were more than 70 members and sponsors around the world. Members were institutions, but there were a few individuals who, because of their contribution to IA-64 on Linux or to Gelato, were made Honorary Members. These included Clemens C. J. Roothaan (who contributed to the Itanium math libraries and floating point unit), Brian Lynn (the original HP representative), David Mosberger-Tang (original porter of Linux to IA-64) and Jean-Pol Taffin (ex-general secretary of ESIEE, and very influential in the early days of Gelato).
+Institutional members were sponsored by an IA-64 vendor, or came in on their own. Sponsored members typically had specific projects in mind.
+
+
+== Conferences ==
+
+The Gelato ICE: Itanium Conference & Expo alternated between San Jose, California and somewhere else in the world, often in Southeast Asia or Europe. Gelato conferences were where most of the collaboration and cooperation between members were established, and where Intel revealed some of their future strategy for the Itanium-based platform. The last conference was held in Singapore in October 2007.
+
+
+== Other activities ==
+
+Apart from the Members' activities, Gelato funded a Central Operations (hosted at the University of Illinois at Urbana-Champaign). Central Operations, in addition to running the twice-a-year meetings, tried to coordinate and manage a number of projects. These included:
+Gelato GCC on Itanium Workgroup, a group of members and sponsors of the Gelato Federation and the GCC community interested in improving GCC (the GNU Compiler Collection) on Itanium processors.
+Vanilla, a concerted effort to port and tune software for Itanium. In addition to the actual tuned binaries, the tuning process was documented.
+Coconut, a system of access to Itanium machines for members.
+The Gelato System Grant program, which provided Itanium systems for members.
+
+
+== Sponsors ==
+Gelato was funded by HP, Intel, BP, Itanium Solutions Alliance, and SGI. Gelato Central Operations was housed at the Coordinated Science Lab at the University of Illinois.
+
+
+== References ==

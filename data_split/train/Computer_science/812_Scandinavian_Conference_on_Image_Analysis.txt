@@ -1,0 +1,55 @@
+SCIA, the Scandinavian Conference on Image Analysis, is a biennial scientific conference organized by the national pattern recognition societies in the Nordic countries (Denmark, Finland, Norway and Sweden). The conference is officially sponsored by the International Association of Pattern Recognition which is the international umbrella organization for the national pattern recognition societies. The conference series was established by pattern recognition, image analysis and computer vision pioneers in the universities of the Nordic countries, but has become an international conference acknowledged by the researches in the fields of computer vision, image analysis, pattern recognition and multimedia. Like European Conference on Computer Vision (ECCV) from Europe and International Conference on Pattern Recognition and Image Analysis (PRIA) from Russia, it is considered an important conference in pattern recognition in Northern and Eastern Europe.
+The submitted papers are peer-reviewed using the single-blind practice by 2-3 reviewers and the acceptance ratio is typically between 40-50%. The oral session is a single-track. The conference rotates between the four organizing countries. All accepted articles, both oral and poster, are published in the Springer Lecture Notes on Computer Science. The official language of the submissions and the conference is English.
+At the conference banquet, the biennial award for the best Scandinavian PhD thesis in the fields of pattern recognition and image analysis is announced.
+
+
+== Organized SCIA conferences ==
+20th SCIA - 2017, Tromsø, Norway (129 papers submitted, 87 accepted, acceptance rate 67%)
+19th SCIA - 2015, Copenhagen, Denmark
+18th SCIA - 2013, Espoo, Finland (132 papers submitted, 67 accepted, acceptance rate 51%)
+17th SCIA - 2011, Ystad Saltsjöbad, Sweden (140 papers submitted, 30 orals, 45 posters, acceptance rate 53%).
+16th SCIA - 2009, Oslo, Norway (154 papers submitted, 30 orals, 49 posters, 51%).
+15th SCIA - 2007, Aalborg, Denmark (228 papers submitted, 33 orals, 66 posters, 43%).
+14th SCIA - 2005, Joensuu, Finland (236 papers submitted, 31 orals, 93 posters, 53%).
+13th SCIA - 2003, Gothenburg, Sweden.
+12th SCIA - 2001, Bergen, Norway (129 papers submitted, 56 orals, 46 posters, 68%).
+11th SCIA - 1999, Kangerlussuaq, Greenland (Denmark) (132 papers submitted, 61 orals, 51 posters, 85%).
+10th SCIA - 1997, Lappeenranta, Finland (197 papers submitted, 97 orals, 39 posters, 68%).
+9th SCIA - 1995, Uppsala, Sweden.
+8th SCIA - 1993, Tromssa, Norway.
+7th SCIA - 1991, Aalborg, Denmark.
+6th SCIA - 1989, Oulu, Finland.
+5th SCIA - 1987, Saltjöbaden (Stockholm), Sweden.
+4th SCIA - 1985, Trondheim, Norway.
+3rd SCIA - 1983, Copenhagen, Denmark.
+2nd SCIA - 1981, Espoo, Finland.
+1st SCIA - 1980, Linkoping, Sweden.
+
+
+== Best Nordic thesis awards ==
+Best Nordic Thesis Award 2015-2016: “Quantum Cuts, A Quantum Mechanical Spectral Graph Partitioning Method for Salient Object Detection” by Caglar Aytekin, Tampere University, Finland.
+Best Nordic Thesis Award 2013-2014: “Discrete Optimization in Early Vision” by Petter Strandmark, Lund University, Sweden.
+Best Nordic Thesis Award 2011-2012: “Vision-Based 2D and 3D Human Activity Recognition” by Michael Boelstoft Holte, Aalborg University, Denmark.
+Best Nordic Thesis Award 2009-2010: “Global Optimization in Computer Vision: Convexity, Cuts and Approximation Algorithms” by Carl Olsson, Lund University, Sweden.
+Best Nordic Thesis Award 2007-2008: “Algorithms for Approximate Bayesian Inference with Applications to Astronomical Data Analysis” by Markus Harva, Helsinki University of Technology, Finland.
+Best Nordic Thesis Award 2005-2006: “Variational Problems and Level Set Methods in Computer Vision - Theory and Applications” by Jan-Erik Solem, Lund University, Sweden.
+Best Nordic Thesis Award 2003-2004: “Generative Interpretation of Medical Images” by Mikkel B. Stegmann, Denmark Technical University, Denmark.
+Best Nordic Thesis Award 2001-2002: “Geometry and Critical Configurations of Multiple Views” by Fredrik Kahl, Lund University, Sweden.
+Best Nordic Thesis Award 1999-2000: “Frame Based Signal Representation and Compression” by Kjersti Engan, University of Stavanger, Norway.
+Best Nordic Thesis Award 1995-1996: “Invariancy Methods for Points, Curves and Surfaces in Computational Vision” by Kalle Åström, Lund University, Sweden.
+Best Nordic Thesis Award 1993-1994: “Low Bitrate Image Sequence Coding” by Haibo Li, Linköping University, Sweden.
+
+
+== Best paper awards ==
+SCIA2015 Best Student Paper Award: “Uberatlas: Robust Speed-Up of Feature-Based Registration and Multi-Atlas Segmentation” by Jennifer Alvén, Alexander Norlén, Olof Enqvist, and Fredrik Kahl.
+SCIA2013 Best Paper Award: “Robust Scale-adaptive Mean-Shift for Tracking” by Tomas Vojir, Jana Noskova, and Jiri Matas.
+SCIA2013 Best Student Paper Award: “Genus Zero Graph Segmentation: Estimation of Intracranial Volume” by Rasmus R. Jensen, Signe S. Thorup, Rasmus R. Paulsen, Tron A. Darvann, Nuno V. Hermann, Per Larsen, Sven Kreiborg, and Rasmus Larsen
+
+
+== References ==
+
+
+== External links ==
+Pattern Recognition Society of Finland
+Norwegian Society for Image Processing and Pattern Recognition
+Swedish Society for Automated Image Analysis

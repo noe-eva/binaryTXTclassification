@@ -1,0 +1,18 @@
+Fundamental Concepts in Programming Languages were an influential set of lecture notes written by Christopher Strachey for the International Summer School in Computer Programming at Copenhagen in August, 1967. It introduced much programming language terminology still in use today, including "R-value" and "L-value", "ad hoc polymorphism", "parametric polymorphism", and "referential transparency".
+The lecture notes were reprinted in 2000 in a special issue of Higher-Order and Symbolic Computation in memory of Strachey.
+
+
+== Bibliography ==
+Mosses, Peter D. (2000). "A Foreword to 'Fundamental Concepts in Programming Languages'". Higher-Order and Symbolic Computation. 13: 7–9. doi:10.1023/A:1010048229036. 
+Strachey, Christopher (2000). "Fundamental Concepts in Programming Languages". Higher-Order and Symbolic Computation. 13: 11–49. doi:10.1023/A:1010000313106. 
+
+
+== See also ==
+CPL (programming language)
+
+
+== External links ==
+Higher-Order and Symbolic Computation Volume 13, Issue 1/2 (April 2000) Special Issue in memory of Christopher Strachey
+Fundamental Concepts In Programming Languages at the Portland Pattern Repository
+ACM Digital Library
+Great Works in Programming Languages. Collected by Benjamin C. Pierce.

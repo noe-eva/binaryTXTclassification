@@ -1,0 +1,2 @@
+EO, or Eight Ones, is an 8-bit EBCDIC character code represented as all ones (binary 1111 1111, hexadecimal FF). It is similar, but not identical, to the ASCII delete (DEL) or rubout character.
+When translated from the EBCDIC character set to code pages with the C1 control code set, it is typically mapped to hexadecimal code 9F, in order to provide a unique character mapping in both directions.

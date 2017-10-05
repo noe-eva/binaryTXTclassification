@@ -1,0 +1,31 @@
+In Computer Science, an ABox is an "assertion component"—a fact associated with a terminological vocabulary within a knowledge base.
+The terms ABox and TBox are used to describe two different types of statements in ontologies. TBox statements describe a system in terms of controlled vocabularies, for example, a set of classes and properties. ABox are TBox-compliant statements about that vocabulary.
+TBox statements are sometimes associated with object-oriented classes and ABox statements associated with instances of those classes.
+Together ABox and TBox statements make up a knowledge base.
+
+
+== Examples of ABox and TBox statements ==
+ABox statements typically have the form:
+
+ A is an instance of B
+
+or
+
+ John is a Person
+
+This should be contrasted with TBox statements (or statements about terminology) such as:
+
+ All Students are Persons
+
+or
+
+ There are two types of Persons: Students and Teachers
+
+TBox statements tend to be more permanent within a knowledge base and tend to be stored in a data model or a metadata registry. In contrast, ABox statements are much more dynamic in nature and tend to be stored as instance data within transactional systems within databases.
+
+
+== See also ==
+TBox
+Description Logic#Modeling
+metadata
+Web Ontology Language

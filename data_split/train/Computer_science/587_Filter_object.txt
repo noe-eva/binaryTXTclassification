@@ -1,0 +1,2 @@
+In object-oriented programming, a filter object is an object which receives a stream of data as its input and produces the stream of data as its output based on the data from input stream. So a filter object filters input data transforming it into output data.
+Often the input and output streams are streams of characters, but these also may be streams of arbitrary objects. These are generally used in wrappers since they conceal the existing implementation with the abstraction required at the developer side.

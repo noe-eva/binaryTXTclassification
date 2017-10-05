@@ -1,0 +1,49 @@
+The Association for the Advancement of Artificial Intelligence (AAAI) is an international, nonprofit, scientific society devoted to promote research in, and responsible use of, artificial intelligence. AAAI also aims to increase public understanding of artificial intelligence (AI), improve the teaching and training of AI practitioners, and provide guidance for research planners and funders concerning the importance and potential of current AI developments and future directions.
+
+
+== History ==
+The organization was founded in 1979 under the name "American Association for Artificial Intelligence" and changed its name in 2007 to "Association for the Advancement of Artificial Intelligence". It has in excess of 4,000 members worldwide. In its early history, the organization was presided over by notable figures in computer science such as Allen Newell, Edward Feigenbaum, Marvin Minsky and John McCarthy. The previous president was Manuela Veloso, the president is Thomas G. Dietterich, and the president elect is Subbarao Kambhampati.
+
+
+== Activities ==
+The AAAI provides many services to the Artificial Intelligence community. The AAAI sponsors many conferences and symposia each year as well as providing support to 14 journals in the field of artificial intelligence. AAAI produces a quarterly publication, AI Magazine, which seeks to publish significant new research and literature across the entire field of artificial intelligence and to help members to keep abreast of research outside their immediate specialties. The magazine has been published continuously since 1980.
+AAAI organises the "AAAI Conference on Artificial Intelligence", which is considered to be one of the top conferences in the field of artificial intelligence.
+
+
+=== ACM - AAAI Allen Newell Award ===
+The ACM-AAAI Allen Newell Award is presented to an individual selected for career contributions that have breadth within computer science, or that bridge computer science and other disciplines. This endowed award is accompanied by a prize of $10,000, and is supported by the Association for the Advancement of Artificial Intelligence (AAAI), Association for Computing Machinery (ACM), and by individual contributions.
+Past recipients:
+Jitendra Malik (2016)
+Eric Horvitz (2015)
+Jon Kleinberg (2014)
+Moshe Tennenholtz and Yoav Shoham (2012)
+Stephanie Forrest (2011)
+Takeo Kanade (2010)
+Michael I. Jordan (2009)
+Barbara J. Grosz and Joseph Halpern (2008)
+Leonidas Guibas (2007)
+Karen Spärck Jones (2006)
+Jack Minker (2005)
+Richard P. Gabriel (2004)
+David Haussler and Judea Pearl (2003)
+Peter Chen (2002)
+Ruzena Bajcsy (2001)
+Lotfi A. Zadeh (2000)
+Nancy Leveson (1999)
+Saul Amarel (1998)
+Carver Mead (1997)
+Joshua Lederberg (1995)
+Fred Brooks (1994)
+
+
+== See also ==
+Fellows of the American Association for Artificial Intelligence
+Glossary of artificial intelligence
+
+
+== References ==
+
+
+== External links ==
+AAAI.org, AAAI official website
+American Association for Artificial Intelligence on Facebook

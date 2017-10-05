@@ -1,0 +1,19 @@
+In automata theory, a timed automaton is a finite automaton extended with a finite set of real-valued clocks. During a run of a timed automaton, clock values increase all with the same speed. Along the transitions of the automaton, clock values can be compared to integers. These comparisons form guards that may enable or disable transitions and by doing so constrain the possible behaviors of the automaton. Further, clocks can be reset. Timed automata are a sub-class of a type hybrid automata.
+Timed automata can be used to model and analyse the timing behavior of computer systems, e.g., real-time systems or networks. Methods for checking both safety and liveness properties have been developed and intensively studied over the last 20 years.
+It has been shown that the state reachability problem for timed automata is decidable, which makes this an interesting sub-class of hybrid automata. Extensions have been extensively studied, among them stopwatches, real-time tasks, cost functions, and timed games. There exists a variety of tools to input and analyse timed automata and extensions, including the model checkers UPPAAL, Kronos, and the schedulability analyser TIMES. These tools are becoming more and more mature, but are still all academic research tools.
+
+
+== Formal definition ==
+Formally, a timed automaton is a tuple A = (Q,Σ,C,E,q0) that consists of the following components:
+Q is a finite set. The elements of Q are called the states of A.
+Σ is a finite set called the alphabet or actions of A.
+C is a finite set called the clocks of A.
+E ⊆ Q×Σ×B(C)×P(C)×Q is a set of edges, called transitions of A, where
+B(C) is the set of boolean clock constraints involving clocks from C, and
+P(C) is the powerset of C.
+
+q0 is an element of Q, called the initial state.
+An edge (q,a,g,r,q') from E is a transition from state q to q' with action a, guard g and clock resets r.
+
+
+== Notes ==

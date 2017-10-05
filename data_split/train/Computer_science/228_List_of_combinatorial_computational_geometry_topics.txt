@@ -1,0 +1,91 @@
+List of combinatorial computational geometry topics enumerates the topics of computational geometry that states problems in terms of geometric objects as discrete entities and hence the methods of their solution are mostly theories and algorithms of combinatorial character.
+See List of numerical computational geometry topics for another flavor of computational geometry that deals with geometric objects as continuous entities and applies methods and algorithms of nature characteristic to numerical analysis.
+
+
+== Construction/representation ==
+Boolean operations on polygons
+Convex hull
+Hyperplane arrangement
+Polygon decomposition
+Polygon triangulation
+Minimal convex decomposition
+Minimal convex cover problem (NP-hard)
+Minimal rectangular decomposition
+
+Tessellation problems
+
+Shape dissection problems
+Straight skeleton
+Stabbing line problem
+Triangulation
+Delaunay triangulation
+Point set triangulation
+Polygon triangulation
+
+Voronoi diagram
+
+
+== Extremal shapes ==
+Minimum bounding box (Smallest enclosing box, Smallest bounding box)
+2-D case: Smallest bounding rectangle (Smallest enclosing rectangle)
+There are two common variants of this problem.
+In many areas of computer graphics, the bounding box (often abbreviated to bbox) is understood to be the smallest box delimited by sides parallel to coordinate axes which encloses the objects in question.
+In other applications, such as packaging, the problem is to find the smallest box the object (or objects) may fit in ("packaged"). Here the box may assume an arbitrary orientation with respect to the "packaged" objects.
+
+Smallest bounding sphere (Smallest enclosing sphere)
+2-D case: Smallest bounding circle
+
+Largest empty rectangle (Maximum empty rectangle)
+Largest empty sphere
+2-D case: Maximum empty circle (largest empty circle)
+
+
+== Interaction/search ==
+Collision detection
+Line segment intersection
+Point location
+Point in polygon
+
+Polygon intersection
+Range searching
+Orthogonal range searching
+Simplex range searching
+
+Ray casting (not to be confused with ray tracing of computer graphics)
+
+
+=== Proximity problems ===
+Closest pair of points
+Closest point problem
+Diameter of a point set
+Delaunay triangulation
+Voronoi diagram
+
+
+=== Visibility ===
+Visibility (geometry)
+Art gallery problem (The museum problem)
+Visibility graph
+Watchman route problem
+Computer graphics applications:
+Hidden surface determination
+Hidden line removal
+
+Ray casting (not to be confused with ray tracing of computer graphics)
+
+
+== Other ==
+Happy ending problem
+Ham sandwich problem
+shape assembly problems
+shape matching problems
+Klee's measure problem
+Problems on isothetic polygons and isothetic polyhedra
+Orthogonal convex hull
+
+Path planning
+Paths among obstacles
+Shortest path in a polygon
+
+Polygon containment
+Robust geometric computation addresses two main issues: fixed-precision representation of real numbers in computers and possible geometrical degeneracy (mathematics) of input data

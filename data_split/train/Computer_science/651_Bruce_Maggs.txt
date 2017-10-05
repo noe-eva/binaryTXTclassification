@@ -1,0 +1,14 @@
+Bruce MacDowell Maggs is an American computer scientist whose research interests span a wide area of topics including networks measurements and mapping, distributed systems, and parallel and distributed algorithms. He is the Pelham Wilder Professor of Computer Science at Duke University, and Vice President of Research for Akamai Technologies. Prior to Duke University, he was a computer science professor at Carnegie Mellon University.
+
+
+== Personal life ==
+Maggs is a co-creator of Avatar, an early multiplayer online game developed at the University of Illinois in the late 1970s.
+
+
+== References ==
+Bruce Maggs's Homepage
+Bruce Maggs's Publications on DBLP
+
+
+== External links ==
+An Interview with Bruce Maggs, vice-president for R&D at Akamai Tech - Mihai Budiu, Netreport, March 2001

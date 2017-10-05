@@ -1,0 +1,65 @@
+COMAL (Common Algorithmic Language) is a computer programming language developed in Denmark by Benedict Løfstedt and Børge R. Christensen in 1973. COMAL was one of the few structured programming languages that was available for and comfortably usable on 8-bit home computers.
+The "COMAL 80 PROGRAMMING LANGUAGE REPORT" contains the formal definition of the language.
+
+
+== Design ==
+COMAL was created as a mixture of the prevalent educational programming languages of the time, BASIC, Pascal, and, at least in the Commodore and Compis versions, the turtle graphics of Logo. The language was meant to introduce structured programming elements in an environment where BASIC would normally be used.
+
+
+== History ==
+In the early 1980s, Apple Computer won a contract to supply Apple II computers running CP/M and COMAL to Irish secondary schools.
+In 1984 Acornsoft released a COMAL implementation, by Paul Christensen and Roy Thorton, for their 8-bit BBC Micro and Acorn Electron computers.
+Between 1984-1987 TeleNova, a subsidiary of the industrial arm of the Swedish Telecoms system, Teli industrier manufactured a desktop PC called "Compis" for the educational sector. An enhanced version of COMAL was supplied as the standard programming language for this PC. Versions were created for both CP/M86 and MS-DOS. The latter version is available for Windows XP. The (Swedish) reference manual is ISBN 91-24-40022-X
+In 1990 Thomas Lundy and Rory O'Sullivan produced the definitive text on COMAL Programming. They matched and compared COMAL with BBC Structured Basic.
+As of 2016 COMAL is still actively in use as an educational programming language. Some high schools in the United Kingdom continue to use it to teach the subject of Computing.
+
+
+== Availability ==
+COMAL is available for:
+BBC Micro
+Commodore PET (public domain software)
+Commodore 64 (public domain software)
+Commodore 128
+Amiga
+Compis
+Scandis
+CP/M
+IBM PC
+Tiki 100
+ZX Spectrum
+Mac OS X
+Grundy NewBrain
+Windows XP
+OpenCOMAL for Unix, MS-DOS and Win32
+
+
+== Examples ==
+Conditions:
+
+Loops:
+
+Print statements with variables:
+
+
+== "Hello, world!" ==
+
+
+== Further reading ==
+Roy Atherton: Structured programming with COMAL. Horwood, Chichester 1982, ISBN 0-85312-416-7.
+Bramer, M. A. (1982). "COMAL 80—Adding structure to BASIC". Computers & Education. 6 (2): 179–192. ISSN 0360-1315. doi:10.1016/0360-1315(82)90031-8. 
+Børge R. Christensen: Beginning Comal. Horwood, Chichester 1982, ISBN 0-85312-435-3.
+Børge R. Christensen: COMAL Reference Guide . Toronto PET Users Group, Toronto Ontario, ISBN 0-920607-00-4.
+Leuschner, Burkhard (1987). "Comal's the thing". System. 15 (3): 373–376. ISSN 0346-251X. doi:10.1016/0346-251X(87)90011-X. 
+Len Lindsay: COMAL handbook. Reston Publishing, Reston, VA, 1983, ISBN 0-8359-0878-X.
+
+
+== See also ==
+Action! - a similar, compiled language for the Atari 8-bit family that was used to develop commercial software
+
+
+== References ==
+
+
+== External links ==
+OpenComal – an Open Source implementation of COMAL for UNIX, MS-DOS and Windows. Also see fork.
+Description of COMAL, versions, and characteristics (1984)

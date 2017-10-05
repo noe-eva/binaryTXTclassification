@@ -1,0 +1,22 @@
+In computer science, a memory map is a structure of data (which usually resides in memory itself) that indicates how memory is laid out. Memory maps can have a different meaning in different parts of the operating system. It is the fastest and most flexible cache organization which uses an associative memory. The associative memory stores both the address and content of the memory word.
+In the boot process, a memory map is passed on from the firmware in order to instruct an operating system kernel about memory layout. It contains the information regarding the size of total memory, any reserved regions and may also provide other details specific to the architecture.
+In virtual memory implementations and memory management units, a memory map refers to page tables, which store the mapping between a certain process's virtual memory layout and how that space relates to physical memory addresses.
+In native debugger programs, a memory map refers to the mapping between loaded executable/library files and memory regions. These memory maps are used to resolve memory addresses (such as function pointers) to actual symbols.
+
+
+== BIOS Memory map ==
+The PC BIOS provides a set of routines that can be used by operating system to get memory layout. Some of the available routines are:
+BIOS Function: INT 0x15, AX=0xE801 :
+This BIOS interrupt call is used by the running OS to get the memory size for 64MB+ configurations. It is supported by AMI BIOSses dated August 23, 1994 or later. The operating system just sets AX to 0xE801 then calls int 0x15. If some error has happened, the routine returns with CF (Carry Flag) set to 1. If no error, the routine returns with CF clear and the state of registers is described as following:
+BIOS Function: INT 0x15, AX=0xE820 - GET SYSTEM MEMORY MAP :
+Input:
+SMAP buffer structure:
+How used: The operating system shall allocate an SMAP buffer in memory (20 bytes buffer). Then set registers as specified in "Input" table. On first call, EBX should be set to 0. Next step is to call INT 0x15. If no error, the interrupt call returns with CF clear and the buffer filled with data representing first region of the memory map. EBX is updated by BIOS so that when the OS calls the routine again, The next region is returned in the buffer. BIOS sets EBX to zero if all done.
+
+
+== See also ==
+BIOS
+RAMMap by Mark Russinovich
+
+
+== References ==

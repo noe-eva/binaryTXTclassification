@@ -1,0 +1,18 @@
+The Ontology Definition MetaModel is an Object Management Group (OMG) specification to make the concepts of Model-Driven Architecture applicable to the engineering of ontologies. Hence, it links Common Logic (CL), the Web Ontology Language (OWL), and the Resource Description Framework (RDF).
+OWL and RDF were initially defined to provide an XML-based machine to machine interchange of metadata and semantics. ODM now integrates these into visual modeling, giving a standard well-defined process for modeling the ontology, as well as, allowing for interoperability with other modeling based on languages like UML, SysML and UPDM.
+
+
+== See also ==
+Web Ontology Language
+Unified Modeling Language
+
+
+== External links ==
+Ontology Definition Metamodel (ODM) Version 1.0, Object Management Group, May 2009
+W3C OWL ontology
+
+
+== Resources ==
+Eclipse ODM
+Enterprise Architect ODM MDG Technology
+Formal Modelling, Knowledge Representation and Reasoning for Design and Development of User-centric Pervasive Software: A Meta-review, article in International Journal of Metadata, Semantics and Ontologies, Vol 6, No 2 (2011), 96-125, by Ahmet Soylu, Patrick De Causmaecker, Davy Preuveneers, Yolande Berbers, and Piet Desmet

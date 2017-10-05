@@ -1,0 +1,17 @@
+In theoretical computer science, in particular in automated theorem proving and term rewriting, the containment, or encompassment, preorder (≤) on the set of terms, is defined by
+s ≤ t if a subterm of t is a substitution instance of s.
+It is used e.g. in the Knuth–Bendix completion algorithm.
+
+
+== Properties ==
+Encompassment is a preorder, i.e. reflexive and transitive, but not anti-symmetric, nor total
+The corresponding equivalence relation, defined by s ~ t if s ≤ t ≤ s, is equality modulo renaming.
+s ≤ t whenever s is a subterm of t.
+s ≤ t whenever t is a substitution instance of s.
+The union of any well-founded rewrite order R with (<) is well-founded, where (<) denotes the irreflexive kernel of (≤). In particular, (<) itself is well-founded.
+
+
+== Notes ==
+
+
+== References ==

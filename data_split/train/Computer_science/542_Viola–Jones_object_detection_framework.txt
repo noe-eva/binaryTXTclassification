@@ -1,0 +1,718 @@
+The Viola–Jones object detection framework is the first object detection framework to provide competitive object detection rates in real-time proposed in 2001 by Paul Viola and Michael Jones. Although it can be trained to detect a variety of object classes, it was motivated primarily by the problem of face detection.
+
+
+== Problem description ==
+The problem to be solved is detection of faces in an image. A human can do this easily, but a computer needs precise instructions and constraints. To make the task more manageable, Viola–Jones requires full view frontal upright faces. Thus in order to be detected, the entire face must point towards the camera and should not be tilted to either side. While it seems these constraints could diminish the algorithm's utility somewhat, because the detection step is most often followed by a recognition step, in practice these limits on pose are quite acceptable.
+
+
+== Components of the framework ==
+
+
+=== Feature types and evaluation ===
+The characteristics of Viola–Jones algorithm which make it a good detection algorithm are:
+Robust – very high detection rate (true-positive rate) & very low false-positive rate always.
+Real time – For practical applications at least 2 frames per second must be processed.
+Face detection only (not recognition) - The goal is to distinguish faces from non-faces (detection is the first step in the recognition process).
+The algorithm has four stages:
+Haar Feature Selection
+Creating an Integral Image
+Adaboost Training
+Cascading Classifiers
+The features sought by the detection framework universally involve the sums of image pixels within rectangular areas. As such, they bear some resemblance to Haar basis functions, which have been used previously in the realm of image-based object detection. However, since the features used by Viola and Jones all rely on more than one rectangular area, they are generally more complex. The figure on the right illustrates the four different types of features used in the framework. The value of any given feature is the sum of the pixels within clear rectangles subtracted from the sum of the pixels within shaded rectangles. Rectangular features of this sort are primitive when compared to alternatives such as steerable filters. Although they are sensitive to vertical and horizontal features, their feedback is considerably coarser.
+
+
+==== Haar Features ====
+All human faces share some similar properties. These regularities may be matched using Haar Features.
+A few properties common to human faces:
+The eye region is darker than the upper-cheeks.
+The nose bridge region is brighter than the eyes.
+Composition of properties forming matchable facial features:
+Location and size: eyes, mouth, bridge of nose
+Value: oriented gradients of pixel intensities
+The four features matched by this algorithm are then sought in the image of a face (shown at left).
+Rectangle features:
+Value = Σ (pixels in black area) - Σ (pixels in white area)
+Three types: two-, three-, four-rectangles, Viola & Jones used two-rectangle features
+For example: the difference in brightness between the white &black rectangles over a specific area
+Each feature is related to a special location in the sub-window
+
+
+==== Summed area table ====
+An image representation called the integral image evaluates rectangular features in constant time, which gives them a considerable speed advantage over more sophisticated alternative features. Because each feature's rectangular area is always adjacent to at least one other rectangle, it follows that any two-rectangle feature can be computed in six array references, any three-rectangle feature in eight, and any four-rectangle feature in nine.
+
+
+=== Learning algorithm ===
+The speed with which features may be evaluated does not adequately compensate for their number, however. For example, in a standard 24x24 pixel sub-window, there are a total of M = 162,336 possible features, and it would be prohibitively expensive to evaluate them all when testing an image. Thus, the object detection framework employs a variant of the learning algorithm AdaBoost to both select the best features and to train classifiers that use them. This algorithm constructs a “strong” classifier as a linear combination of weighted simple “weak” classifiers.
+
+  
+    
+      
+        h
+        (
+        
+          x
+        
+        )
+        =
+        sgn
+        ⁡
+        
+          (
+          
+            ∑
+            
+              j
+              =
+              1
+            
+            
+              M
+            
+          
+          
+            α
+            
+              j
+            
+          
+          
+            h
+            
+              j
+            
+          
+          (
+          
+            x
+          
+          )
+          )
+        
+      
+    
+    {\displaystyle h(\mathbf {x} )=\operatorname {sgn} \left(\sum _{j=1}^{M}\alpha _{j}h_{j}(\mathbf {x} )\right)}
+  
+Each weak classifier is a threshold function based on the feature 
+  
+    
+      
+        
+          f
+          
+            j
+          
+        
+      
+    
+    {\displaystyle f_{j}}
+  .
+
+  
+    
+      
+        
+          h
+          
+            j
+          
+        
+        (
+        
+          x
+        
+        )
+        =
+        
+          
+            {
+            
+              
+                
+                  −
+                  
+                    s
+                    
+                      j
+                    
+                  
+                
+                
+                  
+                    if 
+                  
+                  
+                    f
+                    
+                      j
+                    
+                  
+                  <
+                  
+                    θ
+                    
+                      j
+                    
+                  
+                
+              
+              
+                
+                  
+                    s
+                    
+                      j
+                    
+                  
+                
+                
+                  
+                    otherwise
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle h_{j}(\mathbf {x} )={\begin{cases}-s_{j}&{\text{if }}f_{j}<\theta _{j}\\s_{j}&{\text{otherwise}}\end{cases}}}
+  
+The threshold value 
+  
+    
+      
+        
+          θ
+          
+            j
+          
+        
+      
+    
+    {\displaystyle \theta _{j}}
+   and the polarity 
+  
+    
+      
+        
+          s
+          
+            j
+          
+        
+        ∈
+        ±
+        1
+      
+    
+    {\displaystyle s_{j}\in \pm 1}
+   are determined in the training, as well as the coefficients 
+  
+    
+      
+        
+          α
+          
+            j
+          
+        
+      
+    
+    {\displaystyle \alpha _{j}}
+  .
+Here a simplified version of the learning algorithm is reported:
+Input: Set of N positive and negative training images with their labels 
+  
+    
+      
+        
+          (
+          
+            
+              x
+            
+            
+              i
+            
+          
+          ,
+          
+            y
+            
+              i
+            
+          
+          )
+        
+      
+    
+    {\displaystyle {(\mathbf {x} ^{i},y^{i})}}
+  . If image i is a face 
+  
+    
+      
+        
+          y
+          
+            i
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle y^{i}=1}
+  , if not 
+  
+    
+      
+        
+          y
+          
+            i
+          
+        
+        =
+        −
+        1
+      
+    
+    {\displaystyle y^{i}=-1}
+  .
+Initialization: assign a weight 
+  
+    
+      
+        
+          w
+          
+            1
+          
+          
+            i
+          
+        
+        =
+        
+          
+            1
+            N
+          
+        
+      
+    
+    {\displaystyle w_{1}^{i}={\frac {1}{N}}}
+   to each image i.
+For each feature 
+  
+    
+      
+        
+          f
+          
+            j
+          
+        
+      
+    
+    {\displaystyle f_{j}}
+   with 
+  
+    
+      
+        j
+        =
+        1
+        ,
+        .
+        .
+        .
+        ,
+        M
+      
+    
+    {\displaystyle j=1,...,M}
+  
+Renormalize the weights such that they sum to one.
+Apply the feature to each image in the training set, then find the optimal threshold and polarity 
+  
+    
+      
+        
+          θ
+          
+            j
+          
+        
+        ,
+        
+          s
+          
+            j
+          
+        
+      
+    
+    {\displaystyle \theta _{j},s_{j}}
+   that minimizes the weighted classification error. That is 
+  
+    
+      
+        
+          θ
+          
+            j
+          
+        
+        ,
+        
+          s
+          
+            j
+          
+        
+        =
+        arg
+        ⁡
+        
+          min
+          
+            θ
+            ,
+            s
+          
+        
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          w
+          
+            j
+          
+          
+            i
+          
+        
+        
+          ε
+          
+            j
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \theta _{j},s_{j}=\arg \min _{\theta ,s}\;\sum _{i=1}^{N}w_{j}^{i}\varepsilon _{j}^{i}}
+   where 
+  
+    
+      
+        
+          ε
+          
+            j
+          
+          
+            i
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  0
+                
+                
+                  
+                    if 
+                  
+                  
+                    y
+                    
+                      i
+                    
+                  
+                  =
+                  
+                    h
+                    
+                      j
+                    
+                  
+                  (
+                  
+                    
+                      x
+                    
+                    
+                      i
+                    
+                  
+                  ,
+                  
+                    θ
+                    
+                      j
+                    
+                  
+                  ,
+                  
+                    s
+                    
+                      j
+                    
+                  
+                  )
+                
+              
+              
+                
+                  1
+                
+                
+                  
+                    otherwise
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{j}^{i}={\begin{cases}0&{\text{if }}y^{i}=h_{j}(\mathbf {x} ^{i},\theta _{j},s_{j})\\1&{\text{otherwise}}\end{cases}}}
+  
+Assign a weight 
+  
+    
+      
+        
+          α
+          
+            j
+          
+        
+      
+    
+    {\displaystyle \alpha _{j}}
+   to 
+  
+    
+      
+        
+          h
+          
+            j
+          
+        
+      
+    
+    {\displaystyle h_{j}}
+   that is inversely proportional to the error rate. In this way best classifiers are considered more.
+The weights for the next iteration, i.e. 
+  
+    
+      
+        
+          w
+          
+            j
+            +
+            1
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle w_{j+1}^{i}}
+  , are reduced for the images i that were correctly classified.
+
+Set the final classifier to 
+  
+    
+      
+        h
+        (
+        
+          x
+        
+        )
+        =
+        sgn
+        ⁡
+        
+          (
+          
+            ∑
+            
+              j
+              =
+              1
+            
+            
+              M
+            
+          
+          
+            α
+            
+              j
+            
+          
+          
+            h
+            
+              j
+            
+          
+          (
+          
+            x
+          
+          )
+          )
+        
+      
+    
+    {\displaystyle h(\mathbf {x} )=\operatorname {sgn} \left(\sum _{j=1}^{M}\alpha _{j}h_{j}(\mathbf {x} )\right)}
+  
+
+
+=== Cascade architecture ===
+On average only 0.01% of all sub-windows are positive (faces)
+Equal computation time is spent on all sub-windows
+Must spend most time only on potentially positive sub-windows.
+A simple 2-feature classifier can achieve almost 100% detection rate with 50% FP rate.
+That classifier can act as a 1st layer of a series to filter out most negative windows
+2nd layer with 10 features can tackle “harder” negative-windows which survived the 1st layer, and so on…
+A cascade of gradually more complex classifiers achieves even better detection rates. The evaluation of the strong classifiers generated by the learning process can be done quickly, but it isn’t fast enough to run in real-time. For this reason, the strong classifiers are arranged in a cascade in order of complexity, where each successive classifier is trained only on those selected samples which pass through the preceding classifiers. If at any stage in the cascade a classifier rejects the sub-window under inspection, no further processing is performed and continue on searching the next sub-window. The cascade therefore has the form of a degenerate tree. In the case of faces, the first classifier in the cascade – called the attentional operator – uses only two features to achieve a false negative rate of approximately 0% and a false positive rate of 40%. The effect of this single classifier is to reduce by roughly half the number of times the entire cascade is evaluated.
+In cascading, each stage consists of a strong classifier. So all the features are grouped into several stages where each stage has certain number of features.
+The job of each stage is to determine whether a given sub-window is definitely not a face or may be a face. A given sub-window is immediately discarded as not a face if it fails in any of the stages.
+A simple framework for cascade training is given below:
+f = the maximum acceptable false positive rate per layer.
+d = the minimum acceptable detection rate per layer.
+Ftarget = target overall false positive rate.
+P = set of positive examples.
+N = set of negative examples.
+
+F(0) = 1.0; D(0) = 1.0; i = 0
+
+while F(i) > Ftarget
+    increase i
+    n(i) = 0; F(i)= F(i-1)
+
+    while F(I) > f × F(i-1)
+      increase n(i)
+      use P and N to train a classifier with n(I) features using AdaBoost
+      Evaluate current cascaded classifier on validation set to determine F(i) and D(i)
+      decrease threshold for the ith classifier 
+        until the current cascaded classifier has a detection rate of at least d × D(i-1) (this also affects F(i))
+      N = ∅
+      if F(i) > Ftarget then 
+        evaluate the current cascaded detector on the set of non-face images 
+        and put any false detections into the set N.
+
+The cascade architecture has interesting implications for the performance of the individual classifiers. Because the activation of each classifier depends entirely on the behavior of its predecessor, the false positive rate for an entire cascade is:
+
+  
+    
+      
+        F
+        =
+        
+          ∏
+          
+            i
+            =
+            1
+          
+          
+            K
+          
+        
+        
+          f
+          
+            i
+          
+        
+        .
+      
+    
+    {\displaystyle F=\prod _{i=1}^{K}f_{i}.}
+  
+Similarly, the detection rate is:
+
+  
+    
+      
+        D
+        =
+        
+          ∏
+          
+            i
+            =
+            1
+          
+          
+            K
+          
+        
+        
+          d
+          
+            i
+          
+        
+        .
+      
+    
+    {\displaystyle D=\prod _{i=1}^{K}d_{i}.}
+  
+Thus, to match the false positive rates typically achieved by other detectors, each classifier can get away with having surprisingly poor performance. For example, for a 32-stage cascade to achieve a false positive rate of 10−6, each classifier need only achieve a false positive rate of about 65%. At the same time, however, each classifier needs to be exceptionally capable if it is to achieve adequate detection rates. For example, to achieve a detection rate of about 90%, each classifier in the aforementioned cascade needs to achieve a detection rate of approximately 99.7%.
+
+
+== Using Viola-Jones for Object Tracking ==
+In videos of moving objects, one need not apply object detection to each frame. Instead, one can use tracking algorithms like the KLT algorithm to detect salient features within the detection bounding boxes and track their movement between frames. Not only does this improve tracking speed by removing the need to re-detect objects in each frame, but it improves the robustness as well, as the salient features are more resilient than the Viola-Jones detection framework to rotation and photometric changes.
+
+
+== References ==
+
+
+== External links ==
+Slides Presenting the Framework
+Information Regarding Haar Basis Functions
+Extension of Viola–Jones framework using SURF feature
+IMMI - Rapidminer Image Mining Extension - open-source tool for image mining
+Robust Real-Time Face Detection
+An improved algorithm on Viola-Jones object detector
+Citations of the Viola–Jones algorithm in Google Scholar
+Video lecture on Viola–Jones algorithm on YouTube - Adaboost Explanation from ppt by Qing Chen, Discovery Labs, University of Ottawa and a video lecture by Ramsri Goutham.
+
+
+=== Implementations ===
+Implementing the Viola–Jones Face Detection Algorithm by Ole Helvig Jensen
+MATLAB: [1], [2]
+OpenCV: implemented as cvHaarDetectObjects().
+Haar Cascade Detection in OpenCV
+Cascade Classifier Training in OpenCV

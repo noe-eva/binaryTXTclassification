@@ -1,0 +1,5 @@
+In a Flexible Rake Receiver, signal reception is performed with a single correlator engine and a stream buffer storing the entire delay spread of baseband input/output (I/O) samples. The primary advantage of the proposed approach is flexible multipath allocation supporting enhanced modularity of the receiver and resource sharing among multiple channel decoders.
+
+
+== See also ==
+Signal processing

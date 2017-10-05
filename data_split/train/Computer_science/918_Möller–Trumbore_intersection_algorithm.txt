@@ -1,0 +1,18 @@
+The Möller–Trumbore ray-triangle intersection algorithm, named after its inventors Tomas Möller and Ben Trumbore, is a fast method for calculating the intersection of a ray and a triangle in three dimensions without needing precomputation of the plane equation of the plane containing the triangle. Among other uses, it can be used in computer graphics to implement ray tracing computations involving triangle meshes.
+
+
+== C++ Implementation ==
+The following is an implementation of the algorithm in C++:
+
+
+== See also ==
+Badouel intersection algorithm
+MATLAB version of this algorithm (highly vectorized)
+Schlick–Subrenat algorithm for ray-quadrilateral intersection
+
+
+== Links ==
+Fast Minimum Storage Ray-Triangle Intersection
+
+
+== References ==

@@ -1,0 +1,19 @@
+Information exchange is an informal term that can either refer to bidirectional information transmission/information transfer in telecommunications and computer science or communication seen from a system-theoretic or information-theoretic point of view. As "information" in this context invariably refers to (electronic) data that encodes and represents the information at hand, a broader treatment can be found under data exchange.
+
+
+== Non-technical meaning ==
+Information exchange is also used to describe the process of learning and the efficiency of the learning.
+
+
+== See also ==
+Channel (communications)
+Communications protocol
+Sexual recombination enables cross-pollination in bio
+Data mapping
+Electronic Data Interchange
+Knowledge Sharing
+Semi-structured data
+Data interchange standards
+
+
+== References ==

@@ -1,0 +1,14 @@
+dvd+rw-tools (also known as growisofs, its main part) is a collection of open source DVD and Blu-ray Disc burning tools for Linux, FreeBSD, Windows and OS X. dvd+rw-tools does not burn CDs.
+The package itself requires another program which is used to create ISO 9660 images on the fly. This is provided by mkisofs (from the cdrtools package) or genisoimage (from the cdrkit package).
+Released under the GNU General Public License, dvd+rw-tools is free software.
+
+
+== Implementation ==
+growisofs has a built-in dd, which is the low-level process for sending data to the writer. This uses two buffers, the Ring Buffer (the growisofs program's software buffer) and the Unit Buffer (the drive's internal hardware buffer), and to prevent buffer underrun, these buffers must be kept filled. This is monitored and displayed in the status line as the RBU ("Ring Buffer Utilisation") and UBU ("Unit Buffer Utilisation").
+
+
+== References ==
+
+
+== External links ==
+Official website

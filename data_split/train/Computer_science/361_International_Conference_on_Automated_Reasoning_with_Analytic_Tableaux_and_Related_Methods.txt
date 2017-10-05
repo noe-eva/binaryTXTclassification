@@ -1,0 +1,7 @@
+The International Conference on Automated Reasoning with Analytic Tableaux and Related Methods (TABLEAUX) is an annual international academic conference that deals with all aspects of automated reasoning with analytic tableaux. Periodically, it joins with CADE and TPHOLs into the International Joint Conference on Automated Reasoning (IJCAR).
+The first table convened in 1992. Since 1995, the proceedings of this conference have been published by Springer's LNAI series.
+In August 2006 TABLEAUX was part of the Federated Logic Conference in Seattle, USA. The following TABLEAUX were held in 2007 in Aix en Provence, France, as part of IJCAR 2008, in Sydney, Australia, as TABLEAUX 2009, in Oslo, Norway, as part of IJCAR 2010, Edinburgh, UK, as TABLEAUX 2011, in Bern, Switzerland, 4-8 July 2011, as part of IJCAR 2012, Manchester, United Kingdom, as TABLEAUX 2013, Nancy, France, 16-19 September 2013, and as part of IJCAR 2014, Vienna, Austria, 19-22 July 2014.
+
+
+== External links ==
+TABLEAUX home page

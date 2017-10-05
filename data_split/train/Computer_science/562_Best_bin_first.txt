@@ -1,0 +1,10 @@
+Best bin first is a search algorithm that is designed to efficiently find an approximate solution to the nearest neighbor search problem in very-high-dimensional spaces. The algorithm is based on a variant of the kd-tree search algorithm which makes indexing higher-dimensional spaces possible. Best bin first is an approximate algorithm which returns the nearest neighbor for a large fraction of queries and a very close neighbor otherwise.
+
+
+== Differences from kd tree ==
+Backtracking is according to a priority queue based on closeness.
+Search a fixed number of nearest candidates and stop.
+A speedup of two orders of magnitude is typical.
+
+
+== References ==

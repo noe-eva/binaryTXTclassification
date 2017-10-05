@@ -1,0 +1,73 @@
+New Interfaces for Musical Expression, also known as NIME, is an international conference dedicated to scientific research on the development of new technologies and their role in musical expression and artistic performance. Researchers and musicians from all over the world gather to share their knowledge and late-breaking work on new musical interface design.
+
+
+== History ==
+The conference began as a workshop (NIME 01) at the ACM Conference on Human Factors in Computing Systems (CHI) in 2001 in Seattle, Washington, with the concert and demonstration sessions being held at the Experience Music Project museum. Since then, international conferences have been held annually around the world:
+NIME 2002 was hosted by Media Lab Europe in Dublin, Ireland.
+NIME 2003 was held at McGill University, Montreal, Quebec, Canada.
+NIME 2004 was hosted by Shizuoka University of Art and Culture, Hamamatsu, Japan.
+NIME 2005 was held at the University of British Columbia in Vancouver, British Columbia, Canada.
+NIME 2006 was hosted by IRCAM, Paris, France.
+NIME 2007 was held in New York City, hosted by the Harvestworks Digital Media Arts Center, New York University's Music Technology Program and the Interactive Telecommunications Program in the Tisch School of the Arts.
+NIME 2008 was hosted by the Infomus Lab at the University of Genova, Italy.
+NIME 2009 was held at the Carnegie Mellon School of Music in Pittsburgh, Pennsylvania, United States.
+NIME 2010 hosted by University of Technology, Sydney in Sydney, Australia.
+NIME 2011 was held at the University of Oslo in Oslo, Norway.
+NIME 2012 was hosted by the University of Michigan in Ann Arbor, Michigan, USA.
+NIME 2013 was hosted by the Graduate School of Culture Technology at KAIST (Korea Advanced Institute of Science and Technology), Daejeon, South Korea, and featured a series of special events in Seoul
+NIME 2014 was held at Goldsmiths University in London, Great Britain.
+NIME 2015 was held at Louisiana State University in Baton Rouge, Louisiana, United States.
+NIME 2016 was held at Griffith University in Brisbane, Queensland, Australia. July 11–15.
+NIME 2017 was hosted by Aalborg University in Copenhagen, Denmark.
+NIME 2018 will be co-organized by Virginia Tech and the University of Virginia 
+
+
+== Areas of application ==
+The following is a partial list of topics covered by the NIME conference:
+Design reports on novel controllers and interfaces for musical expression
+Performance experience reports on live performance and composition using novel controllers
+Controllers for virtuosic performers, novices, education and entertainment
+Perceptual & cognitive issues in the design of musical controllers
+Movement, visual and physical expression with sonic expressivity
+Musical mapping algorithms and intelligent controllers
+Novel controllers for collaborative performance
+Interface protocols (e.g. MIDI) and alternative controllers
+Artistic, cultural, and social impact of new performance interfaces
+Real-time gestural control in musical performance
+Mapping strategies and their influence on digital musical instrument design
+Sensor and actuator technologies for musical applications
+Haptic and force feedback devices for musical control
+Real-time computing tools and interactive systems
+Pedagogical applications of new interfaces - Courses and curricula
+
+
+== Other related conferences ==
+Other similarly themed conferences include
+International Computer Music Conference (ICMC);
+ACM Multimedia
+Sound and music computing (SMC)
+
+
+== See also ==
+
+Live coding
+List of electronic music festivals
+Experimental musical instrument – about several alternative instruments.
+
+
+== References ==
+
+
+=== Further reading ===
+Jensenius, Alexander Refsum; Lyons, Michael, eds. (2017). A NIME Reader: Fifteen Years of New Interfaces for Musical Expression. Springer. ISBN 978-3-319-47214-0. 
+Allen, Jamie. “Review of NIME 2005.” Computer Music Journal 30/1 (Spring 2006).
+Taylor, Gregory. "On the Road: NIME 2017"
+Lehrman, Paul D. “Tomorrow's Virtuosi & What They’ll Be Playing: A report from the fifth New Interfaces for Musical Expression conference, in Vancouver, British Columbia, Canada, May 2005.” Sound on Sound.
+Poupyrev, Ivan, Lyons, Michael J., Fels, Sidney, Blaine, Tina (Bean). "New Interfaces for Musical Expression." ACM CHI'01, Extended Abstracts, pp. 491–492, 2001.
+Pritchard, Bob. “[Report] NIME 2010.” eContact! 12.4 — Perspectives on the Electroacoustic Work / Perspectives sur l’œuvre électroacoustique (August 2010). Montréal: CEC.
+Richardson, Patrick. “Innovative New Digital Instruments: NIME Conference Multimedia Mega-Report.” Extensive report on NIME07. Create Digital Music blog. Posted 25 June 2007.
+
+
+== External links ==
+Official website
+Index to NIME Conference Proceedings. From Trier University’s DBLP database.

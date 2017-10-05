@@ -1,0 +1,52 @@
+The British Colloquium for Theoretical Computer Science (BCTCS) is an organisation that hosts an annual event for UK-based researchers in theoretical computer science. A central aspect of BCTCS is the training of PhD students.
+The purpose of BCTCS is:
+to offer a regular forum in which UK-based researchers in all aspects of theoretical computer science can meet, present research findings, and discuss recent developments in the field;
+to foster an environment within which PhD students undertaking research in theoretical computer science may gain experience in presenting their work in a formal arena, broaden their outlook on the subject, and benefit from contact with established researchers in the community; and
+to provide a platform by which the interests and future well-being of British theoretical computer science may be advanced.
+The scope of BCTCS includes all aspects of theoretical computer science, including algorithms, complexity, semantics, formal methods, concurrency, types, languages and logics. An emphasis on breadth, together with the inherently mathematical nature of theoretical computer science, means that BCTCS always actively solicits both computer scientists and mathematicians as participants, and offers an environment within which the two communities can meet and exchange ideas.
+BCTCS is primarily for the benefit of UK-based researchers. However, to help promote British theoretical computer science in the wider community, BCTCS is also advertised at the international level; participants from outside of the UK are welcome to attend the annual meeting, and the programme of invited talks regularly includes high-profile researchers from outside of the UK.
+The first BCTCS meeting was organised in 1985 by John V. Tucker at the University of Leeds.
+The BCTCS operates under the direction of an Organising Committee, with an Executive consisting of a President, Secretary and Treasurer. The current President is Faron Moller.
+
+
+== Past officers of the BCTCS ==
+
+
+=== Past presidents ===
+John V. Tucker (1985–1992)
+Alan Gibbons (1992–1998)
+Iain Stewart (1998–1999)
+Paul Dunne (1999–2001)
+Chris Tofts (2001–2004)
+Faron Moller (2004–)
+
+
+=== Past secretaries ===
+Mark Jerrum (1989–1992)
+Paul Dunne (1992–1999)
+Julian Bradfield (1999–2005)
+Graham Hutton (2005–2011)
+David Manlove (2011-)
+
+
+=== Past treasurers ===
+David Rydeheard (1989–1996)
+Chris Tofts (1996–2001)
+Faron Moller (2001–2004)
+Stephan Reiff-Marganiec (2004–)
+
+
+=== Past (recent) postgraduate representatives ===
+Temesghen Kahsai Azene (2007–2008)
+Haris Aziz (2008–2009)
+Julian Gutierrez (2009–2010)
+Radhakrishnan Delhibabu (2010–2011)
+Laurence E. Day (2011-)
+
+
+== See also ==
+Formal Aspects of Computing Science, a British Computer Society Specialist Group.
+
+
+== External links ==
+The British Colloquium for Theoretical Computer Science website

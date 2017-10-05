@@ -1,0 +1,8 @@
+Empirical algorithmics (sometimes also called experimental algorithmics) is the area within computer science that uses empirical methods to study the behaviour of algorithms. It can be used in the analysis of algorithms.
+Methods from empirical algorithmics complement theoretical methods for the analysis of algorithms. Through the principled application of empirical methods, particularly from statistics, it is often possible to obtain insights into the behaviour of algorithms that are (currently) inaccessible to theoretical analysis, in particular, high-performance heuristic algorithms for hard combinatorial problems. Empirical methods can also be used to achieve substantial improvements in algorithmic efficiency.
+There are two main branches of empirical algorithmics: the first (known as empirical analysis) deals with the analysis and characterisation of the behaviour of algorithms, and the second (known as algorithm design or algorithm engineering) is focused on empirical methods for improving the performance of algorithms. The former uses mostly techniques and tools from statistics, while the latter is based on approaches from statistics, machine learning and optimization.
+Research in empirical algorithmics is published in several journals, including the ACM Journal on Experimental Algorithmics (JEA) and the Journal of Artificial Intelligence Research (JAIR), as well as at numerous conferences, including SEA, WEA, AAAI, IJCAI, CP and SLS.
+Well-known researchers in empirical algorithmics include Marco Chiarandini, Catherine McGeoch, Carla Gomes, Holger H. Hoos, David S. Johnson, Kevin Leyton-Brown, Ruben Ruiz, Bart Selman, Thomas Stützle and Roberto Battiti.
+
+
+== References ==

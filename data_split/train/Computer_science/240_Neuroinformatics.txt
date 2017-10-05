@@ -1,0 +1,165 @@
+Neuroinformatics is a research field concerned with the organization of neuroscience data by the application of computational models and analytical tools. These areas of research are important for the integration and analysis of increasingly large-volume, high-dimensional, and fine-grain experimental data. Neuroinformaticians provide computational tools, mathematical models, and create interoperable databases for clinicians and research scientists. Neuroscience is a heterogeneous field, consisting of many and various sub-disciplines (e.g., cognitive psychology, behavioral neuroscience, and behavioral genetics). In order for our understanding of the brain to continue to deepen, it is necessary that these sub-disciplines are able to share data and findings in a meaningful way; Neuroinformaticians facilitate this.
+Neuroinformatics stands at the intersection of neuroscience and information science. Other fields, like genomics, have demonstrated the effectiveness of freely distributed databases and the application of theoretical and computational models for solving complex problems. In Neuroinformatics, such facilities allow researchers to more easily quantitatively confirm their working theories by computational modeling. Additionally, neuroinformatics fosters collaborative research—an important fact that facilitates the field's interest in studying the multi-level complexity of the brain.
+There are three main directions where neuroinformatics has to be applied:
+the development of tools and databases for management and sharing of neuroscience data at all levels of analysis,
+the development of tools for analyzing and modeling neuroscience data,
+the development of computational models of the nervous system and neural processes.
+In the recent decade, as vast amounts of diverse data about the brain were gathered by many research groups, the problem was raised of how to integrate the data from thousands of publications in order to enable efficient tools for further research. The biological and neuroscience data are highly interconnected and complex, and by itself, integration represents a great challenge for scientists.
+Combining informatics research and brain research provides benefits for both fields of science. On one hand, informatics facilitates brain data processing and data handling, by providing new electronic and software technologies for arranging databases, modeling and communication in brain research. On the other hand, enhanced discoveries in the field of neuroscience will invoke the development of new methods in information technologies (IT).
+
+
+== History ==
+Starting in 1989, the United States National Institute of Mental Health (NIMH), the National Institute of Drug Abuse (NIDA) and the National Science Foundation (NSF) provided the National Academy of Sciences Institute of Medicine with funds to undertake a careful analysis and study of the need to create databases, share neuroscientific data and to examine how the field of information technology could create the tools needed for the increasing volume and modalities of neuroscientific data. The positive recommendations were reported in 1991. This positive report enabled NIMH, now directed by Allan Leshner, to create the "Human Brain Project" (HBP), with the first grants awarded in 1993. The HBP was led by Koslow along with cooperative efforts of other NIH Institutes, the NSF, the National Aeronautics and Space Administration and the Department of Energy. The HPG and grant-funding initiative in this area slightly preceded the explosive expansion of the World Wide Web. From 1993 through 2004 this program grew to over 100 million dollars in funded grants.
+Next, Koslow pursued the globalization of the HPG and neuroinformatics through the European Union and the Office for Economic Co-operation and Development (OECD), Paris, France. Two particular opportunities occurred in 1996.
+The first was the existence of the US/European Commission Biotechnology Task force co-chaired by Mary Clutter from NSF. Within the mandate of this committee, of which Koslow was a member the United States European Commission Committee on Neuroinformatics was established and co-chaired by Koslow from the United States. This committee resulted in the European Commission initiating support for neuroinformatics in Framework 5 and it has continued to support activities in neuroinformatics research and training.
+A second opportunity for globalization of neuroinformatics occurred when the participating governments of the Mega Science Forum (MSF) of the OECD were asked if they had any new scientific initiatives to bring forward for scientific cooperation around the globe. The White House Office of Science and Technology Policy requested that agencies in the federal government meet at NIH to decide if cooperation were needed that would be of global benefit. The NIH held a series of meetings in which proposals from different agencies were discussed. The proposal recommendation from the U.S. for the MSF was a combination of the NSF and NIH proposals. Jim Edwards of NSF supported databases and data-sharing in the area of biodiversity; Koslow proposed the HPG as a model for sharing neuroscientific data, with the new moniker of neuroinformatics.
+The two related initiates were combined to form the United States proposal on "Biological Informatics". This initiative was supported by the White House Office of Science and Technology Policy and presented at the OECD MSF by Edwards and Koslow. An MSF committee was established on Biological Informatics with two subcommittees: 1. Biodiversity (Chair, James Edwards, NSF), and 2. Neuroinformatics (Chair, Stephen Koslow, NIH). At the end of two years the Neuroinformatics subcommittee of the Biological Working Group issued a report supporting a global neuroinformatics effort. Koslow, working with the NIH and the White House Office of Science and Technology Policy to establishing a new Neuroinformatics working group to develop specific recommendation to support the more general recommendations of the first report. The Global Science Forum (GSF; renamed from MSF) of the OECD supported this recommendation.
+
+
+=== The International Neuroinformatics Coordinating Facility ===
+
+This committee presented 3 recommendations to the member governments of GSF. These recommendations were:
+National neuroinformatics programs should be continued or initiated in each country should have a national node to both provide research resources nationally and to serve as the contact for national and international coordination.
+An International Neuroinformatics Coordinating Facility (INCF) should be established. The INCF will coordinate the implementation of a global neuroinformatics network through integration of national neuroinformatics nodes.
+A new international funding scheme should be established. This scheme should eliminate national and disciplinary barriers and provide a most efficient approach to global collaborative research and data sharing. In this new scheme, each country will be expected to fund the participating researchers from their country.
+The GSF neuroinformatics committee then developed a business plan for the operation, support and establishment of the INCF which was supported and approved by the GSF Science Ministers at its 2004 meeting. In 2006 the INCF was created and its central office established and set into operation at the Karolinska Institute, Stockholm, Sweden under the leadership of Sten Grillner. Sixteen countries (Australia, Canada, China, the Czech Republic, Denmark, Finland, France, Germany, India, Italy, Japan, the Netherlands, Norway, Sweden, Switzerland, the United Kingdom and the United States), and the EU Commission established the legal basis for the INCF and Programme in International Neuroinformatics (PIN). To date, eighteen countries (Australia, Belgium, Czech Republic, Finland, France, Germany, India, Italy, Japan, Malaysia, Netherlands, Norway, Poland, Republic of Korea, Sweden, Switzerland, the United Kingdom and the United States) are members of the INCF. Membership is pending for several other countries.
+The goal of the INCF is to coordinate and promote international activities in neuroinformatics. The INCF contributes to the development and maintenance of database and computational infrastructure and support mechanisms for neuroscience applications. The system is expected to provide access to all freely accessible human brain data and resources to the international research community. The more general task of INCF is to provide conditions for developing convenient and flexible applications for neuroscience laboratories in order to improve our knowledge about the human brain and its disorders.
+
+
+=== Society for Neuroscience Brain Information Group ===
+On the foundation of all of these activities, Huda Akil, the 2003 President of the Society for Neuroscience (SfN) established the Brain Information Group (BIG) to evaluate the importance of neuroinformatics to neuroscience and specifically to the SfN. Following the report from BIG, SfN also established a neuroinformatics committee.
+In 2004, SfN announced the Neuroscience Database Gateway (NDG) as a universal resource for neuroscientists through which almost any neuroscience databases and tools may be reached. The NDG was established with funding from NIDA, NINDS and NIMH. The Neuroscience Database Gateway has transitioned to a new enhanced platform, the Neuroscience Information Framework. Funded by the NIH Neuroscience BLueprint, the NIF is a dynamic portal providing access to neuroscience-relevant resources (data, tools, materials) from a single search interface. The NIF builds upon the foundation of the NDG, but provides a unique set of tools tailored especially for neuroscientists: a more expansive catalog, the ability to search multiple databases directly from the NIF home page, a custom web index of neuroscience resources, and a neuroscience-focused literature search function.
+
+
+== Collaboration with other disciplines ==
+Neuroinformatics is formed at the intersections of the following fields:
+
+Biology is concerned with molecular data (from genes to cell specific expression); medicine and anatomy with the structure of synapses and systems level anatomy; engineering – electrophysiology (from single channels to scalp surface EEG), brain imaging; computer science – databases, software tools, mathematical sciences – models, chemistry – neurotransmitters, etc. Neuroscience uses all aforementioned experimental and theoretical studies to learn about the brain through its various levels. Medical and biological specialists help to identify the unique cell types, and their elements and anatomical connections. Functions of complex organic molecules and structures, including a myriad of biochemical, molecular, and genetic mechanisms which regulate and control brain function, are determined by specialists in chemistry and cell biology. Brain imaging determines structural and functional information during mental and behavioral activity. Specialists in biophysics and physiology study physical processes within neural cells neuronal networks. The data from these fields of research is analyzed and arranged in databases and neural models in order to integrate various elements into a sophisticated system; this is the point where neuroinformatics meets other disciplines.
+Neuroscience provides the following types of data and information on which neuroinformatics operates:
+Molecular and cellular data (ion channel, action potential, genetics, cytology of neurons, protein pathways),
+Data from organs and systems (visual cortex, perception, audition, sensory system, pain, taste, motor system, spinal cord),
+Cognitive data (language, emotion, motor learning, sexual behavior, decision making, social neuroscience),
+Developmental information (neuronal differentiation, cell survival, synaptic formation, motor differentiation, injury and regeneration, axon guidance, growth factors),
+Information about diseases and aging (autonomic nervous system, depression, anxiety, Parkinson's disease, addiction, memory loss),
+Neural engineering data (brain-computer interface), and
+Computational neuroscience data (computational models of various neuronal systems, from membrane currents, proteins to learning and memory).
+Neuroinformatics uses databases, the Internet, and visualization in the storage and analysis of the mentioned neuroscience data.
+
+
+== Research programs and groups ==
+
+
+=== Australia ===
+Neuroimaging & Neuroinformatics, Howard Florey Institute, University of Melbourne
+Institute scientists utilize brain imaging techniques, such as magnetic resonance imaging, to reveal the organization of brain networks involved in human thought. Led by Gary Egan.
+
+
+=== Canada ===
+McGill Centre for Integrative Neuroscience (MCIN), Montreal Neurological Institute, McGill University
+Led by Alan Evans, MCIN conducts computationally-intensive brain research using innovative mathematical and statistical approaches to integrate clinical, psychological and brain imaging data with genetics. MCIN researchers and staff also develop infrastructure and software tools in the areas of image processing, databasing, and high performance computing. The MCIN community, together with the Ludmer Centre for Neuroinformatics and Mental Health, collaborates with a broad range of researchers and increasingly focuses on open data sharing and open science, including for the Montreal Neurological Institute.
+
+
+=== Denmark ===
+The THOR Center for Neuroinformatics
+Established April 1998 at the Department of Mathematical Modelling, Technical University of Denmark. Besides pursuing independent research goals, the THOR Center hosts a number of related projects concerning neural networks, functional neuroimaging, multimedia signal processing, and biomedical signal processing.
+
+
+=== Germany ===
+The Neuroinformatics Portal Pilot
+The project is part of a larger effort to enhance the exchange of neuroscience data, data-analysis tools, and modeling software. The portal is supported from many members of the OECD Working Group on Neuroinformatics. The Portal Pilot is promoted by the German Ministry for Science and Education.
+Computational Neuroscience, ITB, Humboldt-University Berlin
+This group focuses on computational neurobiology, in particular on the dynamics and signal processing capabilities of systems with spiking neurons. Lead by Andreas VM Herz.
+The Neuroinformatics Group in Bielefeld
+Active in the field of Artificial Neural Networks since 1989. Current research programmes within the group are focused on the improvement of man-machine-interfaces, robot-force-control, eye-tracking experiments, machine vision, virtual reality and distributed systems.
+
+
+=== Italy ===
+Laboratory of Computational Embodied Neuroscience (LOCEN)
+This group, part of the Institute of Cognitive Sciences and Technologies, Italian National Research Council (ISTC-CNR) in Rome and founded in 2006 is currently led by Gianluca Baldassarre. It has two objectives: (a) understanding the brain mechanisms underlying learning and expression of sensorimotor behaviour, and related motivations and higher-level cognition grounded on it, on the basis of embodied computational models; (b) transferring the acquired knowledge to building innovative controllers for autonomous humanoid robots capable of learning in an open-ended fashion on the basis of intrinsic and extrinsic motivations.
+
+
+=== Japan ===
+Japan national neuroinformatics resource
+The Visiome Platform is the Neuroinformatics Search Service that provides access to mathematical models, experimental data, analysis libraries and related resources. An online portal for neurophysiological data sharing is also available at BrainLiner.jp as part of the MEXT Strategic Research Program for Brain Sciences (SRPBS).
+Laboratory for Mathematical Neuroscience, RIKEN Brain Science Institute (Wako, Saitama)
+The target of Laboratory for Mathematical Neuroscience is to establish mathematical foundations of brain-style computations toward construction of a new type of information science. Led by Shun-ichi Amari.
+
+
+=== The Netherlands ===
+Netherlands state program in neuroinformatics
+Started in the light of the international OECD Global Science Forum which aim is to create a worldwide program in Neuroinformatics.
+
+
+=== Pakistan ===
+NUST-SEECS Neuroinformatics Research Lab
+Establishment of the Neuro-Informatics Lab at SEECS-NUST has enabled Pakistani researchers and members of the faculty to actively participate in such efforts, thereby becoming an active part of the above-mentioned experimentation, simulation, and visualization processes. The lab collaborates with the leading international institutions to develop highly skilled human resource in the related field. This lab facilitates neuroscientists and computer scientists in Pakistan to conduct their experiments and analysis on the data collected using state of the art research methodologies without investing in establishing the experimental neuroscience facilities. The key goal of this lab is to provide state of the art experimental and simulation facilities, to all beneficiaries including higher education institutes, medical researchers/practitioners, and technology industry.
+
+
+=== Switzerland ===
+The Blue Brain Project
+The Blue Brain Project was founded in May 2005, and uses an 8000 processor Blue Gene/L supercomputer developed by IBM. At the time, this was one of the fastest supercomputers in the world.
+The project involves:
+Databases: 3D reconstructed model neurons, synapses, synaptic pathways, microcircuit statistics, computer model neurons, virtual neurons.
+Visualization: microcircuit builder and simulation results visualizator, 2D, 3D and immersive visualization systems are being developed.
+Simulation: a simulation environment for large-scale simulations of morphologically complex neurons on 8000 processors of IBM's Blue Gene supercomputer.
+Simulations and experiments: iterations between large-scale simulations of neocortical microcircuits and experiments in order to verify the computational model and explore predictions.
+
+The mission of the Blue Brain Project is to understand mammalian brain function and dysfunction through detailed simulations. The Blue Brain Project will invite researchers to build their own models of different brain regions in different species and at different levels of detail using Blue Brain Software for simulation on Blue Gene. These models will be deposited in an internet database from which Blue Brain software can extract and connect models together to build brain regions and begin the first whole brain simulations.
+The Institute of Neuroinformatics (INI)
+Established at the University of Zurich at the end of 1995, the mission of the Institute is to discover the key principles by which brains work and to implement these in artificial systems that interact intelligently with the real world.
+
+
+=== United Kingdom ===
+Genes to Cognition Project
+A neuroscience research programme that studies genes, the brain and behaviour in an integrated manner. It is engaged in a large-scale investigation of the function of molecules found at the synapse. This is mainly focused on proteins that interact with the NMDA receptor, a receptor for the neurotransmitter, glutamate, which is required for processes of synaptic plasticity such as long-term potentiation (LTP). Many of the techniques used are high-throughout in nature, and integrating the various data sources, along with guiding the experiments has raised numerous informatics questions. The program is primarily run by Professor Seth Grant at the Wellcome Trust Sanger Institute, but there are many other teams of collaborators across the world.
+The CARMEN project
+The CARMEN project is a multi-site (11 universities in the United Kingdom) research project aimed at using GRID computing to enable experimental neuroscientists to archive their datasets in a structured database, making them widely accessible for further research, and for modellers and algorithm developers to exploit.
+EBI Computational Neurobiology, EMBL-EBI (Hinxton)
+The main goal of the group is to build realistic models of neuronal function at various levels, from the synapse to the micro-circuit, based on the precise knowledge of molecule functions and interactions (Systems Biology). Led by Nicolas Le Novère.
+
+
+=== United States ===
+Neuroscience Information Framework
+The Neuroscience Information Framework (NIF) is an initiative of the NIH Blueprint for Neuroscience Research, which was established in 2004 by the National Institutes of Health. Unlike general search engines, NIF provides deeper access to a more focused set of resources that are relevant to neuroscience, search strategies tailored to neuroscience, and access to content that is traditionally "hidden" from web search engines. The NIF is a dynamic inventory of neuroscience databases, annotated and integrated with a unified system of biomedical terminology (i.e. NeuroLex). NIF supports concept-based queries across multiple scales of biological structure and multiple levels of biological function, making it easier to search for and understand the results. NIF will also provide a registry through which resources providers can disclose availability of resources relevant to neuroscience research. NIF is not intended to be a warehouse or repository itself, but a means for disclosing and locating resources elsewhere available via the web.
+Neurogenetics GeneNetwork
+Genenetwork started as component of the NIH Human Brain Project in 1999 with a focus on the genetic analysis of brain structure and function. This international program consists of tightly integrated genome and phenome data sets for human, mouse, and rat that are designed specifically for large-scale systems and network studies relating gene variants to differences in mRNA and protein expression and to differences in CNS structure and behavior. The great majority of data are open access. GeneNetwork has a companion neuroimaging web site—the Mouse Brain Library—that contains high resolution images for thousands of genetically defined strains of mice.
+The Neuronal Time Series Analysis (NTSA)
+NTSA Workbench is a set of tools, techniques and standards designed to meet the needs of neuroscientists who work with neuronal time series data. The goal of this project is to develop information system that will make the storage, organization, retrieval, analysis and sharing of experimental and simulated neuronal data easier. The ultimate aim is to develop a set of tools, techniques and standards in order to satisfy the needs of neuroscientists who work with neuronal data.
+The Cognitive Atlas
+The Cognitive Atlas is a project developing a shared knowledge base in cognitive science and neuroscience. This comprises two basic kinds of knowledge: tasks and concepts, providing definitions and properties thereof, and also relationships between them. An important feature of the site is ability to cite literature for assertions (e.g. "The Stroop task measures executive control") and to discuss their validity. It contributes to NeuroLex and the Neuroscience Information Framework, allows programmatic access to the database, and is built around semantic web technologies.
+Brain Big Data research group at the Allen Institute for Brain Science (Seattle, WA)
+Led by Hanchuan Peng, this group has focused on using large-scale imaging computing and data analysis techniques to reconstruct single neuron models and mapping them in brains of different animals.
+
+
+== Technologies and developments ==
+The main technological tendencies in neuroinformatics are:
+Application of computer science for building databases, tools, and networks in neuroscience;
+Analysis and modeling of neuronal systems.
+In order to organize and operate with neural data scientists need to use the standard terminology and atlases that precisely describe the brain structures and their relationships.
+Neuron Tracing and Reconstruction is an essential technique to establish digital models of the morphology of neurons. Such morphology is useful for neuron classification and simulation.
+BrainML is a system that provides a standard XML metaformat for exchanging neuroscience data.
+The Biomedical Informatics Research Network (BIRN) is an example of a grid system for neuroscience. BIRN is a geographically distributed virtual community of shared resources offering vast scope of services to advance the diagnosis and treatment of disease. BIRN allows combining databases, interfaces and tools into a single environment.
+Budapest Reference Connectome is a web-based 3D visualization tool to browse connections in the human brain. Nodes, and connections are calculated from the MRI datasets of the Human Connectome Project.
+GeneWays is concerned with cellular morphology and circuits. GeneWays is a system for automatically extracting, analyzing, visualizing and integrating molecular pathway data from the research literature. The system focuses on interactions between molecular substances and actions, providing a graphical view on the collected information and allows researchers to review and correct the integrated information.
+Neocortical Microcircuit Database (NMDB). A database of versatile brain's data from cells to complex structures. Researchers are able not only to add data to the database but also to acquire and edit one.
+SenseLab. SenseLab is a long-term effort to build integrated, multidisciplinary models of neurons and neural systems. It was founded in 1993 as part of the original Human Brain Project. A collection of multilevel neuronal databases and tools. SenseLab contains six related databases that support experimental and theoretical research on the membrane properties that mediate information processing in nerve cells, using the olfactory pathway as a model system.
+BrainMaps.org is an interactive high-resolution digital brain atlas using a high-speed database and virtual microscope that is based on over 12 million megapixels of scanned images of several species, including human.
+Another approach in the area of the brain mappings is the probabilistic atlases obtained from the real data from different group of people, formed by specific factors, like age, gender, diseased etc. Provides more flexible tools for brain research and allow obtaining more reliable and precise results, which cannot be achieved with the help of traditional brain atlases.
+
+
+== See also ==
+
+
+== Notes and references ==
+
+
+== Bibliography ==
+
+
+== Further reading ==
+
+
+=== Books ===
+
+
+=== Journals ===

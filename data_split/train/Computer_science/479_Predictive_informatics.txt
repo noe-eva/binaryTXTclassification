@@ -1,0 +1,41 @@
+Predictive informatics (PI) is the combination of predictive modeling and informatics applied to healthcare, pharmaceutical, life sciences and business industries.
+Predictive informatics enables researchers, analysts, physicians and decision-makers to aggregate and analyze disparate types of data, recognize patterns and trends within that data, and make more informed decisions in an effort to preemptively alter future outcomes.
+
+
+== Current uses of PI ==
+
+
+=== Healthcare ===
+Over the past decade the increased usage of electronic health records has produced vast amounts of clinical data that is now computable. Predictive informatics integrates this data with other datasets (e.g., genotypic, phenotypic) in centralized and standardized data repositories upon which predictive analytics may be conducted.
+
+
+=== Pharmaceuticals ===
+The biopharmaceutical industry uses predictive informatics (a superset of chemoinformatics) to integrate information resources to transform data into knowledge in order to make better decisions faster in the area of drug lead identification and optimization.
+
+
+=== Systems biology ===
+Scientists involved in systems biology employ predictive informatics to integrate complex data about the interactions in biological systems from diverse experimental sources.
+
+
+=== Other uses ===
+Predictive informatics and analytics are also used in financial services, insurance, telecommunications, retail, and travel industries.
+
+
+== See also ==
+Predictive analytics
+Informatics (academic field)
+Predictive modeling
+Biomedical informatics
+Chemoinformatics
+
+
+== References ==
+
+
+== Further reading ==
+Christophe Giraud-Carrier, Burdette Pixton, and Roberto A. Rocha. (2009) "Bariatric surgery performance: A predictive informatics case study". Intell. Data Anal., 13 (5), 741–754.
+Krohn R. (2008) "Predictive informatics. Why PI is the next great opportunity in healthcare", J Healthc Inf Manag, 22(1):8–9.
+
+
+== External links ==
+Predictive Informatics: What Is Its Place in Healthcare? Christophe G Giraud-Carrier (2009), Brigham Young University

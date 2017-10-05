@@ -1,0 +1,15 @@
+Visual modeling is the graphic representation of objects and systems of interest using graphical languages. Visual modeling languages may be General-Purpose Modeling (GPM) languages (e.g., UML, Southbeach Notation, IDEF) or Domain-Specific Modeling (DSM) languages (e.g., SysML). They include industry open standards (e.g., UML, SysML, Modelica), as well as proprietary standards, such as the visual languages associated with VisSim, MATLAB and Simulink, OPNET, NetSim, NI Multisim, and Reactive Blocks. Both VisSim and Reactive Blocks provide a royalty-free, downloadable viewer that lets anyone open and interactively simulate their models. The community edition of Reactive Blocks also allows full editing of the models as well as compilation, as long as the work is published under the Eclipse Public License. Visual modeling languages are an area of active research that continues to evolve, as evidenced by increasing interest in DSM languages, visual requirements, and visual OWL (Web Ontology Language).
+
+
+== See also ==
+Discipline-Specific Modeling
+Domain-Specific Modeling
+Model Driven Engineering
+Modeling language
+
+
+== References ==
+
+
+== External links ==
+Visual Modeling Forum A web community dedicated to visual modeling languages and tools.

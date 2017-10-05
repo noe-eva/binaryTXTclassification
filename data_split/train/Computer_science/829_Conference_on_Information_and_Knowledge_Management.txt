@@ -1,0 +1,33 @@
+The ACM Conference on Information and Knowledge Management (CIKM, pronounced /ˈsikəm/) is an annual computer science research conference dedicated to information management (IM) and knowledge management (KM). Since the first event in 1992, the conference has evolved into one of the major forums for research on database management, information retrieval, and knowledge management. The conference is noted for its interdisciplinarity, as it brings together communities that otherwise often publish at separate venues. Recent editions have attracted well beyond 500 participants. In addition to the main research program, the conference also features a number of workshops, tutorials, and industry presentations.
+For many years, the conference was held in the USA. Since 2005, venues in other countries have been selected as well. Locations include:
+1992: Baltimore, Maryland, USA
+1993: Washington, D.C., USA
+1994: Gaithersburg, Maryland, USA
+1995: Baltimore, Maryland, USA
+1996: Rockville, Maryland, USA
+1997: Las Vegas, Nevada, USA
+1998: Bethesda, Maryland, USA
+1999: Kansas City, Missouri, USA
+2000: Washington, D.C., USA
+2001: Atlanta, Georgia, USA
+2002: McLean, Virginia, USA
+2003: New Orleans, Louisiana, USA
+2004: Washington, D.C., USA
+2005: Bremen, Germany
+2006: Arlington, Virginia, USA
+2007: Lisbon, Portugal 
+2008: Napa Valley, California, USA 
+2009: Hong Kong, China 
+2010: Toronto, Ontario, Canada 
+2011: Glasgow, Scotland, UK 
+
+
+== See also ==
+SIGIR Conference
+
+
+== References ==
+
+
+== External links ==
+Official website

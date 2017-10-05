@@ -1,0 +1,10 @@
+Elastic matching is one of the pattern recognition techniques in computer science. Elastic matching (EM) is also known as deformable template, flexible matching, or nonlinear template matching.
+Elastic matching can be defined as an optimization problem of two-dimensional warping specifying corresponding pixels between subjected images.
+
+
+== References ==
+Uchida, Seiichi (August 2005). "A Survey of Elastic Matching Techniques for Handwritten Character Recognition". Ieice Trans. Inf. & Syst. E88-D (8). 
+
+
+== See also ==
+Dynamic time warping

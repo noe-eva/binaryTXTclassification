@@ -1,0 +1,78 @@
+Stylometry is the application of the study of linguistic style, usually to written language, but it has successfully been applied to music and to fine-art paintings as well.
+Stylometry is often used to attribute authorship to anonymous or disputed documents. It has legal as well as academic and literary applications, ranging from the question of the authorship of Shakespeare's works to forensic linguistics.
+
+
+== History ==
+Stylometry grew out of earlier techniques of analyzing texts for evidence of authenticity, authorial identity, and other questions. An early example is Lorenzo Valla's 1439 proof that the Donation of Constantine was a forgery, an argument based partly on a comparison of the Latin with that used in authentic 4th-century documents.
+The modern practice of the discipline received major impetus from the study of authorship problems in English Renaissance drama. Researchers and readers observed that some playwrights of the era had distinctive patterns of language preferences, and attempted to use those patterns to identify authors in uncertain or collaborative works. Early efforts were not always successful: in 1901, one researcher attempted to use John Fletcher's preference for "'em," the contractional form of "them," as a marker to distinguish between Fletcher and Philip Massinger in their collaborations—but he mistakenly employed an edition of Massinger's works in which the editor had expanded all instances of "'em" to "them".
+The basics of stylometry were set out by Polish philosopher Wincenty Lutosławski in Principes de stylométrie (1890). Lutosławski used this method to build a chronology of Plato's Dialogues.
+The development of computers and their capacities for analyzing large quantities of data enhanced this type of effort by orders of magnitude. The great capacity of computers for data analysis, however, did not guarantee quality output. In the early 1960s, Rev. A. Q. Morton produced a computer analysis of the fourteen Epistles of the New Testament attributed to St. Paul, which showed that six different authors had written that body of work. A check of his method, applied to the works of James Joyce, gave the result that Ulysses, Joyce's multi-perspective, multi-style masterpiece, was written by five separate individuals; none of whom had any part in the crafting of Joyce's first novel, A Portrait of the Artist as a Young Man.
+In time, however, and with practice, researchers and scholars have refined their approaches and methods, to yield better results. One notable early success was the resolution of disputed authorship in twelve of The Federalist Papers by Frederick Mosteller and David Wallace. While questions of initial assumptions and methodology still arise (and, perhaps, always will), few now dispute the basic premise that linguistic analysis of written texts can produce valuable information and insight. (Indeed, this was apparent even before the advent of computers: the successful application of a textual/linguistic approach to the Fletcher canon by Cyrus Hoy and others yielded clear results in the late 1950s and early '60s.) An example of a modern study is the analysis of Ronald Reagan's radio commentaries of uncertain authorship. The stylometric (actually, handwriting analysis - see: Primary Colors) analysis of the controversial, pseudonymously authored book Primary Colors, performed by Vassar professor Donald Foster in 1996, brought the field to the attention of a wider audience after correctly identifying the author as Joe Klein.
+In April 2015, researchers using stylometry techniques identified a play, Double Falsehood, as being the work of William Shakespeare. Researchers analyzed 54 plays by Shakespeare and John Fletcher and compared average sentence length, studied the use of unusual words and quantified the complexity and psychological valence of its language.
+
+
+== Methods ==
+Modern stylometry draws heavily on the aid of computers for statistical analysis, artificial intelligence and access to the growing corpus of texts available via the Internet. Software systems such as Signature (freeware produced by Dr Peter Millican of Oxford University), JGAAP (the Java Graphical Authorship Attribution Program—freeware produced by Dr Patrick Juola of Duquesne University), stylo (an open-source R package for a variety of stylometric analyses, including authorship attribution) and Stylene for Dutch (online freeware by Prof Walter Daelemans of University of Antwerp and Dr Véronique Hoste of University of Ghent) make its use increasingly practicable, even for the non-expert.
+Whereas in the past, stylometry emphasized the rarest or most striking elements of a text, contemporary techniques can isolate identifying patterns even in common parts of speech.
+
+
+=== Writer invariant ===
+
+The primary stylometric method is the writer invariant: a property held in common by all texts, or at least all texts long enough to admit of analysis yielding statistically significant results, written by a given author. An example of a writer invariant is frequency of function words used by the writer.
+In one such method, the text is analyzed to find the 50 most common words. The text is then broken into 5,000 word chunks and each of the chunks is analyzed to find the frequency of those 50 words in that chunk. This generates a unique 50-number identifier for each chunk. These numbers place each chunk of text into a point in a 50-dimensional space. This 50-dimensional space is flattened into a plane using principal components analysis (PCA). This results in a display of points that correspond to an author's style. If two literary works are placed on the same plane, the resulting pattern may show if both works were by the same author or different authors.
+
+
+=== Neural networks ===
+Neural networks have been used to analyze authorship of texts. Text of undisputed authorship are used to train the neural network through processes such as backpropagation, where training error is calculated and used to update the process to increase accuracy. Through a process akin to non-linear regression, the network gains the ability to generalize its recognition ability to new texts to which it has not yet been exposed, classifying them to a stated degree of confidence. Such techniques were applied to the long-standing claims of collaboration of Shakespeare with his contemporaries Fletcher and Christopher Marlowe, and confirmed the view, based on more conventional scholarship, that such collaboration had indeed taken place.
+A 1999 study showed that a neural network program reached 70% accuracy in determining authorship of poems it had not yet analyzed. This study from Vrije Universiteit examined identification of poems by three Dutch authors using only letter sequences such as "den".
+A study used Deep Belief Networks (DBN) for authorship verification model applicable for continuous authentication (CA).
+One problem with this method of analysis is that the network can become biased based on its training set, possibly selecting authors the network has more often analyzed.
+
+
+=== Genetic algorithms ===
+The genetic algorithm is another artificial intelligence technique used in stylometry. This involves a method that starts out with a set of rules. An example rule might be, "If but appears more than 1.7 times in every thousand words, then the text is author X". The program is presented with text and uses the rules to determine authorship. The rules are tested against a set of known texts and each rule is given a fitness score. The 50 rules with the lowest scores are thrown out. The remaining 50 rules are given small changes and 50 new rules are introduced. This is repeated until the evolved rules correctly attribute the texts.
+
+
+=== Rare pairs ===
+One method for identifying style is called "rare pairs", and relies upon individual habits of collocation. The use of certain words may, for a particular author, idiosyncratically entail the use of other, predictable words.
+
+
+== Authorship attribution in instant messaging ==
+The diffusion of Internet has shifted the authorship attribution attention towards online texts (web pages, blogs, etc.) electronic messages (e-mails, tweets, posts, etc.), and other types of written information that are far shorter than an average book, much less formal and more diverse in terms of expressive elements such as colors, layout, fonts, graphics, emoticons, etc. Efforts to take into account such aspects at the level of both structure and syntax were reported in. In addition, content-specific and idiosyncratic cues (e.g., topic models and grammar checking tools) were introduced to unveil deliberate stylistic choices.
+Standard stylometric features have been employed to categorize the content of a chat over instant messaging, or the behavior of the participants, but attempts of identifying chat participants are still few and early. Furthermore, the similarity between spoken conversations and chat interactions has been neglected while being a key difference between chat data and any other type of written information.
+
+
+== See also ==
+Linguistics and the Book of Mormon, Stylometry (Wordprint Studies)
+Moshe Koppel
+Writeprint
+
+
+== Notes ==
+
+
+== References ==
+Brocardo, Marcelo Luiz; Issa Traore; Sherif Saad; Isaac Woungang (2013). Authorship Verification for Short Messages Using Stylometry. IEEE Intl. Conference on Computer, Information and Telecommunication Systems (CITS). 
+Can F, Patton JM (2004). "Change of writing style with time". Computers and the Humanities. 38 (1): 61–82. doi:10.1023/b:chum.0000009225.28847.77. 
+Brennan, Michael Robert; Greenstadt, Rachel. "Practical Attacks Against Authorship Recognition Techniques". Innovative Applications of Artificial Intelligence. 
+Hope, Jonathan (1994). The Authorship of Shakespeare's Plays. Cambridge: Cambridge University Press. 
+Hoy C (1956–62). "The Shares of Fletcher and His Collaborators in the Beaumont and Fletcher Canon". Studies in Bibliography. 7–15. 
+Juola, Patrick (2006). "Authorship Attribution" (PDF). Foundations and Trends in Information Retrieval. 1: 3. doi:10.1561/1500000005. 
+Kenny, Anthony (1982). The Computation of Style: An Introduction to Statistics for Students of Literature and Humanities. Oxford: Pergamon Press. 
+Romaine, Suzanne (1982). Socio-Historical Linguistics. Cambridge: Cambridge University Press. 
+Samuels, M. L. (1972). Linguistic Evolution: With Special Reference to English. Cambridge: Cambridge University Press. 
+Schoenbaum, Samuel (1966). Internal Evidence and Elizabethan Dramatic Authorship: An Essay in Literary History and Method. Evanston, IL, USA: Northwestern University Press. 
+Van Droogenbroeck, Frans J. (2016) "Handling the Zipf distribution in computerized authorship attribution"
+
+
+=== Further reading ===
+See also the academic journal Literary and Linguistic Computing (published by the University of Oxford) and the Language Resources and Evaluation journal.
+
+
+== External links ==
+Association for Computers and the Humanities
+Literary and Linguistic Computing
+Computational Stylistics Group
+Signature Stylometric System
+JGAAP Authorship Attribution Program
+Uncovering the Mystery of J.K. Rowling's Latest Novel

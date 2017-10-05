@@ -1,0 +1,107 @@
+Polymake is software for the algorithmic treatment of convex polyhedra.
+Albeit primarily a tool to study the combinatorics and the geometry of convex polytopes and polyhedra, it is by now also capable of dealing with simplicial complexes, matroids, polyhedral fans, graphs, tropical objects, toric varieties and other objects.
+Polymake has been cited in over 100 recent articles indexed by Zentralblatt MATH as can be seen from its entry in the swMATH database.
+
+
+== Special Features ==
+
+
+=== modular ===
+Polymake was originally designed as a research tool for studying aspects of polytopes. As such, polymake uses many third party software packages for specialized computations, thereby providing a common interface and bridge between different tools. A user can easily (and unknowingly) switch between using different software packages in the process of computing properties of a polytope.
+
+
+=== rule based computation ===
+Polymake internally uses a server-client model where the server holds information about each object (e.g., a polytope) and the clients sends requests to compute properties. The server has the job of determining how to complete each request from information already known about each object using a rule based system. For example, there are many rules on how to compute the facets of a polytope. Facets can be computed from a vertex description of the polytope, and from a (possibly redundant) inequality description. Polymake builds a dependency graph outlining the steps to process each request and selects the best path via a Dijkstra type algorithm.
+
+
+=== scripting ===
+Polymake can be used within a perl script. Moreover, users can extend polymake and define new objects, properties, rules for computing properties, and algorithms.
+
+
+== Polymake applications ==
+Polymake divides its collection of functions and objects into 10 different groups called applications. They behave like C++ namespaces. The polytope application was the first one developed and it is the largest.
+
+
+=== Common application ===
+This application contains many "helper" functions used in other applications.
+
+
+=== Fan application ===
+The Fan application contains functions for polyhedral complexes (which generalize simplicial complexes), planar drawings of 3-polytopes, polyhedral fans, and subdivisions of points or vectors.
+
+
+=== Fulton application ===
+This application deals with normal toric varieties. The name of this application is from the book "Introduction to toric varieties" by William Fulton.
+
+
+=== Graph application ===
+The graph application is for manipulating directed and undirected graphs. Some the standard graph functions exist (like for adjacency and cliques) together with combinatorial functions like computing the lattice represented by a directed acyclic graph.
+
+
+=== Group application ===
+The group application focuses on finite permutation groups. Basic properties of a group can be calculated like characters and conjugacy classes. Combined with a polytope, this application can compute properties associated with a group acting on a polytope by permuting the polytope's vertices, facets, or coordinates.
+
+
+=== Ideal application ===
+The ideal application computes a few properties of polynomial ideals: Gröbner basis, Hilbert polynomial, and radicals.
+
+
+=== Matriod application ===
+The matroid class can compute all the standard properties of a matriod like bases and circuits. This application can also compute more advance properties like the Tutte polynomial of a matroid and realizing the matriod with a polytope.
+
+
+=== Polytope application ===
+Within the polytope application, there are over 230 functions or calculations that can be done with a polytope. These functions range in complexity from simply calculating basic information about a polytope (e.g., number of vertices, number of facets, tests for simplicial polytopes, and converting a vertex description to an inequality description) to combinatorial or algebraic properties (e.g., H-vector, Ehrhart polynomial, Hilbert basis, and Schlegel diagrams). There are also many visualization options.
+
+
+=== Topaz application ===
+The Topaz application contains all the functions relating to abstract simplicial complexes. Many advance topological calculations over simplicial complexes can be performed like homology groups, orientation, fundamental group. There is also a combinatorial collection of properties that can be computed like a shelling and Hasse diagrams.
+
+
+=== Tropical application ===
+The tropical application contains functions for exploring tropical geometry; in particular, tropical hypersurfaces and tropical cones.
+
+
+== Development History ==
+Polymake version 1.0 first appeared in the proceedings of the International Congress of Mathematicians in 1989 in a new section on mathematical software. Version 1.0 only contained the polytope application, but the system of "applications" was not yet developed. Version 2.0 was released sometime in 2003, and version 3.0 was released in 2016.
+
+
+== Software packages ==
+
+
+=== Used within polymake ===
+Below is a list of third party software packages that polymake can interface with as of version 3.0. Users are also able to write new rule files for interfacing with any software package. Note that there is some redundancy in this list (e.g., a few different packages can be used for finding the convex hull of a polytope). Because polymake uses rule files and a dependency graph for computing properties, most of these software packages are optional. However, some become necessary for specialized computations.
+4ti2: software package for algebraic, geometric and combinatorial problems on linear spaces
+a-tint: tropical intersection theory
+azove: enumeration of 0/1 vertices
+cdd: double description method for converting between an inequality and vertex description of a polytope
+Geomview: interactive 3D viewing program
+Gfan: Gröbner fans and tropical varieties
+GraphViz: graph visualization software
+LattE (Lattice point Enumeration): counting lattice points inside polytopes and integration over polytopes
+libnormaliz: affine monoids, vector configurations, lattice polytopes, and rational cones
+lrs: implementation of the reverse search algorithm for vertex enumeration and convex hull problems
+nauty: automorphism groups of graphs
+permlib: set stabilizer and in-orbit computations
+PORTA: enumerate lattice points of a polytope
+ppl: Parma Polyhedra Library
+qhull: Quickhull algorithm for convex hulls
+singular: computer algebra system for polynomial computations, with special emphasis on commutative and non-commutative algebra, algebraic geometry, and singularity theory
+sketch: for making line drawings of two- or three-dimensional solid objects
+SplitsTree4: phylogenetic networks
+sympol: tool to work with symmetric polyhedra
+threejs: JavaScript library for animated 3D computer graphics
+tikz: TeX packages for creating graphics programmatically
+TOPCOM: triangulations of point configurations and matroids
+TropLi: for computing tropical linear spaces of matroids
+tosimplex: Dual simplex algorithm implemented by Thomas Opfer
+Vinci: volumes of polytopes
+
+
+=== Used in conjunction with polymake ===
+jupyter-polymake: allows polymake within Jupyter notebooks.
+PolymakeInterface: package for using polymake in GAP.
+PolyViewer: GUI viewer for polymake fies.
+
+
+== References ==

@@ -1,0 +1,26 @@
+A hardware reset or hard reset of a computer system is a hardware operation that re-initializes the core hardware components of the system, thus ending all current software operations in the system. This is typically, but not always, followed by booting of the system into firmware that re-initializes the rest of the system, and restarts the operating system.
+Hardware resets are an essential part of the power-on process, but may also be triggered without power cycling the system by direct user intervention via a physical reset button, watchdog timers, or by software intervention that, as its last action, activates the hardware reset line.
+Holding down the power button is a common way to force shutdown a computer. On Macs, pressing Control-Command-Power quits macOS and restarts the computer.
+
+
+== Hardware reset in 80x86 IBM PC ==
+The 8086 microprocessors provide RESET pin that is used to do the hardware reset. When a HIGH is applied to the pin, the CPU immediately stops, and sets the major registers to these values:
+The CPU uses the values of CS and IP registers to find the location of the next instruction to execute. Location of next instruction is calculated using this simple equation:
+Location of next instruction = (CS<<4) + (IP)
+This implies that after the hardware reset, the CPU will start execution at the physical address 0xFFFF0. In IBM PC compatible computers, This address maps to BIOS ROM. The memory word at 0xFFFF0 usually contains a JMP instruction that redirects the CPU to execute the initialization code of BIOS. This JMP instruction is absolutely the first instruction executed after the reset.
+
+
+=== Hardware reset in later x86 CPUs ===
+Later x86 processors reset the CS and IP registers similarly, refer to Reset vector.
+
+
+== See also ==
+Power-on reset
+Power-on self test
+Reset vector
+Reboot (computing)
+
+
+== References ==
+
+2. https://www.hardreset99.com Reset any electronic device.

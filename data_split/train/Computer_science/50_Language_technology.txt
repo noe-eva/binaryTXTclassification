@@ -1,0 +1,15 @@
+Language technology, often called human language technology (HLT), consists of natural language processing (NLP) and computational linguistics (CL) on the one hand, and speech technology on the other. It also includes many application oriented aspects of these. Language technology is closely connected to computer science and general linguistics.
+In 2013, the Globalization and Localization Association (GALA), released the independent platform LT Advisor for users to search for language technology and review translation tools. The platform was developed in collaboration with the German Research Center for Artificial Intelligence (DFKI).
+Anywhere the language comes in contact with information technology languages needs and it is organized so that it can be handled and processed by computational means. This often requires broad knowledge not only about linguistics, but also about computer science and related fields.
+
+
+== References ==
+
+
+== External links ==
+Johns Hopkins University Human Language Technology Center of Excellence
+Carnegie Mellon University Language Technologies Institute
+Institute for Applied Linguistics (IULA)at Universitat Pompeu Fabra. Barcelona, Spain
+German Research Centre for Artificial Intelligence (DFKI) Language Technology Lab
+CLT: Centre for Language Technology in Gothenburg, Sweden
+Globalization and Localization Association (GALA)

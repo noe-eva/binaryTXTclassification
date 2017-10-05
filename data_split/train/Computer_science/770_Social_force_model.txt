@@ -1,0 +1,4 @@
+A social force model is a microscopic, continuous time, continuous space, phenomenological computer simulation model of the movement of pedestrians.
+
+
+== References ==

@@ -1,0 +1,62 @@
+The mining software repositories (MSR) field analyzes the rich data available in software repositories, such as version control repositories, mailing list archives, bug tracking systems, issue tracking systems, etc. to uncover interesting and actionable information about software systems, projects and software engineering.
+
+
+== Definition ==
+Herzig and Zeller define ”mining software archives” as a process to ”obtain lots of initial evidence” by extracting data from software repositories. Further they define ”data sources” as product-based artefacts like source code, requirement artefacts or version archives and claim that these sources are unbiased, but noisy and incomplete.
+
+
+== Data Repositories ==
+
+
+=== Metrics ===
+Floss Mole [1]
+MetricsGrimoire
+
+
+=== Defect Prediction ===
+Promise Software Repository [2]
+
+
+=== Collection of Open Source Code ===
+merobase [3]
+Open Hub
+GHTorrent Archived and indexed data from GitHub repositories
+
+
+== Techniques ==
+
+
+== Tools ==
+
+
+=== Experimentation Tools ===
+Trace lab.
+
+
+=== Metric Extraction Tools ===
+Columbus [4]
+PMD [5]
+
+
+=== Mining Tools ===
+weka [6]
+rapidminer [7]
+
+
+== Contradictory Findings ==
+
+
+== Software Metrics ==
+
+
+== See also ==
+Software analytics
+Software maintenance
+Software archaeology
+
+
+== References ==
+
+
+== External links ==
+Working Conference on Mining Software Repositories, the main software engineering conference in the area.

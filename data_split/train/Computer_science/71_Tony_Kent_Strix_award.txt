@@ -1,0 +1,40 @@
+The UKeiG Strix award is an annual award for outstanding contributions to the field of information retrieval and is presented in memory of Dr Tony Kent, a past Fellow of the Institute of Information Scientists (IIS), who died in 1997. Tony Kent made a major contribution to the development of information science and information services both in the UK and internationally, particularly in the field of chemistry. The name 'Strix' was chosen to reflect Tony's interest in ornithology, and as the name of the last and most successful information retrieval packages that he created.
+The Award is given in recognition of an outstanding contribution to the field of information retrieval that meets one of the following criteria:
+a major and/or sustained contribution to the theoretical or experimental understanding of the information retrieval process;
+development of, or significant improvement in, mechanisms, a product or service for the retrieval of information, either generally or in a specialised field;
+development of, or significant improvement in, ease of access to an information service;
+a sustained contribution over a period of years to the field of information retrieval; for example, by running an information service or by contributing at national or international level to organisations active in the field.
+Recipients so far have been: Source: Cilip
+1998: Prof Stephen Robertson
+1999: Dr Donna Harman
+2000: Dr Martin Porter
+2001: Prof Peter Willett
+2002: Malcolm Jones
+2003: Dr Herbert Van de Sompel
+2004: Prof C. J. 'Keith' van Rijsbergen
+2005: Jack Mills
+2006: Stella Dextre Clarke
+2007: Mats Lindquist
+2008: Prof Kalervo Jarvelin
+2009: Carol Ann Peters
+2010: Michael Lynch
+2011: Prof Alan Smeaton
+2012: Doug Cutting and David Hawking
+2013: Prof W. Bruce Croft
+2014: Dr Susan Dumais
+2015: Prof Peter Ingwersen
+2016: Prof Maristella Agosti
+UKeiG is a special interest group of the Chartered Institute of Library and Information Professionals.
+
+
+== See also ==
+List of prizes
+
+
+== References ==
+
+
+== External links ==
+The Tony Kent Strix Award, offered by UKeiG
+UKeiG
+CILIP

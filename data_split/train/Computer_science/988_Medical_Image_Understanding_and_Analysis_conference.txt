@@ -1,0 +1,94 @@
+Medical Image Understanding and Analysis (MIUA) is a UK-based meeting for the communication of research related to image analysis and its application to medical imaging and biomedicine. The meetings provide an opportunity to present and discuss research in medical image understanding and analysis; a rapidly growing subject with ever increasing real-world applicability.
+MIUA is collaborated with the BMVA. Medical Image understanding is an intrinsically interdisciplinary activity, drawing on expertise from computer science, engineering, physics, clinical practice and fundamental bioscience. Many researchers with an interest in MIUA topics will also belong to wider communities in each of these disciplines, which overlap, but are not congruent with, the MIUA community. See more information 
+The 19th Annual Conference in Medical Image Understanding and Analysis (MIUA 2015) was held at the University of Lincoln. MIUA is a UK-based meeting for the communication of research related to image analysis and its application to medical imaging and biomedicine. The meetings provide an opportunity to present and discuss research in medical image understanding and analysis; a rapidly growing subject with ever increasing real-world applicability.
+
+
+== The list of current and previous MIUAs and Chairs ==
+2017: University of Edinburgh. 
+
+Maria del Carmen Valdés Hernández, Victor Gonzalez-Castro
+
+2016: University of Loughborough.
+
+Alastair Gale, Yan Chen
+
+2015: University of Lincoln.
+
+Tryphon Lambrou, Xujiong Ye
+
+2014: City University London.
+
+Constantino Carlos Reyes-Aldasoro, Greg Slabaugh
+
+2013: Birmingham.
+
+Ela Claridge
+
+2012: Swansea.
+
+Xianghua Xie
+
+2011: London (KCL).
+
+William Crum, Graemme Penney
+
+2010: Warwick.
+
+Abhir Bhalearo, Nasir Rajpoot
+
+2009: Kingston.
+
+Jamshid Dehmeshki, Darrel Greenhill, Andreas Hoppe
+
+2008: Dundee.
+
+Stephen McKenna, Jesse Hoey
+
+2007: Aberystwyth.
+
+Fred Labrosse, Reyer Zwiggelaar
+
+2006: Manchester.
+
+S.M. Astley, T.F. Cootes, J. Graham, N. Thacker.
+
+2005: Bristol.
+
+Majid Mirmehdi
+
+2004: London (IC).
+
+Daniel Rueckert
+
+2003: Sheffield.
+
+David Barbar
+
+2002: Portsmouth.
+
+Alex Houston, Reyer Zwiggelaar
+
+2001: Birmingham.
+
+Ela Claridge
+
+2000: London (UCL).
+1999: Oxford.
+
+Mike Brady
+
+1998: Leeds.
+
+Liz Berry, DC Hogg, KV Mardia, MA Smith
+
+1997: Oxford.
+
+Alison Noble
+
+
+== References ==
+
+
+== See also ==
+BMVA Summer School
+BMVC

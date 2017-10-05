@@ -1,0 +1,8 @@
+HOOD (Hierarchic Object-Oriented Design) is a detailed software design method. It is based on hierarchical decomposition of a software problem. It comprises textual and graphical representations of the design.
+HOOD was initially created for the European Space Agency and is used in such varied domains as aerospace (Eurofighter Typhoon, Helios 2 Earth Observation ground control, Ariane 5 on-board computer), ground transportation, and nuclear plants.
+HOOD main target languages are Ada, Fortran and C.
+
+
+== External links ==
+Introduction to HOOD HOOD page at ESA
+ESA's HOOD user manual, gzipped postscript

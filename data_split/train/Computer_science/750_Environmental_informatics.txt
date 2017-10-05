@@ -1,0 +1,63 @@
+Environmental informatics is the science of information applied to environmental science. As such, it provides the information processing and communication infrastructure to the interdisciplinary field of environmental sciences aiming at data, information and knowledge integration, the application of computational intelligence to environmental data as well as the identification of environmental impacts of information technology. The UK Natural Environment Research Council defines environmental informatics as the "research and system development focusing on the environmental sciences relating to the creation, collection, storage, processing, modelling, interpretation, display and dissemination of data and information." Kostas Karatzas defined environmental informatics as the "creation of a new 'knowledge-paradigm' towards serving environmental management needs." Karatzas argued further that environmental informatics "is an integrator of science, methods and techniques and not just the result of using information and software technology methods and tools for serving environmental engineering needs."
+Environmental informatics emerged in early 1990 in Central Europe.
+Current initiatives to effectively manage, share, and reuse environmental and ecological data are indicative of the increasing importance of fields like environmental informatics and ecoinformatics to develop the foundations for effectively managing ecological information. Examples of these initiatives are National Science Foundation Datanet projects, DataONE and Data Conservancy.
+
+
+== Conferences ==
+EnviroInfo 2013, 2012
+Environmental Information Management 2011, 2008
+International Conference on Adaptive and Natural Computing Algorithms ICANNGA
+International Conference on ICT for Sustainability (ICT4S) 2014, 2013
+International Conference on Information Technologies in Environmental Engineering 2013
+International Congress on Environmental Modelling and Software (iEMSs) 2014, 2012, 2010
+International Congress on Modelling and Simulation (MODSIM) 2013
+International Symposium on Environmental Software Systems (ISESS) 2013, 2011
+
+
+== Journals ==
+ACM Transactions on Sensor Networks
+Computers and Electronics in Agriculture
+Earth Science Informatics
+Earth System Science Data
+Environmental Earth Sciences
+Environmental Modelling and Software
+Environmental Monitoring and Assessment
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+International Journal of Agricultural and Environmental Information Systems
+International Journal of Digital Earth
+International Journal of Distributed Sensor Networks
+International Journal of Sensor Networks
+Journal of Environmental Informatics
+
+
+== Institutions ==
+Aalto University: Environmental Infomatics
+Aristotle University of Thessaloniki: Informatics Applications and Systems Group, Dept. of Mechanical Engineering: Teaching and Research on Environmental Informatics and Quality of Life Information Services
+Institute for Environmental Analytics: Applied environmental informatics, based at the University of Reading, UK
+Lancaster Environment Center: Centre for environmental informatics
+Lincoln University: GIS and Environmental Informatics
+Masaryk University: Division of environmental informatics and modeling
+NUI Galway: Environmental informatics
+RISSAC: Department of environmental informatics, research institute for soil science and agricultural chemistry, Hungarian academy of sciences
+Stanford University: Sustainable development & environmental informatics
+Tokyo Institute of Technology: Department of Mechanical and Environmental Informatics
+TU Graz: Research focus area in environmental informatics
+University of California, Irvine: Bren school environmental informatics research
+University of Dayton: Center of excellence for strategic energy and environmental informatics
+University of Eastern Finland: Division of environmental informatics within the department of environmental science at Kuopio Campus
+University of Hamburg: Research in environmental informatics
+University of Las Vegas, Nevada: Environmental informatics undergraduate program
+University of Michigan: Environmental informatics GIS and modeling graduate program
+University of Oldenburg: Division of environmental informatics
+University of Sunderland: Centre for environmental informatics
+University of Applied Sciences (HTW) Berlin: Research and undergraduate program
+Vienna University of Technology: Doctoral College: Environmental Informatics
+Virginia Polytechnic Institute: Undergraduate Program: Environmental Informatics
+
+
+== Collaborations ==
+DataONE: Data Observation Network for Earth
+Data Conservancy: Leading the movement to build data management tools and services across institutions and disciplines
+
+
+== References ==

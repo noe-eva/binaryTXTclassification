@@ -1,0 +1,54 @@
+Ballistic training, also called power training, is a form of strength training in which an athlete lifts, accelerates, and then releases the weight, rather than slowly lowering it as in other forms of weight training.
+
+
+== History ==
+Ballistic training was first used among elite athletes who were looking for a method to develop explosiveness. The word ballistic comes from the Greek word βάλλειν (ballein), which means “to throw.” In this type of training the athlete accelerates and releases the weight into "free space." Common ballistic training exercises are bench throws, jump squats, cleans, snatches, and push presses.
+Ballistic training forces the athlete's body to recruit and trigger fast twitch muscle fibers. This is important because these muscle fibers have the greatest potential for growth and strength. Ballistic training requires the muscles to adapt to contracting very quickly and forcefully. This training requires the central nervous system to coordinate and produce the greatest amount of force in the shortest time possible.
+In traditional weight training the athlete accelerates the weight on the concentric portion over the first third of the lift. During the other two-thirds of the lift, the weight is being slowed, -decelerated- and then stopped. With ballistic training, the weight is accelerated through the whole range of motion and only starts to decelerate after the athlete has released the bar. The National Strength and Conditioning Association's Basic Guidelines for the Resistance Training of Athletes states that “performing speed repetitions as fast as possible with light weight (e.g., 30-45% of 1-RM) in exercises in which the bar is held on to and must be decelerated at the end of the joint’s range of motion (e.g., bench press) to protect the joint does not produce power or speed training but teaches the body how to decelerate, or slow down. If the load can be released into the air (i.e., the bar be let go at the end of the range of motion) the negative effects are eliminated.
+Additional research has shown that as much as 75% of a movement can be devoted to slowing the bar down. Elliot, et al. (1989) reported that during 1-RM bench presses, the bar decelerates for the final 24% of the range of motion. At 81% of 1-RM, the bar decelerates for the final 52% of the range of motion. Research has shown that for best results it is important to load the bar with the amount of weight that allows for positive acceleration to be maintained through the full range of motion for the lift. An effective ballistic lift develops speed throughout the entire range of motion of the lift until the moment of release.
+
+
+== Criteria ==
+1. Muscle recruitment principles. Ballistic lifts force the muscles to produce the greatest amount of force in the shortest amount of time. In accordance with Henneman's size principle muscle fibers are recruited from a low to a high threshold as force requirements increase.
+2. Speed of the movement. To ensure full muscle fiber recruitment the speed of the lift must be propulsive through the entire range of the movement up until release.
+3. Intensity of the exercise. The duration of the lift should be measured by repetitions or time. The lift should be stopped when the bar decelerates. Research has shown the 6-8 repetitions or 20–30 seconds produces the best results.
+4. Cardiovascular benefits. Ballistic exercises performed continuously for a minimum of 20 seconds followed by a 30 second rest period and then repeated until deceleration occurs has been proven to elevate the heart rate to training zone level.
+5. Co-ordination. Research at the University of Connecticut found that high-intensity training has profound effects on the nervous system. The exercise had to be of an intensity that elevate the heart rate to 90% of maximum rate and had to sustain that rate for at least 20 seconds.
+6. Electronic measurement. There are several electronic measurement systems that measure the velocity, power, and effectiveness of a lift. The athlete should stop the lift when the speed of a lift has fallen to 90% of their previous lift. The 90% number signals that there has been a significant change in the recruitment of the fast-twitch muscle fibers. Below the 90% number the lift is no longer ballistic
+7. Specificity of training. Ballistic training emphasizes throwing and jumping with a weighted object. Research has resulted in positive increases in vertical jump, throwing velocity, and running speed. There is limited transfer to a specific sport.
+
+
+== Basic principles ==
+The most common ballistic exercises are bench throws, jump squats, cleans, and variations of the Olympic lifts. The rate of acceleration is controlled by adjusting the amount of weight on the bar. If the weight is too light the rate of acceleration will be too fast and if the weight is too heavy the bar will decelerate before the release point.
+Research has shown that optimal power is produced when the weight being lifted is 30% to 90% of an individual’s 1-RM; an alternative to 1-RM is to use 30% to 90% of the athlete’s body weight. Advanced lifters can use 70% to 90% of 1-RM but anything above this is not recommended.
+The athlete should explode the weight up as fast as possible. The bar should leave the athlete’s hands during a press/clean or their feet will leave the ground when doing jump squats. The rate of acceleration should be manipulated to achieve the training objectives of the lifter.
+Numerous studies have concluded that ballistic training is highly effective. One can refer to articles by Tim Scheett, Tom Kelso, and Kevin Newell as reviews of ballistic training.
+
+
+== Use in metabolic conditioning ==
+Ballistic exercises have traditionally been left out of metabolic conditioning workouts and training programs. This may be due to the fact that they are often technical lifts, or lifts/exercises for which technique is crucial to safe and effective completion. However, with the extensive availability of information and guidance in learning and developing proficiency in ballistic exercise, this trend is changing.
+Many training programs which employ circuit training or metabolic conditioning now include ballistic exercises such as kettlebell cleans and snatches, Olympic lifts and variations, throws and plyometric variations. The benefits of their inclusion in these types of programs include higher levels of motor unit recruitment, higher caloric burn and improvements in a number of measurable athletic outputs.
+
+
+== References ==
+
+Baechle T.R. and Earle R.W. (2000) Essentials of Strength Training and Conditioning: 2nd Edition. Champaign, IL: Human Kinetics
+Baker, D., Nance, S. and Moore, M. The load that maximizes the average power output during explosive bench press throws in highly trained athletes. Journal of Strength and Conditioning Research. 15(1): 20-24. 2001.
+Behm, D.G. and Sale, D.G. Velocity specificity of resistance training. Sports Med. 1993 Jun; 15(6):374-88
+Bompa, T.O. 1999 Periodization Training for Sports. Champaign, IL: Human Kinetics
+Elliot, B. and Wilson, G. A biomechanical analysis of the sticking region in the bench press. Medicine and Science in Sports and Exercise. 21: 450-464. 1989.
+Flannagan, S. Improve performance with ballistic training. Strength and Health. Spring 2001.
+Garhammer, J. A review of power output studies of Olympic and powerlifting: Methodology, performance, prediction and evaluation test. Journal of Strength and Conditioning Research. 7(2): 76-89. 1993.
+Hammett, J.B. and Hey, W.T. Neuromuscular adaptation to short-term (4 weeks) ballistic training in trained high school athletes. Journal of Strength and Conditioning Research 17:556-560, 2003.
+Kelso, T. A Rationale for Strength Training. Coach and Athletic Director, Oct, 2001
+Komi P.V. Neuromuscular performance: Factors influencing force and speed production. Scand J Sports Sci. 1979 1:2-15
+Nawrocki, N. ( www.profootballweekly.com/content/features/features_archives/nawrocki_061901.asp ) The Athlete's Edge: 'Evolutionary training: Archuleta explodes past his competition: Pro Football Weekly's Internet Edition, June 19, 2001
+Newell, K. Going ballistic! Getting in motion with performance enhancing equipment. Coach and Athletic Director, April, 2003
+Newton, R.U., Kraemer, W.J., and Hakkinen, K. Effects of ballistic training on preseason preparation of elite volleyball players. Medicine & Science in Sports & Exercise 31:323-330, 1999.
+Newton R.U. and Kraemer W.J. Developing explosive muscular power: implications for a mixed methods training strategy. NSCAJ. 1994 16 :(5):20-3
+Newton R.U., Kraemer W.J., and Hakkinen K. Effects of ballistic training on preseason preparation of elite volleyball players. Med Sci Sports Exerc. 1999 Feb; 31(2):323-30
+Newton R.U., Kraemer W.J., and Hakkinen K., Humphries B.J. and Murphy A.J. Kinematics, kinetics and muscle activation during explosive upper body movements: Implications for power development. J Appl Biomech. 1996 12:31-43
+Newton R.U., Murphy A.J., and Humphries B.J., Wilson G.J., Kraemer W.J., Hakkinen K. Influence of load and stretch shortening cycle on the kinematics, kinetics and muscle activation that occurs during explosive upper-body movements. Eur J Appl Physiol Occup Physiol. 1997; 75(4):333-42
+Pearson, D., Faigenbaum A., Conley, M. and Kraemer, W. The National Strength and Conditioning Association's basic guidelines for the resistance training of athletes. Strength and Conditioning Journal. 22(4): 14-27. 2000.
+Scheett, T. Go ballistic: this revolutionary high-velocity training system will help you bust through sticking points, become more explosive and speed up your muscle gains. Muscle & Fitness, Oct 2004
+Wilson G.J., Newton R.U., Murphy A.J., and Humphries B.J. The optimal training load for the development of dynamic athletic performance. Med Sci Sports Exerc. 1993 Nov; 25(11):1279-86

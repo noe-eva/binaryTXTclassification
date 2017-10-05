@@ -1,0 +1,24 @@
+fxgrep (The Functional XML Querying Tool) is an XML querying tool written in the Standard ML programming language. The Fxgrep addresses the problem of dealing with 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -ary queries, that is, the task of simultaneously locating 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   nodes of an input XML tree that satisfy a given relation.
+
+
+== Notes and references ==
+
+
+== External links ==
+fxgrep web page

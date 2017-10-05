@@ -1,0 +1,9 @@
+In computing, tombstone diagrams (or T-diagrams) consist of a set of “puzzle pieces” representing compilers and other related language processing programs. They are used to illustrate and reason about transformations from a source language (left of T) to a target language (right of T) realised in an implementation language (bottom of T). They are most commonly found describing complicated processes for bootstrapping, porting, and self-compiling of compilers, interpreters, and macro-processors.
+T-diagrams were first introduced for describing bootstrapping and cross-compiling compilers by McKeeman et al. in 1971. Melvin Conway described the broader concept before that with his UNCOL in 1958, to which Bratman added in 1961. Later on, others, including P.D. Terry, gave an explanation and usage of T-diagrams in their textbooks on the topic of compiler construction. T-diagrams are also now used to describe client-server interconnectivity on the World Wide Web. A teaching tool TDiag has been implemented at Leipzig University, Germany.
+
+
+== See also ==
+Bootstrapping (compilers)
+
+
+== References ==

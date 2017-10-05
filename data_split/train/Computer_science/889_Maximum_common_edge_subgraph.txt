@@ -1,0 +1,116 @@
+Given two graphs 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   and 
+  
+    
+      
+        
+          G
+          ′
+        
+      
+    
+    {\displaystyle G'}
+  , the maximum common edge subgraph problem is the problem of finding a graph 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   with as many edges as possible which is isomorphic to both a subgraph of 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   and a subgraph of 
+  
+    
+      
+        
+          G
+          ′
+        
+      
+    
+    {\displaystyle G'}
+  .
+The maximum common edge subgraph problem on general graphs is NP-complete as it is a generalization of subgraph isomorphism: a graph 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   is isomorphic to a subgraph of another graph 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   if and only if the maximum common edge subgraph of 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   and 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   has the same number of edges as 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+  . Unless the two inputs 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   and 
+  
+    
+      
+        
+          G
+          ′
+        
+      
+    
+    {\displaystyle G'}
+   to the maximum common edge subgraph problem are required to have the same number of vertices, the problem is APX-hard.
+
+
+== See also ==
+Maximum common subgraph isomorphism problem
+Subgraph isomorphism problem
+Induced subgraph isomorphism problem
+
+
+== References ==

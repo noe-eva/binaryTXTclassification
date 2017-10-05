@@ -1,0 +1,92 @@
+A covering of a polygon is a set of primitive units (e.g. squares) whose union equals the polygon. A polygon covering problem is a problem of finding a covering with a smallest number of units for a given polygon. This is an important class of problems in computational geometry. There are many different polygon covering problems, depending on the type of polygon being covered and on the types of units allowed in the covering. An example polygon covering problem is: given a rectilinear polygon, find a smallest set of squares whose union equals the polygon.
+In some scenarios, it is not required to cover the entire polygon but only its edges (this is called polygon edge covering) or its vertices (this is called polygon vertex covering).
+In a covering problem, the units in the covering are allowed to overlap, as long as their union is exactly equal to the target polygon. This is in contrast to a packing problem, in which the units must be disjoint and their union may be smaller than the target polygon, and to a polygon partition problem, in which the units must be disjoint and their union must be equal to the target polygon.
+A polygon covering problem is a special case of the set cover problem. In general, the problem of finding a smallest set covering is NP-complete, but for special classes of polygons, a smallest polygon covering can be found in polynomial time.
+
+
+== Basic concepts ==
+A unit u contained in a polygon P is called maximal if it is not contained in any other unit in P. When looking for a polygon covering, it is sufficient to consider maximal units, since every unit which is not maximal can be replaced with a maximal unit containing it without affecting the size of the covering.
+A covering of a polygon P is a collection of maximal units, possibly overlapping, whose union equals P.
+A minimal covering is a covering that does not contain any other covering (i.e. it is a local minimum).
+A minimum covering is a covering with a smallest number of units (i.e. a global minimum). Every minimum covering is minimal, but not vice versa.
+
+
+== Covering a rectilinear polygon with squares ==
+A rectilinear polygon can always be covered with a finite number of squares.
+For hole-free polygons, a minimum covering by squares can be found in time O(n), where n is the number of vertices of the polygon. The algorithm uses a local optimization approach: it builds the covering by iteratively selecting maximal squares that are essential to the cover (- contain uncovered points not covered by other maximal squares) and then deleting from the polygon the points that become unnecessary (- unneeded to support future squares). Here is a simplified pseudo-code of the algorithm:
+While the polygon P is not empty:
+Select a continuator square s in P.
+If the balcony of s is not yet covered, then add s to the covering.
+Remove the balcony of s from P.
+If what remains of s is a one-knob continuator, then remove from P a certain rectangle adjacent to the knob, taking care to leave a sufficient security distance for future squares.
+
+For polygons which may contain holes, finding a minimum such covering is NP-hard. This sharp difference between hole-free and general polygons can be intuitively explained based on the following analogy between maximal squares in a rectilinear polygon and nodes in an undirected graph:
+Some maximal squares have a continuous intersection with the boundary of the polygon; when they are removed, the remaining polygon remains connected. Such squares are called "continuators" and are analogous to leaf nodes – nodes with a single edge – that can be removed without disconnecting the graph.
+Other maximal squares are "separators": when they are removed, the polygon splits into two disconnected polygons. They are analogous to nodes with two or more edges that, when removed, leave a disconnected remainder.
+In a hole-free rectilinear polygon, all maximal squares are either continuators or separators; thus, such a polygon is analogous to a tree graph. A general polygon is analogous to a general graph. Just like the Vertex cover problem is polynomial for tree graphs but NP-hard for general graphs, the square covering problem is linear for hole-free polygons but NP-hard for general polygons.
+It is possible to use the linear algorithm to get a 2-approximation – i.e., a covering with at most 2⋅OPT squares, where OPT is the number of squares in a minimum covering:
+For each hole, find a square s connecting the hole to the external boundary.
+Cut s from the polygon, then glue back two overlapping copies of s (see figure). The resulting polygon is not planar, but it still 2-dimensional, and now it has no holes.
+Now use the original algorithm to find a minimum covering.
+The number of squares in the resulting covering is at most OPT+HOLES, where HOLES is the number of holes. It is possible to prove that OPT≥HOLES. Hence the number of squares in the covering is at most 2⋅OPT.
+
+
+== Covering a rectilinear polygon with rectangles ==
+For general rectilinear polygons, the problem of finding a minimum rectangle covering is NP-hard, even when the target polygon is hole-free. Several partial solutions have been suggested to this problem:
+1. In orthogonally convex polygons, the number of rectangles in a minimum covering is equal to the number of blocks in an anti rectangle, and this fact can be used to build a polynomial time algorithm for finding a minimum covering by rectangles.
+2. Even when the target polygon is only half-orthogonally convex (i.e. only in the y direction), a minimum covering by rectangles can be found in time O(n2), where n is the number of vertices of the polygon.
+3. An approximation algorithm which gives good empirical results on real-life data is presented by.
+4. For rectilinear polygons which may contain holes, there is an O(√ log n) factor approximation algorithm.
+
+
+== Covering a rectilinear polygon with orthogonally convex polygons ==
+For a rectilinear polygon which is half-orthogonally convex (i.e. only in the x direction), a minimum covering by orthogonally convex polygons can be found in time O(n^2), where n is the number of vertices of the polygon. The same is true for a covering by rectilinear star polygons.
+The number of orthogonally-convex components in a minimum covering can, in some cases, be found without finding the covering itself, in time O(n).
+
+
+== Covering a rectilinear polygon with star polygons ==
+A rectilinear star polygon is a polygon P containing a point p, such that for every point q in P, there is an orthogonally convex polygon containing p and q.
+The problem of covering a polygon with star polygons is a variant of the art gallery problem.
+The visibility graph for the problem of minimally covering hole-free rectilinear polygons with star polygons is a perfect graph. This perfectness property implies a polynomial algorithm for finding a minimum covering of any rectilinear polygon with rectilinear star polygons.
+
+
+== Covering a polygon without acute angles with squares or rectangles ==
+The most general class of polygons for which coverings by squares or rectangles can be found is the class of polygons without acute interior angles. This is because an acute angle cannot be covered by a finite number of rectangles. This problem is NP-hard, but several approximation algorithms exist.
+
+
+== Covering a polygon with rectangles of a finite family ==
+In some cases, a polygon has to be covered not with arbitrary rectangles but with rectangles from a finite family.
+
+
+== Covering a polygon with triangles ==
+Finding the smallest set of triangles covering a given polygon is NP-hard. It is also hard to approximate - every polynomial-time algorithm might find a covering with size (1+1/19151) times the minimal covering.
+If the polygon is in general position (i.e. no two edges are collinear), then every triangle can cover at most 3 polygon edges. Hence every Polygon triangulation is a 3-approximation.
+If the covering is restricted to triangles whose vertices are vertices of the polygon (i.e. Steiner points are not allowed), then the problem is NP-complete.
+If Steiner points are not allowed and the polygon is in general position (i.e. no two edges are collinear), then every minimal covering without Steiner points is also a minimal partitioning of the polygon to triangles (i.e., the triangles in the minimal covering to not overlap). Hence, the minimum covering problem is identical to the Polygon triangulation problem, which can be solved in time O(nlogn). Note that if we drop the general position assumption, there are polygons in which the triangles in the optimal covering overlap. Think of the Star of David for example.
+The problem of covering only the boundary of a polygon with triangles is NP-complete, but there is an efficient 2-approximation.
+
+
+== Covering a polygon with convex polygons ==
+Covering a polygon (which may contain holes) with convex polygons is NP-hard. There is an O(logn) approximation algorithm.
+Covering a polygon with convex polygons is NP-hard even when the target polygon is hole-free. It is also APX-hard. The problem is NP-complete when the covering must not introduce new vertices (i.e. Steiner points are not allowed).
+
+
+== Covering a polygon with star polygons ==
+
+Covering a polygon (which may contain holes) with star polygons is NP-hard.
+Covering a general (non-rectilinear) polygon with star polygons is NP-hard even when the target polygon is hole-free.
+
+
+== Other combinations ==
+Covering a polygon (which may contain holes) with spirals is NP-hard.
+Covering a polygon with Pseudotriangles has also been studied.
+Additional information can be found in.
+
+
+== See also ==
+Covering problems
+Art gallery problem
+Tessellation
+
+
+== References ==

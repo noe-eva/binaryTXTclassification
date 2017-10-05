@@ -1,0 +1,20 @@
+In scientific visualization, texture advection is a family of methods to densely visualize vector fields or flows (like the wind movement of a tornado). Scientists can use the created images and animations to better understand these flows and reason about them. In comparison to techniques that visualise streamlines, streaklines, or timelines, methods of this family don't need any seed points and can produce a whole image at every step.
+The methods have in common that they bend a whole image (or texture) according to the flow to create a new image that is warped by the flow. If that is done in small enough time steps and often enough, the images can be combined to create an animation visualising the flow.
+
+
+== Methods ==
+Line integral convolution
+Lagrangian–Eulerian advection
+Image-based flow visualization
+
+
+== See also ==
+ Computer science portal
+ Science portal
+
+
+== References ==
+
+Laramee, Robert S.; et al. (2006). "Texture Advection on Stream Surfaces: A Novel Hybrid Visualization Applied to CFD Simulation Results" (PDF). Eurographics/ IEEE-VGTC Symposium on Visualization. The Eurographics Association. Retrieved September 2, 2012. 
+Jobard, Bruno; (et al.) (2000). "Hardware-accelerated texture advection for unsteady flow visualization". VIS '00 Proceedings of the conference on Visualization '00. IEEE Computer Society Press. pp. 155–162. Retrieved September 2, 2012. CS1 maint: Multiple names: authors list (link)
+Bousseau, Adrien; (et al.) (2007). "Video watercolorization using bidirectional texture advection". SIGGRAPH '07 ACM SIGGRAPH 2007 papers, Article No. 104. ACM. Retrieved September 2, 2012. CS1 maint: Multiple names: authors list (link)

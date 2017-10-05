@@ -1,0 +1,27 @@
+In computing cooperative distributed problem solving is a network of semi-autonomous processing nodes working together to solve a problem, typically in a multi-agent system. That is concerned with the investigation of problem subdivision, sub-problem distribution, results synthesis, optimisation of problem solver coherence and co-ordination. It is closely related to distributed constraint programming and distributed constraint optimization; see the links below.
+
+
+== Aspects of CDPS ==
+Neither global control or global data storage – no individual CDPS problem solver (agent) has sufficient information to solve the entire problem.
+Control and data are distributed
+Communication is slower than computation, therefore:
+Loose coupling between problem solvers
+Efficient protocols (not too much communication overhead)
+problems should be modular, coarse grained
+
+Any unique node is a potential bottleneck
+Organised behaviour is hard to guarantee since no one node has the complete picture
+
+
+== See also ==
+Multiscale decision making
+Distributed constraint optimization
+Distributed artificial intelligence
+Multi-agent planning
+
+
+== Some relevant books ==
+Faltings, Boi (2006). "Distributed Constraint Programming". In Rossi, Francesca; van Beek, Peter; Walsh, Toby. Handbook of Constraint Programming. Elsevier. ISBN 978-0-444-52726-4.  A chapter in an edited book.
+Meisels, Amnon (2008). Distributed Search by Constrained Agents. Springer. ISBN 978-1-84800-040-7. 
+Shoham, Yoav; Leyton-Brown, Kevin (2009). Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations. New York: Cambridge University Press. ISBN 978-0-521-89943-7.  See Chapters 1 and 2; downloadable free online.
+Yokoo, Makoto (2001). Distributed constraint satisfaction: Foundations of cooperation in multi-agent systems. Springer. ISBN 978-3-540-67596-9.

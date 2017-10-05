@@ -1,0 +1,15 @@
+Aum Programming Language is a multi-paradigm programming language which has been an internal research project at IT Adapter since 2004. It is somewhat similar to modern C# in its feature set adding aspect-oriented-programming, message passing and pattern matching (a la Objective-C, Embarcadero Delphi and Erlang (programming language)).  
+The main idea is to build everything around Abstract Syntax Tree. There is no intermediate code a-la Java bytecode or CIL or Dalvik (software) code. Aum modules (compiled assemblies .dll/.class files analogue) are generically serialized abstract-syntax-trees. Aum supports aspect oriented programming with AST pattern matching so aspects may be injected in "compiled" code.
+Currently we have constructed lexer,parser and most of semantic analyzer. The first code gen is basically an AST-walking interpreter. We have plans to keep working on this project and start using LLVM for machine code JIT compilation. One of the compilation targets is native executable (no VM) just like with C/C++.
+Aum is a cross-platform development paradigm, based on a 100% written from scratch runtime library and will be released as Open Source Software targeting Linux, Windows, Android (operating system) and other platforms. 
+
+
+== See also ==
+Embarcadero Delphi
+C Sharp (programming language)
+Erlang (programming language)
+Java (programming language)
+Objective-C
+
+
+== References ==

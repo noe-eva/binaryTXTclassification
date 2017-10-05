@@ -1,0 +1,212 @@
+Players of the game of Go often use jargon to describe situations on the board and surrounding the game. Such technical terms are likely to be encountered in books and articles about Go in English as well as other languages. Many of these terms have been borrowed from Japanese, mostly when no short equivalent English term could be found. This page gives an overview of the most important terms.
+
+
+== Use of Japanese terms ==
+Although Go originated in China, the current English and Western technical vocabulary borrows a high proportion of terms from the Japanese language because it was through Japan that Go was introduced to Western culture.
+Many of these terms are from a jargon used for technical Go writing and to some extent specially developed for Go journalism. Some authors of English-language Go materials avoid use of Japanese technical terms, and the way they are applied can differ in subtle ways from the original meanings.
+A very small number of Korean-language terms have come into use (e.g. haengma as a way of describing the development of stones).
+
+
+== Terms ==
+
+
+=== Aji ===
+The closest English one could use is 'latent potential.' From the Japanese term aji (味), meaning taste, it refers to played stones' lingering ability to open various avenues of play. Though not all aji is pursued or taken advantage of, it bears on the course of the game. Good aji is when your groups are strong, and have little or no possibility of being compromised. Bad aji is when dead stones or weaknesses in one's own formation carry a latent threat of compromising an existing area should the situation become ripe. Aji is different from a simple defect or weakness in that it can be exploited and/or repaired in multiple ways at multiple stages of the game and the best way or time is not immediately clear; hence the "aftertaste" metaphor.
+
+
+=== Atari ===
+In Japanese, atari (当たり, あたり, or アタリ) is the nominalized form of ataru (当たる, あたる, or アタル) (verb), meaning "to hit the target" or "to receive something fortuitously". The word 'atari' is used in Japanese when a prediction comes true or when someone wins a lottery. In Chinese: dǎchī (打吃); Korean: dansu (단수). Atari is a term used in Go for a situation where a stone or chain of stones has only one liberty, and may be captured on the next move if not given one or more additional liberties. It can be a verb for the act of placing a chain under atari, as well as an adjective to describe the status of a unit, as being "in (the state of) atari". Calling out atari during a game is sometimes done by beginners much like calling out check in chess, but it is considered rude by many more advanced players.
+Above is a simple atari formation with only one stone (the white triangled stone) in danger of being captured. If black plays a, the white piece is immediately captured and removed from the board. White can escape toward the center by playing at a himself, creating a string with three liberties. Below, another white group is in atari, but playing at b along the side will do no good, since Black can then play c and capture the whole group on the next turn.
+
+
+=== Board positions ===
+As the distance of a stone from the edge of the board has important tactical and strategic implications, it is normal to term the corner points of the board (1, 1) points, and count lines in from the edge.
+Star point (星, hoshi): an intersection traditionally marked with a small dot on the board. These are either
+a) (4, 4) point in an empty corner, or
+a) (4, 10) or (10, 4) point on one of the sides
+
+b) Origin of heaven (天元, tengen): the center of the board, located at (10, 10).
+c) Five by five (五の五, go no go): a (5, 5) point in a corner.
+d) Three by three (三々, san san): a (3, 3) point in a corner.
+e) Small eye (小目, komoku): a (4, 3) or (3, 4) point in a corner.
+f) High eye (高目, takamoku): a (5, 4) or (4, 5) point in a corner.
+g) Large high eye (大高目, ōtakamoku): a (6, 4) or (4, 6) point in a corner.
+h) Outside the eye (目外し, mokuhazushi): a (5, 3) or (3, 5) point in a corner.
+i) Outside the large eye (大目外し, ōmokuhazushi): a (6, 3) or (3, 6) point in a corner.
+
+
+=== Dame ===
+Dame (Japanese: 駄目 [daˈme]) are unfilled neutral points that will not benefit either side. Typically, the term refers to vacant points that lie between two opposing forces, and will eventually be filled without altering the score. Basically, dame points are of no interest, though they must be filled before counting the score under area (Chinese style) scoring. The Japanese rules define a dame as a vacant point that is not surrounded by live stones of only one color, so the term can also refer to an empty point that is tactically useful as a liberty for a unit.
+
+
+=== Divine move ===
+
+A divine move is a truly inspired and original move; one that is non-obvious and which balances strategy and tactics to turn a losing game into a winning game. A divine move is singular—they are of such rarity that a full-time Go player might play a single such move in a lifetime. The term comes from the Japanese 神の一手 Kami no Itte, meaning "move of God" or "Godly move".
+The Divine Move is used in Go teaching as a motivation to look again at positions in games and consider not just the obvious moves but the less obvious and more innovative as well, in particular tesuji.
+An example of one such divine move might be seen in the ear-reddening move played by Hon'inbō Shūsaku in 1846.
+
+
+=== Eyes ===
+Eyes are internal liberties of a group of stones that, like external liberties, prevent the group's capture, but unlike external liberties are much harder for an opponent to fill due to the only way to kill a group with an eye is to fill all of its liberties before calling atari. The presence or absence of eyes in a group determine life or death of that group. A group with no eyes, or only one eye, will die unless its owner can develop them. Conversely, a group with two or more eyes will live. An opponent cannot capture such a group because it is impossible to remove all liberties of the group by playing one stone, without violating the suicide rule.
+Eyes are counted as occupied territory of the group that fully surrounds the eye. When a group shares (is adjacent to) one or more eyes with the opposing player's groups, those eyes do not count as territory for either player. sometimes those eyes are reduced to dame as other areas of the board change to give one or both groups additional eyes, allowing one or both players to fill the shared eyes. But sometimes those shared eyes do not resolve (see seki below).
+
+
+=== Gote, sente and tenuki ===
+A move that overwhelmingly compels a player into a particular follow-up move is said to have "sente" (先手), or "initiative"; the opponent has "gote" (後手). In most games, the player who maintains sente most of the time will win.
+Gote means "succeeding move" (lit: "after hand"), the opposite of sente, meaning "preceding move" (lit: "before hand"). Sente denotes which player has the initiative in the game, and which moves result in taking and holding the initiative. More precisely, as one player attacks in sente, the other defends in gote, it can be said that they respectively do and do not have the initiative. The situation of having sente is favorable, permitting control of the flow of the game.
+Applying these concepts to a whole sequence is basic to higher strategy. If Black starts a sequence that properly ends in an even number of plays, Black retains sente in doing this. If Black starts a sequence that properly ends after an odd number of plays, Black loses sente and takes gote. Accepting gote should only be in return for some profitable exchange. Correct play in the yose (endgame) can consist of playing available sente sequences, and then taking the largest gote sequence on the board, though that description is a simplification. A reverse sente play is a special type of gote play, preventing the opponent from making some sente move. The relative value of reverse sente plays depends on the overall position, but one can count it as twice the value of what it would be if purely gote.
+A player has sente if he does not currently need to respond to moves made by his opponent. This can be achieved by tenuki (ignoring the opponent), as a kind of gambit. A player can break out of gote, and gain sente by choosing to accept some future loss on the local level, in order to take the initiative to play elsewhere.
+In the case that neither player directly responds to the other's moves, the game can become difficult to analyze. Though each player has gote on entering the turn, the move itself is sente. Such games often end in large exchanges, or one player will be shown to have a weaker position and eventually have to answer to avoid heavy damage.
+
+
+=== Hane ===
+A hane is a move that goes around one or more of the opponent's stones.
+
+
+=== Hayago ===
+Hayago (早碁) means "quick go" or "fast go". In the context of Go, it means "quick play". Most hayago games last between five minutes plus ten seconds for every move and ten minutes plus thirty seconds for every move.
+
+
+=== Jigo ===
+A tied score, that is, the players have an equal number of points at the conclusion of the game. With a half integer komi this situation is impossible, but it could happen if the players followed the handicap rules with no komi.
+
+
+=== Joseki ===
+
+Jōseki (定石) are established sequences of play which (locally speaking) are considered to give an optimal result to both players. There are thousands of such lines that have been researched and documented.
+Often joseki are played out early in the game and involve dividing the corners. There are also "mid-game joseki", dealing with for example an invasion into a common enclosure or framework.
+Though joseki have some parallel with chess openings, they differ significantly. Chess openings structure the whole board while joseki deal only with a local position. Therefore, the choice of which joseki (of many possible) to play in any given situation should be based on an assessment of the global position. This includes considerations of the direction of play, current balance of territory and influence, and one's own game strategy.
+It is also quite possible to deviate from joseki and obtain a good result if the surrounding position allows. In other words, joseki are sensitive to the context in which they are played.
+
+
+=== Kakari ===
+An approach move to a corner position, such as at the 5-3 point when an opponent has previously played the 3-4 point. That would be a "low kakari". A "high kakari" would be at the 5-4 point.
+
+
+=== Keima ===
+
+A keima (ケイマ, Chinese 飞 which is fly) is a stone placement which makes an 'L' shape. Often referred to in English as a "knight's move", as it mimics the movement of the knight piece in chess.
+
+
+=== Kiai ===
+
+(pronounced "key-eye")
+In the context of Go, kiai (気合い) often translates as "fighting spirit", i.e. aggressiveness or initiative, but not unthinking greed. Kiai means keeping sente, that is not letting the opponent have his or her way. A sensei might say, "You play too passively — put some kiai in your moves!” A passive player may follow an opponent around the board responding to each move in turn. Kiai moves are the opposite of passive or submissive and a player showing kiai will dictate the flow of play. Kiai moves can catch an opponent off-balance and turn the game around. Examples of kiai moves include snatching sente away from the opponent; defending with a move that also counter-attacks; or answering a kikashi (forcing move) in an unexpected way. Kiai is also a term used in Japanese martial arts, usually as a name for a loud yell accompanying an attack. Obviously this is outwardly more restrained in the context of a board game, but it is intended to be in the same spirit.
+
+
+=== Kikashi ===
+Literally meaning 'an enlivenment', Kikashi (利かし) is a forcing move, usually one made outside the primary flow of play. Unlike sente, though, a move is kikashi when it yields a high efficiency in play by forcing the opponent to abandon a course of action. A kikashi stone will usually be sacrificed while conferring an advantage; for example, the kikashi stone could act as a ladder breaker or destroy the opponent's potential eyeshape, while the answering move has no value at all.
+Moves can be kikashi, or not, depending on whether they are answered with appropriate sophistication or not. If the answering move strengthens the position, then the play is not kikashi but aji keshi (ruining one's own potential).
+
+
+=== Ko ===
+
+Ko ( Chinese 打劫, Japanese コウ not quite the same*) can refer to the Ko rule or strategic use of the rule in a fight. The Ko rule states that a stone cannot be laid such that it makes the board look exactly the same as it did at the end of the player's last move. Commonly, this means that if a lone stone is captured, the next player cannot respond by laying a stone in the same location as the captured stone if so doing will merely cause opponent's last played stone to be captured. This would make the board look as it did two plays ago, and could be repeated indefinitely, which is why such play is forbidden.
+A player may take advantage of the Ko rule by playing a stone with the knowledge that the opponent will not be permitted to replace the captured stone in the immediate responding move. If the same play is still available in a subsequent turn, the play is not forbidden and the Ko advantage is reversed. This kind of back and forth is allowed because the game is still developing elsewhere on the board in the interim.
+
+
+=== Komi ===
+Komi (コミ) is a bonus in score given to white as compensation for going second. There is no agreement on what Komi ought to be, but is commonly in the range of 4.5 to 7.5 points. Komi almost always includes a half point for breaking ties.
+
+
+=== Korigatachi ===
+Korigatachi (凝り形) is often translated as 'over-concentrated', but more literally is 'frozen shape'. If a player uses his stones in an inefficient way, the result will be korigatachi. Knowing something about this problem should tell you how to avoid it. Placing stones too close together is a fundamental mistake, rather than safe play.
+
+
+=== Kosumi ===
+The Kosumi (コスミ) is a move placed at a point diagonally adjacent to another of one's own stones where the adjoining intersections are unoccupied.
+
+
+=== Liberty ===
+
+A Liberty (Chinese qì 气, Japanese dame 駄目 not quite the same) is a vacant point that is immediately adjacent to a stone in a cardinal (orthogonal) direction, or connected through a continuous string of same-colored stones to such a point. A stone, chain, or group must have at least one liberty to survive. A group that has two or more separate internal liberties (eyes) is impossible to capture.
+
+
+=== Miai ===
+Miai (見合い) in Go are, in the simplest terms, a pair of vacant points on the board that are equivalent in value. For example, if Black plays at A, White can play at B and suffer no disadvantage from the exchange.
+This occurs often. Miai can be seen in the fuseki stage on a large scale, or in a simple life and death problem, such as a straight four-space eye. This shape is alive because of its two central points a and b: if Black plays a, White can answer with b and vice versa.
+The term originates from the Japanese custom of arranging marriage through a series of meetings (miai) to view prospective spouses (見る miru, "view", 合う au, "meet").
+
+
+=== Monkey jump ===
+A monkey jump is a move, usually used in the end-game, which can reduce one's opponent's territory significantly. It can be played when the attacker has a strong stone on the second line and the defender has no nearby stones on the first or second line guarding his hoped-for territory. The attacker places a stone on the first line three spaces into the defender's territory from the strong stone. Due to the special properties of the edge of the board, the defender cannot usually cut off the stone.
+
+
+=== Moyo ===
+Moyo moyō (模様) is a framework for potential territory which usually consists of unconnected stones with some distance between them. The early game usually consists of competing for moyo by attempting to expand one's own and/or invade or reduce one's opponent's. This term is often translated as "framework", "potential" or "wall".
+
+
+=== Myoushu ===
+Myoushu myōshu (妙手) is an "inspired move", a move which turns a game around or otherwise exceeds expectations. An example of one such move might be seen in the ear-reddening move played by Honinbo Shusaku in 1846.
+
+
+=== Nakade ===
+Nakade 中手 is a Japanese Go term that literally means "inside move" or "move inside".
+
+
+=== Nerai ===
+Nerai (狙い) is a Japanese go term (noun, from the verb nerau) meaning threat, aim, target, follow-up.
+
+
+=== Ni-dan bane ===
+The Double Turn (二段バネ, Ni-dan bane), or two-step hane is a sequence of two moves in succession that turn around an adjacent opponent group. It can be an aggressive and appropriate way to play, although it exposes the stones to cutting.
+
+
+=== Pincer ===
+A move that surrounds an opponent's stone from both sides. The purpose of the attack is to remove the opponent's ability to form a base or occupy a territory on the side.
+
+
+=== Sabaki ===
+Sabaki (捌き) is the development of a flexible, efficient position that is difficult for the opponent to attack, often by means of contact plays and sacrifice.
+
+
+=== Seki ===
+Seki (関) is a Japanese term for an impasse that cannot be resolved into simple life and death. It is sometimes translated as "mutual life." For example, a capturing race may end in a position in which neither player can capture the other. There are numerous types of seki position that can arise, characterized as cases in which neither player adds a play to groups that do not have two eyes. The area remains untouched; at the end all groups involved are deemed alive, but no points are scored for territory.
+In the seki figure, if either White or Black play on the points marked a, the other will effect capture immediately and will be able (if playing properly) to form two eyes.
+
+
+=== Sente ===
+cf. Gote, sente and tenuki
+
+
+=== Shape ===
+
+Shape is the configuration of stones in their flexibility and efficiency at staying connected, forming eyes, and maintaining liberties. Stones are said to have good shape if they are efficient and flexible, or bad shape if they are inefficient. Classic examples of good shape are the ponnuki (four stones in a diamond created by capturing an enemy stone) and the bamboo joint (a 2x3 pattern of two stones, two spaces and two more stones). Examples of bad shape are the empty triangle (three adjacent stones forming an 'L') and the dango (large clump of stones not containing any eyes). Joseki is, in large part, the study of forming good shapes with the stones.
+
+
+=== Shoulder hit ===
+A stone placed directly next to an opponent's stone, diagonally so it isn't quite attached. Generally used to reduce their territory potential without being easily captured.
+
+
+=== Tesuji ===
+A Japanese term used in the games of Go or shogi. A tesuji (手筋) is a clever play, the best play in a local position, a skillful move. Tesuji is derived from suji (筋), which means "line of play".
+The opposite of tesuji is zokusuji, which can be translated as "crude line of play", and also referred to as anti-suji, or a vulgar move depending on the situation.
+Tesuji is one of the important aspects of the game in which a player exerts his or her ability to "read ahead". In the game of Go, they are used in life and death situations (tsumego), in order to obtain initiative (sente), to capture stones, to gain extra points in the yose, or to otherwise save a seemingly unfavorable situation.
+
+
+=== Thickness ===
+Thickness is a literal translation of the Japanese word atsumi (厚み) and connotes the position of power and impregnability conferred by the thickness of medieval castles' stone walls. A group is thick when it has developed beyond the level of stability in its local area without accruing significant weaknesses, and consequently projects power at a distance, especially over vacant or unsettled areas of the board. Such positions have a profound influence on the flow of the game. In the diagram, though white has about 10 points of territory in the corner, black can expect the power projected outward by her thick position to more than make up for this. Note that her result would not be as good if white had a settled position in the direction black's influence is facing.
+
+
+=== Yose ===
+Yose (ヨセ) is a term used in connection with Go endgame plays. From the Japanese, a yose would mean a tightening play, relating strictly to a play on the board that consolidates territory or destroys the opponent's territory. It is not, properly speaking, synonymous with the endgame phase as a whole but it is often used that way in both Japan and the West.
+A fundamental skill in the endgame is the ability to evaluate plays in different areas of the board and identify which plays have priority. This usually depends on counting: determining the number of points at stake. Knowledge of counting begins with some simple examples and heuristics. Combinatorial game theory has been implicated in gaining actual proofs rather than practical ways to win positions.
+Oyose, or large yose, is a term often used in English language literature. It can be used for a yose that is large enough to be hard to count with precision (say, 20 points or more). It may also be used to refer to the early endgame phase of the game, immediately after middlegame combat, in which the typical yose plays are substantial but were neglected due to pressure elsewhere.
+
+
+=== Yosu-miru ===
+A probe. A yosu-miru move is, in some sense, a sacrifice of a stone, but is designed to yield a very sophisticated kind of information about a developing group and how best to attack it, based on its response. Yosu-miru draws on other concepts such as kikashi, aji, and korigatachi.
+様子 (yōsu) means situation or the state of things, and 見る (miru) is "to see", thus "yōsu o miru", to "see how things stand". In Japanese this expression is usually used to say that it's better to wait and see before taking an action (e.g. "shibaraku yōsu o miru beki da", it's better to wait and see for a little while). It is not a single word or a set phrase except in Western Go literature, and "probe" is the preferred word, being self-explanatory and actually used by the speakers of its originating language.
+
+
+== See also ==
+Rules of Go
+
+
+== References ==
+
+
+== External links ==
+Sensei's Library — Strategy
+Sensei's Library — Essential Go Terms
+Go terminology - A list of Go terminology

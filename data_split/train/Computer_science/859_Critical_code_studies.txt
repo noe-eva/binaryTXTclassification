@@ -1,0 +1,36 @@
+Critical Code Studies (CCS) is an emerging academic subfield, related to software studies, digital humanities, cultural studies, computer science, human-computer interface, and the DIY do-it-yourself maker culture. Its primary focus is on the cultural significance of computer code, without excluding or focusing solely upon the code's functional purpose.
+As introduced by Mark C. Marino ("Critical Code Studies," Electronic Book Review ), critical code studies was initially a method by which scholars "can read and explicate code the way we might explicate a work of literature," but the concept also draws upon Espen Aarseth's conception of a cybertext as a "mechanical device for the production and consumption of verbal signs" (Cybertext, 21), arguing that in order to understand a digital artifact we must also understand the constraints and capabilities of the authoring tools used by the creator of the artifact, as well as the memory storage and interface required for the user to experience the digital artifact.
+Evidence that CCS has gained momentum since 2006 include an article by Matthew Kirschenbaum in the Chronicle of Higher Education, CCS sessions at the Modern Language Association in 2011 that were "packed" with attendees, several academic conferences devoted wholly to critical code studies, and a book devoted to the explication of a single line of computer code, titled 10 PRINT CHR$(205.5+RND(1)); : GOTO 10 (Montfort et al., MIT Press).
+
+
+== See also ==
+Software studies
+
+
+== References ==
+
+
+== Bibliography ==
+Black, M. J, (2002) The Art of Code. PhD dissertation, University of Pennsylvania.
+Berry, D. M. (2011) The Philosophy of Software: Code and Mediation in the Digital Age, Basingstoke: Palgrave Macmillan. [1]
+Berry, D. M. (2008) Copy, Rip, Burn: The Politics of Copyleft and Open Source, London: Pluto Press.
+Chopra, S. and Dexter, S. (2008) Decoding Liberation: The Promise of Free and Open Source Software. Oxford: Routledge.
+Chun, W. H. K. (2008) ‘On “Sourcery,” or Code as Fetish’, Configurations, 16:299–324.
+Chun, W. H. K. (2011) Programmed Visions: Software and Memory, MIT Press.
+Fuller, M. (2003) Behind the Blip: Essays on the Culture of Software. London: Autonomedia.
+Fuller, M. (2008) Software Studies\A Lexicon. London: MIT Press.
+Hayles, N. K. (2004) ‘Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis’, Poetics Today, 25(1): 67–90.
+Heim, M. (1987) Electric Language: A Philosophical Discussion of Word Processing. London: Yale University Press.
+Kirschenbaum, M. (2004) ‘Extreme Inscription: Towards a Grammatology of the Hard Drive’, TEXT Technology, No. 2, pp. 91–125.
+Kirschenbaum, M. (2008) Mechanisms: New Media and the Forensic Imagination, MIT Press.
+Kitchin, R. and Dodge, M. (2011) Code/Space: Software and Everyday Life, MIT Press.
+Kittler, F. (1997). Literature, Media, Information Systems, Johnston, J. (ed.). Amsterdam: OPA.
+Kittler, F. (1999) Gramophone, Film, Typewriter. Stanford: Stanford University Press.
+Mackenzie, A. (2003) The problem of computer code: Leviathan or common power, retrieved 13/03/2010 from http://www.lancs.ac.uk/staff/mackenza/papers/code-leviathan.pdf
+Mackenzie, A. (2006) Cutting Code: Software and Sociality, Oxford: Peter Lang.
+Manovich, L. (2001) The Language of New Media. London: MIT Press.
+Manovich, L. (2008) Software takes Command, retrieved 03/05/2010 from https://web.archive.org/web/20110127183751/http://lab.softwarestudies.com/2008/11/softbook.html
+Manovich, L. and Douglas, J. (2009) Visualizing Temporal Patterns In Visual Media: Computer Graphics as a Research Method, retrieved 10/10/09 from http://softwarestudies.com/cultural_analytics/visualizing_temporal_patterns.pdf
+Marino, M. C. (2006) Critical Code Studies, Electronic Book Review, accessed 16 Sept 2011, http://www.electronicbookreview.com/thread/electropoetics/codology
+Montfort, N. and Bogost, I. (2009) Racing the Beam: The Atari Video Computer System, London: MIT Press.
+Wardrip-Fruin, N. (2011) Expressive Processing. London: MIT Press.

@@ -1,0 +1,5 @@
+In scientific visualization, a local maximum intensity projection (LMIP) is a volume rendering method for 3D data, that is proposed as an improvement to the maximum intensity projection (MIP). Where the MIP projects the maximum intensity that falls in the way of parallel rays traced from the viewpoint, LMIP takes the first local maximum value, that is above a certain threshold.
+Local maximum intensity projection has been proposed as in visualization of data from computerized tomography and magnetic resonance imaging. It also can be used to extract a 3-dimensional vascular network from the data from a knife-edge scanning microscope at a significantly reduced computational demand (65% reduced).
+
+
+== Footnotes ==

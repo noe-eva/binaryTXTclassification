@@ -1,0 +1,16 @@
+In animal and plant breeding, truncation selection is a standard method in selective breeding in selecting animals to be bred for the next generation. Animals are ranked by their phenotypic value on some trait such as milk production, and the top percentage is reproduced. The effects of truncation selection for a continuous trait can be modeled by the standard breeder's equation by using heritability and Truncated normal distributions; on a binary trait, it can be modeled easily using the liability threshold model. It is considered an easy and efficient method of breeding.
+
+
+== Computer science ==
+In computer science, truncation selection is a selection method used in genetic algorithms to select potential candidate solutions for recombination modeled after the breeding method.
+In truncation selection the candidate solutions are ordered by fitness, and some proportion, p, (e.g. p = 1/2, 1/3, etc.), of the fittest individuals are selected and reproduced 1/p times. Truncation selection is less sophisticated than many other selection methods, and is not often used in practice. It is used in Muhlenbein's Breeder Genetic Algorithm.
+
+
+== References ==
+
+"Chapter 14: Short-term Changes in the Mean: 2. Truncation and Threshold Selection"
+Crow 2010, "On epistasis: why it is unimportant in polygenic directional selection"
+Visscher et al. 2008, "Heritability in the genomics era - concepts and misconceptions"
+Visscher 2016, "Human Complex Trait Genetics in the 21st Century"
+Weight & Harpending 2016, "Some Uses of Models of Quantitative Genetic Selection in Social Science"
+Frost & Harpending 2015, "Western Europe, state formation, and genetic pacification"

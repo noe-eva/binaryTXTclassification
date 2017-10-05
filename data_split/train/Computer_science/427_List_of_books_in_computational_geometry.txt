@@ -1,0 +1,124 @@
+This is a list of books in computational geometry. There are two major, largely nonoverlapping categories:
+Combinatorial computational geometry, which deals with collections of discrete objects or defined in discrete terms: points, lines, polygons, polytopes, etc., and algorithms of discrete/combinatorial character are used
+Numerical computational geometry, also known as geometric modeling and computer-aided geometric design (CAGD), which deals with modelling of shapes of real-life objects in terms of curves and surfaces with algebraic representation.
+
+
+== Combinatorial computational geometry ==
+
+
+=== General-purpose textbooks ===
+Franco P. Preparata and Michael Ian Shamos (1985). Computational Geometry - An Introduction. Springer-Verlag. 1st edition: ISBN 0-387-96131-3; 2nd printing, corrected and expanded, 1988: ISBN 3-540-96131-3; Russian translation, 1989: ISBN 5-03-001041-6. CS1 maint: Uses authors parameter (link)
+The book is the first comprehensive monograph on the level of a graduate textbook to systematically cover the fundamental aspects of the emerging discipline of computational geometry. It is written by founders of the field and the first edition covered all major developments in the preceding 10 years. In the aspect of comprehensiveness it was preceded only by the 1984 survey paper, Lee, D, T., Preparata, F. P. : "Computational geometry - a survey". IEEE Trans. on Computers. Vol. 33, No. 12, pp. 1072–1101 (1984). It is focused on two-dimensional problems, but also has digressions into higher dimensions.
+The initial core of the book was M.I.Shamos' doctoral dissertation, which was suggested to turn into a book by a yet another pioneer in the field, Ronald Graham.
+The introduction covers the history of the field, basic data structures, and necessary notions from the theory of computation and geometry.
+The subsequent sections cover geometric searching (point location, range searching), convex hull computation, proximity-related problems (closest points, computation and applications of the Voronoi diagram, Euclidean minimum spanning tree, triangulations, etc.), geometric intersection problems, algorithms for sets of isothetic rectangles
+
+Herbert Edelsbrunner (1987). Algorithms in Combinatorial Geometry. Springer-Verlag. ISBN 0-89791-517-8. 
+The monograph is a rather advanced exposition of problems and approaches in computational geometry focused on the role of hyperplane arrangements, which are shown to constitute a basic underlying combinatorial-geometric structure in certain areas of the field. The primary target audience are active theoretical researchers in the field, rather than application developers. Unlike most of books in computational geometry focused on 2- and 3-dimensional problems (where most applications of computational geometry are), the book aims to treat its subject in the general multi-dimensional setting.
+
+Mark de Berg, Otfried Cheong, Marc van Kreveld, and Mark Overmars (2008). Computational Geometry (3rd revised ed.). Springer-Verlag. ISBN 3-540-77973-6. 1st edition (1997): ISBN 3-540-61270-X. CS1 maint: Uses authors parameter (link)
+The textbook provides an introduction to computation geometry from the point of view of practical applications. Starting with an introduction chapter, each of the 15 remaining ones formulates a real application problem, formulates an underlying geometrical problem, and discusses techniques of computational geometry useful for its solution, with algorithms provided in pseudocode. The book treats mostly 2- and 3-dimensional geometry. The goal of the book is to provide a comprehensive introduction into methods and approached, rather than the cutting edge of the research in the field: the presented algorithms provide transparent and reasonably efficient solutions based on fundamental "building blocks" of computational geometry.
+The book consists of the following chapters (which provide both solutions for the topic of the title and its applications): "Computational Geometry (Introduction)" "Line Segment Intersection", "Polygon Triangulation", "Linear Programming", "Orthogonal Range Searching", "Point Location", "Voronoi Diagrams", "Arrangements and Duality", "Delaunay Triangulations", "More Geometric Data Structures", "Convex Hulls", "Binary Space Partitions", "Robot Motion Planning", "Quadtrees", "Visibility Graphs", "Simplex Range Searching".
+
+Jean-Daniel Boissonnat, Mariette Yvinec (1998). Algorithmic Geometry. Cambridge University Press. ISBN 0-521-56529-4. Translation of a 1995 French edition. CS1 maint: Uses authors parameter (link)
+Joseph O'Rourke (1998). Computational Geometry in C (2nd ed.). Cambridge University Press. ISBN 0-521-64976-5. 
+Satyan Devadoss, Joseph O'Rourke (2011). Discrete and Computational Geometry. Princeton University Press. ISBN 978-0-691-14553-2. CS1 maint: Uses authors parameter (link)
+Jim Arlow (2014). Interactive Computational Geometry - A taxonomic approach. Mountain Way Limited. 1st edition: ISBN 978-0-9572928-2-6. 
+This book is an interactive introduction to the fundamental algorithms of computational geometry, formatted as an interactive document viewable using software based on Mathematica.
+
+
+=== Specialized textbooks and monographs ===
+Efi Fogel, Dan Halperin, and Ron Wein (2012). CGAL Arrangements and Their Applications, A Step-by-Step Guide. Springer-Verlag. ISBN 978-3-642-17283-0. CS1 maint: Uses authors parameter (link)
+Fajie Li and Reinhard Klette (2011). Euclidean Shortest Paths. Springer-Verlag. ISBN 978-1-4471-2255-5. CS1 maint: Uses authors parameter (link)
+Philip J. Schneider and David H. Eberly (2002). Geometric Tools for Computer Graphics. Morgan Kaufmann. CS1 maint: Uses authors parameter (link)
+Kurt Mehlhorn (1984). Data Structures and Efficient Algorithms 3: Multi-dimensional Searching and Computational Geometry. Springer-Verlag. 
+Ketan Mulmuley (1994). Computational Geometry: An Introduction Through Randomized Algorithms. Prentice-Hall. ISBN 0-13-336363-5. 
+János Pach and Pankaj K. Agarwal (1995). Combinatorial Geometry. John Wiley and Sons. ISBN 0-471-58890-3. CS1 maint: Uses authors parameter (link)
+Micha Sharir and Pankaj K. Agarwal (1995). Davenport–Schinzel Sequences and Their Geometric Applications. Cambridge University Press. ISBN 0-521-47025-0. CS1 maint: Uses authors parameter (link)
+Kurt Mehlhorn and Stefan Naeher (1999). LEDA, A Platform for Combinatorial and Geometric Computing. Cambridge University Press. ISBN 0-521-56329-1. CS1 maint: Uses authors parameter (link)
+Selim G. Akl and Kelly A. Lyons (1993). Parallel Computational Geometry. Prentice-Hall. ISBN 0-13-652017-0. CS1 maint: Uses authors parameter (link)
+The books discusses parallel algorithms for basic problems in computational geometry in various models of parallel computation.
+
+Joseph O'Rourke (1987). Art Gallery Theorems and Algorithms. Oxford University Press. 
+Hanan Samet (1990). The Design and Analysis of Spatial Data Structures. Addison-Wesley. 
+Clara I. Grima & Alberto Márquez (1990). Computational Geometry on Surfaces: Performing Computational Geometry on the Cylinder, the Sphere, the Torus, and the Cone. Kluwer Academic Publishers. ISBN 1-4020-0202-5. 
+The book shows how classical problems of computational geometry and algorithms for their solutions may be adapted or redesigned to work on surfaces other than plane. After defining notations and ways of positioning on these surfaces, the book considers the problems of the construction of convex hulls, Voronoi diagrams, and triangulations, proximity problems, and visibility problems.
+
+Ghosh, Subir Kumar (2007). Visibility Algorithms in the Plane. Cambridge University Press. ISBN 0-521-87574-9. 
+Contents: Preface; 1. Background; 2. Point visibility; 3. Weak visibility and shortest paths; 4. L-R visibility and shortest paths; 5. Visibility graphs; 6. Visibility graph theory; 7. Visibility and link paths; 8. Visibility and path queries
+
+Giri Narasimhan; Michiel Smid (2007). Geometric Spanner Networks. Cambridge University Press. ISBN 0-521-81513-4. 
+Contents:
+Part I. Introduction: 1. Introduction; 2. Algorithms and graphs; 3. The algebraic computation-tree model;
+Part II. Spanners Based on Simplical Cones: 4. Spanners based on the Q-graph; 5. Cones in higher dimensional space and Q-graphs; 6. Geometric analysis: the gap property; 7. The gap-greedy algorithm; 8. Enumerating distances using spanners of bounded degree;
+Part III. The Well Separated Pair Decomposition and its Applications: 9. The well-separated pair decomposition; 10. Applications of well-separated pairs; 11. The Dumbbell theorem; 12. Shortcutting trees and spanners with low spanner diameter; 13. Approximating the stretch factor of Euclidean graphs;
+Part IV. The Path Greedy Algorithm: 14. Geometric analysis: the leapfrog property; 15. The path-greedy algorithm; Part V. Further Results and Applications: 16. The distance range hierarchy; 17. Approximating shortest paths in spanners; 18. Fault-tolerant spanners; 19. Designing approximation algorithms with spanners; 20. Further results and open problems.
+
+Erik D. Demaine; Joseph O'Rourke (2007). Geometric Folding Algorithms: Linkages, Origami, Polyhedra. Cambridge University Press. ISBN 978-0-521-85757-4. 
+
+
+=== References ===
+Jacob E. Goodman; Joseph O'Rourke, eds. (2004) [1997]. Handbook of Discrete and Computational Geometry. North-Holland. 1st edition: ISBN 0-8493-8524-5, 2nd edition: ISBN 1-58488-301-4. 
+In its organization, the book resembles the classical handbook in algorithms, Introduction to Algorithms, in its comprehensiveness, only restricted to discrete and computational geometry, computational topology, as well as a broad range of their applications. The second edition expands the book by half, with 14 chapters added and old chapters brought up to date. Its 65 chapters (in over 1,500 pages) are written by a large team of active researchers in the field.
+
+Jörg-Rudiger Sack; Jorge Urrutia (1998). Handbook of Computational Geometry. North-Holland. 1st edition: ISBN 0-444-82537-1, 2nd edition (2000): 1-584-88301-4. 
+The handbook contains survey chapters in classical and new studies in geometric algorithms: hyperplane arrangements, Voronoi diagrams, geometric and spatial data structures, polygon decomposition, randomized algorithms, derandomization, parallel computational geometry (deterministic and randomized), visibility, Art Gallery and Illumination Problems, closest point problems, link distance problems, similarity of geometric objects, Davenport–Schinzel sequences, spanning trees and spanners for geometric graphs, robustness and numerical issues for geometric algorithms, animation, and graph drawing.
+In addition, the book surveys applications of geometric algorithms in such areas as geographic information systems, geometric shortest path and network optimization and mesh generation.
+
+Ding-Zhu Du; Frank Hwang (1995). Computing in Euclidean Geometry. Lectures Notes Series on Computing. 4 (2nd ed.). World Scientific. ISBN 981-02-1876-1. 
+"This book is a collection of surveys and exploratory articles about recent developments in the field of computational Euclidean geometry." Its 11 chapters cover quantitative geometry, a history of computational geometry, mesh generation, automated generation of geometric proofs, randomized geometric algorithms, Steiner tree problems, Voronoi diagrams and Delaunay triangulations, constraint solving, spline surfaces, network design, and numerical primitives for geometric computing.
+
+
+== Numerical computational geometry (geometric modelling, computer-aided geometric design) ==
+
+
+=== Monographs ===
+I. D. Faux; Michael J. Pratt (1980). Computational Geometry for Design and Manufacture (Mathematics & Its Applications). Prentice Hall. ISBN 0-470-27069-1. 
+Alan Davies; Philip Samuels (1996). An Introduction to Computational Geometry for Curves and Surfaces. Oxford University Press. ISBN 0-19-853695-X. 
+Jean-Daniel Boissonnat; Monique Teillaud (2006). Effective Computational Geometry for Curves and Surfaces (Mathematics and Visualization Series ed.). Springer Verlag. ISBN 3-540-33258-8. 
+Gerald Farin (1988). Curves and Surfaces for Computer Aided Geometric Design. Academic Press. ISBN 0-12-249050-9. 
+Richard H. Bartels, John C Beatty, and Brian A. Barsky (1987). Splines for Use in Computer Graphics and Geometric Modeling. Morgan Kaufmann. ISBN 0-934613-27-3. CS1 maint: Uses authors parameter (link)
+Christoph M. Hoffmann (1989). Geometric and Solid Modeling: An Introduction. Morgan Kaufmann. ISBN 1-55860-067-1.  The book is out of print. Its main chapters are:
+Basic Concepts
+Boolean Operations on Boundary Representation
+Robust and Error-Free Geometric Operations
+Representation of Curved Edges and Faces
+Surface Intersections
+Gröbner Bases Techniques
+
+
+== Other ==
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. Introduction to Algorithms, Second Edition. MIT Press and McGraw-Hill, 1990. ISBN 0-262-03293-7. — This book has a chapter on geometric algorithms.
+Frank Nielsen. Visual Computing: Graphics, Vision, and Geometry, Charles River Media, 2005. ISBN 1-58450-427-7 — This book combines graphics, vision and geometric computing and targets advanced undergraduates and professionals in game development and graphics. Includes some concise C++ code for common tasks.
+Jeffrey Ullman, Computational Aspects of VLSI, Computer Science Press, 1984, ISBN 0-914894-95-1 — Chapter 9: "Algorithms for VLSI Design Tools" describes algorithms for polygon operations involved in electronic design automation (design rule checking, circuit extraction, placement and routing).
+D.T. Lee, Franco P. Preparata, "Computational Geometry - A Survey", IEEE Trans. Computers, vol 33 no. 12, 1984, 1072-1101. (Errata: IEEE Tr. C. vol.34, no.6, 1985) Although not a book, this 30-page paper is of historical interest, because it was the first comprehensive coverage, the 1984 snapshot of the emerging discipline, with 354-item bibliography.
+George T. Heineman; Gary Pollice & Stanley Selkow (2008). "Chapter 9:Computational Geometry". Algorithms in a Nutshell. Oreilly Media. pp. 251–298. ISBN 978-0-596-51624-6.  — This book has associated code repository with full Java implementations
+
+
+== Conferences ==
+Annual Symposium on Computational Geometry (SoCG)
+Canadian Conference on Computational Geometry (CCCG)
+Japanese Conference on Discrete and Computational Geometry (JCDCG)
+The conferences below, of broad scope, published many seminal papers in the domain.
+ACM-SIAM Symposium on Discrete Algorithms (SODA)
+Annual ACM Symposium on Theory of Computing (STOC)
+Annual IEEE Symposium on Foundations of Computer Science (FOCS)
+Annual Allerton Conference on Communications, Control and Computing (ACCC)
+
+
+== Paper collections ==
+"Combinatorial and Computational Geometry", eds. Jacob E. Goodman, János Pach, Emo Welzl (MSRI Publications – Volume 52), 2005, ISBN 0-521-84862-8.
+32 papers, including surveys and research articles on geometric arrangements, polytopes, packing, covering, discrete convexity, geometric algorithms and their computational complexity, and the combinatorial complexity of geometric objects.
+
+"Surveys on Discrete and Computational Geometry: Twenty Years Later" ("Contemporary Mathematics" series), American Mathematical Society, 2008, ISBN 0-8218-4239-0
+
+
+== See also ==
+List of important publications in mathematics
+
+
+== References ==
+
+
+== External links ==
+Computational Geometry Pages

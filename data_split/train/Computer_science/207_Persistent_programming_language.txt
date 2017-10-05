@@ -1,0 +1,19 @@
+Programming languages that natively and seamlessly allow objects to continue existing after the program has been closed down are called persistent programming languages. JADE is one such language.
+A persistent programming language is a programming language extended with constructs to handle persistent data. It is distinguished from embedded SQL in at least two ways:
+In a persistent programming language:
+The query language is fully integrated with the host language and both share the same type system.
+Any format changes required between the host language and the database are carried out transparently.
+In Embedded SQL:
+Where the host language and data manipulation language have different type systems, code conversion operates outside of the OO type system, and hence has a higher chance of having undetected errors.
+Format conversion must be handled explicitly and takes a substantial amount of code.
+Using Embedded SQL, a programmer is responsible for writing explicit code to fetch data into memory or store data back to the database. In a persistent programming language, a programmer can manipulate persistent data without having to write such code explicitly.
+The drawbacks of persistent programming languages include:
+While they are powerful, it is easy to make programming errors that damage the database.
+It is harder to do automatic high-level optimization.
+They do not support declarative querying well.
+
+
+== See also ==
+Object-relational mapping
+Object-oriented database management systems
+Object prevalence

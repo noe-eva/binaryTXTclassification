@@ -1,0 +1,15 @@
+In Computer Science, a TBox is a "terminological component"—a conceptualization associated with a set of facts, known as an ABox.
+The terms ABox and TBox are used to describe two different types of statements in ontologies. TBox statements describe a conceptualization, a set of concepts and properties for these concepts. ABox are TBox-compliant statements about individuals belonging to those concepts. For instance, a specific tree is an individual for the concept of "Tree", while it can be stated that trees as a concept are material beings that have to be positioned on some location it is possible to state the specific location that a tree takes at some specific time.
+Together ABox and TBox statements make up a knowledge base. A TBox is a set of definitions and specializations.
+A definition is an equality with an atomic concept on the left hand, for example: a bachelor is a student who is undergraduate.
+A specialization is an inclusion with an atomic concept on the left hand, for example: the set of students is a subset of the people who are studying.
+
+
+== See also ==
+ABox
+Description Logic Modeling
+metadata
+Web Ontology Language
+
+
+== References ==

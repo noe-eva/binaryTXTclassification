@@ -1,0 +1,33 @@
+In endurance sports such as cycling and running, hitting the wall or the bonk is a condition of sudden fatigue and loss of energy which is caused by the depletion of glycogen stores in the liver and muscles. Milder instances can be remedied by brief rest and the ingestion of food or drinks containing carbohydrates. The condition can usually be avoided by ensuring that glycogen levels are high when the exercise begins, maintaining glucose levels during exercise by eating or drinking carbohydrate-rich substances, or by reducing exercise intensity.
+
+
+== Etymology, usage, and synonyms ==
+The term bonk for fatigue is presumably derived from the original meaning "to hit", and dates back at least half a century. Its earliest citation in the Oxford English Dictionary is a 1952 article in the Daily Mail.
+The term is used colloquially both as a noun ("hitting the bonk") and a verb ("to bonk halfway through the race"). The condition is also known to long-distance (marathon) runners, who usually refer to it as "hitting the wall". The British may refer to it as "hunger knock," while "hunger bonk" was used by South African cyclists in the 1960s.
+It can also be referred to as "blowing up".
+
+
+== Mechanisms ==
+Athletes engaged in exercise over a long period of time produce energy via two mechanisms, both facilitated by oxygen:
+via fat metabolism and
+via breakdown of glycogen into glucose, followed by glycolysis.
+How much energy comes from either source depends on the intensity of the exercise. During intense exercise that approaches one's VO2 max, most of the energy comes from glycogen.
+A typical untrained individual on an average diet is able to store about 380 grams of glycogen, or 1500 kcal, in the body, though much of that amount is spread throughout the muscular system and may not be available for any specific type of exercise. Intense cycling or running can easily consume 600–800 or more kcal per hour. Unless glycogen stores are replenished during exercise, glycogen stores in such an individual will be depleted after less than 2 hours of continuous cycling or 15 miles (24 km) of running. Training and carbohydrate loading can raise these reserves as high as 880 g (3600 kcal), correspondingly raising the potential for uninterrupted exercise.
+
+
+== Effects ==
+In one study, "reduction in preexercise muscle glycogen from 59.1 to 17.1 mumol X g-1 (n = 3) was associated with a 14% reduction in maximum power output but no change in maximum O2 intake; at any given power output O2 intake, heart rate, and ventilation (VE) were significantly higher, CO2 output (VCO2) was similar, and the respiratory exchange ratio was lower during glycogen depletion compared with control."
+
+
+== Avoidance ==
+There are several approaches to prevent glycogen depletion:
+Carbohydrate loading is used to ensure that the initial glycogen levels are maximized, thus prolonging the exercise. This technique amounts to increasing complex carbohydrate intake during the last few days before the event.
+Consuming food or drinks containing carbohydrates during the exercise. This is an absolute must for very long distances; it is estimated that Tour de France competitors receive up to 50% of their daily caloric intake from on-the-bike supplements.
+Lowering the intensity of the exercise to the so-called 'fat max' level (aerobic threshold or "AeT") will lower the fraction of the energy that comes from glycogen as well as the amount of energy burned per unit of time.
+
+
+== See also ==
+Sports drinks
+
+
+== References ==

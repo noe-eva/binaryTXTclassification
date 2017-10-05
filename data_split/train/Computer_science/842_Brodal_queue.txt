@@ -1,0 +1,38 @@
+In computer science, the Brodal queue is a heap/priority queue structure with very low worst case time bounds: 
+  
+    
+      
+        O
+        (
+        1
+        )
+      
+    
+    {\displaystyle O(1)}
+   for insertion, find-minimum, meld (merge two queues) and decrease-key and 
+  
+    
+      
+        O
+        (
+        
+          l
+          o
+          g
+        
+        (
+        n
+        )
+        )
+      
+    
+    {\displaystyle O(\mathrm {log} (n))}
+   for delete-minimum and general deletion. They are the first heap variant to achieve these bounds without resorting to amortization of operational costs. Brodal queues are named after their inventor Gerth Stølting Brodal.
+While having better asymptotic bounds than other priority queue structures, they are, in the words of Brodal himself, "quite complicated" and "[not] applicable in practice." Brodal and Okasaki describe a persistent (purely functional) version of Brodal queues.
+
+
+== Summary of running times ==
+In the following time complexities O(f) is an asymptotic upper bound and Θ(f) is an asymptotically tight bound (see Big O notation). Function names assume a min-heap.
+
+
+== References ==

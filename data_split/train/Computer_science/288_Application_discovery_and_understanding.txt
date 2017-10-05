@@ -1,0 +1,35 @@
+Application discovery and understanding (ADU) is the process of automatically analyzing artifacts of a software application and determining metadata structures associated with the application in the form of lists of data elements and business rules. The relationships discovered between this application and a central metadata registry is then stored in the metadata registry itself.
+
+
+== Business benefits of ADU ==
+ADU saves a great deal of time and expense for organizations that are involved in the change control and impact analysis of complex computer systems.
+Impact analysis allows managers to know that if specific structures are changed or removed altogether, what the impact of those changes might be to enterprise-wide systems.
+The process of gaining application understanding is greatly accelerated when the extracted metadata is displayed using interactive diagrams. When a developer can browse the metadata, and drill down into relevant details on demand, then application understanding is achieved in a way that is natural to the developer. Significant reductions in the effort and time required to perform full impact analysis have been reported when ADU tools are implemented. ADU tools are especially beneficial to newly hired developers. A newly hired developer will be productive much sooner and will require less assistance from the existing staff when ADU tools are in place.
+
+
+== ADU process ==
+ADU software is usually written to scan the following application structures:
+Data structures of all kinds
+Application source code
+User interfaces (searching for labels of forms)
+Reports
+The output of the ADU process frequently includes:
+Lists of previously registered data elements discovered within an application
+List of unregistered data elements discovered
+Note that a registered data element is any data element that already exists within a metadata registry.
+
+
+== See also ==
+metadata
+metadata registry
+data element
+
+
+== Software ==
+ASG Becubic
+IBM Infosphere
+X-Analysis by Fresche
+
+
+== Related ==
+Configuration Management

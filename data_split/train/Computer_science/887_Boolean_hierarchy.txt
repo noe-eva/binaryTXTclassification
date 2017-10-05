@@ -1,0 +1,267 @@
+The boolean hierarchy is the hierarchy of boolean combinations (intersection, union and complementation) of NP sets. Equivalently, the boolean hierarchy can be described as the class of boolean circuits over NP predicates. A collapse of the boolean hierarchy would imply a collapse of the polynomial hierarchy.
+
+
+== Formal definition ==
+BH is defined as follows:
+BH1 is NP.
+BH2k is the class of languages which are the intersection of a language in BH2k-1 and a language in coNP.
+BH2k+1 is the class of languages which are the union of a language in BH2k and a language in NP.
+BH is the union of the BHi
+
+
+== Derived classes ==
+DP (Difference Polynomial Time) is BH2.
+
+
+== Equivalent definitions ==
+Defining the conjunction and the disjunction of classes as follows allows for more compact definitions. The conjunction of two classes contains the languages that are the intersection of a language of the first class and a language of the second class. Disjunction is defined in a similar way with the union in place of the intersection.
+C ∧ D = { A ∩ B | A ∈ C   B ∈ D }
+C ∨ D = { A ∪ B | A ∈ C   B ∈ D }
+According to this definition, DP = NP ∧ coNP. The other classes of the Boolean hierarchy can be defined as follows.
+
+  
+    
+      
+        
+          
+            
+              B
+              H
+            
+          
+          
+            2
+            k
+          
+        
+        =
+        
+          
+            c
+            o
+            N
+            P
+          
+        
+        ∧
+        
+          
+            
+              B
+              H
+            
+          
+          
+            2
+            k
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle {\mathsf {BH}}_{2k}={\mathsf {coNP}}\wedge {\mathsf {BH}}_{2k-1}}
+  
+
+  
+    
+      
+        
+          
+            
+              B
+              H
+            
+          
+          
+            2
+            k
+            +
+            1
+          
+        
+        =
+        
+          
+            N
+            P
+          
+        
+        ∨
+        
+          
+            
+              B
+              H
+            
+          
+          
+            2
+            k
+          
+        
+      
+    
+    {\displaystyle {\mathsf {BH}}_{2k+1}={\mathsf {NP}}\vee {\mathsf {BH}}_{2k}}
+  
+The following equalities can be used as alternative definitions of the classes of the Boolean hierarchy:
+
+  
+    
+      
+        
+          
+            
+              B
+              H
+            
+          
+          
+            2
+            k
+          
+        
+        =
+        
+          ⋁
+          
+            i
+            =
+            1
+          
+          
+            k
+          
+        
+        
+          
+            D
+            P
+          
+        
+      
+    
+    {\displaystyle {\mathsf {BH}}_{2k}=\bigvee _{i=1}^{k}{\mathsf {DP}}}
+  
+
+  
+    
+      
+        
+          
+            
+              B
+              H
+            
+          
+          
+            2
+            k
+            +
+            1
+          
+        
+        =
+        
+          
+            N
+            P
+          
+        
+        ∨
+        
+          ⋁
+          
+            i
+            =
+            1
+          
+          
+            k
+          
+        
+        
+          
+            D
+            P
+          
+        
+      
+    
+    {\displaystyle {\mathsf {BH}}_{2k+1}={\mathsf {NP}}\vee \bigvee _{i=1}^{k}{\mathsf {DP}}}
+  
+Alternatively, for every k ≥ 3:
+
+  
+    
+      
+        
+          
+            
+              B
+              H
+            
+          
+          
+            k
+          
+        
+        =
+        
+          
+            D
+            P
+          
+        
+        ∨
+        
+          
+            
+              B
+              H
+            
+          
+          
+            k
+            −
+            2
+          
+        
+      
+    
+    {\displaystyle {\mathsf {BH}}_{k}={\mathsf {DP}}\vee {\mathsf {BH}}_{k-2}}
+  
+
+
+== Hardness ==
+Hardness for classes of the Boolean hierarchy can be proved by showing a reduction from a number of instances of an arbitrary NP-complete problem A. In particular, given a sequence {x1, ... xm} of instances of A such that xi ∈ A implies xi-1 ∈ A, a reduction is required that produces an instance y such that y ∈ B if and only if the number of xi ∈ A is odd or even:
+BH2k-hardness is proved if 
+  
+    
+      
+        m
+        =
+        2
+        k
+      
+    
+    {\displaystyle m=2k}
+   and the number of xi ∈ A is odd
+BH2k+1-hardness is proved if 
+  
+    
+      
+        m
+        =
+        2
+        k
+        +
+        1
+      
+    
+    {\displaystyle m=2k+1}
+   and the number of xi ∈ A is even
+Such reductions work for every fixed k. If such reductions exist for arbitrary k, the problem is hard for PNP[O(log n)].
+
+
+== References ==

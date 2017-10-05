@@ -1,0 +1,1152 @@
+In computational complexity theory, the 3SUM problem asks if a given set of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   real numbers contains three elements that sum to zero. A generalized version, k-SUM, asks the same question on k numbers. 3SUM can be easily solved in 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{2})}
+   time, and matching 
+  
+    
+      
+        Ω
+        (
+        
+          n
+          
+            ⌈
+            k
+            
+              /
+            
+            2
+            ⌉
+          
+        
+        )
+      
+    
+    {\displaystyle \Omega (n^{\lceil k/2\rceil })}
+   lower bounds are known in some specialized models of computation (Erickson 1999).
+It was widely conjectured that any deterministic algorithm for the 3SUM requires 
+  
+    
+      
+        Ω
+        (
+        
+          n
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle \Omega (n^{2})}
+   time. In 2014, the original 3SUM conjecture was refuted by Allan Grønlund and Seth Pettie who gave a deterministic algorithm that solves 3SUM in 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            2
+          
+        
+        
+          /
+        
+        (
+        
+          log
+          ⁡
+          n
+        
+        
+          /
+        
+        
+          log
+          ⁡
+          log
+          ⁡
+          n
+        
+        
+          )
+          
+            2
+            
+              /
+            
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{2}/({\log n}/{\log \log n})^{2/3})}
+   time . Additionally, Grønlund and Pettie showed that the 4-linear decision tree complexity of 3SUM is 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            3
+            
+              /
+            
+            2
+          
+        
+        
+          
+            log
+            ⁡
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{3/2}{\sqrt {\log n}})}
+  . These bounds were subsequently improved; the current best known algorithm for 3SUM runs in 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            2
+          
+        
+        
+          /
+        
+        (
+        
+          log
+          ⁡
+          n
+        
+        
+          /
+        
+        
+          log
+          ⁡
+          log
+          ⁡
+          n
+        
+        )
+        )
+      
+    
+    {\displaystyle O(n^{2}/({\log n}/{\log \log n}))}
+   time , and the randomized 4-linear decision tree complexity of 3SUM is 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            3
+            
+              /
+            
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{3/2})}
+   . It is still conjectured that 3SUM is unsolvable in 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            2
+            −
+            Ω
+            (
+            1
+            )
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{2-\Omega (1)})}
+   expected time.
+When the elements are integers in the range 
+  
+    
+      
+        [
+        −
+        N
+        ,
+        …
+        ,
+        N
+        ]
+      
+    
+    {\displaystyle [-N,\dots ,N]}
+  , 3SUM can be solved in 
+  
+    
+      
+        O
+        (
+        n
+        +
+        N
+        log
+        ⁡
+        N
+        )
+      
+    
+    {\displaystyle O(n+N\log N)}
+   time by representing the input set 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   as a bit vector, computing the set 
+  
+    
+      
+        S
+        +
+        S
+      
+    
+    {\displaystyle S+S}
+   of all pairwise sums as a discrete convolution using the Fast Fourier transform, and finally comparing this set to 
+  
+    
+      
+        −
+        S
+      
+    
+    {\displaystyle -S}
+  .
+
+
+== Quadratic algorithm ==
+Suppose the input array is 
+  
+    
+      
+        S
+        [
+        0..
+        n
+        −
+        1
+        ]
+      
+    
+    {\displaystyle S[0..n-1]}
+  . In integer (word RAM) models of computing, 3SUM can be solved in 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{2})}
+   time on average by inserting each number 
+  
+    
+      
+        S
+        [
+        i
+        ]
+      
+    
+    {\displaystyle S[i]}
+   into a hash table, and then for each index 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   and 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  , checking whether the hash table contains the integer 
+  
+    
+      
+        −
+        (
+        S
+        [
+        i
+        ]
+        +
+        S
+        [
+        j
+        ]
+        )
+      
+    
+    {\displaystyle -(S[i]+S[j])}
+  .
+It is also possible to solve the problem in the same time in a comparison-based model of computing or real RAM, for which hashing is not allowed. The algorithm below first sorts the input array and then tests all possible pairs in a careful order that avoids the need to binary search for the pairs in the sorted list, achieving worst-case 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{2})}
+   time, as follows.
+
+ sort(S);
+ for i=0 to n-3 do
+    a = S[i];
+    start = i+1;
+    end = n-1;
+    while (start < end) do
+       b = S[start]
+       c = S[end];
+       if (a+b+c == 0) then
+          output a, b, c;
+          // Continue search for all triplet combinations summing to zero.
+          if (b == S[start + 1]) then
+             start = start + 1;
+          else
+             end = end - 1;
+       else if (a+b+c > 0) then
+          end = end - 1;
+       else
+          start = start + 1;
+       end
+    end
+ end
+
+The following example shows this algorithm's execution on a small sorted array. Current values of a are shown in green, values of b and c are shown in blue.
+
+ -25 -10 -7 -3 2 4 8 10  (a+b+c==-25)
+ -25 -10 -7 -3 2 4 8 10  (a+b+c==-22)
+ . . .
+ -25 -10 -7 -3 2 4 8 10  (a+b+c==-7)
+ -25 -10 -7 -3 2 4 8 10  (a+b+c==-7)
+ -25 -10 -7 -3 2 4 8 10  (a+b+c==-3)
+ -25 -10 -7 -3 2 4 8 10  (a+b+c==2)
+ -25 -10 -7 -3 2 4 8 10  (a+b+c==0)
+
+The correctness of the algorithm can be seen as follows. Suppose we have a solution a + b + c = 0. Since the pointers only move in one direction, we can run the algorithm until the leftmost pointer points to a. Run the algorithm until either one of the remaining pointers points to b or c, whichever occurs first. Then the algorithm will run until the last pointer points to the remaining term, giving the affirmative solution.
+
+
+== Variants ==
+
+
+=== Non-zero sum ===
+Instead of looking for numbers whose sum is 0, it is possible to look for numbers whose sum is any constant C in the following way:
+Subtract C/3 from all elements of the input array.
+In the modified array, find 3 elements whose sum is 0.
+
+
+=== 3 different arrays ===
+Instead of searching for the 3 numbers in a single array, we can search for them in 3 different arrays. I.e., given three arrays X, Y and Z, find three numbers a∈X, b∈Y, c∈Z, such that 
+  
+    
+      
+        a
+        +
+        b
+        +
+        c
+        =
+        0
+      
+    
+    {\displaystyle a+b+c=0}
+  . Call the 1-array variant 3SUM×1 and the 3-array variant 3SUM×3.
+Given a solver for 3SUM×1, the 3SUM×3 problem can be solved in the following way (assuming all elements are integers):
+For every element in X, Y and Z, set: 
+  
+    
+      
+        X
+        [
+        i
+        ]
+        ←
+        X
+        [
+        i
+        ]
+        ∗
+        10
+        +
+        1
+      
+    
+    {\displaystyle X[i]\gets X[i]*10+1}
+  , 
+  
+    
+      
+        Y
+        [
+        i
+        ]
+        ←
+        Y
+        [
+        i
+        ]
+        ∗
+        10
+        +
+        2
+      
+    
+    {\displaystyle Y[i]\gets Y[i]*10+2}
+  , 
+  
+    
+      
+        Z
+        [
+        i
+        ]
+        ←
+        Z
+        [
+        i
+        ]
+        ∗
+        10
+        −
+        3
+      
+    
+    {\displaystyle Z[i]\gets Z[i]*10-3}
+  .
+Let S be a concatenation of the arrays X, Y and Z.
+Use the 3SUM×1 oracle to find three elements 
+  
+    
+      
+        
+          a
+          ′
+        
+        ∈
+        S
+        ,
+         
+        
+          b
+          ′
+        
+        ∈
+        S
+        ,
+         
+        
+          c
+          ′
+        
+        ∈
+        S
+      
+    
+    {\displaystyle a'\in S,\ b'\in S,\ c'\in S}
+   such that 
+  
+    
+      
+        
+          a
+          ′
+        
+        +
+        
+          b
+          ′
+        
+        +
+        
+          c
+          ′
+        
+        =
+        0
+      
+    
+    {\displaystyle a'+b'+c'=0}
+  .
+Return 
+  
+    
+      
+        a
+        ←
+        (
+        
+          a
+          ′
+        
+        −
+        1
+        )
+        
+          /
+        
+        10
+        ,
+         
+        b
+        ←
+        (
+        
+          b
+          ′
+        
+        −
+        2
+        )
+        
+          /
+        
+        10
+        ,
+         
+        c
+        ←
+        (
+        
+          c
+          ′
+        
+        +
+        3
+        )
+        
+          /
+        
+        10
+      
+    
+    {\displaystyle a\gets (a'-1)/10,\ b\gets (b'-2)/10,\ c\gets (c'+3)/10}
+  .
+By the way we transformed the arrays, it is guaranteed that a∈X, b∈Y, c∈Z.
+
+
+=== Convolution sum ===
+Instead of looking for arbitrary elements of the array such that:
+
+  
+    
+      
+        S
+        [
+        k
+        ]
+        =
+        S
+        [
+        i
+        ]
+        +
+        S
+        [
+        j
+        ]
+      
+    
+    {\displaystyle S[k]=S[i]+S[j]}
+  
+the convolution 3sum problem (Conv3SUM) looks for elements in specific locations:
+
+  
+    
+      
+        S
+        [
+        i
+        +
+        j
+        ]
+        =
+        S
+        [
+        i
+        ]
+        +
+        S
+        [
+        j
+        ]
+      
+    
+    {\displaystyle S[i+j]=S[i]+S[j]}
+  
+
+
+==== Reduction from Conv3SUM to 3SUM ====
+Given a solver for 3SUM, the Conv3SUM problem can be solved in the following way.
+Define a new array T, such that for every index i: 
+  
+    
+      
+        T
+        [
+        i
+        ]
+        =
+        2
+        n
+        S
+        [
+        i
+        ]
+        +
+        i
+      
+    
+    {\displaystyle T[i]=2nS[i]+i}
+   (where n is the number of elements in the array, and the indices run from 0 to n-1).
+Solve 3SUM on the array T.
+Correctness proof:
+If in the original array there is a triple with 
+  
+    
+      
+        S
+        [
+        i
+        +
+        j
+        ]
+        =
+        S
+        [
+        i
+        ]
+        +
+        S
+        [
+        j
+        ]
+      
+    
+    {\displaystyle S[i+j]=S[i]+S[j]}
+  , then 
+  
+    
+      
+        T
+        [
+        i
+        +
+        j
+        ]
+        =
+        2
+        n
+        S
+        [
+        i
+        +
+        j
+        ]
+        +
+        i
+        +
+        j
+        =
+        (
+        2
+        n
+        S
+        [
+        i
+        ]
+        +
+        i
+        )
+        +
+        (
+        2
+        n
+        S
+        [
+        j
+        ]
+        +
+        j
+        )
+        =
+        T
+        [
+        i
+        ]
+        +
+        T
+        [
+        j
+        ]
+      
+    
+    {\displaystyle T[i+j]=2nS[i+j]+i+j=(2nS[i]+i)+(2nS[j]+j)=T[i]+T[j]}
+  , so this solution will be found by 3SUM on T.
+Conversely, if in the new array there is a triple with 
+  
+    
+      
+        T
+        [
+        k
+        ]
+        =
+        T
+        [
+        i
+        ]
+        +
+        T
+        [
+        j
+        ]
+      
+    
+    {\displaystyle T[k]=T[i]+T[j]}
+  , then 
+  
+    
+      
+        2
+        n
+        S
+        [
+        k
+        ]
+        +
+        k
+        =
+        2
+        n
+        (
+        S
+        [
+        i
+        ]
+        +
+        S
+        [
+        j
+        ]
+        )
+        +
+        (
+        i
+        +
+        j
+        )
+      
+    
+    {\displaystyle 2nS[k]+k=2n(S[i]+S[j])+(i+j)}
+  . Because 
+  
+    
+      
+        i
+        +
+        j
+        <
+        2
+        n
+      
+    
+    {\displaystyle i+j<2n}
+  , necessarily 
+  
+    
+      
+        S
+        [
+        k
+        ]
+        =
+        S
+        [
+        i
+        ]
+        +
+        S
+        [
+        j
+        ]
+      
+    
+    {\displaystyle S[k]=S[i]+S[j]}
+   and 
+  
+    
+      
+        k
+        =
+        i
+        +
+        j
+      
+    
+    {\displaystyle k=i+j}
+  , so this is a valid solution for Conv3SUM on S.
+
+
+==== Reduction from 3SUM to Conv3SUM ====
+Given a solver for Conv3SUM, the 3SUM problem can be solved in the following way.
+The reduction uses a hash function. As a first approximation, assume that we have a linear hash function, i.e. a function h such that:
+
+  
+    
+      
+        h
+        (
+        x
+        +
+        y
+        )
+        =
+        h
+        (
+        x
+        )
+        +
+        h
+        (
+        y
+        )
+      
+    
+    {\displaystyle h(x+y)=h(x)+h(y)}
+  
+Suppose that all elements are integers in the range: 0...N-1, and that the function h maps each element to an element in the smaller range of indices: 0...n-1. Create a new array T and send each element of S to its hash value in T, i.e., for every x in S:
+
+  
+    
+      
+        T
+        [
+        h
+        (
+        x
+        )
+        ]
+        =
+        x
+      
+    
+    {\displaystyle T[h(x)]=x}
+  
+Initially, suppose that the mappings are unique (i.e. each cell in T accepts only a single element from S). Solve Conv3SUM on T. Now:
+If there is a solution for 3SUM: 
+  
+    
+      
+        z
+        =
+        x
+        +
+        y
+      
+    
+    {\displaystyle z=x+y}
+  , then: 
+  
+    
+      
+        T
+        [
+        h
+        (
+        z
+        )
+        ]
+        =
+        T
+        [
+        h
+        (
+        x
+        )
+        ]
+        +
+        T
+        [
+        h
+        (
+        y
+        )
+        ]
+      
+    
+    {\displaystyle T[h(z)]=T[h(x)]+T[h(y)]}
+   and 
+  
+    
+      
+        h
+        (
+        z
+        )
+        =
+        h
+        (
+        x
+        )
+        +
+        h
+        (
+        y
+        )
+      
+    
+    {\displaystyle h(z)=h(x)+h(y)}
+  , so this solution will be found by the Conv3SUM solver on T.
+Conversely, if a Conv3SUM is found on T, then obviously it corresponds to a 3SUM solution on S since T is just a permutation of S.
+This idealized solution doesn't work, because any hash function might map several distinct elements of S to the same cell of T. The trick is to create an array T* by selecting a single random element from each cell of T, and run Conv3SUM on T*. If a solution is found, then it is a correct solution for 3SUM on S. If no solution is found, then create a different random T* and try again. Suppose there are at most R elements in each cell of T. Then the probability of finding a solution (if a solution exists) is the probability that the random selection will select the correct element from each cell, which is 
+  
+    
+      
+        (
+        1
+        
+          /
+        
+        R
+        
+          )
+          
+            3
+          
+        
+      
+    
+    {\displaystyle (1/R)^{3}}
+  . By running Conv3SUM 
+  
+    
+      
+        
+          R
+          
+            3
+          
+        
+      
+    
+    {\displaystyle R^{3}}
+   times, the solution will be found with a high probability.
+Unfortunately, we do not have linear perfect hashing, so we have to use an almost linear hash function, i.e. a function h such that:
+
+  
+    
+      
+        h
+        (
+        x
+        +
+        y
+        )
+        =
+        h
+        (
+        x
+        )
+        +
+        h
+        (
+        y
+        )
+      
+    
+    {\displaystyle h(x+y)=h(x)+h(y)}
+   or
+
+  
+    
+      
+        h
+        (
+        x
+        +
+        y
+        )
+        =
+        h
+        (
+        x
+        )
+        +
+        h
+        (
+        y
+        )
+        +
+        1
+      
+    
+    {\displaystyle h(x+y)=h(x)+h(y)+1}
+  
+This requires to duplicate the elements of S when copying them into T, i.e., put every element 
+  
+    
+      
+        x
+        ∈
+        S
+      
+    
+    {\displaystyle x\in S}
+   both in 
+  
+    
+      
+        T
+        [
+        h
+        (
+        x
+        )
+        ]
+      
+    
+    {\displaystyle T[h(x)]}
+   (as before) and in 
+  
+    
+      
+        T
+        [
+        h
+        (
+        x
+        )
+        ]
+        −
+        1
+      
+    
+    {\displaystyle T[h(x)]-1}
+  . So each cell will have 2R elements, and we will have to run Conv3SUM 
+  
+    
+      
+        (
+        2
+        R
+        
+          )
+          
+            3
+          
+        
+      
+    
+    {\displaystyle (2R)^{3}}
+   times.
+
+
+== 3SUM-hardness ==
+A problem is called 3SUM-hard if solving it in subquadratic time implies a subquadratic-time algorithm for 3SUM. The concept of 3SUM-hardness was introduced by Gajentaan & Overmars (1995). They proved that a large class of problems in computational geometry are 3SUM-hard, including the following ones. (The authors acknowledge that many of these problems are contributed by other researchers.)
+Given a set of lines in the plane, are there three that meet in a point?
+Given a set of non-intersecting axis-parallel line segments, is there a line that separates them into two non-empty subsets?
+Given a set of infinite strips in the plane, do they fully cover a given rectangle?
+Given a set of triangles in the plane, compute their measure.
+Given a set of triangles in the plane, does their union have a hole?
+A number of visibility and motion planning problems, e.g.,
+Given a set of horizontal triangles in space, can a particular triangle be seen from a particular point?
+Given a set of non-intersecting axis-parallel line segment obstacles in the plane, can a given rod be moved by translations and rotations between a start and finish positions without colliding with the obstacles?
+
+By now there are a multitude of other problems that fall into this category. An example is the decision version of X + Y sorting: given sets of numbers X and Y of n elements each, are there n² distinct x + y for x ∈ X, y ∈ Y?
+
+
+== See also ==
+Subset sum problem
+
+
+== Notes ==
+
+
+== References ==
+Grønlund, A.; Pettie, S. (2014), Threesomes, Degenerates, and Love Triangles, p. 621, ISBN 978-1-4799-6517-5, doi:10.1109/FOCS.2014.72 
+Freund, Ari (2017), "Improved Subquadratic 3SUM", Algorithmica, 44 (2): 440–458, doi:10.1007/s00453-015-0079-6 .
+Gold, Omer; Sharir, Micha (2015), "Improved Bounds for 3SUM, $k$-SUM, and Linear Degeneracy", CoRR, abs/1512.05279 
+Baran, Ilya; Demaine, Erik D.; Pătraşcu, Mihai (2008), "Subquadratic algorithms for 3SUM", Algorithmica, 50 (4): 584–596, doi:10.1007/s00453-007-9036-3 .
+Demaine, Erik D.; Mitchell, Joseph S. B.; O'Rourke, Joseph (July 2005), "Problem 11: 3SUM Hard Problems", The Open Problems Project .
+Erickson, Jeff (1999), "Lower bounds for linear satisﬁability problems", Chicago Journal of Theoretical Computer Science, MIT Press, 1999 .
+Gajentaan, Anka; Overmars, Mark H. (1995), "On a class of O(n2) problems in computational geometry", Computational Geometry: Theory and Applications, 5 (3): 165–185, doi:10.1016/0925-7721(95)00022-2 .
+King, James (2004), A survey of 3SUM-hard problems (PDF) .

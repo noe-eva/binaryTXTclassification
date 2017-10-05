@@ -1,0 +1,15 @@
+In computer programming, a nullary constructor is a constructor that takes no arguments. Also known as a 0-argument constructor or no-argument constructors.
+
+
+== Object-oriented constructors ==
+In object-oriented programming, a constructor is code that is run when an object is created. Default constructors of objects are usually nullary.
+
+
+=== Java example ===
+
+
+== Algebraic data types ==
+In algebraic data types, a constructor is one of many tags that wrap data. If a constructor does not take any data arguments, it is nullary.
+
+
+=== Haskell example ===

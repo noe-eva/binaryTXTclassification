@@ -1,0 +1,28 @@
+CPM-GOMS is a variation of the GOMS technique in human computer interaction. CPM-GOMS stands for two things: Cognitive Perceptual Motor and the project planning technique Critical Path Method (from which it borrows some elements).
+
+
+== Overview ==
+CPM-GOMS was developed in 1988 by Bonnie John, a former student of Allen Newell. Unlike the other GOMS variations, CPM-GOMS does not assume that the user's interaction is a serial process, and hence can model multitasking behavior that can be exhibited by experienced users. The technique is also based directly on the model human processor - a simplified model of human responses.
+Evaluators begin a CPM-GOMS analysis in the same way they would a CMN-GOMS analysis. However, when the tasks are broken down just to the level where they are still perceptual or motor, the evaluator applies techniques from the model human processor. The tasks are first joined together serially and then examined to see which actions can be overlapped so that they happen in parallel. This technique facilitates representation of overlapping and very efficient "chunks" of activity characteristic of expert users. The estimated times by CPM-GOMS are generally faster since they do not allocate as much time to the "prepare for action" type operations.
+This is the most difficult GOMS technique to implement. Therefore, it has the problem of discrepancies between evaluators. Research is currently being conducted to improve the CPM-GOMS technique so that it can be used without the evaluator having a high level understanding of the GOMS theoretical foundations.
+
+
+== Software ==
+Cogulator, an open source software package, can be used to build CPM-GOMS models
+
+
+== See also ==
+Human information processor model
+KLM-GOMS
+NGOMSL
+CMN-GOMS
+
+
+== References ==
+
+
+=== Notations ===
+This article incorporates text from Dr. G. Abowd: GOMS Analysis Techniques - Final Essay, which has been released into GFDL by its author (see Talk:GOMS).
+
+
+=== Footnotes ===

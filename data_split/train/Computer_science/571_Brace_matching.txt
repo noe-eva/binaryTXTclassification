@@ -1,0 +1,17 @@
+Brace matching, also known as bracket matching or parentheses matching, is a syntax highlighting feature of certain text editors and integrated development environments that highlights matching sets of braces (square brackets, curly brackets, or parentheses) in languages such as Java and C++ that use them. The purpose is to help the programmer navigate through the code and also spot any improper matching, which would cause the program to not compile or malfunction. If a closing brace is left out, for instance, the compiler will not know that the end of a block of code has been reached. Brace matching is particularly useful when many nested if statements, program loops, etc. are involved.
+
+
+== Implementations ==
+Vim's % command does brace matching, and NetBeans has brace matching built-in. Brace matching can also be a tool for code navigation. In Visual Studio C++ 6.0, brace matching behavior was set to ignore braces found in comments. In VSC 7.0, its behavior was changed to compute commented braces. IntelliJ IDEA's Ruby on Rails plugin also enables braces matching. It has been proposed that Perl 5 be modified to facilitate braces matching. The Microsoft Excel 2003 formula bar has parentheses matching. Its implementation shows all the pairs of parentheses as different colors, so it is possible to easily analyze them all at once.
+
+
+== Example ==
+In this example, the user has just typed the closing curly brace '}' defining a code block, and that brace and its corresponding opening brace are both highlighted.
+
+for (int i = 0; i < 10; i++)
+{
+    System.out.println(i);
+}│
+
+
+== References ==

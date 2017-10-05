@@ -1,0 +1,12 @@
+Satplan (better known as Planning as Satisfiability) is a method for automated planning. It converts the planning problem instance into an instance of the Boolean satisfiability problem, which is then solved using a method for establishing satisfiability such as the DPLL algorithm or WalkSAT.
+Given a problem instance in planning, with a given initial state, a given set of actions, a goal, and a horizon length, a formula is generated so that the formula is satisfiable if and only if there is a plan with the given horizon length. This is similar to simulation of Turing machines with the satisfiability problem in the proof of Cook's theorem. A plan can be found by testing the satisfiability of the formulas for different horizon lengths. The simplest way of doing this is to go through horizon lengths sequentially, 0, 1, 2, and so on.
+
+
+== See also ==
+Graphplan
+
+
+== References ==
+H. A. Kautz and B. Selman (1992). Planning as satisfiability. In Proceedings of the Tenth European Conference on Artificial Intelligence (ECAI'92), pages 359-363.
+H. A. Kautz and B. Selman (1996). Pushing the envelope: planning, propositional logic, and stochastic search. In Proceedings of the Thirteenth National Conference on Artificial Intelligence (AAAI'96), pages 1194-1201.
+J. Rintanen (2009). Planning and SAT. In A. Biere, H. van Maaren, M. Heule and Toby Walsh, Eds., Handbook of Satisfiability, pages 483-504, IOS Press.

@@ -1,0 +1,39 @@
+The Sidney Fernbach Award established in 1992 by the IEEE Computer Society, in memory of Sidney Fernbach, one of the pioneers in the development and application of high performance computers for the solution of large computational problems as the Division Chief for the Computation Division at Lawrence Livermore Laboratory from the late 1950s through the 1970s. A certificate and $2,000 are awarded for outstanding contributions in the application of high performance computers using innovative approaches. Nomination deadline: 1 July of each year.   
+
+
+== Sidney Fernbach Award Past Recipients ==
+2016 Vipin Kumar. "For foundational work on understanding scalability, and highly scalable algorithms for graph partitioning, sparse linear systems and data mining."
+2015 Alex Szalay. "For his outstanding contributions to the development of data-intensive computing systems and on the application of such systems in many scientific areas including astrophysics, turbulence, and genomics."
+2014 Satoshi Matsuoka. "For his work on software systems for high-performance computing on advanced infrastructural platforms, large-scale supercomputers, and heterogeneous GPU/CPU supercomputers." 
+2013 Christopher R. Johnson. "For outstanding contributions and pioneering work introducing computing, simulation, and visualization into many areas of biomedicine."
+2012 Laxmikant V. Kale and Klaus Schulten. "For outstanding contributions to the development of widely used parallel software for large biomolecular systems simulation."
+2011 Cleve Moler. "For fundamental contributions to linear algebra, mathematical software, and enabling tools for computational science."
+2010 James Demmel. "For computational science leadership in creating adaptive, innovative, high performance linear algebra software."
+2009 Roberto Car and Michele Parrinello. "For leadership in creating the modern theoretical and practical foundations for modeling the chemistry and physics of materials. The software resulting from this work is one of the enabling tools for materials science modeling."
+2008 William D. Gropp. "For outstanding contributions to the development of domain decomposition algorithms, scalable tools for the parallel numerical solution of PDEs, and the dominant HPC communications interface."
+2007 David E Keyes. "For outstanding contributions to the development of scalable numerical algorithms for the solution of nonlinear partial differential equations and exceptional leadership in high-performance computation."
+2006 Edward Seidel. "For outstanding contributions to the development of software for HPC and Grid computing to enable the collaborative numerical investigation of complex problems in physics; in particular, modeling black hole collisions."
+2005 John B. Bell. "For outstanding contributions to the development of numerical algorithms, mathematical, and computational tools and on the application of those methods to conduct leading-edge scientific investigations in combustion, fluid dynamics, and condensed matter."
+2004 Marsha Berger. "For her many contributions, and enormous, influence to computational fluid dynamics including adaptive mesh refinement methods, Cartesian grid methods, and practical mathematical algorithms for solving significantly heretofore intractable problems."
+2003 Jack Dongarra. "For outstanding and sustained contributions to the area of mathematical software, most particularly in the areas of communication and numerical libraries and performance benchmarks for high performance computing."
+2002 Robert J. Harrison. "For developing a computational chemistry software package for applications development, by integrating fundamental algorithm research, novel ideas in computer science, and scalability, while delivering unprecedented modeling capabilities for chemistry applications."
+2000 Stephen W. Attaway. "For pioneering advances in methods for modeling transient dynamics phenomena, enabling simulations of unprecedented scale and fidelity."
+1999 Michael L. Norman. "For his leading edge research in applying parallel computing to challenge grand problems in astrophysics and cosmology."
+1998 Phillip Colella. "For fundamental contributions to the development of software methodologies used to solve numerical partial differential equations, and their application to substantially expand our understanding of shock physics and other fluid dynamics problem."
+1997 Charbel Farhat. "For outstanding contributions to the development of parallel numerical algorithms and parallel software packages that have helped the mechanical engineering world to embrace parallel processing technology."
+1996 Gary A. Glatzmaier. "For innovative computational numerical methods to perform the first realistic computer simulations of the Earth's geodynamo and its resultant time-dependent magnetic field."
+1995 Paul R. Woodward. "For your work in developing new algorithmic techniques in fluid dynamics, & your relentless & innovative pursuit of the hardware & software capabilities to carry out & visualize in real time the largest turbulence simulations."
+1994 Charles S. Peskin. "For innovative application of mathematical modeling methods to important practical research questions in blood flow and the heart that has for more than 15 years pushed forward the leading edge of computational capability and helped to develop supercomputing technology as a valuable tool for improving the quality of human life."
+1993 David H. Bailey. "For contributions to numerical computational science including innovative algorithms for FFT's, matrix multiply and multiple precision arithmetic on vector computer architecture."
+
+
+== Nomination Process ==
+IEEE Computer Society Nomination Process
+
+
+== References ==
+
+
+== External links ==
+IEEE Computer Society Awards - Fernbach Awards
+Sidney Fernbach Biography, IEEE Computer Society

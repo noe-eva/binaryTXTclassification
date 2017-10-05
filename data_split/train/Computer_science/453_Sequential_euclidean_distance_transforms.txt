@@ -1,0 +1,1 @@
+In the field of computer graphics, Sequential Euclidean Distance Transforms (SEDT) are a special kind of distance transforms based on the Euclidean metric which use multi-valued vector elements to propagate distances.

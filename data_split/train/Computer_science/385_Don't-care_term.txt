@@ -1,0 +1,14 @@
+In digital logic, a don't-care term for a function is an input-sequence (a series of bits) for which the function output does not matter. An input that is known never to occur is a can't-happen term. Both these types of conditions are treated the same way in logic design and may be referred to collectively as don't-care conditions for brevity. The designer of a logic circuit to implement the function need not care about such inputs, but can choose the circuit's output arbitrarily, usually such that the simplest circuit results (minimization). Examples of don't-care terms are the binary values 1010 through 1111 (10 through 15 in decimal) for a function that takes a binary-coded decimal (BCD) value, because a BCD value never takes on such values (so called pseudo-tetrades); in the pictures, the circuit computing the lower left bar of a 7-segment display can be minimized to a b + a c by an appropriate choice of circuit outputs for dcba=1010...1111.
+Don't-care terms are important to consider in minimizing logic circuit design, using Karnaugh maps and the Quine–McCluskey algorithm. Don't care optimization can also be used in the development of highly size-optimized assembly or machine code taking advantage of side effects.
+
+
+== X value ==
+"Don't care" may also refer to an unknown value in a multi-valued logic system, in which case it may also be called an X value. In the Verilog hardware description language such values are denoted by the letter "X". In the VHDL hardware description language such values are denoted (in the standard logic package) by the letter "X" (forced unknown) or the letter "W" (weak unknown).
+An X value does not exist in hardware. In simulation, an X value can result from two or more sources driving a signal simultaneously, or the stable output of a flip-flop (electronics) not having been reached. In synthesized hardware, however, the actual value of such a signal will be either 0 or 1, but will not be determinable from the circuit's inputs.
+
+
+== See also ==
+Decision table
+
+
+== References ==

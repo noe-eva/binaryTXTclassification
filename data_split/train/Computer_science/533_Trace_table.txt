@@ -1,0 +1,19 @@
+A trace table is a technique used to test algorithms, in order to make sure that no logical errors occur whilst the algorithm is being processed. The table usually takes the form of a multi-column, multi-row table; With each column showing a variable, and each row showing each number input into the algorithm and the subsequent values of the variables.
+Trace tables are typically used in schools and colleges when teaching students how to program. They can be an essential tool in teaching students how a certain algorithm works and the systematic process that is occurring when the algorithm is executed. They can also be useful for debugging applications, helping the programmer to easily detect what error is occurring, and why it may be occurring.
+
+
+== Example ==
+
+This example shows the systematic process that takes place whilst the algorithm is processed. The initial value of x is zero, but i, although defined, has not been assigned a value. Thus, its initial value is unknown. As we execute the program, line by line, the values of i and x change, reflecting each statement of the source code in execution. Their new values are recorded in the trace table. When i reaches the value of 11 because of the i++ statement in the for definition, the comparison i <= 10 evaluates to false, thus halting the loop. As we also reached the end of the program, the table test also ends.
+
+
+== See also ==
+Algorithms
+Programming languages
+Debugging
+
+
+== References ==
+http://www.comscigate.com/tutorial/KjellStyle/WilliamChen/trace1.html
+http://www.thevickerage.worldonline.co.uk/theteacher/alevel/assem/assem5.htm - archived version
+http://portal.newman.wa.edu.au/technology/12infsys/html/KWH2003/TraceTables.htm - archived version

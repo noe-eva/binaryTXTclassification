@@ -1,0 +1,23 @@
+Numerical linear algebra is the study of algorithms for performing linear algebra computations, most notably matrix operations, on computers. It is often a fundamental part of engineering and computational science problems, such as image and signal processing, telecommunication, computational finance, materials science simulations, structural biology, data mining, bioinformatics, fluid dynamics, and many other areas. Such software relies heavily on the development, analysis, and implementation of state-of-the-art algorithms for solving various numerical linear algebra problems, in large part because of the role of matrices in finite difference and finite element methods.
+Common problems in numerical linear algebra include computing the following: LU decomposition, QR decomposition, singular value decomposition, eigenvalues.
+
+
+== See also ==
+Iterative methods
+Numerical analysis, of which numerical linear algebra is a subspecialty
+Gaussian elimination, an important algorithm in numerical linear algebra
+BLAS and LAPACK, highly optimized computer libraries which implement most basic algorithms in numerical linear algebra
+List of numerical analysis software
+List of numerical libraries
+
+
+== References ==
+Leader, Jeffery J. (2004). Numerical Analysis and Scientific Computation. Addison Wesley. ISBN 0-201-73499-0. 
+Bau III, David; Trefethen, Lloyd N. (1997). Numerical linear algebra. Philadelphia: Society for Industrial and Applied Mathematics. ISBN 978-0-89871-361-9. 
+J. H. Wilkinson and C. Reinsch, "Linear Algebra, volume II of Handbook for Automatic Computation" SIAM Review 14, 658 (1972).
+Golub, Gene H.; van Loan, Charles F. (1996), Matrix Computations, 3rd edition, Johns Hopkins University Press, ISBN 978-0-8018-5414-9
+
+
+== External links ==
+Freely available software for numerical algebra on the web, composed by Jack Dongarra and Hatem Ltaief, University of Tennessee
+NAG Library of numerical linear algebra routines

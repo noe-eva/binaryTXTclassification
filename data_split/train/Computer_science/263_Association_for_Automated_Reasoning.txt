@@ -1,0 +1,5 @@
+The Association for Automated Reasoning (AAR) is a non-profit corporation that serves as an association of researchers working on automated theorem proving, automated reasoning, and related fields. It organizes the CADE and IJCAR conferences and publishes a roughly quarterly newsletter.
+
+
+== External links ==
+AAR web page

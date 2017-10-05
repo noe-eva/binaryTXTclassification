@@ -1,0 +1,1959 @@
+Computable topology is a discipline in mathematics that studies the topological and algebraic structure of computation. Computable topology is not to be confused with algorithmic or computational topology, which studies the application of computation to topology.
+
+
+== Topology of lambda calculus ==
+As shown by Alan Turing and Alonzo Church, the λ-calculus is strong enough to describe all mechanically computable functions (see Church–Turing thesis). Lambda-calculus is thus effectively a programming language, from which other languages can be built. For this reason when considering the topology of computation it is common to focus on the topology of λ-calculus. Note that this is not necessarily a complete description of the topology of computation, since functions which are equivalent in the Church-Turing sense may still have different topologies.
+The topology of λ-calculus is the Scott topology, and when restricted to continuous functions the type free λ-calculus amounts to a topological space reliant on the tree topology. Both the Scott and Tree topologies exhibit continuity with respect to the binary operators of application ( f applied to a = fa ) and abstraction ((λx.t(x))a = t(a)) with a modular equivalence relation based on a congruency. The λ-algebra describing the algebraic structure of the lambda-calculus is found to be an extension of the combinatory algebra, with an element introduced to accommodate abstraction.
+Type free λ-calculus treats functions as rules and does not differentiate functions and the objects which they are applied to, meaning λ-calculus is type free. A by-product of type free λ-calculus is an effective computability equivalent to general recursion and Turing machines. The set of λ-terms can be considered a functional topology in which a function space can be embedded, meaning λ mappings within the space X are such that λ:X → X. Introduced November 1969, Dana Scott's untyped set theoretic model constructed a proper topology for any λ-calculus model whose function space is limited to continuous functions. The result of a Scott continuous λ-calculus topology is a function space built upon a programming semantic allowing fixed point combinatorics, such as the Y combinator, and data types. By 1971, λ-calculus was equipped to define any sequential computation and could be easily adapted to parallel computations. The reducibility of all computations to λ-calculus allows these λ-topological properties to become adopted by all programming languages.
+
+
+== Computational algebra from λ-calculus algebra ==
+Based on the operators within lambda calculus, application and abstraction, it is possible to develop an algebra whose group structure uses application and abstraction as binary operators. Application is defined as an operation between lambda terms producing a λ-term, e.g. the application of λ onto the lambda term a produces the lambda term λa. Abstraction incorporates undefined variables by denoting λx.t(x) as the function assigning the variable a to the lambda term with value t(a) via the operation ((λ x.t(x))a = t(a)). Lastly, an equivalence relation emerges which identifies λ-terms modulo convertible terms, an example being beta normal form.
+
+
+== Scott topology ==
+The Scott topology is essential in understanding the topological structure of computation as expressed through the λ-calculus. Scott found that after constructing a function space using λ-calculus one obtains a Kolmogorov space, a 
+  
+    
+      
+        
+          T
+          
+            o
+          
+        
+      
+    
+    {\displaystyle T_{o}}
+   topological space which exhibits pointwise convergence, in short the product topology. It is the ability of self homeomorphism as well as the ability to embed every space into such a space, denoted Scott continuous, as previously described which allows Scott's topology to be applicable to logic and recursive function theory. Scott approaches his derivation using a complete lattice, resulting in a topology dependent on the lattice structure. It is possible to generalise Scott's theory with the use of complete partial orders. For this reason a more general understanding of the computational topology is provided through complete partial orders. We will re-iterate to familiarize ourselves with the notation to be used during the discussion of Scott topology.
+Complete partial orders are defined as follows:
+First, given the partially ordered set D=(D,≤), a nonempty subset X ⊆ D is directed if ∀ x,y ∈ X ∃ z ∈ X where x≤ z & y ≤ z.
+D is a complete partial order (cpo) if:
+
+· Every directed X ⊆D has a supremum, and:
+
+∃ bottom element ⊥ such that ⊥ ∈ D & ∀ x ∈ D ⊥ ≤ x.
+
+We are now able to define the Scott topology over a cpo (D, ≤ ).
+O ⊆ D is open if:
+
+for x ∈ O, and x ≤ y, then y ∈ O, i.e. O is an upper set.
+for a directed set X ⊆ D, and supremum(X) ∈ O, then X ∩ O ≠ ∅.
+
+Using the Scott topological definition of open it is apparent that all topological properties are met.
+
+·∅ and D, i.e. the empty set and whole space, are open.
+
+·Arbitrary unions of open sets are open:
+
+Proof: Assume 
+  
+    
+      
+        
+          U
+          
+            i
+          
+        
+      
+    
+    {\displaystyle U_{i}}
+   is open where i ∈ I, I being the index set. We define U = ∪{ 
+  
+    
+      
+        
+          U
+          
+            i
+          
+        
+      
+    
+    {\displaystyle U_{i}}
+   ; i ∈ I}. Take b as an element of the upper set of U, therefore a ≤ b for some a ∈ U It must be that a ∈ 
+  
+    
+      
+        
+          U
+          
+            i
+          
+        
+      
+    
+    {\displaystyle U_{i}}
+   for some i, likewise b ∈ upset(
+  
+    
+      
+        
+          U
+          
+            i
+          
+        
+      
+    
+    {\displaystyle U_{i}}
+  ). U must therefore be upper as well since 
+  
+    
+      
+        
+          U
+          
+            i
+          
+        
+      
+    
+    {\displaystyle U_{i}}
+   ∈ U.
+
+Likewise, if D is a directed set with a supremum in U, then by assumption sup(D) ∈ 
+  
+    
+      
+        
+          U
+          
+            i
+          
+        
+      
+    
+    {\displaystyle U_{i}}
+  where 
+  
+    
+      
+        
+          U
+          
+            i
+          
+        
+      
+    
+    {\displaystyle U_{i}}
+  is open. Thus there is a b ∈ D where b ∈ 
+  
+    
+      
+        
+          U
+          
+            i
+          
+        
+        ∩
+        D
+        ⊆
+        U
+        ∩
+        D
+      
+    
+    {\displaystyle U_{i}\cap D\subseteq U\cap D}
+  . The union of open sets 
+  
+    
+      
+        
+          U
+          
+            i
+          
+        
+      
+    
+    {\displaystyle U_{i}}
+  is therefore open.
+
+·Open sets under intersection are open:
+
+Proof: Given two open sets, U and V, we define W = U∩V. If W = ∅ then W is open. If non-empty say b ∈ upset(W) (the upper set of W), then for some a ∈ W, a ≤ b. Since a ∈ U∩V, and b an element of the upper set of both U and V, then b ∈ W.
+
+Finally, if D is a directed set with a supremum in W, then by assumption sup(D) ∈ 
+  
+    
+      
+        U
+        ∩
+        V
+      
+    
+    {\displaystyle U\cap V}
+  . So there is a ∈ 
+  
+    
+      
+        U
+        ∩
+        D
+      
+    
+    {\displaystyle U\cap D}
+   and b ∈ 
+  
+    
+      
+        V
+        ∩
+        D
+      
+    
+    {\displaystyle V\cap D}
+  . Since D is directed there is c ∈ D with 
+  
+    
+      
+        a
+        ≤
+        c
+        ,
+        b
+        ≤
+        c
+      
+    
+    {\displaystyle a\leq c,b\leq c}
+  ; and since U and V are upper sets, c ∈ 
+  
+    
+      
+        U
+        ∩
+        V
+      
+    
+    {\displaystyle U\cap V}
+   as well.
+
+Though not shown here, it is the case that the map 
+  
+    
+      
+        f
+        :
+        D
+        →
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle f:D\rightarrow D^{'}}
+   is continuous if and only if f(sup(X)) = sup(f(X)) for all directed X⊆D, where f(X) = {f(x) | x ∈ X} and the second supremum in 
+  
+    
+      
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle D^{'}}
+  .
+Before we begin explaining that application as common to λ-calculus is continuous within the Scott topology we require a certain understanding of the behavior of supremums over continuous functions as well as the conditions necessary for the product of spaces to be continuous namely
+
+With 
+  
+    
+      
+        
+          
+            
+              f
+              
+                i
+              
+            
+          
+          
+            i
+          
+        
+        ⊆
+        [
+        D
+        →
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+        ]
+      
+    
+    {\displaystyle {f_{i}}_{i}\subseteq [D\rightarrow D^{'}]}
+   be a directed family of maps, then 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          ∪
+          
+            i
+          
+        
+        
+          f
+          
+            i
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)=\cup _{i}f_{i}(x)}
+   if well defined and continuous.
+If F 
+  
+    
+      
+        ⊆
+        [
+        D
+        →
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+        ]
+      
+    
+    {\displaystyle \subseteq [D\rightarrow D^{'}]}
+   is directed and cpo and 
+  
+    
+      
+        [
+        D
+        →
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+        ]
+      
+    
+    {\displaystyle [D\rightarrow D^{'}]}
+   a cpo where sup({f(x) | f ∈ F}).
+
+We now show the continuity of application. Using the definition of application as follows:
+
+Ap: 
+  
+    
+      
+        [
+        D
+        →
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+        ]
+        ×
+        D
+        →
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle [D\rightarrow D^{'}]\times D\rightarrow D^{'}}
+   where Ap(f,x) = f(x).
+
+Ap is continuous with respect to the Scott topology on the product (
+  
+    
+      
+        [
+        D
+        →
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+        ]
+        ×
+        D
+        →
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle [D\rightarrow D^{'}]\times D\rightarrow D^{'}}
+  ) :
+
+Proof: λx.f(x) = f is continuous. Let h = λ f.f(x). For directed F
+  
+    
+      
+        ⊆
+        [
+        D
+        →
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+        ]
+      
+    
+    {\displaystyle \subseteq [D\rightarrow D^{'}]}
+  
+
+h(sup(F)) = sup(F)(x)
+
+= sup( {f(x) | f ∈ F} )
+
+= sup( {h(f) | f ∈ F} )
+
+= sup( h(F) )
+
+By definition of Scott continuity h has been shown continuous. All that is now required to prove is that application is continuous when it's separate arguments are continuous, i.e. 
+  
+    
+      
+        [
+        D
+        →
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+        ]
+      
+    
+    {\displaystyle [D\rightarrow D^{'}]}
+  and 
+  
+    
+      
+        D
+        →
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle D\rightarrow D^{'}}
+  are continuous, in our case f and h.
+
+Now abstracting our argument to show 
+  
+    
+      
+        f
+        :
+        D
+        ×
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+        →
+        
+          D
+          
+            
+              
+              ″
+            
+          
+        
+      
+    
+    {\displaystyle f:D\times D^{'}\rightarrow D^{''}}
+   with 
+  
+    
+      
+        g
+        =
+        λ
+        x
+        .
+        f
+        (
+        x
+        ,
+        
+          x
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle g=\lambda x.f(x,x_{0})}
+   and 
+  
+    
+      
+        d
+        =
+        λ
+        
+          x
+          
+            
+              
+              ′
+            
+          
+        
+        .
+        f
+        (
+        
+          x
+          
+            0
+          
+        
+        ,
+        
+          x
+          
+            
+              
+              ′
+            
+          
+        
+        )
+      
+    
+    {\displaystyle d=\lambda x^{'}.f(x_{0},x^{'})}
+   as the arguments for D and 
+  
+    
+      
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle D^{'}}
+   respectively, then for a directed X ⊆ D
+
+  
+    
+      
+        g
+        (
+        sup
+        (
+        X
+        )
+        )
+        =
+        f
+        (
+        sup
+        (
+        X
+        )
+        ,
+        
+          x
+          
+            0
+          
+          
+            
+              
+              ′
+            
+          
+        
+        )
+        )
+      
+    
+    {\displaystyle g(\sup(X))=f(\sup(X),x_{0}^{'}))}
+  
+
+= f( sup( (x,
+  
+    
+      
+        
+          x
+          
+            0
+          
+          
+            
+              
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle x_{0}^{'}}
+  ) | x ∈ X} ))
+
+(since f is continuous and {(x,
+  
+    
+      
+        
+          x
+          
+            0
+          
+          
+            
+              
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle x_{0}^{'}}
+  ) | x ∈ X}) is directed):
+
+= sup( {f(x,
+  
+    
+      
+        
+          x
+          
+            0
+          
+          
+            
+              
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle x_{0}^{'}}
+  ) | x ∈ X} )
+
+= sup(g(X))
+
+g is therefore continuous. The same process can be taken to show d is continuous.
+It has now been shown application is continuous under the Scott topology.
+
+In order to demonstrate the Scott topology is a suitable fit for λ-calculus it is necessary to prove abstraction remains continuous over the Scott topology. Once completed it will have been shown that the mathematical foundation of λ-calculus is a well defined and suitable candidate functional paradigm for the Scott topology.
+With 
+  
+    
+      
+        f
+        ∈
+        [
+        D
+        ×
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+        →
+        
+          D
+          
+            
+              
+              ″
+            
+          
+        
+        ]
+      
+    
+    {\displaystyle f\in [D\times D^{'}\rightarrow D^{''}]}
+   we define 
+  
+    
+      
+        
+          
+            
+              f
+              ˇ
+            
+          
+        
+      
+    
+    {\displaystyle {\check {f}}}
+   (x) =λ y ∈ 
+  
+    
+      
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle D^{'}}
+  f(x,y)We will show:
+(i) 
+  
+    
+      
+        
+          
+            
+              f
+              ˇ
+            
+          
+        
+      
+    
+    {\displaystyle {\check {f}}}
+   is continuous, meaning 
+  
+    
+      
+        
+          
+            
+              f
+              ˇ
+            
+          
+        
+      
+    
+    {\displaystyle {\check {f}}}
+   ∈ 
+  
+    
+      
+        [
+        D
+        →
+        [
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+        →
+        
+          D
+          
+            
+              
+              ″
+            
+          
+        
+        ]
+      
+    
+    {\displaystyle [D\rightarrow [D^{'}\rightarrow D^{''}]}
+  
+(ii) λ 
+  
+    
+      
+        f
+        .
+        
+          
+            
+              f
+              ˇ
+            
+          
+        
+        :
+        [
+        D
+        ×
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+        →
+        
+          D
+          
+            
+              
+              ″
+            
+          
+        
+        ]
+        →
+        [
+        D
+        →
+        [
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+        →
+        
+          D
+          
+            
+              
+              ″
+            
+          
+        
+        ]
+      
+    
+    {\displaystyle f.{\check {f}}:[D\times D^{'}\rightarrow D^{''}]\rightarrow [D\rightarrow [D^{'}\rightarrow D^{''}]}
+   is continuous.
+
+Proof (i): Let X ⊆ D be directed, then
+
+  
+    
+      
+        
+          
+            
+              f
+              ˇ
+            
+          
+        
+      
+    
+    {\displaystyle {\check {f}}}
+  (sup(X)) = λ y.f( sup(X),y )
+
+= λ y.
+  
+    
+      
+        
+          sup
+          
+            x
+            ∈
+            X
+          
+        
+      
+    
+    {\displaystyle \sup _{x\in X}}
+  ( f(x,y) )
+
+= 
+  
+    
+      
+        
+          sup
+          
+            x
+            ∈
+            X
+          
+        
+      
+    
+    {\displaystyle \sup _{x\in X}}
+  ( λy.f(x,y) )
+
+= sup(
+  
+    
+      
+        
+          
+            
+              f
+              ˇ
+            
+          
+        
+      
+    
+    {\displaystyle {\check {f}}}
+  (X))
+
+Proof (ii): Defining L = λ 
+  
+    
+      
+        f
+        .
+        
+          
+            
+              f
+              ˇ
+            
+          
+        
+      
+    
+    {\displaystyle f.{\check {f}}}
+   then for F 
+  
+    
+      
+        ⊆
+        [
+        D
+        ×
+        
+          D
+          
+            
+              
+              ′
+            
+          
+        
+        →
+        
+          D
+          
+            
+              
+              ″
+            
+          
+        
+        ]
+      
+    
+    {\displaystyle \subseteq [D\times D^{'}\rightarrow D^{''}]}
+   directed
+
+L(sup(F)) = λ x λ y. (sup(F))(x,y))
+
+= λ x λ y. 
+  
+    
+      
+        
+          sup
+          
+            y
+            ∈
+            F
+          
+        
+      
+    
+    {\displaystyle \sup _{y\in F}}
+  f(x,y)
+
+= 
+  
+    
+      
+        
+          sup
+          
+            y
+            ∈
+            F
+          
+        
+      
+    
+    {\displaystyle \sup _{y\in F}}
+  λx λy.f(x,y)
+
+= sup(L(F))
+
+It has not been demonstrated how and why the λ-calculus defines the Scott topology.
+
+
+== Böhm trees and computational topology ==
+Böhm trees, easily represented graphically, express the computational behavior of a lambda term. It is possible to predict the functionality of a given lambda expression from reference to its correlating Böhm tree. Böhm trees can be seen somewhat analogous to 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   where the Böhm tree of a given set is similar to the continued fraction of a real number, and what is more, the Böhm tree corresponding to a sequence in normal form is finite, similar to the rational subset of the Reals.
+Böhm trees are defined by a mapping of elements within a sequence of numbers with ordering (≤, lh) and a binary operator * to a set of symbols. The Böhm tree is then a relation among a set of symbols through a partial mapping ψ.
+Informally Böhm trees may be conceptualized as follows:
+Given: Σ = 
+  
+    
+      
+        ⊥
+        ∪
+      
+    
+    {\displaystyle \perp \cup }
+   { λ x_{1} 
+  
+    
+      
+        ⋯
+      
+    
+    {\displaystyle \cdots }
+  x_{n} . y | n ∈ 
+  
+    
+      
+        
+          N
+        
+        ,
+        
+          x
+          
+            1
+          
+        
+        .
+        .
+        .
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {N} ,x_{1}...x_{n}}
+  y are variables and denoting BT(M) as the Böhm tree for a lambda term M we then have:
+BT(M) = ⊥ if M is unsolvable (therefore a single node)
+
+More formally:
+Σ is defined as a set of symbols. The Böhm tree of a λ term M, denoted BT(M), is the Σ labelled tree defined as follows:
+
+If M is unsolvable:
+
+  
+    
+      
+        B
+        T
+        (
+        M
+        )
+        (
+        ⟨
+         
+        ⟩
+        )
+        =⊥
+        ,
+      
+    
+    {\displaystyle BT(M)(\langle \ \rangle )=\perp ,}
+  
+
+BT(M)(
+  
+    
+      
+        ⟨
+        k
+        ⟩
+        ∗
+        α
+      
+    
+    {\displaystyle \langle k\rangle *\alpha }
+  ) is unsolvable 
+  
+    
+      
+        ∀
+        k
+        ,
+        α
+      
+    
+    {\displaystyle \forall k,\alpha }
+  
+
+If M is solvable, where M = λ x_{1}
+  
+    
+      
+        ⋯
+        
+          x
+          
+            n
+          
+        
+        .
+        y
+        
+          M
+          
+            0
+          
+        
+        ⋯
+        
+          M
+          
+            m
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \cdots x_{n}.yM_{0}\cdots M_{m-1}}
+  :
+
+BT(M)(< >) = λ x_{1} 
+  
+    
+      
+        ⋯
+        
+          x
+          
+            n
+          
+        
+        .
+        y
+      
+    
+    {\displaystyle \cdots x_{n}.y}
+  
+
+BT(M)(
+  
+    
+      
+        ⟨
+        k
+        ⟩
+        ∗
+        α
+      
+    
+    {\displaystyle \langle k\rangle *\alpha }
+  ) = BT(M_k)(
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  ) 
+  
+    
+      
+        ∀
+        α
+      
+    
+    {\displaystyle \forall \alpha }
+   and k < m
+
+= undefined 
+  
+    
+      
+        ∀
+        α
+      
+    
+    {\displaystyle \forall \alpha }
+   and k ≥ m
+
+We may now move on to show that Böhm trees act as suitable mappings from the tree topology to the scott topology. Allowing one to see computational constructs, be it within the Scott or tree topology, as Böhm tree formations.
+
+
+=== Böhm tree and tree topology ===
+It is found that Böhm tree's allow for a continuous mapping from the tree topology to the Scott topology. More specifically:
+We begin with the cpo B = (B,⊆) on the Scott topology, with ordering of Böhm tree's denoted M⊆ N, meaning M, N are trees and M results from N. The tree topology on the set Γ is the smallest set allowing for a continuous map
+
+BT:
+  
+    
+      
+        Γ
+        →
+      
+    
+    {\displaystyle \Gamma \rightarrow }
+  B.
+
+An equivalent definition would be to say the open sets of Γ are the image of the inverse Böhm tree 
+  
+    
+      
+        B
+        
+          T
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle BT^{-1}}
+   (O) where O is Scott open in B.
+The applicability of the Bömh trees and the tree topology has many interesting consequences to λ-terms expressed topologically:
+Normal forms are found to exist as isolated points.
+Unsolvable λ-terms are compactification points.
+Application and abstraction, similar to the Scott topology, are continuous on the tree topology.
+
+
+== Algebraic structure of computation ==
+New methods of interpretation of the λ-calculus are not only interesting in themselves but allow new modes of thought concerning the behaviors of computer science. The binary operator within the λ-algebra A is application. Application is denoted · and is said to give structure 
+  
+    
+      
+        A
+        =
+        (
+        X
+        ,
+        ⋅
+        )
+      
+    
+    {\displaystyle A=(X,\cdot )}
+  . A combinatory algebra allows for the application operator and acts as a useful starting point but remains insufficient for the λ-calculus in being unable to express abstraction. The λ algebra becomes a combinatory algebra M combined with a syntactic operator λ* that transforms a term B(x,y), with constants in M, into C(
+  
+    
+      
+        
+          
+            
+              y
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {y}}}
+  )≡ λ* x.B(x,
+  
+    
+      
+        
+          
+            
+              y
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {y}}}
+  ). It is also possible to define an extension model to circumvent the need of the λ* operator by allowing ∀x (fx =gx) ⇒ f =g . The construction of the λ-algebra through the introduction of an abstraction operator proceeds as follows:
+We must construct an algebra which allows for solutions to equations such as axy = xyy such that a = λ xy.xyy there is need for the combinatory algebra. Relevant attributes of the combinatory algebra are:
+Within combinatory algebra there exists applicative structures. An applicative structure W is a combinatory algebra provided:
+
+·W is non-trival, meaning W has cardinality > 1
+·W exhibits combinatory completeness (see completeness of the S-K basis). More specifically: for every term A ∈ the set of terms of W, and 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x_{1},...,x_{n}}
+   with the free variables of A within 
+  
+    
+      
+        
+          
+            x
+            
+              1
+            
+          
+          ,
+          .
+          .
+          .
+          ,
+          
+            x
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {x_{1},...,x_{n}}}
+   then:
+
+  
+    
+      
+        ∃
+        f
+        ∀
+        
+          x
+          
+            1
+          
+        
+        ⋅
+        ⋅
+        ⋅
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \exists f\forall x_{1}\cdot \cdot \cdot x_{n}}
+   where 
+  
+    
+      
+        f
+        
+          x
+          
+            1
+          
+        
+        ⋅
+        ⋅
+        ⋅
+        
+          x
+          
+            n
+          
+        
+        =
+        A
+      
+    
+    {\displaystyle fx_{1}\cdot \cdot \cdot x_{n}=A}
+  
+
+The combinatory algebra is:
+Never commutative
+Not associative.
+Never finite.
+Never recursive.
+Combinatory algebras remain unable to act as the algebraic structure for λ-calculus, the lack of recursion being a major disadvantage. However the existence of an applicative term 
+  
+    
+      
+        A
+        (
+        x
+        ,
+        
+          
+            
+              y
+              →
+            
+          
+        
+      
+    
+    {\displaystyle A(x,{\vec {y}}}
+  ) provides a good starting point to build a λ-calculus algebra. What is needed is the introduction of a lambda term, i.e. include λx.A(x, 
+  
+    
+      
+        
+          
+            
+              y
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {y}}}
+  ).
+We begin by exploiting the fact that within a combinatory algebra M, with A(x, 
+  
+    
+      
+        
+          
+            
+              y
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {y}}}
+  ) within the set of terms, then:
+
+  
+    
+      
+        ∀
+        
+          
+            
+              y
+              →
+            
+          
+        
+      
+    
+    {\displaystyle \forall {\vec {y}}}
+   
+  
+    
+      
+        ∃
+        b
+      
+    
+    {\displaystyle \exists b}
+   s.t. bx = A(x, 
+  
+    
+      
+        
+          
+            
+              y
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {y}}}
+  ).
+
+We then require b have a dependence on 
+  
+    
+      
+        
+          
+            
+              y
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {y}}}
+   resulting in:
+
+  
+    
+      
+        ∀
+        x
+      
+    
+    {\displaystyle \forall x}
+   B(
+  
+    
+      
+        
+          
+            
+              y
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {y}}}
+  )x = A(x, 
+  
+    
+      
+        
+          
+            
+              y
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {y}}}
+  ).
+
+B(
+  
+    
+      
+        
+          
+            
+              y
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {y}}}
+  ) becomes equivalent to a λ term, and is therefore suitably defined as follows: B(
+  
+    
+      
+        
+          
+            
+              y
+              →
+            
+          
+        
+        )
+        ≡
+      
+    
+    {\displaystyle {\vec {y}})\equiv }
+   λ*.
+A pre-λ-algebra (pλA) can now be defined.
+
+pλA is an applicative structure W = (X,·) such that for each term A within the set of terms within W and for every x there is a term λ*x.A ∈ T(W) (T(W) ≡ the terms of W) where (the set of free variables of λ*x.A) = (the set of free variables of A) - {x}. W must also demonstrate:
+
+  
+    
+      
+        (
+        β
+        )
+      
+    
+    {\displaystyle (\beta )}
+   (λ*x.A)x = A
+
+  
+    
+      
+        
+          α
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \alpha _{1}}
+  λ*x.A≡ λ*x.A[x:=y] provided y is not a free variable of A
+
+  
+    
+      
+        
+          α
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \alpha _{2}}
+  (λ*x.A)[y:=z]≡λ*x.A[x:=y] provided y,z ≠ x and z is not a free variable of A
+
+Before defining the full λ-algebra we must introduce the following definition for the set of λ-terms within W denoted 
+  
+    
+      
+        Γ
+        (
+        W
+        )
+      
+    
+    {\displaystyle \Gamma (W)}
+   with the following requirements:
+
+a ∈ W 
+  
+    
+      
+        ⇒
+        
+          c
+          
+            a
+          
+        
+        ∈
+        Γ
+        (
+        W
+        )
+      
+    
+    {\displaystyle \Rightarrow c_{a}\in \Gamma (W)}
+  
+x ∈ 
+  
+    
+      
+        Γ
+        (
+        W
+        )
+      
+    
+    {\displaystyle \Gamma (W)}
+   for x ∈ (
+  
+    
+      
+        
+          v
+          
+            0
+          
+        
+        ,
+        
+          v
+          
+            1
+          
+        
+        ,
+        .
+        .
+        .
+      
+    
+    {\displaystyle v_{0},v_{1},...}
+  )
+M,N ∈ 
+  
+    
+      
+        Γ
+        (
+        W
+        )
+        ⇒
+      
+    
+    {\displaystyle \Gamma (W)\Rightarrow }
+   (MN) ∈ 
+  
+    
+      
+        Γ
+        (
+        W
+        )
+      
+    
+    {\displaystyle \Gamma (W)}
+  
+M ∈ 
+  
+    
+      
+        Γ
+        (
+        W
+        )
+        ⇒
+      
+    
+    {\displaystyle \Gamma (W)\Rightarrow }
+   (λx.M) ∈ 
+  
+    
+      
+        Γ
+        (
+        W
+        )
+      
+    
+    {\displaystyle \Gamma (W)}
+  
+
+A mapping from the terms within 
+  
+    
+      
+        Γ
+        (
+        W
+        )
+      
+    
+    {\displaystyle \Gamma (W)}
+   to all λ terms within W, denoted * : 
+  
+    
+      
+        Γ
+        (
+        W
+        )
+        →
+        
+          T
+        
+        (
+        W
+        )
+      
+    
+    {\displaystyle \Gamma (W)\rightarrow \mathrm {T} (W)}
+  , can then be designed as follows:
+
+  
+    
+      
+        
+          v
+          
+            i
+          
+          
+            ∗
+          
+        
+        =
+        
+          w
+          
+            i
+          
+        
+        ,
+        
+          c
+          
+            a
+          
+          
+            ∗
+          
+        
+        =
+        
+          c
+          
+            a
+          
+        
+      
+    
+    {\displaystyle v_{i}^{*}=w_{i},c_{a}^{*}=c_{a}}
+  
+(MN)* = M* N*
+(λx.M)* = λ* x*.M*
+
+We now define λ(M) to denote the extension after evaluating the terms within 
+  
+    
+      
+        Γ
+        (
+        W
+        )
+      
+    
+    {\displaystyle \Gamma (W)}
+  .
+
+λx.(λy.yx)
+  
+    
+      
+        
+          c
+          
+            a
+          
+        
+      
+    
+    {\displaystyle c_{a}}
+   = λx.
+  
+    
+      
+        
+          c
+          
+            a
+          
+        
+      
+    
+    {\displaystyle c_{a}}
+  x in λ(W).
+
+Finally we obtain the full λ-algebra through the following definition:
+
+(1) A λ-algebra is a pλA W such that for M,N ∈ Γ(W):
+λ(W) ⊢ M = N ⇒ W ⊨ M = N.
+
+Though arduous, the foundation has been set for a proper algebraic framework for which the λ-calculus, and therefore computation, may be investigated in a group theoretic manner.
+
+
+== References ==

@@ -1,0 +1,67 @@
+The Scottish Informatics and Computer Science Alliance (SICSA) is a "research pool" funded by the Scottish Funding Council. A research pool is a collaboration of Scottish university departments whose broad objective is to create a coherent research community that will improve the quality of research carried out in Scotland in the pool-related discipline.
+SICSA's goals are to improve the quality of research in informatics and computer science across universities in Scotland, to promote the transfer of research results to benefit companies and the public sector in Scotland and to create a university community that represents all aspects of Scottish Informatics and Computer Science.
+SICSA was launched in December 2008 and is funded with an award of £14.5 million from the Scottish Funding Council with SICSA member universities providing matching funding. It is managed by the SICSA Executive which is composed of: Director of Research (who is also the SICSA Director), the Director of the SICSA Graduate Academy, the Director of Knowledge Exchange, the Director of Education, the SICSA Executive Officer and the SICSA Executive Assistant.
+
+
+== Membership ==
+SICSA has adopted an inclusive membership policy and all universities in Scotland that have computer science or informatics departments/schools are eligible to be members of SICSA. In April 2013, the following departments/schools were SICSA members.
+University of Aberdeen. Department of Computing Science
+University of Abertay. School of Computing and Engineering Systems & Institute of Arts, Media and Computer Games
+University of Dundee. School of Computing
+University of Edinburgh. School of Informatics
+Edinburgh Napier University. Institute for Informatics & Digital Innovation
+University of Glasgow. School of Computing Science
+Glasgow Caledonian University. School of Engineering and Computing
+Heriot-Watt University. School of Mathematical and Computer Sciences
+The Robert Gordon University. School of Computing
+University of St Andrews. School of Computer Science
+University of Stirling. Department of Computer Science and Mathematics
+University of Strathclyde. Department of Computer and Information Sciences
+University of the West of Scotland. School of Computing
+University of the Highlands and Islands. School of Computing
+
+
+== Research themes ==
+SICSA’s research activities are organized around four broad research themes
+Next-generation Internet
+Complex Systems Engineering
+Modelling and Abstraction
+Multi-modal Interaction
+Each research theme is managed by a theme leader and organizes workshops and events for the computer science research community across Scotland.
+
+
+== SICSA staff appointments ==
+To help achieve its goal of improving research quality, SICSA has funded the appointment of 30 academic staff across Scottish universities. Appointments have been made in Edinburgh, Glasgow, St Andrews, Stirling, Strathclyde, Abertay and Aberdeen Universities.
+
+
+== The SICSA Graduate Academy ==
+The SICSA Graduate Academy (SGA) is an international graduate school in informatics and computer science. It provides funding for PhD students, supports graduate training and summer schools and runs a Distinguished Visitor scheme which supports visits from distinguished computer scientists to Scotland. The SGA runs an annual conference for all PhD students working in computer science and informatics in Scotland.
+
+
+=== SICSA Prize studentships ===
+SICSA has made available 80 prize studentships for PhD study in Scotland to students from around the world, with the aim of attracting the research leaders of the future to work in Scotland.
+
+
+=== SICSA summer schools ===
+SICSA provides support for PhD students in Scotland to attend international summer school and sponsors up to 3 international summer schools per year for PhD students in Scotland. Nine summer schools have been sponsored in Scottish universities between June 2009 and August 2012.
+
+
+=== SICSA Distinguished Visitor Scheme ===
+The aim of the SICSA Distinguished Visitor scheme is to provide support for excellent researchers from around the world to interact with the Scottish Computer Science and Informatics research community.
+
+
+== Interaction with industry ==
+SICSA interacts extensively with local industry in Scotland with a view to transferring technology and informing the industrial community of informatics and computer science research in Scotland. An annual "Demofest" is organized that showcases Scottish University research. Specific projects with industry are concerned with smart tourism and migrating high-value software services to the cloud.
+In 2013, SICSA developed a portfolio of funding mechanisms which have the specific aim of increasing exchanges between academics and industry. These mechanisms include: SICSA Postgraduate Industry Internship Program; SICSA Early Career Industry Fellowship; SICSA Distinguished Industrial Visitors Fellowship; SICSA Elevate - Incubator Program; SICSA Proof of Concept Program; SICSA Team Based Industrial Placements Program.
+
+
+== Computer science education ==
+Uniquely amongst the SFC research pools, SICSA has extended its remit to include education as well as research. The aim of this move is to allow SICSA to become the single representative body for all aspects of university informatics/computer science research and education in Scotland.
+SICSA maintains information about undergraduate and postgraduate taught courses in Scotland for potential students and provides information for industry on opportunities for graduate recruitment.
+
+
+== References ==
+
+
+== External links ==
+Official SICSA Web site

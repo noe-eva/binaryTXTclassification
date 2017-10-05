@@ -1,0 +1,4 @@
+In applied mathematics, the devex algorithm is a pivot rule for the simplex method developed by Harris. It identifies the steepest-edge approximately in its search for the optimal solution.
+
+
+== References ==

@@ -1,0 +1,22 @@
+The .RDO (Raster Document Object) file format is the native format used by Xerox's DocuTech range of hardware and software, that underpins the company's "Xerox Document On Demand" "XDOD" systems. It is therefore a significant file format for the "print on demand" market sector, along with PostScript and PDF.
+RDO is a metafile format based on the Open Document Architecture (ODA) specifications: In Xerox's RDO implementation, description and control information is stored within the RDO file, while raster images are stored separately, usually in a separate folder, as TIFF files. The RDO file dictates which bitmap images will be used on each page of a document, and where they will be placed.
+
+
+== Features and disadvantages ==
+This approach has advantages and disadvantages over the monolithic approach used by PDF: The disadvantages of RDO are that it is a largely proprietary format, and the multi-file approach means that file management and orphan control is more of an issue: one cannot tell from a computer's file system whether all the files required for a document to print are present and correct.
+In RDO's favor, the multi-file approach allows a networked device to load the small RDO file and then request the larger bitmap files only when necessary: This allows a full job specification to be loaded and installed over a network almost immediately, with the larger bitmap files only having to be transferred as and when needed, allowing more flexibility for managing network traffic loading.
+The TIFF file format is highly portable, and Xerox's MakeReady software, supplied with its XDOD systems, readily imports and export postscript files: however, the Xerox "on demand" systems typically require a document library to be stored as RDO / TIFF files, and most non-Xerox applications will not read RDO structures directly.
+
+
+== See also ==
+Xerox
+DocuTech
+Print on demand
+Open Document Architecture
+Tagged Image File Format
+Portable Document Format
+
+
+== References ==
+"Document encoding formats for Phoenix: an example of on-demand publishing" - Summary Report prepared by South Bank University
+Oya Y. Rieger and Anne R. Kenney "Risk Management of Digital Information Case Study for Image File Format"

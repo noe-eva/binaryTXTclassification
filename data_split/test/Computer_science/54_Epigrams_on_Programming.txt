@@ -1,0 +1,11 @@
+"Epigrams on Programming" is an article by Alan Perlis published in 1982, for ACM's SIGPLAN journal. The epigrams are a series of short, programming-language-neutral, humorous statements about computers and programming, which are widely quoted.
+It first appeared in SIGPLAN Notices 17(9), September 1982.
+
+
+== References ==
+Perlis, A. J. (September 1982). "Epigrams on programming". ACM SIGPLAN Notices. New York, NY, USA: Association for Computing Machinery. 17 (9): 7–13. doi:10.1145/947955.1083808. Archived from the original on January 17, 1999. 
+
+
+== External links ==
+List of quotes (Yale)
+Full article text -- (including so-called "meta epigrams", numbers 122-130)

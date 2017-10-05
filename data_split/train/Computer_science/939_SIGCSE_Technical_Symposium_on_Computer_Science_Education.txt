@@ -1,0 +1,29 @@
+The SIGCSE Technical Symposium on Computer Science Education is the main ACM conference for computer science educators. It has been held annually in February or March in the United States since 1970. There are generally around 1300 attendees, who are computer science educators from around the world.
+
+
+== Nifty Assignments ==
+The Nifty Assignments session is one of the most popular sessions at the conference. Started by Nick Parlante in 1999, the session serves as a place for educators to share ideas and materials for successful computer science assignments. Presenters have included Owen Astrachan, Richard E. Pattis, Joseph Zachary, Eric S. Roberts, Cay Horstmann, Mehran Sahami, David Malan, and Mark Guzdial.
+
+
+== Conferences ==
+SIGCSE 2018 - Baltimore, Maryland - February 21-24, 2017 - 49th conference
+SIGCSE 2017 - Seattle, Washington - March 8–11, 2017 - 48th conference
+SIGCSE 2016 - Memphis, Tennessee - March 2–5, 2016 - 47th conference
+SIGCSE 2015 - Kansas City, Missouri - March 4–7, 2015 - 46th conference
+SIGCSE 2014 - Atlanta, Georgia - March 5–8, 2014 - 45th conference
+SIGCSE 2013 - Denver, Colorado - 44th conference
+SIGCSE 2012 - Raleigh, NC - 43rd conference
+SIGCSE 2011 - Dallas, Texas - 42nd conference
+SIGCSE 2010 - Milwaukee, Wisconsin - 41st conference
+SIGCSE 2009 - Chattanooga, Tennessee - 40th conference
+SIGCSE 2008 - Portland, Oregon - 39th conference
+SIGCSE 2007 - Covington, Kentucky - 38th conference
+SIGCSE 2006 - Houston, Texas - 37th conference
+
+
+== External links ==
+Nifty Assignments
+SIGCSE Technical Symposium
+
+
+== References ==

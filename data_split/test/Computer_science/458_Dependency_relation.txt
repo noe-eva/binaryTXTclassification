@@ -1,0 +1,362 @@
+In mathematics and computer science, a dependency relation is a binary relation that is finite, symmetric, and reflexive; i.e. a finite tolerance relation. That is, it is a finite set of ordered pairs 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  , such that
+If 
+  
+    
+      
+        (
+        a
+        ,
+        b
+        )
+        ∈
+        D
+      
+    
+    {\displaystyle (a,b)\in D}
+   then 
+  
+    
+      
+        (
+        b
+        ,
+        a
+        )
+        ∈
+        D
+      
+    
+    {\displaystyle (b,a)\in D}
+   (symmetric)
+If 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   is an element of the set on which the relation is defined, then 
+  
+    
+      
+        (
+        a
+        ,
+        a
+        )
+        ∈
+        D
+      
+    
+    {\displaystyle (a,a)\in D}
+   (reflexive)
+In general, dependency relations are not transitive; thus, they generalize the notion of an equivalence relation by discarding transitivity.
+Let 
+  
+    
+      
+        Σ
+      
+    
+    {\displaystyle \Sigma }
+   denote the alphabet of all the letters of 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  . Then the independency induced by 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   is the binary relation 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  
+
+  
+    
+      
+        I
+        =
+        Σ
+        ×
+        Σ
+        ∖
+        D
+      
+    
+    {\displaystyle I=\Sigma \times \Sigma \setminus D}
+  
+That is, the independency is the set of all ordered pairs that are not in 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  . The independency is symmetric and irreflexive.
+The pairs 
+  
+    
+      
+        (
+        Σ
+        ,
+        D
+        )
+      
+    
+    {\displaystyle (\Sigma ,D)}
+   and 
+  
+    
+      
+        (
+        Σ
+        ,
+        I
+        )
+      
+    
+    {\displaystyle (\Sigma ,I)}
+  , or the triple 
+  
+    
+      
+        (
+        Σ
+        ,
+        D
+        ,
+        I
+        )
+      
+    
+    {\displaystyle (\Sigma ,D,I)}
+   (with 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   induced by 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  ) are sometimes called the concurrent alphabet or the reliance alphabet.
+The pairs of letters in an independency relation induce an equivalence relation on the free monoid of all possible strings of finite length. The elements of the equivalence classes induced by the independency are called traces, and are studied in trace theory.
+
+
+== Examples ==
+
+Consider the alphabet 
+  
+    
+      
+        Σ
+        =
+        {
+        a
+        ,
+        b
+        ,
+        c
+        }
+      
+    
+    {\displaystyle \Sigma =\{a,b,c\}}
+  . A possible dependency relation is
+
+  
+    
+      
+        
+          
+            
+              
+                D
+              
+              
+                
+                =
+                {
+                a
+                ,
+                b
+                }
+                ×
+                {
+                a
+                ,
+                b
+                }
+                
+                ∪
+                
+                {
+                a
+                ,
+                c
+                }
+                ×
+                {
+                a
+                ,
+                c
+                }
+              
+            
+            
+              
+              
+                
+                =
+                {
+                a
+                ,
+                b
+                
+                  }
+                  
+                    2
+                  
+                
+                ∪
+                {
+                a
+                ,
+                c
+                
+                  }
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                {
+                (
+                a
+                ,
+                b
+                )
+                ,
+                (
+                b
+                ,
+                a
+                )
+                ,
+                (
+                a
+                ,
+                c
+                )
+                ,
+                (
+                c
+                ,
+                a
+                )
+                ,
+                (
+                a
+                ,
+                a
+                )
+                ,
+                (
+                b
+                ,
+                b
+                )
+                ,
+                (
+                c
+                ,
+                c
+                )
+                }
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}D&=\{a,b\}\times \{a,b\}\quad \cup \quad \{a,c\}\times \{a,c\}\\&=\{a,b\}^{2}\cup \{a,c\}^{2}\\&=\{(a,b),(b,a),(a,c),(c,a),(a,a),(b,b),(c,c)\}\end{aligned}}}
+  
+The corresponding independency is
+
+  
+    
+      
+        
+          I
+          
+            D
+          
+        
+        =
+        {
+        (
+        b
+        ,
+        c
+        )
+        
+        ,
+        
+        (
+        c
+        ,
+        b
+        )
+        }
+      
+    
+    {\displaystyle I_{D}=\{(b,c)\,,\,(c,b)\}}
+  
+Therefore, the letters 
+  
+    
+      
+        b
+        ,
+        c
+      
+    
+    {\displaystyle b,c}
+   commute, or are independent of one another.

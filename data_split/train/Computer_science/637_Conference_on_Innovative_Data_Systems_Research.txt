@@ -1,0 +1,11 @@
+The Conference on Innovative Data Systems Research (CIDR) is a biennial computer science conference focused on research into new techniques for data management. It was started in 2002 by Michael Stonebraker, Jim Gray, and David DeWitt, and is held at the Asilomar Conference Grounds in Pacific Grove, California.
+CIDR focuses on presenting work that is more speculative, radical, or provocative than what is typically accepted by the traditional database research conferences (such as the International Conference on Very Large Data Bases (VLDB) and the ACM SIGMOD Conference).
+
+
+== See also ==
+International Conference on Very Large Data Bases (VLDB)
+ACM SIGMOD Conference
+
+
+== External links ==
+CIDR website

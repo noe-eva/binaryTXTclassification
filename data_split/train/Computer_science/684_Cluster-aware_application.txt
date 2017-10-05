@@ -1,0 +1,14 @@
+A cluster-aware application is a software application designed to call cluster APIs in order to determine its running state, in case a manual failover is triggered between cluster nodes for planned technical maintenance, or an automatic failover is required, if a computing cluster node encounters hardware or software failure, to maintain business continuity. A cluster-aware application may be capable of failing over LAN or WAN. 
+
+
+== Cluster-aware application characteristics ==
+Use TCP/IP to maintain heartbeat between nodes.
+Capable of transaction processing.
+Mirroring cluster information in realtime.
+
+
+== See also ==
+Cluster (computing)
+
+
+== References ==

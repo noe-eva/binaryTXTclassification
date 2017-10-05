@@ -1,0 +1,130 @@
+The International Society for Music Information Retrieval (ISMIR) is an international forum for research on the organization of music-related data. It started as an informal group steered by an ad hoc committee in 2000 which established a yearly symposium - whence "ISMIR", which meant International Symposium on Music Information Retrieval. It was turned into a conference in 2002 while retaining the acronym. ISMIR was incorporated in Canada on July 4, 2008.
+
+
+== Purpose ==
+Given the tremendous growth of digital music and music metadata in recent years, methods for effectively extracting, searching, and organizing music information have received widespread interest from academia and the information and entertainment industries. The purpose of ISMIR is to provide a venue for the exchange of news, ideas, and results through the presentation of original theoretical or practical work. By bringing together researchers and developers, educators and librarians, students and professional users, all working in fields that contribute to this multidisciplinary domain, the conference also serves as a discussion forum, provides introductory and in-depth information on specific domains, and showcases current products.
+As the term Music Information Retrieval (MIR) indicates, this research is motivated by the desire to provide music lovers, music professionals and music industry with robust, effective and usable methods and tools to help them locate, retrieve and experience the music they wish to have access to. MIR is a truly interdisciplinary area, involving researchers from the disciplines of musicology, cognitive science, library and information science, computer science, electrical engineering and many others.
+
+
+== Annual conferences ==
+Since its inception in 2000, ISMIR has been the world’s leading forum for research on the modelling, creation, searching, processing and use of musical data. Researchers across the globe meet at the annual conference conducted by the society. It is known by the same acronym as the society, ISMIR. Following is the list of previous conferences held by the society.
+ISMIR 2019, Delft (The Netherlands)
+ISMIR 2018, Paris (France)
+ISMIR 2017, Suzhou (China)
+ISMIR 2016, 8–12 August 2016, New York City (USA) proceedings
+ISMIR 2015, 26–30 October 2015, Malaga (Spain) proceedings
+ISMIR 2014, 27–31 October 2014, Taipei (Taiwan) proceedings
+ISMIR 2013, 4–8 November 2013, Curitiba (Brazil) proceedings
+ISMIR 2012, 8–12 October 2012, Porto (Portugal) proceedings
+ISMIR 2011, 24–28 October 2011, Miami (USA) proceedings
+ISMIR 2010, 9–13 August 2010, Utrecht (The Netherlands) proceedings
+ISMIR 2009, 26–30 October 2009, Kobe (Japan) proceedings
+ISMIR 2008, 14–18 September 2008, Philadelphia (USA) proceedings
+ISMIR 2007, 23–30 September 2007, Vienna (Austria) proceedings
+ISMIR 2006, 8–12 October 2006, Victoria, BC (Canada) proceedings
+ISMIR 2005, 11–15 September 2005, London (UK) proceedings
+ISMIR 2004, 10–15 October 2004, Barcelona (Spain) proceedings
+ISMIR 2003, 26–30 October 2003, Baltimore, Maryland (USA) proceedings
+ISMIR 2002, 13–17 October 2002, Paris (France) proceedings
+ISMIR 2001, 15–17 October 2001, Bloomington, Indiana (USA) proceedings
+ISMIR 2000, 23–25 October 2000, Plymouth, Massachusetts (USA) proceedings
+The official webpage provides a more up-to-date information on past and future conferences and provides access to all past websites and to the cumulative database of all papers, posters and tutorials presented at these conferences. An overview of all papers published at ISMIR can be found at DBLP.
+
+
+== Research areas and topics ==
+The following list gives an overview of the main research areas and topics that are within the scope of Music Information Retrieval.
+
+
+=== MIR data and fundamentals ===
+music signal processing
+symbolic music processing
+metadata, linked data and semantic web
+social tags and user generated data
+natural language processing, text and web mining
+multi-modal approaches to MIR
+
+
+=== Methodology ===
+methodological issues and philosophical foundations
+evaluation methodology
+corpus creation
+legal, social and ethical issues
+
+
+=== Domain knowledge ===
+representation of musical knowledge and meaning
+music perception and cognition
+computational music theory
+computational musicology and ethnomusicology
+
+
+=== Musical features and properties ===
+melody and motives
+harmony, chords and tonality
+rhythm, beat, tempo
+structure, segmentation and form
+timbre, instrumentation and voice
+musical style and genre
+musical affect, emotion and mood
+expression and performative aspects of music
+
+
+=== Music processing ===
+sound source separation
+music transcription and annotation
+optical music recognition
+alignment, synchronization and score following
+music summarization
+music synthesis and transformation
+fingerprinting
+automatic classification
+indexing and querying
+pattern matching and detection
+similarity metrics
+
+
+=== Application ===
+user behavior and modelling
+user interfaces and interaction
+digital libraries and archives
+music retrieval systems
+music recommendation and playlist generation
+music and health, well-being and therapy
+music training and education
+MIR applications in music composition, performance and production
+music and gaming
+MIR in business and marketing
+
+
+== MIREX ==
+The Music Information Retrieval Evaluation eXchange (MIREX) is an annual evaluation campaign for MIR algorithms, coupled to the ISMIR conference. Since it started in 2005, MIREX has fostered advancements both in specific areas of MIR and in the general understanding of how MIR systems and algorithms are to be evaluated. MIREX is to the MIR community what the Text Retrieval Conference (TREC) is to the text information retrieval community: A set of community-defined formal evaluations through which a wide variety of state-of-the-art systems, algorithms and techniques are evaluated under controlled conditions. MIREX is managed by the International Music Information Retrieval Systems Evaluation Laboratory (IMIRSEL) at the University of Illinois at Urbana-Champaign (UIUC).
+
+
+== Related conferences ==
+ACM Multimedia
+International Computer Music Conference (ICMC)
+International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+International Conference on Digital Audio Effects (DAFx)
+International Conference on New Interfaces for Musical Expression (NIME)
+International Symposium on Computer Music Modeling and Retrieval (CMMR)
+Sound and Music Computing Conference (SMC)
+
+
+== Related journals ==
+Computer Music Journal (CMJ)
+EURASIP Journal on Audio, Speech, and Music Processing
+IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)
+IEEE Transactions on Multimedia (TMM)
+Music Perception
+Journal of New Music Research (JNMR)
+
+
+== Further links ==
+Audio Engineering Society
+Audio and Acoustic Signal Processing
+Music Technology
+International Society for Music Information Retrieval (ISMIR)
+Sound and Music Computing
+
+
+== References ==

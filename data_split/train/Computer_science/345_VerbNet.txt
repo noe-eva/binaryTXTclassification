@@ -1,0 +1,12 @@
+The VerbNet project maps PropBank verb types to their corresponding Levin classes. It is a lexical resource that incorporates both semantic and syntactic information about its contents.
+VerbNet is part of the SemLink project in development at the University of Colorado.
+
+
+== Related projects ==
+UBY a database of 10 resources including VerbNet.
+
+
+== External links ==
+Karin Kipper's dissertation — VerbNet: a broad-coverage, comprehensive verb lexicon
+Martha Palmer's Verbnet page — contains download of the VerbNet XML files and web interface to the database
+Unified Verb Index — unified index to three lexical semantic resources, VerbNet, PropBank, and FrameNet

@@ -1,0 +1,32 @@
+The International Symposium on Computer Architecture (ISCA) is an annual academic conference on computer architecture, generally viewed as the top-tier in the field. Association for Computing Machinery's Special Interest Group on Computer Architecture (ACM SIGARCH) and Institute of Electrical and Electronics Engineers Computer Society are technical sponsors.
+ISCA has participated in the Federated Computing Research Conference in 1993, 1996, 1999, 2003, 2007, 2011 and 2015, every year that the conference has been organized.
+
+
+== Influential Paper Award ==
+The ISCA Influential Paper Award is presented annually at ISCA by SIGARCH and TCCA. The award is given for the paper with the most impact in the field (in the area of research, development, products, or ideas) from the conference 15 years ago.
+Prior recipients include:
+2017 (2002) - Krisztian Flautner, Nam Sung Kim, Steven Martin, David Blaauw, Trevor Mudge,
+2016 (2001) - Brian Fields, Shai Rubin, Rastislav Bodík,
+2015 (2000) - David Brooks, Vivek Tiwari, and Margaret Martonosi,
+2014 (1999) - Seth Copen Goldstein, Herman Schmit, Matthew Moe, Mihai Budiu, Srihari Cadambi, R. Reed Taylor, and Ronald Laufer
+2013 (1998) - Srilatha Manne, Artur Klauser, Dirk Grunwald,
+2012 (1997) - Subbarao Palacharla, Norman P. Jouppi, James E. Smith
+2011 (1996) - Dean M. Tullsen, Susan J. Eggers, Joel S. Emer, Henry M. Levy, Jack L. Lo, and Rebecca L. Stamm
+2010 (1995) - Dean M. Tullsen, Susan J. Eggers, and Henry M. Levy
+2009 (1994) - Jeffrey Kuskin, David Ofelt, Mark Heinrich, John Heinlein, Richard Simoni, Kourosh Gharachorloo, John Chapin, David Nakahira, Joel Baxter, Mark Horowitz, Anoop Gupta, Mendel Rosenblum, and John L. Hennessy
+2008 (1993) - Maurice Herlihy and J. Eliot B. Moss,
+2007 (1992) - Tse-Yu Yeh and Yale N. Patt
+2006 (1991) - Pohua P. Chang, Scott A. Mahlke, William Y. Chen, Nancy J. Warter, and Wen-mei W. Hwu
+2005 (1990) - Norman P. Jouppi,
+2004 (1989) - Steven Przybylski, John L. Hennessy, and Mark Horowitz
+2003 (1988) - Jean-Loup Baer and Wen-Hann Wang
+
+
+== References ==
+
+
+== External links ==
+ISCA proceedings in the ACM digital library
+ISCA proceedings information in DBLP
+ISCA 2017 web site
+Recent symposiums

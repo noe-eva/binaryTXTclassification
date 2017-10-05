@@ -1,0 +1,36 @@
+The ACM Computing Classification System (CCS) is a subject classification system for computing devised by the Association for Computing Machinery (ACM). The system is comparable to the Mathematics Subject Classification (MSC) in scope, aims, and structure, being used by the various ACM journals to organise subjects by area.
+
+
+== History ==
+The system has gone through seven revisions, the first version being published in 1964, and revised versions appearing in 1982, 1983, 1987, 1991, 1998, and the now current version in 2012.
+
+
+== Structure ==
+The ACM Computing Classification System, version 2012, has a revolutionary change in some areas, for example, in "Software" that now is called "Software and its engineering" which has three main subjects:
+Software organization and properties. This subject addresses properties of the software itself.
+Software notations and tools. This subject covers programming languages and other tools for writing programs.
+Software creation and management. This subject covers human activities including software management.
+It is hierarchically structured in four levels. Thus, for example, one branch of the hierarchy contains:
+Computing methodologies
+Artificial intelligence
+Knowledge representation and reasoning
+Ontology engineering
+
+
+== See also ==
+
+Mathematics Subject Classification (MSC)
+Physics and Astronomy Classification Scheme (PACS)
+arXiv, a preprint server that uses a somewhat different subdivision of topics in its computer science subject areas but also allows papers to be classified using the ACM system
+PhySH (Physics Subject Headings)
+
+
+== References ==
+Coulter, Neal (1997), "ACM's computing classification system reflects changing times", Communications of the ACM, New York, NY, USA: ACM, 40 (12): 111–112, doi:10.1145/265563.265579 .
+Coulter, Neal (chair); French, James; Glinert, Ephraim; Horton, Thomas; Mead, Nancy; Ralston, Anthony; Rada, Roy; Rodkin, Craig; Rous, Bernard; Tucker, Allen; Wegner, Peter; Weiss, Eric; Wierzbicki, Carol (January 21, 1998), "Computing Classification System 1998: Current Status and Future Maintenance Report of the CCS Update Committee" (PDF), Computing Reviews, New York, NY, USA: ACM: 1–5 .
+Mirkin, Boris; Nascimento, Susana; Pereira, Luis Moniz (2008), "Representing a Computer Science Research Organization on the ACM Computing Classification System", in Eklund, Peter; Haemmerlé, Ollivier, Supplementary Proceedings of the 16th International Conference on Conceptual Structures (ICCS-2008) (PDF), CEUR Workshop Proceedings, 354, RWTH Aachen University, pp. 57–65 .
+
+
+== External links ==
+ACM Computing Classification System is the homepage of the system, including links to four complete versions of the system, for 1964 [1], 1991 [2], 1998 [3], and the current 2012 version [4].
+The ACM Computing Research Repository uses a classification scheme that is much coarser than the ACM subject classification, and does not cover all areas of CS, but is intended to better cover active areas of research. In addition, papers in this repository are classified according to the ACM subject classification.

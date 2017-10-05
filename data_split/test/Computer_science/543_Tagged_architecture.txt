@@ -1,0 +1,7 @@
+In computer science, a tagged architecture is a particular type of computer architecture where every word of memory constitutes a tagged union, being divided into a number of bits of data, and a tag section that describes the type of the data: how it is to be interpreted, and, if it is a reference, the type of the object that it points to.
+Two notable series of American tagged architectures were the Lisp machines, which had tagged pointer support at the hardware and opcode level, and the Burroughs large systems, which had a data-driven tagged and descriptor-based architecture. Another "exemplary" instance was the architecture of the Rice Computer. Both the Burroughs and Lisp machine were examples of high-level language computer architectures, where the tagging was used to support types from a high-level language at the hardware level.
+In addition to this, the original Xerox Smalltalk implementation used the least-significant bit of each 16-bit word as a tag bit: if it was clear then the hardware would accept it as an aligned memory address while if it was set it was treated as a (shifted) 15-bit integer. Current Intel documentation mentions that the lower bits of a memory address might be similarly used by some interpreter-based systems.
+In the Soviet Union, the Elbrus series of supercomputers pioneered the use of tagged architectures in 1973.
+
+
+== References ==

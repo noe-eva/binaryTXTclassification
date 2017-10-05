@@ -1,0 +1,51 @@
+Markus Gross (born June 14, 1963, Saarland, Germany) is a Professor of Computer science at the Swiss Federal Institute of Technology Zürich (ETH), head of its Computer Graphics Laboratory, and the director of Disney Research, Zurich. His research interests include physically based modeling, computer animation, immersive displays, and video technology. He has published more than 400 scientific papers on algorithms and methods in the field of computer graphics and computer vision, and holds more than 30 patents. He has graduated more than 50 PhD students so far.
+
+
+== Education and academic career ==
+Gross received a Master of Science in Electrical and Computer Engineering and a PhD in Computer Graphics and Image Analysis, both from Saarland University in Germany in 1986 and 1989. From 1990 to 1994 he was a research scientist at the Computer Graphics Center at the Technical University of Darmstadt from where he received his habilitation in 1995. In 1994 he joined the computer science faculty at ETH Zurich and founded the Computer Graphics Laboratory. From 2004 to 2008 he served as a director of the Institute of Computational Sciences at ETH. Since 2008, he is the director of Disney Research in Zurich, one of three worldwide research laboratories of the Walt Disney Company.
+Markus Gross has served on papers committees of the major graphics conferences multiple times including ACM SIGGRAPH, IEEE Visualization, Eurographics, Pacific Graphics, and others. In 2005 he became the first European papers chair of ACM SIGGRAPH. In addition, he has been the co-organizer of various international symposia. He has served on the editorial advisory boards of various journals and was associate editor of IEEE CG&A.
+
+
+== Disney Research Zurich ==
+In 2008 Gross was appointed Director of Disney Research Zurich, one of the three research laboratories worldwide that was launched by The Walt Disney Company.
+
+
+== Research applications ==
+Gross' research has been successfully adopted in the film industry and led to the establishment of multiple companies and the creation of software platforms.
+The “Wavelet-Turbulence software” for which he received the “Tech-Oscar” from the Academy of Motion Picture Arts and Sciences, has become the standard procedure for animated smoke and explosions effects within a few years; it was employed in more than 20 Hollywood productions, such as “Avatar”, “Kung Fu Panda”, “Monsters vs. Aliens”, “Sherlock Holmes”, “Iron Man 3”, “Man of Steel”, “Battleship” and others. His work on physically-based modeling for facial surgery simulation (FACE Project) eventually led to the spin-off company Cyfex founded in 2000.
+In 2002 he co-founded Novodex, a company focusing on middleware for physics-modeling in computer games. The firm was chosen by Ageia as a software platform to support their upcoming PhysX PPU card, which became the basis of the PhysX SDK 2.x series. Aegia acquired Novodex in 2004, and Gross became the chair of the technical advisory committee. In 2008, Ageia was itself acquired by graphics technology manufacturer Nvidia.
+Gross’ research on 3D video recording, compression, editing and visual effects led to the creation of the startup-company LiberoVision which in 2012 was acquired by Vizrt and rebranded “Viz Libero”.
+Before joining Disney Research, Gross also worked on theoretical modeling of dyslexia. He developed a statistical model and a multimodal recoding system to facilitate language acquisition for people with dyslexia which resulted in the multimedia learning software Dybuster and the foundation of the company of the same name.
+
+
+== Awards and Prizes ==
+Gross has received multiple awards. The most recent is the Karl Heinz Beckurts Prize for outstanding technological innovations with strong practical relevance. Also in 2013, Gross received the Konrad Zuse Medal of the German association of computer sciences (GI), the highest award for scientific achievements in computer sciences in Germany. From the Academy of Motion Picture Arts and Sciences Markus Gross received a “Tech-Oscar”, also known as the Technical Achievement Award together with Nils Thuerey, Theo Kim, and Doug James for the development of a procedure to simulate smoke and explosions more efficiently. Further, Gross received the Outstanding Technical Contributions Award EUROGRAPHICS in 2010 and the Swiss ICT Champions Award in 2011.
+2013 Karl Heinz Beckurts Prize for outstanding technological innovations with strong practical relevance
+2013 Konrad Zuse Medal for achievements in computer sciences
+2013 Technical Achievement Award of the Academy of Motion Picture Arts and Sciences
+2012 Fellow of the Association for Computing Machinery (ACM)
+2012 Fellow of the Berlin-Brandenburg Academy of Sciences and Humanities
+2012 Fellow of the German Academy of Sciences Leopoldina
+2011 Swiss ICT Award
+2010 Outstanding Technical Contribution Award, Eurographics
+2006 Fellow of the Eurographics Association
+
+
+== Most Relevant Papers ==
+According to Google Scholar, his most cited papers are 
+"Surfels: Surface elements as rendering primitives". by H Pfister, M Zwicker, J Van Baar, M Gross. Proceedings of the 27th annual conference on Computer graphics and interactive techniques. ACM Press/Addison-Wesley Publishing Co., 2000. (890 cites through July 2014)
+"Particle-based fluid simulation for interactive applications." by M Müller, D Charypar, M Gross Proceedings of the 2003 ACM SIGGRAPH/Eurographics symposium on Computer animation. Eurographics Association, 2003. (822 cites)
+"Efficient simplification of point-sampled surfaces." by M Pauly, M Gross, LP Kobbelt. Proceedings of the conference on Visualization'02. IEEE Computer Society, 2002. (668 cites)
+"Surface splatting." M Zwicker, H Pfister, J Van Baar, M Gross. >Proceedings of the 28th annual conference on Computer graphics and interactive techniques. ACM, 2001.(571 cites)
+Simulating facial surgery using finite element models
+RM Koch, MH Gross, FR Carls, DF von Büren, G Fankhauser, YIH Parish
+Proceedings of the 23rd annual conference on Computer graphics and interactive techniques. ACM, 1996. (413 cites)
+Pointshop 3D: an interactive system for point-based surface editing
+M Zwicker, M Pauly, O Knoll, M Gross
+ACM Transactions on Graphics 21.3 (2002): 322-329. (389 cites)
+Blue-C: a spatially immersive display and 3D video portal for telepresence
+M Gross, S Würmlin, M Naef, E Lamboray, C Spagno, A Kunz, E Koller-Meier, T. Svoboda, L. Van Gol, S. Lang, K. Strehlke, A. Vande Moere, O. Staadt
+ACM Transactions on Graphics. Vol. 22. No. 3. ACM, 2003. (302 cites)
+
+
+== References ==

@@ -1,0 +1,8 @@
+In data mining, the WINEPI algorithm is an influential algorithm for episode mining, which helps discover the knowledge hidden in an event sequence.
+WINEPI derives part of its name from the fact that it uses a sliding window to go through the event sequence.
+The outcome of the algorithm are episode rules describe temporal relationships between events and form an extension of association rules.
+
+
+== References ==
+Heikki Mannila; Hannu Toivonen; A. Inkeri Verkamo (1997). "Discovery of Frequent Episodes in Event Sequences". Data Min. Knowl. Discov. 1 (3): 259–289. doi:10.1023/A:1009748302351. 
+Klemettinen & Moen. "Data mining course" (Powerpoint presentation). p. 12.

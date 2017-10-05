@@ -1,0 +1,30 @@
+Adaptive sampling is a technique used in computational molecular biology to efficiently simulate protein folding.
+
+
+== Background ==
+Proteins spend a large portion – nearly 96% in some cases – of their folding time "waiting" in various thermodynamic free energy minima. Consequently, a straightforward simulation of this process would spend a great deal of computation to this state, with the transitions between the states – the aspects of protein folding of greater scientific interest – taking place only rarely. Adaptive sampling exploits this property to simulate the protein's phase space in between these states. Using adaptive sampling, molecular simulations that previously would have taken decades can be performed in a matter of weeks.
+
+
+== Theory ==
+If a protein folds through the metastable states A -> B -> C, researchers can calculate the length of the transition time between A and C by simulating the A -> B transition and the B -> C transition. The protein may fold through alternative routes which may overlap in part with the A -> B -> C pathway. Decomposing the problem in this manner is efficient because each step can be simulated in parallel.
+
+
+== Applications ==
+Adaptive sampling is used by the Folding@home distributed computing project in combination with Markov state models.
+
+
+== Disadvantages ==
+While adaptive sampling is useful for short simulations, longer trajectories may be more helpful for certain types of biochemical problems.
+
+
+== See also ==
+Folding@home
+Hidden markov model
+Computational biology
+Molecular biology
+
+
+== References ==
+
+
+== External links ==

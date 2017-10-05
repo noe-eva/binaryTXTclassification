@@ -1,0 +1,9 @@
+Cristina Videira Lopes is a Professor of Informatics and Computer Science at University of California, Irvine. Prior to being a professor, she was a Research Scientist at the Xerox Palo Alto Research Center (PARC). While at PARC, she was most known as a founder of the group that developed Aspect-Oriented Programming (AOP) and started aspectj.org. More recently, she has been working in ubiquitous computing, with a focus in communication mechanisms that are pervasive, secure and intuitive for humans to perceive and interact with.
+
+
+== List of publications ==
+Papers by Cristina Lopes
+Videira Lopes, Cristina (2014). Exercises in Programming Style. Chapman and Hall/CRC. ISBN 978-1482227376. 
+
+
+== References ==

@@ -1,0 +1,52 @@
+The European Association for Theoretical Computer Science (EATCS) is an international organization with a European focus, founded in 1972. Its aim is to facilitate the exchange of ideas and results among theoretical computer scientists as well as to stimulate cooperation between the theoretical and the practical community in computer science.
+The major activities of the EATCS are:
+Organization of ICALP, the International Colloquium on Automata, Languages and Programming;
+Publication of a series of monographs and texts on theoretical computer science;
+Publication of the Bulletin of the EATCS;
+Publication of the journal Theoretical Computer Science;
+Publication of the journal Fundamenta Informaticae.
+
+
+== EATCS Award ==
+Each year, the EATCS Award is awarded in recognition of a distinguished career in theoretical computer science. The first award was assigned to Richard Karp in 2000; the complete list of the winners is given below:
+
+
+== Presburger Award ==
+Starting in 2010, the European Association of Theoretical Computer Science (EATCS) confers each year at the conference ICALP the Presburger Award to a young scientist (in exceptional cases to several young scientists) for outstanding contributions in theoretical computer science, documented by a published paper or a series of published papers. The award is named after Mojzesz Presburger who accomplished his path-breaking work on decidability of the theory of addition (which today is called Presburger arithmetic) as a student in 1929. The complete list of the winners is given below:
+
+
+== EATCS Fellows ==
+The EATCS Fellows Program has been established by the Association to recognize outstanding EATCS Members for their scientific achievements in the field of Theoretical Computer Science. The Fellow status is conferred by the EATCS Fellows-Selection Committee upon a person having a track record of intellectual and organizational leadership within the EATCS community. Fellows are expected to be “model citizens” of the TCS community, helping to develop the standing of TCS beyond the frontiers of the community.
+
+
+== Texts in Theoretical Computer Science ==
+
+
+== EATCS Bulletin ==
+Three issues of the Bulletin are published annually appearing in February, June and October respectively. The Bulletin is a medium for rapid publication and wide distribution of material such as:
+EATCS matters;
+information about the current ICALP;
+technical contributions;
+columns;
+surveys and tutorials;
+reports on conferences;
+calendar of events;
+reports on computer science departments and institutes;
+listings of technical reports and publications;
+book reviews;
+open problems and solutions;
+abstracts of PhD Theses;
+information on visitors at various institutions; and
+entertaining contributions and pictures related to computer science.
+Since 2013 its editor-in-chief has been Kazuo Iwama.
+
+
+== EATCS Young Researchers Schools ==
+Beginning in 2014, the European Association for Theoretical Computer Science (EATCS) established a series of Young Researcher Schools on TCS topics. A brief history of the schools follows below.
+
+
+== References ==
+
+
+== External links ==
+European Association for Theoretical Computer Science website

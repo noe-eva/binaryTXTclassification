@@ -1,0 +1,18 @@
+Bebugging (or fault seeding or error seeding) is a popular software engineering technique used in the 1970s to measure test coverage. Known bugs are randomly added to a program source code and the programmer is tasked to find them. The percentage of the known bugs not found gives an indication of the real bugs that remain.
+The term "bebugging" was first mentioned in The Psychology of Computer Programming (1970), where Gerald M. Weinberg described the use of the method as a way of training, motivating, and evaluating programmers, not as a measure of faults remaining in a program. The approach was borrowed from the SAGE system, where it was used to keep operators watching radar screens alert. Here's a quote from the original use of the term:
+
+Overconfidence by the programmer could be attacked by a system that introduced random errors into the program under test. The location and nature of these errors would be recorded inside the system but concealed from the programmer. The rate at which he found and removed these known errors could be used to estimate the rate at which he is removing unknown errors. A similar technique is used routinely by surveillance systems in which an operator is expected to spend eight hours at a stretch looking at a radar screen for very rare events—such as the passing of an unidentified aircraft. Tests of performance showed that it was necessary to introduce some nonzero rate of occurrence of artificial events in order to keep the operator in a satisfactory state of arousal. Moreover, since these events were under control of the system, it was able to estimate the current and overall performance of each operator.
+Although we cannot introduce program bugs which simulate real bugs as well as we can simulate real aircraft on a radar screen, such a technique could certainly be employed both to train and evaluate programmers in program testing. Even if the errors had to be introduced manually by someone else in the project, it would seem worthwhile to try out such a “bebugging” system. It would give the programmer greatly increased motivation, because he now would know:
+There are errors in his program.
+He did not put them there.
+
+An early application of bebugging was Harlan Mills's fault seeding approach  which was later refined by stratified fault-seeding. These techniques worked by adding a number of known faults to a software system for the purpose of monitoring the rate of detection and removal. This assumed that it is possible to estimate the number of remaining faults in a software system still to be detected by a particular test methodology.
+Bebugging is a type of fault injection.
+
+
+== See also ==
+Fault injection
+Mutation testing
+
+
+== References ==

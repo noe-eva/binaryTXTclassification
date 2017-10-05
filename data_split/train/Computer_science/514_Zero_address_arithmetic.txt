@@ -1,0 +1,6 @@
+Zero address arithmetic is a feature of a few innovative computer architectures, whereby the assignment to a physical address space is deferred until programming statement execution time. It eliminates the link step of conventional compile and link architectures, and more generally relocation.
+All Burroughs large systems and medium systems had this property, as do their modern day successors that preserve the original physical architecture.
+The 1960 announcement of the English Electric KDF9 is the first announcement of a zero-address instruction format computer, rapidly followed by the Burroughs B5000.
+
+
+== References ==

@@ -1,0 +1,56 @@
+The Annual ACM Symposium on Theory of Computing (STOC) is an academic conference in the field of theoretical computer science. STOC has been organized annually since 1969, typically in May or June; the conference is sponsored by the Association for Computing Machinery special interest group SIGACT. Acceptance rate of STOC, averaged from 1970 to 2012, is 31%, with the rate of 29% in 2012.
+As Fich (1996) writes, STOC and its annual IEEE counterpart FOCS (the Symposium on Foundations of Computer Science) are considered the two top conferences in theoretical computer science, considered broadly: they “are forums for some of the best work throughout theory of computing that promote breadth among theory of computing researchers and help to keep the community together.” Johnson (1984) includes regular attendance at STOC and FOCS as one of several defining characteristics of theoretical computer scientists.
+
+
+== Awards ==
+The Gödel Prize for outstanding papers in theoretical computer science is presented alternately at STOC and at the International Colloquium on Automata, Languages and Programming (ICALP); the Knuth Prize for outstanding contributions to the foundations of computer science is presented alternately at STOC and at FOCS.
+Since 2003, STOC has presented one or more Best Paper Awards  to recognize papers of the highest quality at the conference. In addition, the Danny Lewin Best Student Paper Award is awarded to the author(s) of the best student-authored paper in STOC. The award is named in honor of Daniel M. Lewin, an American-Israeli mathematician and entrepreneur who co-founded internet company Akamai Technologies, and was one of the first victims of the September 11 attacks.
+
+
+== History ==
+STOC was first organised on 5–7 May 1969, in Marina del Rey, California, United States. The conference chairman was Patrick C. Fischer, and the program committee consisted of Michael A. Harrison, Robert W. Floyd, Juris Hartmanis, Richard M. Karp, Albert R. Meyer, and Jeffrey D. Ullman.
+Early seminal papers in STOC include Cook (1971), which introduced the concept of NP-completeness (see also Cook–Levin theorem).
+
+
+== Location ==
+STOC was organised in Canada in 1992, 1994, 2002, and 2008, and in Greece in 2001; all other meetings in 1969–2009 have been held in the United States. STOC was part of the Federated Computing Research Conference (FCRC) in 1993, 1996, 1999, 2003, 2007, and 2011.
+
+
+== Invited speakers ==
+2004
+Éva Tardos (2004), "Network games", Network games, p. 341, doi:10.1145/1007352.1007356 
+Avi Wigderson (2004), "Depth through breadth, or why should we attend talks in other areas?", Depth through breadth, or why should we attend talks in other areas?, p. 579, doi:10.1145/1007352.1007359 
+2005
+Lance Fortnow (2005), "Beyond NP: the work and legacy of Larry Stockmeyer", Beyond NP, p. 120, doi:10.1145/1060590.1060609 
+2006
+Prabhakar Raghavan (2006), "The changing face of web search: algorithms, auctions and advertising", The changing face of web search, p. 129, doi:10.1145/1132516.1132535 
+Russell Impagliazzo (2006), "Can every randomized algorithm be derandomized?", Can every randomized algorithm be derandomized?, p. 373, doi:10.1145/1132516.1132571 
+2007
+Nancy Lynch (2007), "Distributed computing theory: algorithms, impossibility results, models, and proofs", Distributed computing theory, p. 247, doi:10.1145/1250790.1250826 
+2008
+Jennifer Rexford (2008), "Rethinking internet routing", Rethinking internet routing, p. 55, doi:10.1145/1374376.1374386 
+David Haussler (2008), "Computing how we became human", Computing how we became human, p. 639, doi:10.1145/1374376.1374468 
+Ryan O'Donnell (2008), "Some topics in analysis of boolean functions", Some topics in analysis of boolean functions, p. 569, doi:10.1145/1374376.1374458 
+2009
+Shafi Goldwasser (2009), "Athena lecture: Controlling Access to Programs?", Athena lecture, p. 167, doi:10.1145/1536414.1536416 
+
+
+== See also ==
+Conferences in theoretical computer science.
+The list of computer science conferences contains other academic conferences in computer science.
+
+
+== Notes ==
+
+
+== References ==
+Cook, Stephen (1971), "The complexity of theorem proving procedures", Proc. STOC 1971, pp. 151–158, doi:10.1145/800157.805047 .
+Fich, Faith (1996), "Infrastructure issues related to theory of computing research", ACM Computing Surveys, 28 (4es): 217, doi:10.1145/242224.242502 .
+Johnson, D. S. (1984), "The genealogy of theoretical computer science: a preliminary report", ACM SIGACT News, 16 (2): 36–49, doi:10.1145/1008959.1008960 .
+
+
+== External links ==
+STOC web page.
+STOC proceedings information in DBLP.
+STOC proceedings in the ACM digital library.
+Citation Statistics for FOCS/STOC/SODA, Piotr Indyk and Suresh Venkatasubramanian, July 2007.

@@ -1,0 +1,16 @@
+Ron Yair Pinter (Hebrew: רון יאיר פינטר‎‎) is an Israeli computer scientist specializing in computational systems biology, integrated circuit layout and compiler optimization. He is Professor of Computer Science and the Rappaport Medical School at the Technion in Haifa, Israel. He was a founding member of the Israeli Society for Bioinformatics and Computational Biology, "ISBCB". . In the past, he has been a Program Manager at the IBM Haifa Research Laboratory and a member of the IBM Academy of Technology, and Vice President for Research and Development at Compugen. He is an author and co-author of more than 90 books and peer-reviewed articles, all of which were cited more than 2500 times. His contributions include defining (with Ido Dagan and Martin Golumbic) the notion of trapezoid graphs, and pioneering analysis of biological networks.
+
+
+== Biography ==
+Pinter was born in Haifa, Israel in 1953 to parents of German Jewish descent both refugees from Nazi Germany in the 1930s. After finishing at the top of his class in the Hebrew Reali School class of 1971, he obtained a B.Sc. (Summa cum laude) in Computer Science from the Technion, in the first class (1975) which started the program at freshman year. At the Technion he met his wife, Shlomit, also a computer scientist. The two have co-authored several papers in the field during the 1990s.
+He then went on to pursue graduate studies at MIT, obtaining an M.Sc in 1980 and a Ph.D in 1982, both in EECS. His advisors were Charles Leiserson and Ron Rivest.
+Before turning his focus to Bioinformatics, Pinter most notably co-defined the notion of trapezoid graphs and made significant contributions to the field of Integrated Circuit design. After several years as VP for R&D at Compugen he joined the Technion in 2001 and has been a faculty member there since. During this time he has important contributions to the discrete modeling and analysis of biological networks, providing insights about their functionality in spite of the relatively simple and highly efficient computational techniques. In addition, he contributed to the discovery of Photosynthesic reactions in viruses.
+
+
+== References ==
+
+
+== External links ==
+Personal home page
+Page on the Technion's site
+HP Labs Innovation Research Award recipient

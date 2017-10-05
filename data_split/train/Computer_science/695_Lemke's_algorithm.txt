@@ -1,0 +1,14 @@
+In mathematical optimization, Lemke's algorithm is a procedure for solving linear complementarity problems, and more generally mixed linear complementarity problems. It is named after Carlton E. Lemke.
+Lemke's algorithm is of pivoting or basis-exchange type. Similar algorithms can compute Nash equilibria for two-person matrix and bimatrix games.
+
+
+== References ==
+Cottle, Richard W.; Pang, Jong-Shi; Stone, Richard E. (1992). The linear complementarity problem. Computer Science and Scientific Computing. Boston, MA: Academic Press, Inc. pp. xxiv+762 pp. ISBN 0-12-192350-9. MR 1150683. 
+Murty, K. G. (1988). Linear complementarity, linear and nonlinear programming. Sigma Series in Applied Mathematics. 3. Berlin: Heldermann Verlag. pp. xlviii+629 pp. ISBN 3-88538-403-5.  (Available for download at the website of Professor Katta G. Murty.) MR949214
+
+
+== External links ==
+OMatrix manual on Lemke
+Chris Hecker's GDC presentation on MLCPs and Lemke
+Linear Complementarity and Mathematical (Non-linear) Programming
+Siconos/Numerics open-source GPL implementation in C of Lemke's algorithm and other methods to solve LCPs and MLCPs

@@ -1,0 +1,103 @@
+Systems biology is the computational and mathematical modeling of complex biological systems. It is a biology-based interdisciplinary field of study that focuses on complex interactions within biological systems, using a holistic approach (holism instead of the more traditional reductionism) to biological research.
+Particularly from year 2000 onwards, the concept has been used widely in biology in a variety of contexts. The Human Genome Project is an example of applied systems thinking in biology which has led to new, collaborative ways of working on problems in the biological field of genetics. One of the aims of systems biology is to model and discover emergent properties, properties of cells, tissues and organisms functioning as a system whose theoretical description is only possible using techniques of systems biology. These typically involve metabolic networks or cell signaling networks.
+
+
+== Overview ==
+Systems biology can be considered from a number of different aspects:
+As a field of study, particularly, the study of the interactions between the components of biological systems, and how these interactions give rise to the function and behavior of that system (for example, the enzymes and metabolites in a metabolic pathway or the heart beats).
+As a paradigm, usually defined in antithesis to the so-called reductionist paradigm (biological organisation), although fully consistent with the scientific method. The distinction between the two paradigms is referred to in these quotations:
+"The reductionist approach has successfully identified most of the components and many of the interactions but, unfortunately, offers no convincing concepts or methods to understand how system properties emerge...the pluralism of causes and effects in biological networks is better addressed by observing, through quantitative measures, multiple components simultaneously and by rigorous data integration with mathematical models" (Sauer et al.).
+"Systems biology...is about putting together rather than taking apart, integration rather than reduction. It requires that we develop ways of thinking about integration that are as rigorous as our reductionist programmes, but different....It means changing our philosophy, in the full sense of the term" (Denis Noble).
+As a series of operational protocols used for performing research, namely a cycle composed of theory, analytic or computational modelling to propose specific testable hypotheses about a biological system, experimental validation, and then using the newly acquired quantitative description of cells or cell processes to refine the computational model or theory. Since the objective is a model of the interactions in a system, the experimental techniques that most suit systems biology are those that are system-wide and attempt to be as complete as possible. Therefore, transcriptomics, metabolomics, proteomics and high-throughput techniques are used to collect quantitative data for the construction and validation of models.
+As the application of dynamical systems theory to molecular biology. Indeed, the focus on the dynamics of the studied systems is the main conceptual difference between systems biology and bioinformatics.
+As a socioscientific phenomenon defined by the strategy of pursuing integration of complex data about the interactions in biological systems from diverse experimental sources using interdisciplinary tools and personnel.
+This variety of viewpoints is illustrative of the fact that systems biology refers to a cluster of peripherally overlapping concepts rather than a single well-delineated field. However, the term has widespread currency and popularity as of 2007, with chairs and institutes of systems biology proliferating worldwide.
+
+
+== History ==
+Systems biology finds its roots in:
+the quantitative modeling of enzyme kinetics, a discipline that flourished between 1900 and 1970,
+the mathematical modeling of population dynamics,
+the simulations developed to study neurophysiology,
+control theory and cybernetics,
+synergetics.
+One of the theorists who can be seen as one of the precursors of systems biology is Ludwig von Bertalanffy with his general systems theory. One of the first numerical simulations in cell biology was published in 1952 by the British neurophysiologists and Nobel prize winners Alan Lloyd Hodgkin and Andrew Fielding Huxley, who constructed a mathematical model that explained the action potential propagating along the axon of a neuronal cell. Their model described a cellular function emerging from the interaction between two different molecular components, a potassium and a sodium channel, and can therefore be seen as the beginning of computational systems biology. Also in 1952, Alan Turing published The Chemical Basis of Morphogenesis, describing how non-uniformity could arise in an initially homogeneous biological system.
+In 1960, Denis Noble developed the first computer model of the heart pacemaker.
+The formal study of systems biology, as a distinct discipline, was launched by systems theorist Mihajlo Mesarovic in 1966 with an international symposium at the Case Institute of Technology in Cleveland, Ohio, entitled "Systems Theory and Biology".
+The 1960s and 1970s saw the development of several approaches to study complex molecular systems, such as the metabolic control analysis and the biochemical systems theory. The successes of molecular biology throughout the 1980s, coupled with a skepticism toward theoretical biology, that then promised more than it achieved, caused the quantitative modeling of biological processes to become a somewhat minor field.
+However, the birth of functional genomics in the 1990s meant that large quantities of high-quality data became available, while the computing power exploded, making more realistic models possible. In 1992, then 1994, serial articles  on systems medicine, systems genetics, and systems biological engineering by B. J. Zeng was published in China and was giving a lecture on biosystems theory and systems-approach research at the First International Conference on Transgenic Animals, Beijing, 1996. In 1997, the group of Masaru Tomita published the first quantitative model of the metabolism of a whole (hypothetical) cell.
+Around the year 2000, after Institutes of Systems Biology were established in Seattle and Tokyo, systems biology emerged as a movement in its own right, spurred on by the completion of various genome projects, the large increase in data from the omics (e.g., genomics and proteomics) and the accompanying advances in high-throughput experiments and bioinformatics.
+In 2002, the National Science Foundation (NSF) put forward a grand challenge for systems biology in the 21st century to build a mathematical model of the whole cell. In 2003, work at the Massachusetts Institute of Technology was begun on CytoSolve, a method to model the whole cell by dynamically integrating multiple molecular pathway models. Since then, various research institutes dedicated to systems biology have been developed. For example, the NIGMS of NIH established a project grant that is currently supporting over ten systems biology centers in the United States. As of summer 2006, due to a shortage of people in systems biology several doctoral training programs in systems biology have been established in many parts of the world. In that same year, the National Science Foundation (NSF) put forward a grand challenge for systems biology in the 21st century to build a mathematical model of the whole cell. In 2012 the first whole-cell model of Mycoplasma Genitalium was achieved by the Karr Laboratory at the Mount Sinai School of Medicine in New York. The whole-cell model is able to predict viability of M. Genitalium cells in response to genetic mutations.
+An important milestone in the development of systems biology has become the international project Physiome.
+
+
+== Associated disciplines ==
+
+According to the interpretation of Systems Biology as the ability to obtain, integrate and analyze complex data sets from multiple experimental sources using interdisciplinary tools, some typical technology platforms are:
+Phenomics
+Organismal variation in phenotype as it changes during its life span.
+Genomics
+Organismal deoxyribonucleic acid (DNA) sequence, including intra-organisamal cell specific variation. (i.e., telomere length variation)
+Epigenomics / Epigenetics
+Organismal and corresponding cell specific transcriptomic regulating factors not empirically coded in the genomic sequence. (i.e., DNA methylation, Histone acetylation and deacetylation, etc.).
+Transcriptomics
+Organismal, tissue or whole cell gene expression measurements by DNA microarrays or serial analysis of gene expression
+Interferomics
+Organismal, tissue, or cell-level transcript correcting factors (i.e., RNA interference)
+Proteomics
+Organismal, tissue, or cell level measurements of proteins and peptides via two-dimensional gel electrophoresis, mass spectrometry or multi-dimensional protein identification techniques (advanced HPLC systems coupled with mass spectrometry). Sub disciplines include phosphoproteomics, glycoproteomics and other methods to detect chemically modified proteins.
+Metabolomics
+Organismal, tissue, or cell-level measurements of small molecules known as metabolites
+Glycomics
+Organismal, tissue, or cell-level measurements of carbohydrates
+Lipidomics
+Organismal, tissue, or cell level measurements of lipids.
+In addition to the identification and quantification of the above given molecules further techniques analyze the dynamics and interactions within a cell. This includes:
+Interactomics
+Organismal, tissue, or cell level study of interactions between molecules. Currently, the authoritative molecular discipline in this field of study is protein-protein interactions (PPI), although the working definition does not preclude inclusion of other molecular disciplines such as those defined here.
+NeuroElectroDynamics
+Organismal, brain computing function as a dynamic system, underlying biophysical mechanisms and emerging computation by electrical interactions.
+Fluxomics
+Organismal, tissue, or cell level measurements of molecular dynamic changes over time.
+Biomics
+Systems analysis of the biome.
+Molecular Biokinematics
+The study of "biology in motion" focused on how cells transit between steady states. Various technologies utilized to capture dynamic changes in mRNA, proteins, and post-translational modifications.
+Semiomics
+Analysis of the system of sign relations of an organism or other biosystems.
+Physiomics
+A systematic study of physiome in biology.
+Cancer Systems Biology is an example of the systems biology approach, which can be distinguished by the specific object of study (tumorigenesis and treatment of cancer). It works with the specific data (patient samples, high-throughput data with particular attention to characterizing cancer genome in patient tumour samples) and tools (immortalized cancer cell lines, mouse models of tumorigenesis, xenograft models, Next Generation Sequencing methods, siRNA-based gene knocking down screenings, computational modeling of the consequences of somatic mutations and genome instability). The long-term objective of the systems biology of cancer is ability to better diagnose cancer, classify it and better predict the outcome of a suggested treatment, which is a basis for personalized cancer medicine and virtual cancer patient in more distant prospective. Significant efforts in Computational systems Biology of Cancer have been made in creating realistic multi-scale in silico models of various tumours.
+The investigations are frequently combined with large-scale perturbation methods, including gene-based (RNAi, mis-expression of wild type and mutant genes) and chemical approaches using small molecule libraries. Robots and automated sensors enable such large-scale experimentation and data acquisition. These technologies are still emerging and many face problems that the larger the quantity of data produced, the lower the quality. A wide variety of quantitative scientists (computational biologists, statisticians, mathematicians, computer scientists and physicists) are working to improve the quality of these approaches and to create, refine, and retest the models to accurately reflect observations.
+The systems biology approach often involves the development of mechanistic models, such as the reconstruction of dynamic systems from the quantitative properties of their elementary building blocks. For instance, a cellular network can be modelled mathematically using methods coming from chemical kinetics and control theory. Due to the large number of parameters, variables and constraints in cellular networks, numerical and computational techniques are often used (e.g., flux balance analysis).
+
+
+== Bioinformatics and data analysis ==
+Other aspects of computer science, informatics, and statistics are also used in systems biology. These include:
+New forms of computational models, such as the use of process calculi to model biological processes (notable approaches include stochastic π-calculus, BioAmbients, Beta Binders, BioPEPA, and Brane calculus) and constraint-based modeling.
+Integration of information from the literature, using techniques of information extraction and text mining.
+Development of online databases and repositories for sharing data and models, approaches to database integration and software interoperability via loose coupling of software, websites and databases, or commercial suits.
+Development of syntactically and semantically sound ways of representing biological models.
+Network-based approaches for analyzing high dimensional genomic data sets. For example, weighted correlation network analysis is often used for identifying clusters (referred to as modules), modeling the relationship between clusters, calculating fuzzy measures of cluster (module) membership, identifying intramodular hubs, and for studying cluster preservation in other data sets.
+Pathway-based methods for omics data analysis, e.g. approaches to identify and score pathways with differential activity of their gene, protein, or metabolite members.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Klipp, Edda; Liebermeister, Wolfram; Wierling, Christoph; Kowald, Axel (2016). Systems Biology - A Textbook, 2nd edition. Wiley. ISBN 978-3-527-33636-4. 
+Asfar S. Azmi, ed. (2012). "Systems Biology in Cancer Research and Drug Discovery". ISBN 978-94-007-4819-4. 
+Kitano, Hiroaki (15 October 2001). Foundations of Systems Biology. MIT Press. ISBN 978-0-262-11266-6. 
+Werner, Eric (29 March 2007). "All systems go". Nature. 446 (7135): 493–494. Bibcode:2007Natur.446..493W. doi:10.1038/446493a.  provides a comparative review of three books:
+Alon, Uri (7 July 2006). An Introduction to Systems Biology: Design Principles of Biological Circuits. Chapman & Hall. ISBN 978-1-58488-642-6. 
+Kaneko, Kunihiko (15 September 2006). Life: An Introduction to Complex Systems Biology. Springer-Verlag. ISBN 978-3-540-32666-3. 
+Palsson, Bernhard O. (16 January 2006). Systems Biology: Properties of Reconstructed Networks. Cambridge University Press. ISBN 978-0-521-85903-5. 
+Werner Dubitzky; Olaf Wolkenhauer; Hiroki Yokota; Kwan-Hyun Cho, eds. (13 August 2013). Encyclopedia of Systems Biology. Springer-Verlag. ISBN 978-1-4419-9864-4. 
+
+
+== External links ==
+Biological Systems in bio-physics-wiki

@@ -1,0 +1,7 @@
+A StackMat timer is a timer designed for use in sport stacking and speedcubing. StackMat timers have two touch pads, one on each side of the display. The hands are placed on the two touch pads. After 0.55 seconds, a green light will light up, and when one or both of the hands are released from the touch pads, the timer starts. When both hands are placed back on the touch pads, the timer stops and displays a time with accuracy to 0.001 seconds.
+The StackMat timer is sometimes included with a mat that is made of neoprene, the same material commonly used in mouse pads. Some timers also glow in the dark. Others have a data port that allow it to be connected to an external display to allow for an audience to watch the timer in real time.
+
+
+== External links ==
+Speed Stacks page
+StackMat Timer

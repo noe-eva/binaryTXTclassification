@@ -1,0 +1,8 @@
+Structured content is information or content that is organized in a predictable way and is usually classified with metadata. XML is a common storage format, but structured content can also be stored in other standard or proprietary formats.
+
+
+== See also ==
+Structure mining
+
+
+== References ==

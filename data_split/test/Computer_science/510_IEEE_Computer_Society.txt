@@ -1,0 +1,88 @@
+IEEE Computer Society (sometimes abbreviated Computer Society or CS) is a professional society of IEEE. Its purpose and scope is "to advance the theory, practice, and application of computer and information processing science and technology" and the "professional standing of its members." The CS is the largest of 39 technical societies organized under the IEEE Technical Activities Board.
+The Computer Society sponsors workshops and conferences, publishes a variety of peer-reviewed literature, operates technical committees, and develops IEEE computing standards. It supports more than 200 chapters worldwide and participates in educational activities at all levels of the profession, including distance learning, accreditation of higher education programs in computer science, and professional certification in software engineering.
+The IEEE Computer Society is also a member organization of the Federation of Enterprise Architecture Professional Organizations (a worldwide association of professional organizations which have come together to provide a forum to standardize, professionalize, and otherwise advance the discipline of Enterprise Architecture).
+
+
+== History ==
+
+IEEE Computer Society traces its origins to the Subcommittee on Large-Scale Computing, established in 1946 by the American Institute of Electrical Engineers (AIEE), and to the Professional Group on Electronic Computers, established in 1951 by the Institute of Radio Engineers (IRE). When the AIEE merged with the IRE in 1963 to form the Institute of Electrical and Electronics Engineers (IEEE), these two committees became the IEEE Computer Group. The group established its own constitution and bylaws in 1971 to become the IEEE Computer Society.
+The CS maintains its headquarters in Washington, D.C. and additional offices in California and Japan.
+
+
+== Main activities ==
+
+The Computer Society maintains volunteer boards in six program areas: education, membership, professional activities, publications, standards, and technical and conference activities. In addition, 12 standing committees administer activities such as the CS elections and its awards programs to recognize professional excellence.
+
+
+=== Education and professional development ===
+The Computer Society participates in ongoing development of college computing curricula, jointly with the Association for Computing Machinery (ACM). Other educational activities include software development certification programs and online access to e-learning courseware and books.
+
+
+=== Publications ===
+The Computer Society is a leading publisher of technical material in computing. Its publications include 13 peer-reviewed technical magazines and 20 scholarly journals called Transactions as well as conference proceedings, books, and a variety of digital products.
+The Computer Society Digital Library (CSDL) provides subscriber access to all CS publications. In 2008, the Computer Society launched Computing Now, a Web portal featuring free access to a rotation of CSDL articles, along with technical news, CS blogs, and multimedia content.
+As most publications are delivered digitally in 2014, computer society launched complementary monthly digest "Computing Edge" magazine, which consists of curated articles from its magazines.
+
+
+=== Technical conferences and activities ===
+
+The Computer Society sponsors more than 170 technical conferences each year and coordinates the operation of several technical committees, councils, and task forces.
+The CS also maintains 12 standards committees to develop IEEE standards in various areas of computer and software engineering (e.g., the Design Automation Standards Committee and the IEEE 802 LAN/MAN Standards Committee).
+In 2010 the CS introduced Special Technical Communities (STCs) as a new way for members to develop communities focusing on selected technical areas. Current topics include broadening participation, cloud computing, education, eGov, haptics, multicore, operating systems, smart grids, social networking, sustainable computing, systems engineering, and wearable and ubiquitous technologies.
+
+
+=== Technical Committees of IEEE-CS ===
+IEEE-CS currently has 26 technical committees and 2 technical councils. A Technical Committees (TC) is an International networks of professionals with common interests in computer hardware, software, its applications, and interdisciplinary fields within the umbrella of IEEE-CS. A technical council is essentially a very large technical committee, and a task force is an emerging technical committee. A TC serves as the focal point of the various technical activities within a technical discipline which influences standards development, conferences, publications, and educational activities of IEEE-CS. Following are the current technical committees and councils:
+TCSE - Technical Council on Software Engineering (TCSE)
+TTTC - Technical Council on Test Technology (TTTC)
+TCBIS - Technical Committee on Business Informatics and Systems (TCBIS)
+TCCA - Technical Committee on Computer Architecture (TCCA)
+TCCC - Technical Committee on Computer Communications (TCCC)
+TCCLS - Technical Committee on Computational LIfe Sciences (TCCLS)
+TCDE - Technical Committee on Data Engineering (TCDE)
+TCDL - Technical Committee on Digital Libraries (TCDL)
+TCDP - Technical Committee on Distributed Processing (TCDP)
+TCFT - Technical Committee on Dependable Computing and Fault Tolerance (TCFT)
+TCI - Technical Committee on Internet (TCI)
+TCII - Technical Committee on Intelligent Informatics (TCII)
+TCLT - Technical Committee on Learning Technology (TCLT)
+TCMC - Technical Committee on Multimedia Computing (TCMC)
+TCMF - Technical Committee on Mathematical Foundations of Computing (TCMF)
+TCMM - Technical Committee on Microprocessors and Microcomputers (TCMM)
+TCMVL - Technical Committee on Multiple-Valued Logic (TCMVL)
+TCPAMI - Technical Committee on Pattern Analysis and Machine Intelligence (TCPAMI)
+TCPP - Technical Committee on Parallel Processing (TCPP)
+TCRTS - Technical Committee on Real- Technical Committee onTime Systems (TCRTS)
+TCSC - Technical Committee on Scalable Computing (TCSC)
+TCSEM - Technical Committee on Semantic Computing (TCSEM)
+TCSIM - Technical Committee on Simulation (TCSIM)
+TCSP - Technical Committee on Security and Privacy (TCSP)
+TCSVC - Technical Committee on Services Computing (TCSVC)
+TCuARCH - Technical Committee on Microprogramming and Microarchitecture (TCuARCH)
+VGTC - Technical Committee on Visualization and Graphics (VGTC)
+TCVLSI - Technical Committee on VLSI (TCVLSI)
+
+
+=== Awards ===
+The IEEE Computer Society recognizes outstanding work by computer professionals who advance the field in three areas of achievement: Technical Awards (e.g., the Seymour Cray Computer Engineering Award or the IEEE Computer Pioneer Award), Education Awards (e.g., Taylor L. Booth Education Award), and Service Awards (e.g., Richard E. Merwin Distinguished Service Award).
+
+
+== See also ==
+Association for Computing Machinery
+Association of Information Technology Professionals
+Australian Computer Society
+British Computer Society
+Canadian Information Processing Society
+Computer Society of India
+IEEE Technical Activities Board
+Institute of Electrical and Electronics Engineers
+Institution of Analysts and Programmers
+ISCA Influential Paper Award
+New Zealand Computer Society
+
+
+== References ==
+
+
+== External links ==
+Official website

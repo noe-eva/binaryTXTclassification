@@ -1,0 +1,10 @@
+Computational logic is the use of logic to perform or reason about computation. It bears a similar relationship to computer science and engineering as mathematical logic bears to mathematics and as philosophical logic bears to philosophy. It is synonymous with "logic in computer science".
+The term “Computational Logic” came to prominence with the founding of the ACM Transactions on Computational Logic. However, its first use was probably in 1972 when the Metamathematics Unit at the University of Edinburgh was renamed “The Department of Computational Logic” in the School of Artificial Intelligence. The term was then used by Robert S. Boyer and J Strother Moore, who worked in the Department in the early 1970s, to describe their work on program verification and automated reasoning. They also founded a company Computational Logic Inc. of the same name.
+The term “Computational Logic” has also come to be associated with logic programming, because much of the early work in logic programming in the early 1970s also took place in the Department of Computational Logic in Edinburgh. It was reused in the early 1990s to describe work on extensions of logic programming in the EU Basic Research Project “Compulog” and in the associated Network of Excellence. Krzysztof Apt, who was the co-ordinator of the Basic Research Project Compulog-II, reused and generalized the term when he founded the ACM Transactions on Computational Logic in 2000 and became its first Editor-in-Chief.
+
+
+== References ==
+
+
+== Further reading ==
+Dov M. Gabbay, Jörg H. Siekmann, John Woods, eds. (2014). Handbook of the History of Logic, Volume 9: Computational Logic. Elsevier. ISBN 978-0-08-093067-1. CS1 maint: Uses editors parameter (link)

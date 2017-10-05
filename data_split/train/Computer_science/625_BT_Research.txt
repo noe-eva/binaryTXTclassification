@@ -1,0 +1,56 @@
+BT Research is part of the BT Technology, Service and Operations division of BT Group, a provider of communications and services operating in 170 countries.
+The organisation embodies an 'open innovation' approach, drawing on external resources such as partnerships with universities, suppliers, partners, customers and start-ups to complement the BT's internal research and innovation programme. BT Group is also a partner in collaborative research projects that are part of the UK's Technology Strategy Board programme, the EU Seventh Framework Programme, and the EU Competitiveness and Innovation Framework Programme.
+
+
+== Location ==
+
+BT's main research facility is located in the United Kingdom at Adastral Park, near Ipswich in the county of Suffolk. The Adastral Park site was first planned around 1968 as the Martlesham Heath Post Office Laboratories and after completion in 1971 has grown since then to a facility today which has around 4,000 research and development people from both BT and some of its partner companies. Globally, BT has additional research labs in Beijing, Boston MA and Abu Dhabi. The focus of research at BT is Information and Communications Technology (ICT).
+The Royal Air Force were the original residents of the site in Suffolk at RAF Martlesham Heath. Experimental aircraft test flights flew from the airfield and the name (Adastral Park) is intended to reflect the history of experimentation and innovation, which is the continuing focus for the Park. The initial models and plans created by the MPBW [successor to the MOW] would appear to indicate the influence of the Thunderbirds TV series of the 1960s.
+
+
+== Activities ==
+
+
+=== Current research themes ===
+Major theme areas are;
+IT Services, software and systems
+Internet of things (IoT)
+Big data
+Future of the Internet and network transformation
+Mobility and convergence
+Future of the Web and semantic intelligence
+Information and security systems
+Customer service and systems
+The digital home and sociable communications
+
+
+== Academic research partners ==
+BT works closely with both academics and students in over 20 institutions globally and has strong partnerships with the University of Cambridge in the UK, the Massachusetts Institute of Technology (MIT) in the USA and Tsinghua University in China. BT also leads the India-UK Advanced Technology Centre, a consortium of 22 Indian and UK industry and academic partners conducting research into current and next generation fixed and wireless communications.
+
+
+== History ==
+
+Research in the company was first established in 1921 at the Post Office Research Station at Dollis Hill, London. In 1968 BT began the move of its research to the new site at Martlesham Heath in Suffolk. By late 1969 small teams of researchers were working at Martlesham. The first new research building was formally opened on 21 November 1975 by Queen Elizabeth II of the United Kingdom. The architect was Mr Stanislaw Spielrein ARIBA of the Ministry of Public Buildings and Works [MPBW]. The new building housed 1,700 people.
+
+
+== Patents ==
+By the turn of the century (2000), the site had produced over 10,000 patents.
+
+
+== Innovations from BT Research ==
+2006 [October] – BT implemented the world's first fully automated 'spam buster' system to track down and tackle professional spammers and 'botnet'-infected customers on the BT broadband network.
+2002 [June] – Research and development teams designed and deployed a suite of new business systems allowing the launch of the UK's first commercial broadband internet access service.
+1999 [July] – BT announced that it had pushed commercial optical fibre transmission to 80Gbit/s. BT labs demonstrated the world's fastest regenerator – a photonic digital network component.
+1995 [June] – BT research designed and developed a video on demand service, which was trialled in the local area [Ipswich – Colchester], with 2,500 customers. It used asymmetric data on a subscriber's line (asymmetric digital subscriber line) over copper cables, with a decoder supplied by Apple. – article on trial
+1987 [August] – the world's first instantaneous translation of speech by computer was unveiled by BT's research laboratories.
+1982 [April] – Europe's first satellite transmission service was launched with Adastral Park's satellite dishes beaming television signals to the Orbital Test Satellite, run by Eutelsat, allowing Finnish and Norwegian viewers to receive the (English language) signals.
+1979 [September] – GPO launched Prestel, the world's first viewdata network.
+
+
+== References ==
+
+
+== External links ==
+BT Technology Journal
+BT Group
+Adastral Park

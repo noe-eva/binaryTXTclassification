@@ -1,0 +1,52 @@
+The USENIX Association is the Advanced Computing Systems Association. It was founded in 1975 under the name "Unix Users Group," focusing primarily on the study and development of Unix and similar systems. In June 1977, a lawyer from AT&T Corporation informed the group that they could not use the word UNIX as it was a trademark of Western Electric (the manufacturing arm of AT&T until 1995), which led to the change of name to USENIX. It has since grown into a respected organization among practitioners, developers, and researchers of computer operating systems more generally. Since its founding, it has published a technical journal entitled ;login:.
+USENIX was started as a technical organization. As commercial interest grew, a number of separate groups started in parallel, most notably the Software Tools Users Group (STUG), a technical adjunct for Unix-like tools and interface on non-Unix operating systems, and /usr/group, a commercially oriented user group.
+USENIX has a special interest group for system administrators, LISA, formerly SAGE.
+It sponsors several conferences and workshops each year, most notably the USENIX Symposium on Operating Systems Design and Implementation (OSDI), the USENIX Symposium on Networked Systems Design and Implementation (NSDI), the USENIX Annual Technical Conference, the USENIX Security Symposium, the USENIX Conference on File and Storage Technologies (FAST), and with LISA (formerly SAGE), the Large Installation System Administration Conference (LISA).
+USENIX's founding President was Lou Katz.
+
+
+== Open access ==
+USENIX became the first computing association to provide open access to their conference and workshop papers in 2008. As of 2013, it remains the only one to have done so. Since 2011, they have included audio and video recordings of paper presentations in their open-access materials.
+
+
+== USENIX Lifetime Achievement Award ==
+
+This award, also called the "Flame" award, is handed out annually since 1993.
+2014 Thomas E. Anderson
+2012 John Mashey
+2011 Dan Geer
+2010 Ward Cunningham
+2009 Gerald J. Popek
+2008 Andrew S. Tanenbaum
+2007 Peter Honeyman
+2006 Radia Perlman
+2005 Michael Stonebraker
+2004 M. Douglas McIlroy
+2003 Rick Adams
+2002 James Gosling
+2001 The GNU Project and all its contributors
+2000 W. Richard Stevens
+1999 "The X Window System Community at Large"
+1998 Tim Berners-Lee
+1997 Brian W. Kernighan
+1996 The Software Tools Users Group (Dennis E. Hall, Deborah Scherrer, Joe Sventek)
+1995 The Creation of USENET by Jim Ellis and Tom Truscott
+1994 Networking Technologies
+1993 Berkeley UNIX
+
+
+== See also ==
+AUUG
+LISA (conference)
+Marshall Kirk McKusick
+LISA SIG: Formerly SAGE (organization)
+Unix
+
+
+== References ==
+
+
+== External links ==
+USENIX: The Advanced Computing Systems Association
+LISA: The USENIX SIG for Sysadmins
+Official USENIX YouTube Channel

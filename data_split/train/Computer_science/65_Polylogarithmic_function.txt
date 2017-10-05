@@ -1,0 +1,77 @@
+A polylogarithmic function in n is a polynomial in the logarithm of n,
+
+  
+    
+      
+        
+          a
+          
+            k
+          
+        
+        (
+        log
+        ⁡
+        n
+        
+          )
+          
+            k
+          
+        
+        +
+        ⋯
+        +
+        
+          a
+          
+            1
+          
+        
+        (
+        log
+        ⁡
+        n
+        )
+        +
+        
+          a
+          
+            0
+          
+        
+        .
+      
+    
+    {\displaystyle a_{k}(\log n)^{k}+\cdots +a_{1}(\log n)+a_{0}.}
+  
+In computer science, polylogarithmic functions occur as the order of time or memory used by some algorithms (e.g., "it has polylogarithmic order").
+All polylogarithmic functions of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   are 
+  
+    
+      
+        o
+        (
+        
+          n
+          
+            ε
+          
+        
+        )
+      
+    
+    {\displaystyle o(n^{\varepsilon })}
+   for every exponent ε > 0 (for the meaning of this symbol, see small o notation), that is, a polylogarithmic function grows more slowly than any positive exponent. This observation is the basis for the soft O notation Õ(n).
+
+
+== References ==
+Black, Paul E. (2004-12-17). "polylogarithmic". Dictionary of Algorithms and Data Structures. U.S. National Institute of Standards and Technology. Retrieved 2010-01-10.

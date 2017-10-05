@@ -1,0 +1,30 @@
+The International Conference on Language Resources and Evaluation is an international conference organised by the European Language Resources Association every other year (on even years) with the support of institutions and organisations involved in Natural language processing. The series of LREC conferences was launched in Granada in 1998.
+
+
+== History of conferences ==
+Forthcoming conference:
+LREC 2018 Miyazaki (Japan)
+Past conferences:
+2016 Portorož (Slovenia)
+2014 Reykjavík (Iceland)
+2012 Istanbul (Turkey)
+2010 Valletta (Malta)
+2008 Marrakech (Morocco)
+2006 Genoa (Italy)
+2004 Lisbon (Portugal)
+2002 Las Palmas (Spain)
+2000 Athens (Greece)
+1998 Granada (Spain)
+The survey of the LREC conferences over the period 1998-2013 has been presented during the 2014 conference  in Reykjavik as a closing session. It appears that the number of papers and signatures is increasing over time. The average number of authors per paper is highier too. The percentage of new authors is between 68% and 78%. The distribution between male (65%) and female (35%) authors is stable over time. The most frequent technical term is "annotation", then comes "part-of-speech".
+
+
+== The LRE Map ==
+The LRE Map was introduced at LREC 2010 and is now a regular feature of the LREC submission process for both the conference papers and the workshop papers. At the submission stage, the authors are asked to provide some basic information about all the resources (in a broad sense, i.e. including tools, standards and evaluation packages), either used or created, described in their papers. All these descriptors are then gathered in a global matrix called the LRE Map. This feature has been extended to several other conferences.
+
+
+== References ==
+
+
+== External links ==
+Conference website
+European Language Resources Association web site

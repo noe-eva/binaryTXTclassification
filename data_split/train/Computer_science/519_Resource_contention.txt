@@ -1,0 +1,15 @@
+In computer science, resource contention is a conflict over access to a shared resource such as random access memory, disk storage, cache memory, internal buses or external network devices. A resource experiencing ongoing contention can be described as oversubscribed.
+Resolving resource contention problems is one of the basic functions of operating systems. Various low-level mechanisms can be used to aid this, including locks, semaphores, mutexes and queues. The other techniques that can be applied by the operating systems include intelligent scheduling, application mapping decision, and page colouring.
+Access to resources is also sometimes regulated by queuing; in the case of computing time on a CPU the controlling algorithm of the task queue is called a scheduler.
+Failure to properly resolve resource contention problems may result in a number of problems, including deadlock, livelock, and thrashing.
+Resource contention results when multiple processes attempt to use the same shared resource. Access to memory areas is often controlled by semaphores, which allows a pathological situation called a deadlock, when different threads or processes try to allocate resources already allocated by each other. A deadlock usually leads to a program becoming partially or completely unresponsive.
+In recent years, research on the contention is more focused on the resources in the memory hierarchy, e.g., last-level caches, front-side bus, memory socket connection.
+
+
+== References ==
+
+
+== See also ==
+Bus contention
+Resource allocation
+Collision avoidance (networking)

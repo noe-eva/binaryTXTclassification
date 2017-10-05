@@ -1,0 +1,40 @@
+In computing a storage violation is a hardware or software fault that occurs when a task attempts to access an area of computer storage which it is not permitted to access.
+
+
+== Types of storage violation ==
+Storage violation can, for instance, consist of reading from, writing to, or freeing storage not owned by the task. A common type of storage violation is known as a stack buffer overflow where a program attempts to exceed the limits set for its call stack. It can also refer to attempted modification of memory "owned" by another thread where there is incomplete (or no) memory protection.
+
+
+== Avoidance of storage violations ==
+Storage violations can occur in transaction systems such as CICS in circumstances where it is possible to write to storage not owned by the transaction; such violations can be reduced by enabling features such as storage protection and transaction isolation.
+
+
+== Detection of storage violations ==
+Storage violations can be difficult to detect as a program can often run for a period of time after the violation before it crashes. For example, a pointer to a freed area of memory can be retained and later reused causing an error. As a result, efforts focus on detecting violations as they occur, rather than later when the problem is observed.
+In systems such as CICS, storage violations are sometimes detected (by the CICS kernel) by the use of "signatures", which can be tested to see if they have been overlaid.
+An alternative runtime library may be used to better detect storage violations, at the cost of additional overhead. Some programming languages use software bounds checking to prevent these occurrences.
+Some program debugging software will also detect violations during testing.
+
+
+== Common causes ==
+A runaway subscript leading to illegal use of reference modification during run time.
+Linkage layout mismatch between called and the calling elements.
+Use of previously freed (and sometimes already re-allocated) memory.
+
+
+=== Examples of software detecting storage violations ===
+Intertest originally from Online Software International, later Computer Associates
+
+
+== See also ==
+Segmentation fault
+
+
+== References ==
+
+IBM. "CICS Transaction Server for z/OS, Version 3 Release 2 Information Center". IBM. Retrieved 2008-10-20. 
+CICS problem determination Guide
+
+
+== External links ==
+https://plus.google.com/u/1/collection/wUwasB Marketing material for other product detecting storage violations

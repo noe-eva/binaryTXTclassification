@@ -1,0 +1,6 @@
+In computer science, pattern-directed invocation programming languages are programming languages in which procedures are invoked indirectly by specifying a pattern for a set of procedures as opposed to specifying one directly by name, pointer, URL, etc., as in conventional programming. These languages were initiated by Planner which featured high level plans invoked by patterns for assertions and goals. They include logic programming languages such as Prolog as a special case. Ether was a pattern-directed invocation language introduced in the Scientific Community Metaphor.
+Pattern-directed invocation is a commonly used and more practical alternative to first-order theorem proving in automated theorem proving, and is the primary method of implementing a blackboard system for automated reasoning in general. In it, a database of facts (a la Prolog) is augmented with a set of procedures called demons. A demon is automatically invoked whenever a term matching the demon's pattern is added to the database.
+Pattern-directed invocation is related to rule-based programming.
+
+
+== Notes ==

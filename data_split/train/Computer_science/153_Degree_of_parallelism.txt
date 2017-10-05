@@ -1,0 +1,2 @@
+The degree of parallelism (DOP) is a metric which indicates how many operations can be or are being simultaneously executed by a computer. It is especially useful for describing the performance of parallel programs and multi-processor systems.
+A program running on a parallel computer may utilize different numbers of processors at different times. For each time period, the number of processors used to execute a program is defined as the degree of parallelism. The plot of the DOP as a function of time for a given program is called the parallelism profile.

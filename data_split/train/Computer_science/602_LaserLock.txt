@@ -1,0 +1,8 @@
+LaserLock is a CD-ROM copy restriction technique. It works by including a hidden directory on the CD which contains corrupted data. When the disk is copied, the read device encounters errors due to the hidden directory.
+
+
+== Notes ==
+
+
+== See also ==
+Official FAQ

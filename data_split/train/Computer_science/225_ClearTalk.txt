@@ -1,0 +1,11 @@
+ClearTalk is a controlled natural language—a kind of a formal language for expressing information that is designed to be both human-readable (being based on English) and easily processed by a computer.
+Anyone who can read English can immediately read ClearTalk, and the people who write ClearTalk learn to write it while using it. The ClearTalk system itself does most of the training through use: the restrictions are shown by menus and templates and are enforced by immediate syntactic checks. By consistently using ClearTalk for its output, a system reinforces the acceptable syntactic forms.
+It is used by the experimental knowledge management software Ikarus and by a knowledge base management system Fact Guru.
+
+
+== See also ==
+Newspeak
+Attempto Controlled English
+
+
+== References ==

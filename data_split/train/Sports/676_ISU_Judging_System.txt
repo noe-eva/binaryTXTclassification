@@ -1,0 +1,130 @@
+The ISU Judging System (also called Code of Points (CoP) or the International Judging System (IJS)), is the scoring system currently used to judge the figure skating disciplines of men's and ladies' singles, pair skating, ice dancing, and synchronized skating. It was designed and implemented by the International Skating Union (ISU), the ruling body of the sport. This system of scoring is used in all international competitions sanctioned by the ISU, including the Olympic Games. The ISU Judging System replaced the previous 6.0 system in 2004. This new system was created in response to the 2002 Winter Olympics figure skating scandal, in an attempt to make the scoring system more objective and less vulnerable to abuse.
+
+
+== Previous judging system ==
+
+Figure skating was formerly judged on a 6.0 scale. This scale is sometimes called "the old scale", or "old system". Skaters were judged on "technical merit" (in the free skate), "required elements" (in the short program), and "presentation" (in both programs). The marks for each program ran from 0.0 to 6.0 and were used to determine a preference ranking, or "ordinal", separately for each judge; the judges' preferences were then combined to determine placements for each skater in each program. The placements for the two programs were then combined, with the free skate placement weighted more heavily than the short program. The highest scoring individual (based on the sum of the weighted placements) was declared the winner.
+
+
+== Scandal and response ==
+
+In 2004, after the judging controversy during the 2002 Winter Olympics, the ISU adopted the New Judging System (NJS), or Code of Points, which became mandatory at all international competitions in 2006, including the 2006 Winter Olympics.
+
+
+== Technical details ==
+
+
+=== Technical panel ===
+Under the ISU Judging System, technical marks are awarded individually for each skating element. Competitive programs are constrained to have a set number of elements. Each element is judged first by a technical specialist who 'calls' the specific element for marking by the judging panel. The technical specialist uses instant replay video to make final verifications; e.g. the exact foot position at take-off and landing of a jump. The decision of the technical specialist determines the base value of the element. The Technical Specialist and his assistant work alongside the Technical Controller who verifies their decisions and inputs technical deductions such as falls, extra elements or illegal elements.
+
+
+=== Judging panel ===
+The Judging panel is composed of nine judges and one referee. Each judge gets elements sent to their computer by the Technical Panel for marking. The panel then award a mark for grade of execution (GOE) that is an integer from -3 to +3. The GOE mark is then translated into a value by using the Scale of Value (SOV) Table published regularly by ISU Communications. The GOE value from the nine judges is then averaged using the "trimmed mean" procedure, discarding the highest and lowest values and averaging the remaining seven. This average value (which can be positive or negative) is then added to the base value to get panel's score for the element. Judges also mark the Program Components — Skating Skills, Transitions/Linking Footwork, Performance and Execution, Composition and Choreography and finally, Interpretation and Timing. These Components are marked on a scale of 0.25-10 with 0.25 increments and averaged using the same "trimmed mean" procedure. Judges also have the power to input majority deductions such as Music Violations, and Costume/Prop Violations. The Referee inputs other deductions such as Time Violations, Interruption in Excess and Costume Failures.
+
+
+=== Elements ===
+The number and type of elements in a skating program really depends on the event and on the level of competition. At the senior international level, single and pairs short programs contain eight technical elements. The actual eight elements are detailed for single skaters in ISU rule 310. Each skater must attempt one combination jump, two solo jumps, three spins, and two skating sequences. The eight elements required for a senior pairs short program include two lifts, one side-by-side jump, one throw jump, one side-by-side spin, one pair spin, one step sequence, and one death spiral (ISU rule 313).
+Senior level free programs have 14 elements for pairs, 13 elements for men, and 12 elements for ladies. The details of the elements are given by ISU rules 520 and 521 (2008 version). Pairs do 4 lifts, 4 jumps, 3 spins(including 1 death spiral), 1 step sequence, and 1 spiral sequence. Men do 8 jumps, 3 spins, 1 step sequence, and 1 choreographic step sequence. Ladies do 7 jumps, 3 spins, 1 step sequence and 1 spiral sequence. NOTE: Beginning with the 2010-2011 Season, the choreographic step sequence and spiral sequence was replaced with the choreographic sequence.
+
+
+=== Component factoring ===
+The panel's points for each Program Component are multiplied by a factor depending on the event. For singles and pair skating, the factor is uniform for all components:
+The factors in Ice Dance are different for each component and depend on the dance type.
+
+
+=== Protocol details ===
+Following an event, the complete judges scores are published in a document referred to as a protocol. There are specific notations used on the protocols.
+If a skater attempts more than the allowed number of a certain type of element in a program, then the element is still described and called as such by the technical controller, but receives a base value of 0 as well as a GOE of 0, regardless of how judges may have marked it. On ISU protocol sheets, elements that have been nullified by this are denoted by an asterisk ( * ) next to the element name. In free skating, for jumps executed twice as solo jumps, the second jump is marked as +REP and receives 70% of its base value. Jump elements performed after the halfway point of a program are marked with an x and receive a 10% bonus added to their base value. If a jump has been called as having an unclear take-off edge are marked with an ! and should receive a -1 to -2 GOE depending on severity; a jump that has been called as having an incorrect take-off edge (for example, an inside edge on a Lutz jump take-off), that jump is marked with an e and should receive a -2 or -3 GOE depending on severity. Jumps that are underrotated are marked with a < or << depending on the degree of turns completed on the ice instead of mid-air. < indicates that a jump had less than a ½ turn but more than a ¼ turn completed on the ice, which reduces the base value to 70% of its original value. << indicates a severe underrotation (½ turn or more), and the jump is valued as if it had one less rotation (e.g. a triple would receive the value of a double)
+Jumps done in combination or sequence are marked as a single element, with a base mark equal to the sum of the base marks for the individual jumps. However, a combination or sequence can be downgraded (marked with +COMBO (combinations in the short program) or +SEQ (combinations and sequences in the free skate)), in which case the sum of the base values of the jumps is reduced by 80%.
+
+
+==== Base values and abbreviations of common elements ====
+The following is a list of the common elements.
+The level of a spin or footwork sequence is denoted by the number following the element abbreviation. The number of rotations on a jump is denoted by the number preceding the element abbreviation. For example, 3A denotes a triple axel, while SlSt4 denotes a level four straight line step sequence. ChSt and ChSq are step sequences and spiral sequences that have no level and a fixed base value.
+
+
+=== In ice dancing ===
+Ice dancing judging is similar to pairs and singles, but uses a separate set of rules and table of values. In the compulsory dance, steps are specified and "elements" are defined for each dance as subsets of the prescribed steps. For compulsory dance only, there is no program component score given for transitions and choreography. Instead there is a timing (TI) program component that is exclusive to the compulsory dance, leaving only four program components in the compulsory dance. In the original dance there are 5 marked technical elements. In the free dance, there are 9 marked technical elements. Unlike singles and pair skating, the different program components are weighted differently in each segment of the competition. The highest factored component(s) in each segment are skating skills and timing in the compulsory dance, interpretation in the original dance, and transitions in the free dance. The exact values of these factors are listed in ISU Rule 543.1k.
+
+
+== High scores ==
+
+
+=== ISU Personal Best ===
+Under the ISU judging system, the highest score a skater earns in a career is known as a personal best. An ISU Personal Best is a score set at a competition run under the auspices of the International Skating Union. Only certain events count for personal best scores. National-level events do not count towards personal bests.
+
+
+=== Season's best ===
+Unlike an ISU Personal Best score, which is the highest score set over a lifetime, the season's best score is the highest score earned by a skater in a season. Season's best scores help determine the fields to the ISU Grand Prix of Figure Skating.
+
+
+=== Best scores ===
+The following are the highest scores that have been earned under Code of Points since its inception. It does not differentiate for changes made to the system. The ISU only recognizes best scores set at international competitions run under ISU rules, not at national competitions.
+For more complete list, see list of highest scores in figure skating.
+
+
+==== Men ====
+Men: TOP 8 Best total score
+See also progression of men's combined total, short program and free skating record scores.
+
+
+==== Ladies ====
+Ladies: TOP 8 Best total score
+See also progression of ladies' combined total, short program and free skating record scores.
+
+
+==== Pairs ====
+Pairs: TOP 8 Best total score
+See also progression of pairs' combined total, short program and free skating record scores.
+
+
+==== Ice Dancing ====
+The Compulsory Dance and Original Dance were eliminated at the end of the 2009–2010 season and replaced by the Short Dance.
+Ice dance: TOP 8 Best total score
+See also progression of combined total score of ice dancing, short dance and free dance record scores.
+
+
+==== Juniors ====
+For complete list of junior record holders, see list of current junior record holders.
+Men: TOP 4 Best total score
+See also progression of junior men's combined total, short program and free skating record scores.
+Ladies: TOP 4 Best total score
+See also progression of junior ladies' combined total, short program and free skating record scores.
+Pairs: TOP 4 Best total score
+See also progression of junior pairs' combined total, short program and free skating record scores.
+Ice Dance: TOP 4 Best total score
+See also progression of combined total score of junior ice dancing, short dance and free dance record scores.
+
+
+==== Synchronized Skating ====
+
+
+== Subjectivity ==
+Like gymnastics and diving competitions, judging in figure skating is inherently subjective. Although there may be general consensus that one skater "looks better" than another, it is difficult to get agreement on what it is that causes one skater to be marked as 5.5 and another to be 5.75 for a particular program component. As judges, coaches, and skaters get more experience with the new system, more consensus may emerge. However, for the 2006 Olympics there were cases of 1 to 1.5 points differences in component marks from different judges. This range of difference implies that "observer bias" determines about 20% of the mark given by a judge. Averaging over many judges reduces the effect of this bias in the final score, but there will remain about a 2% spread in the average artistic marks from the randomly selected subsets of judges.
+Aside from intra-expert subjectivity, skating is very open to misjudgement from everyday spectators who only see skating casually, i.e. every four years at the Olympics. A skater's jump may look perfect, but the general public will not be aware that the competitor landed on an incorrect edge, therefore receiving fewer points for an element, resulting in the appearance of haphazard or biased judging.
+
+
+== Criticism ==
+The ISU judging system moves figure skating closer to judging systems used in sports like diving and gymnastics. It also has some features intended to make judging more resistant to pressure by special interests. However, there is debate whether the new system is an improvement over the old 6.0 system.
+Originally under the new ISU rules, the judges' marks were anonymous, which removed any public accountability of the judges for their marks. The problems with this system came to the forefront during the Sochi Olympics in 2014, and in June 2016 the ISU voted to abolish anonymous judging.
+
+
+== Ties ==
+While COP has minimized the number of ties and the need for multiple tiebreaks like there was under 6.0, ties still do occur. At the 2007 World Figure Skating Championships, Yukari Nakano and Carolina Kostner tied for 5th place with 168.92 points overall. Nakano won 5th place on the tiebreak, which was the free skate placement, and Kostner dropped to 6th. Ties for single segments of the competition also occur. At the 2004 Skate America, Alissa Czisny and Cynthia Phaneuf tied in the short program at 50.20, with both earning a TES score of 25.40 and a PCS score of 24.80.
+At the 2008 U.S. Figure Skating Championships, Johnny Weir and Evan Lysacek tied in the overall score. The tie was broken by the free skate placement and Lysacek won the event. At the 2009 U.S. Figure Skating Championships, Katrina Hacker and Mirai Nagasu tied in the short program, with Hacker winning the tiebreak on the technical elements score. At the same competition, Laney Diggs and Kristine Musademba tied in the overall score, with Diggs winning the tiebreak on the free skate placement.
+At the 2009 World Figure Skating Championships, Sergei Voronov and Jeremy Abbott tied with a score of 72.15 in the men's short program. The tie was broken by the technical mark and so Voronov placed 9th in that segment and Abbott 10th.
+At the 2009 ISU World Team Trophy in Figure Skating, Joannie Rochette and Miki Ando tied with a scored of 62.08 in the ladies short program. The tie was broken by the technical mark, so Rochette placed 2nd in that segment, while Ando was 3rd.
+
+
+== Judge reduction in 2008 ==
+In 2008, the International Skating Union ruled to reduce the number of judges from 12 to 9. Ottavio Cinquanta cited economic difficulties as the prime reason for this change. Because the top and bottom extreme scores are dropped, the scores of 7 judges will determine the outcome of competitions.
+
+
+== References ==
+
+
+== External links ==
+ISU Judging System Summary
+ISU Judging Systems
+How the ISU Judging System Works
+ISU Judging System programs

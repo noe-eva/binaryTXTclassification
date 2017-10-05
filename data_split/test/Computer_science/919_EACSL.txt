@@ -1,0 +1,9 @@
+The European Association for Computer Science Logic (EACSL), founded 14 July 1992, is an international professional non-profit organization representing the interests of its members and promoting computer science logic in the areas of scientific research and education. It supports both basic and application oriented research to advance the connections between basic research and industrial applications. The current president is Prof. Anuj Dawar (University of Cambridge, UK).
+Each year, the EACSL organizes the international conference Computer Science Logic (CSL)  and publishes the associated proceedings, it supports several workshops and summer schools  and sponsors the Ackermann Award, the EACSL Outstanding Dissertation Award for Logic in Computer Science. The annual general meeting of members takes place each year during the annual international conference CSL.
+
+
+== References ==
+
+
+== External links ==
+[4] — EACSL official home page.

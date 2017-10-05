@@ -1,0 +1,31 @@
+The European Summer School in Logic, Language and Information (ESSLLI) is an annual academic conference organized by the European Association for Logic, Language and Information. The focus of study is the "interface between linguistics, logic and computation, with special emphasis on human linguistic and cognitive ability". The conference is held over two weeks of the European Summer, and offers about 50 courses at introductory and advanced levels. It attracts around 500 participants from all over the world.
+
+
+== Venues ==
+
+
+== See also ==
+Dynamic semantics
+Generalized quantifier
+Type theory
+
+
+== References ==
+
+
+== Bibliography ==
+Program for ESSLLI 2015: Barcelona
+Program for ESSLLI 2014: Tübingen
+Program for ESSLLI 2013: Düsseldorf
+Program for ESSLLI 2012: Opole
+Program for ESSLLI 2011: Ljubljana
+Program for ESSLLI 2010: Copenhagen
+Program for ESSLLI 2009: Bordeaux
+Program for ESSLLI 2008: Hamburg
+Program for ESSLLI 2007: Dublin
+Program for ESSLLI 2006: Málaga
+Program for ESSLLI 2005: Edinburgh
+
+
+== External links ==
+Association for Logic, Language and Information — official home page

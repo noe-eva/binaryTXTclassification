@@ -1,0 +1,12 @@
+In computer science, the concept of protected procedure, first introduced as protected service routine in 1965, is necessary when two computations A and B use the same routine S; a protected procedure is such if makes not possible for a malfunction of one of the two computation to cause incorrect execution to the other.
+One of the most important aspects of Dennis and Van Horn (hypothetical) system "supervisor" was the inclusion of a description of protected procedure.
+In a global environment system (where there's some shared variable), the protected procedure mechanism allows the enforcement of the principle of least privilege and the avoidance of side effects in resources management (see Denning principles).
+
+
+== Footnotes ==
+
+
+== References ==
+Dennis, J. B., and Glasee, E. The structure of on-line information processing systems. Information Systems Sciences: Proc. Second Cong., Spartan Books, Baltimore, 1965, pp. 1–11
+J. B. Dennis and E. C. Van Horn. Programming Semantics for Multiprogrammed Computations. Communications of the ACM 9(3), March 1966.
+Levy, Henry M. (1984). "3". Capability-based computer systems. Maynard, Mass: Digital Press. ISBN 0-932376-22-3.

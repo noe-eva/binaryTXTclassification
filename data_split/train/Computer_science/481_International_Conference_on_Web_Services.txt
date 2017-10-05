@@ -1,0 +1,14 @@
+The International Conference on Web Services or ICWS is an international forum for researchers and industry practitioners focused on Web services. ICWS is sponsored by the IEEE Computer Society Technical Committee on Services Computing.
+
+
+== Areas of focus ==
+ICWS features research papers with a wide range of topics, focusing on various aspects of IT services. Some of the topics include Web services specifications and enhancements, Web services discovery and integration, Web services security, Web services standards and formalizations, Web services modeling, Web services-oriented software engineering, Web services-oriented software testing, Web services-based applications and solutions, Web services realizations, semantics in Web services, and all aspects of Service-Oriented Architecture (SOA) infrastructure.
+
+
+== History ==
+As the first academic conference in the field of Web services, the first International Conference on Web Services (ICWS 2003) was held at Monte Carlo Resort in Las Vegas, Nevada, June 23 - 26, 2003, attracting hundreds of participants from 25 countries. ICWS 2004 was held at Westin Horton Plaza in San Diego, California, July 6-9, 2004. ICWS 2004 attracted about 250 registered participants from 22 countries and regions. The joint ICWS 2005 and SCC 2005 has attracted more than 300 registered participants in Orlando, Florida, USA. Again the joint ICWS 2006 and SCC 2006 has attracted more than 300 registered participants in Chicago, Illinois, USA. ICWS 2007 was held on July 9-13, Salt Lake City, Utah, USA.
+
+
+== External links ==
+International Conference on Web Services
+IEEE Computer Society Technical Committee on Services Computing

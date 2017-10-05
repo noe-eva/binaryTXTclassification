@@ -1,0 +1,69 @@
+Algorithmic topology, or computational topology, is a subfield of topology with an overlap with areas of computer science, in particular, computational geometry and computational complexity theory.
+A primary concern of algorithmic topology, as its name suggests, is to develop efficient algorithms for solving problems that arise naturally in fields such as computational geometry, graphics, robotics, structural biology and chemistry, using methods from computable topology.
+
+
+== Major algorithms by subject area ==
+
+
+=== Algorithmic 3-manifold theory ===
+A large family of algorithms concerning 3-manifolds revolve around normal surface theory, which is a phrase that encompasses several techniques to turn problems in 3-manifold theory into integer linear programming problems.
+Rubinstein and Thompson's 3-sphere recognition algorithm. This is an algorithm that takes as input a triangulated 3-manifold and determines whether or not the manifold is homeomorphic to the 3-sphere. It has exponential run-time in the number of tetrahedral simplexes in the initial 3-manifold, and also an exponential memory profile. Moreover, it is implemented in the software package Regina. Saul Schleimer went on to show the problem lies in the complexity class NP. Furthermore, Raphael Zentner showed that the problem lies in the complexity class coNP, provided that the generalized Riemann hypothesis holds. He uses instanton gauge theory and subsequent work of Greg Kuperberg  on the complexity of knottedness detection.
+The connect-sum decomposition of 3-manifolds is also implemented in Regina, has exponential run-time and is based on a similar algorithm to the 3-sphere recognition algorithm.
+Determining that the Seifert-Weber 3-manifold contains no incompressible surface has been algorithmically implemented by Burton, Rubinstein and Tillmann  and based on normal surface theory.
+The Manning algorithm is an algorithm to find hyperbolic structures on 3-manifolds whose fundamental group have a solution to the word problem.
+At present the JSJ decomposition has not been implemented algorithmically in computer software. Neither has the compression-body decomposition. There are some very popular and successful heuristics, such as SnapPea which has much success computing approximate hyperbolic structures on triangulated 3-manifolds. It is known that the full classification of 3-manifolds can be done algorithmically.
+
+
+==== Conversion algorithms ====
+SnapPea implements an algorithm to convert a planar knot or link diagram into a cusped triangulation. This algorithm has a roughly linear run-time in the number of crossings in the diagram, and low memory profile. The algorithm is similar to the Wirthinger algorithm for constructing presentations of the fundamental group of link complements given by planar diagrams. Similarly, SnapPea can convert surgery presentations of 3-manifolds into triangulations of the presented 3-manifold.
+D.Thurston and F.Costantino have a procedure to construct a triangulated 4-manifold from a triangulated 3-manifold. Similarly, it can be used to construct surgery presentations of triangulated 3-manifolds, although the procedure is not explicitly written as an algorithm in principle it should have polynomial run-time in the number of tetrahedra of the given 3-manifold triangulation.
+S. Schleimer has an algorithm which produces a triangulated 3-manifold, given input a word (in Dehn twist generators) for the mapping class group of a surface. The 3-manifold is the one that uses the word as the attaching map for a Heegaard splitting of the 3-manifold. The algorithm is based on the concept of a layered triangulation.
+
+
+=== Algorithmic knot theory ===
+Determining whether or not a knot is trivial is known to be in the complexity class NP 
+The problem of determining the genus of a knot is known to have complexity class PSPACE.
+There are polynomial-time algorithms for the computation of the Alexander polynomial of a knot.
+
+
+=== Computational homotopy ===
+Computational methods for homotopy groups of spheres.
+Computational methods for solving systems of polynomial equations.
+Brown has an algorithm to compute the homotopy groups of spaces that are finite Postnikov complexes, although it is not widely considered implementable.
+
+
+=== Computational homology ===
+Computation of homology groups of cell complexes reduces to bringing the boundary matrices into Smith normal form. Although this is a completely solved problem algorithmically, there are various technical obstacles to efficient computation for large complexes. There are two central obstacles. Firstly, the basic Smith form algorithm has cubic complexity in the size of the matrix involved since it uses row and column operations which makes it unsuitable for large cell complexes. Secondly, the intermediate matrices which result from the application of the Smith form algorithm get filled-in even if one starts and ends with sparse matrices.
+Efficient and probabilistic Smith normal form algorithms, as found in the LinBox library.
+Simple homotopic reductions for pre-processing homology computations, as in the Perseus software package.
+Algorithms to compute persistent homology of filtered complexes.
+
+
+== See also ==
+Computable topology (the study of the topological nature of computation)
+Computational geometry
+Digital topology
+Topological data analysis
+Spatial-temporal reasoning
+Experimental mathematics
+Geometric modeling
+
+
+== References ==
+
+
+== External links ==
+CompuTop software archive
+Workshop on Application of Topology in Science and Engineering
+Computational Topology at Stanford University
+Computational Homology Software (CHomP) at Rutgers University.
+Computational Homology Software (RedHom) at Jagellonian University.
+The Perseus software project for (persistent) homology.
+The javaPlex Persistent Homology software at Stanford.
+PHAT: persistent homology algorithms toolbox.
+
+
+== Books ==
+Tomasz Kaczynski; Konstantin Mischaikow; Marian Mrozek (2004). Computational Homology. Springer. ISBN 0-387-40853-3. 
+Afra J. Zomorodian (2005). Topology for Computing. Cambridge. ISBN 0-521-83666-2. 
+Computational Topology: An Introduction, Herbert Edelsbrunner, John L. Harer, AMS Bookstore, 2010, ISBN 978-0-8218-4925-5

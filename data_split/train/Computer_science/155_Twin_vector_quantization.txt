@@ -1,0 +1,4 @@
+In data compression, twin vector quantization is related to vector quantization, but the speed of the quantization is doubled by the secondary vector analyzer.
+By using a subdimensional vector space useless hyperspace will be destroyed in the process.
+The formula for calculating the amount of destroyed hyperspace is:
+H(x) = 5.22 / 4m

@@ -1,0 +1,9 @@
+The Symposium on Trends in Functional Programming (TFP) is focused on research in the field of functional programming and investigating relationships with other branches of computer science.
+
+
+== See also ==
+ICFP: International Conference on Functional Programming
+
+
+== External links ==
+Home page of TFP

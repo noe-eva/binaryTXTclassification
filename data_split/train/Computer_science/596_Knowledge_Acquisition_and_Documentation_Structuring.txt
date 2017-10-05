@@ -1,0 +1,19 @@
+Knowledge Acquisition and Documentation Structuring (KADS) is a structured way of developing knowledge-based systems (expert systems). It was developed at the University of Amsterdam as an alternative to an evolutionary approach and is now accepted as the European standard for knowledge based systems
+Its components are:
+A methodology for managing knowledge engineering projects.
+A knowledge engineering workbench.
+A methodology for performing knowledge elicitation.
+KADS was further developed into CommonKADS.
+
+
+== KADS methodology and the industrial development of expert systems ==
+A study carried out in 1989 showed that the main reason why expert systems were not being used was an insufficiency of methods for development, especially in the construction of knowledge bases, e.g. the transfer of expertise.
+Knowledge Based Systems Analysis and Design Support (KADS) originating in the European ESPRIT project P1098 and representing 75 person-years of work, was one of the most highly developed KBs (Knowledge Based Systems) in the early 90s. This pioneering method provides two types of support for the production of KBs in an industrial approach: firstly, a lifecycle enabling a response to be made to technical and economic constraints (control of the production process, quality assurance of the system,...), and secondly a set of models which structure the production of the system, especially the tasks of analysis and the transformation of expert knowledge into a form exploitable by the machine.
+
+
+== References ==
+This article is based on material taken from the Free On-line Dictionary of Computing prior to 1 November 2008 and incorporated under the "relicensing" terms of the GFDL, version 1.3 or later.
+
+
+== External links ==
+CommonKADS website

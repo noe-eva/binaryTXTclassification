@@ -1,0 +1,12 @@
+OIL (Ontology Inference Layer or Ontology Interchange Language) can be regarded as an ontology infrastructure for the Semantic Web. OIL is based on concepts developed in Description Logic (DL) and frame-based systems and is compatible with RDFS.
+OIL was developed by Dieter Fensel, Frank van Harmelen (Vrije Universiteit, Amsterdam) and Ian Horrocks (University of Manchester) as part of the IST OntoKnowledge project.
+Much of the work in OIL was subsequently incorporated into DAML+OIL and the Web Ontology Language (OWL).
+
+
+== See also ==
+DARPA Agent Markup Language (DAML)
+DAML+OIL
+Ontology
+
+
+== References ==

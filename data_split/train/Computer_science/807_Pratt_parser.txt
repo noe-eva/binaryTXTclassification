@@ -1,0 +1,13 @@
+In computer science, a Pratt parser is an improved recursive descent parser that associates semantics with tokens instead of grammar rules. It was first described by Vaughan Pratt in the 1973 paper "Top down operator precedence", and was treated in much more depth in a Masters Thesis under his supervision. Pratt designed the parser originally to implement the CGOL programming language. Douglas Crockford used the technique to build JSLint.
+
+
+== Notes ==
+
+
+== See also ==
+Operator Precedence Parser
+
+
+== External links ==
+Pratt Parsers: Expression Parsing Made Easy
+A Pratt Parser implementation in Python

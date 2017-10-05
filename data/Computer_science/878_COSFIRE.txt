@@ -1,0 +1,5 @@
+COSFIRE stands for Combination Of Shifted FIlter REsponses.
+COSFIRE is a trainable filter, which can be used for interest point (keypoint) detection and pattern recognition in the field of computer vision.
+
+
+== References ==

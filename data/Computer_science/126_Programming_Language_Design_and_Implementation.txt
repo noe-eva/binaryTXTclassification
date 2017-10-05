@@ -1,0 +1,153 @@
+Programming Language Design and Implementation (PLDI) is one of the ACM SIGPLAN's most important conferences. The precursor of PLDI was the Symposium on Compiler Optimization, held July 27–28, 1970 at the University of Illinois at Urbana-Champaign and chaired by Robert S. Northcote. That conference included papers by Frances E. Allen, John Cocke, Alfred V. Aho, Ravi Sethi, and Jeffrey D. Ullman. The first conference in the current PLDI series took place in 1979 under the name SIGPLAN Symposium on Compiler Construction in Denver, Colorado. The next Compiler Construction conference took place in 1982 in Boston, Massachusetts. The Compiler Construction conferences then alternated with SIGPLAN Conferences on Language Issues until 1988, when the conference was renamed to PLDI. From 1982 until 2001, the conference acronym was SIGPLAN 'xx. Starting in 2002, the initialism became PLDI 'xx, and in 2006 PLDI xxxx.
+
+
+== Conference locations and organizers ==
+PLDI 2015 - SIGPLAN Conference on Programming Language Design and Implementation: Portland, OR, United States
+Conference Chair: Dave Grove
+Program Chair: Steve Blackburn
+Part of the Federated Computing Research Conference 2015
+
+PLDI 2014 - SIGPLAN Conference on Programming Language Design and Implementation: Edinburgh, Scotland, United Kingdom
+Conference Chair: Michael O'Boyle
+Program Chair: Keshav Pingali
+
+PLDI 2013 - SIGPLAN Conference on Programming Language Design and Implementation: Seattle, WA, United States
+Conference Chair: Hans-J. Boehm
+Program Chair: Cormac Flanagan
+
+PLDI 2012 - SIGPLAN Conference on Programming Language Design and Implementation: Beijing, China
+Conference Chairs: Jan Vitek, Haibo Lin
+Program Chair: Frank Tip
+
+PLDI 2011 - SIGPLAN Conference on Programming Language Design and Implementation: San Jose, CA, United States
+Conference Chair: Mary Hall
+Program Chair: David Padua
+Part of the Federated Computing Research Conference 2011
+
+PLDI 2010 - SIGPLAN Conference on Programming Language Design and Implementation: Toronto, ON, Canada
+Conference Chair: Ben Zorn
+Program Chair: Alex Aiken
+
+PLDI 2009 - SIGPLAN Conference on Programming Language Design and Implementation: Dublin, Ireland
+Conference Chair: Michael Hind
+Program Chair: Amer Diwan
+
+PLDI 2008 - SIGPLAN Conference on Programming Language Design and Implementation: Tucson, Arizona, USA
+Conference Chair: Rajiv Gupta
+Program Chair: [aman Amarasinghe
+
+PLDI 2007 - SIGPLAN Conference on Programming Language Design and Implementation: San Diego, California, USA
+Conference Chair: Jeanne Ferrante
+Program Chair: Kathryn S. McKinley
+Part of the Federated Computing Research Conference 2007
+
+PLDI 2006 - SIGPLAN Conference on Programming Language Design and Implementation: Ottawa, Ontario, Canada
+Conference Chair: Michael Schwartzbach
+Program Chair: Thomas Ball
+
+PLDI '05 - SIGPLAN Conference on Programming Language Design and Implementation: Chicago, Illinois, USA
+Conference Chair: Vivek Sarkar
+Program Chair: Mary Hall
+
+PLDI '04 - SIGPLAN Conference on Programming Language Design and Implementation: Washington, D.C., USA
+Conference Chair: William Pugh
+Program Chair: Craig Chambers
+
+PLDI 03 - SIGPLAN Conference on Programming Language Design and Implementation: San Diego, California, USA
+Conference Chair: Ron Cytron
+Program Chair: Rajiv Gupta
+Part of the Federated Computing Research Conference 2003
+
+PLDI '02 - SIGPLAN Conference on Programming Language Design and Implementation: Berlin, Germany
+Conference Chair: Jens Knoop
+Program Chair: Laurie Hendren
+
+SIGPLAN '01 Conference on Programming Language Design and Implementation (PLDI): Snowbird, Utah, USA
+Conference Chair: Michael Burke
+Program Chair: Mary Lou Soffa
+
+SIGPLAN '00 Conference on Programming Language Design and Implementation (PLDI): Vancouver, British Columbia, Canada
+Conference Chair: James Larus
+Program Chair: Monica Lam
+
+SIGPLAN '99 Conference on Programming Language Design and Implementation (PLDI): Atlanta, Georgia, USA
+Conference Chair: Barbara G. Ryder
+Program Chair: Benjamin G. Zorn
+Part of the Federated Computing Research Conference 1999
+
+SIGPLAN '98 Conference on Programming Language Design and Implementation (PLDI): Montreal, Quebec, Canada
+Conference Chair: Jack W. Davidson
+Program Chair: Keith D. Cooper
+
+SIGPLAN '97 Conference on Programming Language Design and Implementation (PLDI): Las Vegas, Nevada, USA
+Conference Chair: Marina Chen
+Program Chair: Ron K. Cytron
+
+SIGPLAN '96] Conference on Programming Language Design and Implementation (PLDI): Philadelphia, Pennsylvania, USA
+Conference Chair: Charles N. Fischer
+Program Chair: Michael Burke
+Part of the Federated Computing Research Conference 1996
+
+SIGPLAN '95 Conference on Programming Language Design and Implementation (PLDI): La Jolla, California, USA
+Conference Chair: David W. Wall
+Program Chair: David R. Hanson
+
+SIGPLAN '94 Conference on Programming Language Design and Implementation (PLDI): Orlando, Florida, USA
+Conference co-Chairs: Barbara Ryder and Mary Lou Soffa
+Program Chair: Vivek Sarkar
+
+SIGPLAN '93 Conference on Programming Language Design and Implementation: Albuquerque, New Mexico, USA
+Conference Chair: Robert Cartwright
+Program Chair: David W. Wall
+
+SIGPLAN '92 Conference on Programming Language Design and Implementation: San Francisco, California
+Conference Chair: Stuart I. Feldman
+Program Chair: Christopher W. Fraser
+
+SIGPLAN '91 Conference on Programming Language Design and Implementation: Toronto, Ontario, Canada
+Conference Chair: Brent Hailpern
+Program Chair: Barbara G. Ryder
+
+SIGPLAN '90 Conference on Programming Language Design and Implementation: White Plains, New York, USA
+Conference Chair: Mark Scott Johnson
+Program Chair: Bernard Lang
+
+SIGPLAN '89 Conference on Programming Language Design and Implementation: Portland, Oregon, USA
+Conference Chair: Bruce Knobe
+Program Chair: Charles N. Fischer
+
+SIGPLAN '88 Conference on Programming Language Design and Implementation: Atlanta, Georgia, USA
+Conference Chair: David S. Wise
+Program Chair: Mayer D. Schwartz
+
+SIGPLAN '87 Symposium on Interpreters and Interpretive Techniques: St. Paul, Minnesota, USA
+Conference Chair: Mark Scott Johnson
+Program Chair: Thomas Turba
+
+SIGPLAN '86 Symposium on Compiler Construction: Palo Alto, California, USA
+Conference Chair: John R. Sopka
+Program Chair: Jeanne Ferrante
+
+SIGPLAN '85 Symposium on Language Issues in Programming Environments: Seattle, Washington, USA
+Conference Chair: Teri Payton
+Program Chair: L. Peter Deutsch
+
+SIGPLAN '84 Symposium on Compiler Construction: Montreal, Quebec, Canada
+Conference Chair: Mary Van Deusen
+Program Chair: Susan L. Graham
+
+SIGPLAN '83 Symposium on Programming Language Issues in Software Systems: San Francisco, California, USA
+Conference Chair: John R. White
+Program Chair: Lawrence A. Rowe
+
+SIGPLAN '82 Symposium on Compiler Construction: Boston, Massachusetts, USA
+Conference Chair: John R. White
+Program Chair: Frances E. Allen
+
+SIGPLAN Symposium on Compiler Construction 1979: Denver, Colorado, USA
+SIGPLAN Symposium on Compiler Optimization 1970: Urbana-Champaign, Illinois, USA
+
+
+== External links ==
+Official website
+DBLP bibliography for PLDI

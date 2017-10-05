@@ -1,0 +1,16 @@
+In operations research, the makespan of a project is the total time that elapses from the beginning to the end. The term commonly appears in the context of scheduling. There is a complex project that is composed of several sub-tasks. We would like to assign tasks to workers, such that the project finishes in the shortest possible time.
+As an example, suppose the "project" is to feed the goats. There are three goats to feed, and there are two children that can feed them: Shmuel feeds each goat in 10 minutes and Shifra feeds each goat in 12 minutes. Several schedules are possible:
+If we let Shmuel feed all goats, then the makespan is 30 (3×10 for Shmuel, 0 for Shifra);
+If we let Shifra feed one goat and Shmuel two goats, then the makespan is 20 (2×10 for Shmuel, 12 for Shifra);
+If we let Shifra feed two goats and Shmuel one goat, then the makespan is 24 (2×12 for Shifra, 10 for Shmuel);
+If we let Shifra feed all goats, then the makespan is 36 (3×12 for Shifra).
+So in this case, the second schedule attains the shortest makespan, which is 20.
+
+
+== Types of makespan minimization problems ==
+Job shop scheduling – there are n jobs and m identical stations. Each job should be executed on a single machine. This is usually regarded as an online problem.
+Open-shop scheduling – there are n jobs and m different stations. Each job should spend some time at each station, in a free order.
+Flow shop scheduling – there are n jobs and m different stations. Each job should spend some time at each station, in a pre-determined order.
+
+
+== References ==

@@ -1,0 +1,96 @@
+Exercise intolerance is a condition of inability or decreased ability to perform physical exercise at what would be considered to be the normally expected level or duration. It also includes experiences of unusually severe post-exercise pain, fatigue, nausea, vomiting or other negative effects. Exercise intolerance is not a disease or syndrome in and of itself, but can result from various disorders.
+Intolerance to exercise may be caused by unusual breathlessness (dyspnea), muscle pain (myalgia), tachypnoea (abnormally rapid breathing), tachycardia (having a faster heart rate than normal) or increasing muscle weakness; or exercise might result in severe headache, nausea, dizziness, occasional muscle cramps or extreme fatigue, which would make it intolerable.
+In most cases, the specific reason that exercise is not tolerated is of considerable significance when trying to isolate the cause down to a specific disease. Dysfunctions involving the pulmonary, cardiovascular or neuromuscular systems have been frequently found to be associated with exercise intolerance, with behavioural causes also playing a part.
+
+
+== Causes ==
+
+
+=== Respiratory disorders ===
+Cystic fibrosis: CF can cause skeletal muscle atrophy however more commonly it can cause exercise intolerance. The exercise intolerance is associated with reduced pulmonary function that is the origin of CF.
+Bronchiectasis
+
+
+=== Chronic fatigue syndrome ===
+Orthostatic intolerance (OI) occurs in CFS. OI includes exercise intolerance as one of the main symptoms. It also includes fatigue, nausea, headaches, cognitive problems and visual disturbances as other less major symptoms.
+
+
+=== Post-concussion syndrome ===
+Exercise intolerance is present in those with PCS however their intolerance to exercise may reduce over time.
+Individuals with postconcussion syndrome may also experience a level of exercise intolerance, however there is little known comparatively about exercise intolerance in PCS patients.
+
+
+=== Heart conditions ===
+Heart failure: Exercise intolerance is a primary symptom of chronic diastolic heart failure.
+Cardiac arrhythmia
+Aortic valve insufficiency
+Pulmonary artery hypertension: PAH has the following symptoms; dyspnea and fatigue, these systems consequently contribute to exercise intolerance.
+Asymptomatic atrial septal defects; In the heart the right ventricular (RV) can have a volume overload which ultimately produces a pressure overload in the RV resulting in exercise intolerance as the RV is no longer able to control high pressure associated with exercise.
+Chronic heart failure
+
+
+=== Musculoskeletal disorders ===
+Spinal muscular atrophy: symptoms include exercise intolerance, cognitive impairment and fatigue.
+Rhabdomyolysis: a condition in which muscle degrades, releasing intracellular muscle content into the blood as reflected by elevated blood levels of creatine kinase. Exercise tolerance is significantly compromised.
+
+
+=== Mutations ===
+Mitochondrial complex 111: Currently it is suggested that there are 27 different mutations identified in cytochrome b (mitochondrial complex III is one of those mutations). This mutation can often lead to skeletal muscle weakness and as a result exercise intolerance.
+a complex of Coenzyme Q10:
+several proteins:
+Skeletal muscle respiratory chain defect: This can result in serve exercise intolerance which is manifested by the following symptoms of Skeletal muscle respiratory chain defect; muscle fatigue and lactic acidosis.
+Exercise tolerance reflects the combined capacity of components in the oxygen cascade to supply adequate oxygen for ATP resynthesis. In individuals with diseases such as cancer, certain therapies can affect one or more components of this cascade and therefore reduce the body's ability to utilise or deliver oxygen, leading to exercise intolerance.
+
+
+=== Cytochrome b mutations ===
+Cytochrome b mutations can frequently cause isolated exercise intolerance and myopathy and in some cases multisystem disorders. The mitochondrial respiratory chain complex III catalyses electron transfer to cytochrome c. Complex III is embedded in the inner membrane of the mitochondria and consists of 11 subunits. Cytochrome b is encoded by the mitochondrial DNA which differs from all other subunits which are encoded in the nucleus. Cytochrome b plays a major part in the correct fabricating and function of complex III.
+This mutation occurred in an 18-year-old man who had experienced exercise intolerance for most of his adolescence. Symptoms included extreme fatigue, nausea, a decline in physical activity ability and myalgia.
+
+
+=== Intracranial hypertension ===
+Individuals with elevated levels of cerebrospinal fluid can experience increased head pain, throbbing, pulsatile tinnitus, nausea and vomiting, faintness and weakness and even loss of consciousness after exercise or exertion.
+
+
+== Treatment ==
+Exercise is key for many heart and back patients, and a variety of specific exercise techniques are available for both groups. Some exercise specialists are trained in modifications specific to these patients.
+In individuals with heart failure and normal EF (ejection fraction), including aortic distensibility, blood pressure, LV diastolic compliance and skeletal muscle function, aerobic exercise has the potential to improve exercise tolerance. A variety of pharmacological interventions such as verapamil, enalapril, angiotensin receptor antagonism, and aldosterone antagonism could potentially improve exercise tolerance in these individuals as well.
+Research on individuals suffering from Chronic obstructive pulmonary disease (COPD), has found a number of effective therapies in relation to exercise intolerance. These include:
+Oxygen Supplementation
+Reduces carotid body drive and slows respiration at a given level of exercise.
+
+Treatment with bronchodilators
+Clinically useful improvements in expiratory airflow, allows fuller exhalation in a given period of time, reduces dynamic hyperinflation, and prolongs exercise tolerance.
+
+Heliox (79% Helium, 21% oxygen)
+Heliox has a lower density than air.
+Breathing heliox lowers expiratory airflow resistance, decreases dynamic hyperinflation, and prolongs exercise tolerance.
+
+High intensity rehabilitative exercise training
+Increasing the fitness of muscles decreases the amount of lactic acid released at any given level of exercise.
+Since lactic acid stimulates respiration, after rehabilitative training exercising, ventilation is lower, respiration is slowed, and dynamic hyperinflation is reduced.
+
+A combination of these therapies (Combined therapies), have shown the potential to improve exercise tolerance as well.
+
+
+=== Hazards ===
+Certain conditions exist where exercise may be contraindicated or should be performed under the direction of an experienced and licensed medical professional acting within his or her scope of practice. These conditions include:
+Decompensated heart failure
+Recent myocardial infarction
+Hypertrophic cardiomyopathy or cardiomyopathy from recent myocarditis
+Active or suspected myocarditis or pericarditis
+Low left ventricular ejection fraction
+Severe aortic stenosis
+Unstable ischemia
+Unstable arrythmia
+Irregular or resting pulse greater than 100 bpm
+Resting systolic blood pressure >200 mm Hg or resting diastolic blood pressure >110 mm Hg
+Severe pulmonary hypertension
+Severe chronic fatigue syndrome
+Suspected or known dissecting aortic aneurysm
+Recent systemic or pulmonary embolus
+Pneumothorax and haemoptysis
+thrombophlebitis
+The above list does not include all potential contraindications or precautions to exercise. Although it has not been shown to promote improved muscle strength, passive range-of-motion exercise is sometimes used to prevent skin breakdown and prevent contractures in patients unable to safely self-power.
+
+
+== References ==

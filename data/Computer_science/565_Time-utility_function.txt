@@ -1,0 +1,9 @@
+Time-utility functions (TUFs, also called time-value functions) are needed for real-time computing when a deadline occurs.
+They were introduced by E. Douglas Jensen in 1977 as a way to overcome the limited expressiveness in classic deadline constraints in real-time systems. In a graphical interpretation, the utility (positive for reward, negative for penalty) is plotted over the time. A deadline then represents the point where the utility changes from positive to negative. In computer science and programming, this is when a task must be terminated. If not, an exception occurs, which usually leads to an abortion. As such, a TUF is a generalization of deadline constraints in everyday life. With TUF time constraints, timeliness optimality criteria can be specified.
+
+
+== External links ==
+time-utility-functions and real-time computing
+website on real-time computing by E. Douglas Jensen
+Adaptive Time-utility Function Scheme for Downlink Packet Scheduling in IEEE 802.16e/WiMAX Networks
+Time Utility Functions for Modeling and Evaluating Resource Allocations in a Heterogeneous Computing System

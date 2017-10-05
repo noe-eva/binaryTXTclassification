@@ -1,0 +1,9 @@
+SportsML is an XML news exchange standard of the IPTC, the International Press Telecommunications Council. It optimizes the sharing of sports statistics and information such as schedules, results, standings, team statistics and individual statistics.
+SportsML can contain enough data and metadata to properly organize and describe almost any sporting event statistic. Special add-on modules are available for certain sports that are known for especially complex or rich statistics, such as baseball and American football.
+SportsML and its newer sibling SportsML-G2 were originally intended for business-to-business data sharing between news agencies, newspapers, sports statistics databases other news-related parties. However, both standards have found a wider audience among sports teams, fantasy sports leagues, historians and other sports data users.
+As an IPTC standard, SportsML is built on XML and copious amounts of metadata.
+In June 2008, the IPTC approved SportsML-G2 as a parallel standard to SportsML. Although SportsML-G2 is built from standardized XML modules that are used by other IPTC G2 standards, both standards effectively accomplish the same task: Sharing sports data in a clean, unambiguous way that promotes easy use of the data by the receiver.
+
+
+== External links ==
+IPTC Home Page

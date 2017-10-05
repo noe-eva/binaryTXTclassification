@@ -1,0 +1,31 @@
+Adriaan "Aad" van Wijngaarden (2 November 1916 – 7 February 1987) was a Dutch mathematician and computer scientist, who is considered by many to have been the founding father of informatica (computer science) in the Netherlands.
+Even though he was trained as an engineer, Van Wijngaarden would emphasize and promote the mathematical aspects of computing, first in numerical analysis, then in programming languages and finally in design principles of programming languages.
+
+
+== Biography ==
+His education was in mechanical engineering, for which he received a degree from Delft University of Technology in 1939. He then studied for a doctorate in hydrodynamics, but then abandoned the area. He joined the Nationaal Luchtvaartlaboratorium in 1945 and went with a group to England the following year to learn about new technologies that had been developed there during World War II.
+Van Wijngaarden was intrigued by the new idea of automatic computing, and on 1 January 1947 he became the head of the Computing Department of the brand-new Mathematisch Centrum (MC) in Amsterdam. He then made further visits to England and the United States, gathering ideas for the construction of the first Dutch computer, the ARRA, an electromechanical construction first demonstrated in 1952. In that same year, Van Wijngaarden hired Edsger Dijkstra, and they worked on software for the ARRA.
+While visiting Edinburgh in 1958, Van Wijngaarden was seriously injured in an automobile accident in which his wife was killed. After he recovered, he focused more on programming language research, and was one of the designers of the original ALGOL, and later ALGOL 68, for which he developed a two-level type of grammar that became known as Van Wijngaarden grammars. He became the director of the MC in 1961, and remained in that post for the next twenty years.
+In 1959 he became member of the Royal Netherlands Academy of Arts and Sciences.
+
+
+== Van Wijngaarden Awards ==
+Awarded every 5 years from the 60th anniversary of Centrum Wiskunde & Informatica in 2006. Consists of a bronze sculpture.
+2006: Computer scientist Nancy Lynch and mathematician-magician Persi Diaconis.
+2011: Computer scientist Éva Tardos and numerical mathematician John C. Butcher.
+2016: Computer scientist Xavier Leroy and statistician Sara van de Geer.
+
+
+== See also ==
+List of pioneers in computer science
+
+
+== References ==
+
+
+== External links ==
+Adriaan van Wijngaarden at DBLP Bibliography Server
+IFIP 36 years Obituaries: Prof. Adriaan van WIJNGAARDEN (1916–1987)
+Rekenmeisjes en rekentuig door Gerard Alberts. Pythagoras.
+Adriaan van Wijngaarden (1916-1987). Biografisch Woordenboek van Nederlandse Wiskundigen.
+Aad van Wijngaarden’s 100th Birthday

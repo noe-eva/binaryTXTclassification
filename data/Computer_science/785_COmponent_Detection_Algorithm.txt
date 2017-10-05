@@ -1,0 +1,5 @@
+The Component Detection Algorithm (CODA) is a name for a type of LC-MS and chemometrics software algorithm focused on detecting peaks in noisy chromatograms (TIC) often obtained using the electrospray ionization technique.
+The implementation of the algorithm from a mass spectrometry software to another differs. Some implementations need clean chromatograms to substruct background.
+
+
+== References ==

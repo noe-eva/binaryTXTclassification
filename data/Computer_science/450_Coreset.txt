@@ -1,0 +1,4 @@
+In computational geometry, a coreset is a small set of points that approximates the shape of a larger point set, in the sense that applying some geometric measure to the two sets (such as their minimum bounding box volume) results in approximately equal numbers. Many natural geometric optimization problems have coresets that approximate an optimal solution to within a factor of 1 + ε, that can be found quickly (in linear time or near-linear time), and that have size bounded by a function of 1/ε independent of the input size, where ε is an arbitrary positive number. When this is the case, one obtains a linear-time or near-linear time approximation scheme, based on the idea of finding a coreset and then applying an exact optimization algorithm to the coreset. Regardless of how slow the exact optimization algorithm is, for any fixed choice of ε, the running time of this approximation scheme will be O(1) plus the time to find the coreset.
+
+
+== References ==

@@ -1,0 +1,15 @@
+Lexical Simplification is a sub-task of text simplification. It can be defined as any lexical substitution task that reduce text complexity.
+
+
+== See also ==
+Lexical substitution
+
+
+== External links ==
+Task
+Description
+
+
+== References ==
+Advaith Siddharthan. "Syntactic Simplification and Text Cohesion". In Research on Language and Computation, Volume 4, Issue 1, Jun 2006, Pages 77–109, Springer Science, the Netherlands.
+Siddhartha Jonnalagadda, Luis Tari, Joerg Hakenberg, Chitta Baral and Graciela Gonzalez. Towards Effective Sentence Simplification for Automatic Processing of Biomedical Text. In Proc. of the NAACL-HLT 2009, Boulder, USA, June. [1]

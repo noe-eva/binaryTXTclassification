@@ -1,0 +1,19 @@
+The Internet Technical Committee (ITC) is a joint committee of the Internet Society (ISOC) and the IEEE Communications Society (ComSoc). The Internet Technical Committee was officially created in December 1994.
+
+
+== Vision and Goals ==
+The Internet Society stimulates interdisciplinary technical exchange and the application of state of the art communications and related technologies to Internet infrastructure and services. The Committee seeks to generate new technical insights from interaction between the Internet and public network communities, contributing to the worldwide emergence of a ubiquitous, multimedia, and high-performance Internet. The Committee sponsors and cosponsors workshops, organizes sessions at conferences of both Societies, and encourages submission of articles to their publications. The scope of the Committee includes evolution of the IP protocol; architectural and scaling issues; addressing, routing, and directory services; protocols and technologies in support of real-time media; dynamic control of quality of service; congestion control and admission policies; signaling and network management; access via diverse local and metropolitan networks; information retrieval and sharing; and international interoperability of services and applications.
+The committee meets at the major IEEE Communications Society conferences such as Infocom, Globecom and ICC.
+
+
+== Notable leaders ==
+Notable leaders of the Internet Technical Committee include Henning Schulzrinne, Joe Touch, Charles Kalmanek, Markus Hofmann_(networking), and Dinesh Verma.
+
+
+== See also ==
+Institute of Electrical and Electronics Engineers
+IEEE Communications Society
+
+
+== External links ==
+"Internet Technical Committee". official website.

@@ -1,0 +1,16 @@
+Moodbar is a computer visualization used for navigating within a piece of music. This is done with a horizontal bar that is divided into vertical stripes. Each stripe has a colour showing the "mood" within a short part of the song. The colour can depend on spectrum and/or rhythmic features of the part of the song. The parts of the song (intro, choruses, solos, accents etc.) as well as musical changes (dynamics, rhythm, texture, playing instruments) are clearly visible on the bar.
+Moodbar was originally presented by Gavin Wood and Simon O’Keefe in their paper On Techniques for Content-Based Visual Annotation to Aid Intra-Track Music Navigation. Moodbar has been implemented for Amarok, Clementine and Exaile music player and the gjay playlist creator.
+As of 2008, the default implementation of Amarok's moodbar only uses the spectral content of the current section of the track. It calculates the energy in the low, medium, and high frequency bands, and turns this into the amount of red, green, and blue in the corresponding stripe. Each moodbar file is 1000 samples long, which corresponds to roughly 4-5 samples every second, for a typical 3-4 minute long song. This is not useful for telling anything about the rhythm of a song, but it is sometimes possible to guess where different instruments are playing. This can be useful for spotting verse, chorus, verse structure, and breaks in the music.
+Because all moodbars are normalised to the same length, any information that might be contained within the visual texture of the bar can be very misleading, as short tracks will be displayed with greater detail.
+
+
+== See also ==
+Music Genome Project
+Acoustic fingerprint
+
+
+== References ==
+
+
+== External links ==
+The Moodbar page in the Amarok User Manual

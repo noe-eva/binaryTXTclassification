@@ -1,0 +1,51 @@
+The Central Computer and Telecommunications Agency (CCTA) was a UK government agency providing computer and telecoms support to government departments.
+
+
+== History ==
+
+
+=== Formation ===
+In 1957, the UK government formed the Technical Support Unit (TSU) of HM Treasury (HMT) to evaluate and advise on computers, initially based around engineers from the telecommunications service.
+As this unit evolved, it morphed into the Central Computer and Telecommunications Agency (CCTA), which also had responsibilities as a central procurement body for government technological equipment.
+CCTA's work during the 1970s, 1980s and 1990s was primarily to (a) develop central government IT professionalism, (b) create a body of knowledge and experience in the successful development and implementation of IS/IT within UK central government (c) to brief Government Ministers on the opportunities for use of IS/IT to support policy initiatives (e.g. "Citizen's Charter" / "e-government") and (d) to encourage and assist UK private sector companies to develop and offer products and services aligned to government needs.
+Over the 3 decades, CCTA's focus shifted from hardware to a business oriented systems approach with strong emphasis on business led IS/IT Strategies which crossed Departmental (Ministry) boundaries encompassing several "Departments" (e.g. CCCJS – Computerisation of the Central Criminal Justice System). This inter-departmental approach, (first mooted in the mid to late 1980s) was revolutionary and met considerable political and departmental opposition.
+In October 1994, MI5 took over its work on computer security from hacking into the government's (usually the Treasury) network. In November 1994, CCTA launched its website. In February 1998 it built and ran the government's secure intranet. The MoD was connected to a separate network. In December 1998, the DfEE moved its server from CCTA at Norwich to NISS (National Information Services and Systems) in Bath when it relaunched its website.
+Between 1989 and 1992, CCTA's "Strategic Programmes" Division undertook research on exploiting Information Systems as a medium for improving the relationship between citizens, businesses and government. This paralled the launch of the "Citizen's Charter" by the then Prime Minister, John Major, and the creation within the Cabinet Office of the "Citizen's Charter Unit" (CCTA had at this point been moved from HM Treasury to the Cabinet Office). The research and work focused on identifying ways of simplifying the interaction between citizens and government through the use of IS/IT. Two major TV documentaries were produced by CCTA – "Information and the Citizen" and "Hymns Ancient and Modern" which explored the business and political issues associated with what was to become "e-government". These were aimed at widening the understanding of senior civil servants (the Whitehall Mandarins) of the significant impact of the "Information Age" and identifying wider social and economic issues likely to arise from e-government.
+
+
+=== Merger ===
+During the late 1990s, its strategic role was eroded by the Cabinet Office's Central IT Unit (CITU – created by Michael Heseltine in November 1995), and in 2000 CCTA was fully subsumed into the Office of Government Commerce (OGC).
+
+
+=== Successors ===
+Since then, the non-procurement IT / Telecommunications co-ordination role has remained in the Cabinet Office, under a number of successive guises:
+The Office of the E-Envoy (OeE)
+The eGovernment Unit (eGU)
+The Transformational Government (TG) Group
+The Government Digital Service
+
+
+== Activities ==
+CCTA was the sponsor of a number of methodologies, including:
+Structured Systems Analysis and Design Method (SSADM)
+PRojects IN Controlled Environments (PRINCE, PRINCE2), which is an evolution of PROMPT, a project management method created by Simpact Systems Ltd in 1975 that was adopted by CCTA in 1979 for Government information system projects
+Information Technology Infrastructure Library (ITIL), which has largely evolved through BS15000 into the ISO20000 series
+The CCTA Risk Analysis and Management Method (CRAMM), developed at the request of the Cabinet Office in 1985
+The CCTA Security Group created the first UK Government National Information Security Policy, and developed the early approaches to structured information security for commercial organisations which saw wider use in the DTI Security Code of Practice, BS_7799 and eventually ISO/IEC_27000
+CCTA also promoted the use of emerging IT standards in UK government and in the EU, such as OSI and BS5750 (Quality Management) which led to the publishing of the Quality Management Library and the inception of the TickIT assessment scheme with DTI, MOD and participation of software development companies.
+In addition to the development of methodologies, CCTA produced a comprehensive set of managerial guidance covering the development of Information Systems under 5 major headings: A. – Management and Planning of IS; B. – Systems Development; C. – Service Management; D – Office Users; E. – IS Services Industry. The guidance consisted of 27 individual guides and were published commercially as "The Information Systems Guides" (ISBN 0-471-92556-X) by John Wiley and Sons. The publication is no longer available. This guidance was developed from the practical experience and lessons learned from many UK Government Departments in planning, designing, implementing and monitoring Information Systems and was highly regarded as "best practice". Some parts were translated into other European languages and adopted as national standards.
+It also was involved in technical developments, for instance as the sponsor of Project SPACE in the mid 1980s. Under Project SPACE, the ICL Defence Technology Centre (DTC), working closely with technical staff from CCTA and key security-intensive projects in the Ministry of Defence (such as OPCON CCIS) and in other sensitive departments, developed an enhanced security variant of VME.
+It managed (ran the servers) of UK national government websites, including those such as the Royal Family's and www.open.gov.uk.
+
+
+== Structure ==
+CCTA's Headquarters were in London at Riverwalk House, Vauxhall Bridge Road, SW1, since used by the [Government Office for London]. This housed the main Divisions with a satellite office in Norwich which focused on IS/IT Procurement – a function which had been taken over from HMSO (the Stationery Office) when CCTA was formed.
+The office in Norwich was in the east of the city, off the former A47 (now A1042), just west of the present A47 interchange near the former St Andrew's Hospital. The site is now used by the OGC.
+The HQ in London had four divisions:
+Project support – major IT programmes – software engineering
+Specialist support – evaluation of individual items of hardware and software
+Strategic Planning and Promotion – project management and office technology (hardware and office automation)
+Advance Technology – telecommunications and advanced technology (latest generation of computers)
+
+
+== References ==

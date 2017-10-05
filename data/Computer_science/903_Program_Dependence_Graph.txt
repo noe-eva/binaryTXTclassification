@@ -1,0 +1,5 @@
+A Program Dependence Graph (PDG) in computer science is a representation, using graph notation that makes data dependencies and control dependencies explicit. These dependencies are used during dependence analysis in optimizing compilers to make transformations so that multiple cores are used, and parallelism is improved.
+see: dependency graph
+
+
+== References ==

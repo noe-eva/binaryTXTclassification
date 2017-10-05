@@ -1,0 +1,5 @@
+VCN ExecuVision was the first presentation program for the personal computer. This program allowed users the ability to manipulate graphics and text not just for business data, but for all communication purposes. Created by Visual Communications Network, Inc., the benefits of this software program were first discussed in the journal of Institute of Electrical and Electronics Engineers on March 1984. In addition to the benefits of VCN ExecuVision, the journal published images created by the software, illustrating the new emerging software available for personal computers at that time.
+
+
+== References ==
+Toong, H.-M.D. & Gupta, A. (1984). "A new direction in personal computer software". The Institute of Electrical and Electronics Engineers. 72 (3): 377. doi:10.1109/PROC.1984.12868.

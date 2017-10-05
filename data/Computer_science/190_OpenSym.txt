@@ -1,0 +1,49 @@
+OpenSym is a shorthand for International Symposium on Wikis and Open Collaboration, formerly WikiSym or the Wiki Symposium, a conference dedicated to wiki research and practice. In 2014, the name of the conference was changed from WikiSym to OpenSym to reflect a broadening of scope from wiki and Wikipedia research and practice to open collaboration research, including wikis and Wikipedia research, but also free/libre/open source, open data, etc. research. Its proceedings are published in the ACM Digital Library.
+
+
+== Overview of conferences 2005-present ==
+
+
+== History ==
+ WikiSym 2005
+WikiSym 2005 was co-located with ACM OOPSLA 2005, held in San Diego, California, US, 14–16 October 2005. Speakers included Ward Cunningham, Jimmy Wales, Ross Mayfield and Sunir Shah. Sponsors of the event included Google. Conference chair was Dirk Riehle.
+ WikiSym 2006
+WikiSym 2006 was co-located with ACM Hypertext 2006 from 21–23 August 2006 in Odense, Denmark. Invited speakers included Angela Beesley ("How and Why Wikipedia Works"), Doug Engelbart and Eugene Eric Kim ("The Augmented Wiki"), Mark Bernstein ("Intimate Information: organic hypertext structure and incremental formalization for everyone's everyday tasks"), and Ward Cunningham ("Design Principles of Wiki: How can so little do so much?"). Conference chair was Dirk Riehle and program chair was James Noble.
+ WikiSym 2007
+WikiSym 2007 was co-located with OOPSLA 2007, an ACM conference, in Montreal, Quebec, Canada on 21–23 October 2007. Invited speakers were Jonathan Grudin and Ward Cunningham. Conference chair was Alain Désilets and program chair was Robert Biddle.
+ WikiSym 2008
+WikiSym 2008 was held in Porto, Portugal, in 8–10 September 2008, at the Faculty of Engineering of the University of Porto and supported ("in-cooperation agreement") by the ACM. Keynotes were given by George Landow, Professor of Art and English at Brown University and Stewart Nickolas, IBM Emerging Technologies while Dan Ingalls, Sun Microsystems Laboratories gave an invited talk. The symposium chair was Ademar Aguiar and the program chair was Mark Bernstein.
+ WikiSym 2009
+WikiSym 2009 was held in Orlando, FL, on 25–27 October 2009 at the Disney Convention Center. Keynotes were given by Fernanda Viegas and Martin Wattenberg as well as by Brion Vibber. The symposium chair was Dirk Riehle of University of Erlangen and the program chair was Amy Bruckman of Georgia Tech.
+ WikiSym 2010
+WikiSym 2010 was held in Gdańsk, Poland on 7–9 July 2010, co-located with Wikimania. Keynote speakers were Cliff Lampe and Andrew Lih. The symposium chair was Phoebe Ayers and the program chair was J. Felipe Ortega. An open access version of the proceedings is available, in addition to the ACM proceedings.
+ WikiSym 2011
+WikiSym 2011 was held in Mountain View on 3–5 October 2011. Keynote speakers were Cathy Casserly, CEO of Creative Commons, Jeff Heer, assistant professor from Stanford University, and Ed Chi of Google. The symposium chair was J. Felipe Ortega and the program chair was Andrea Forte.
+ WikiSym 2012
+WikiSym 2012 was held in Linz, Austria on 27–29 August 2012.
+ WikiSym + OpenSym 2013
+Setting a definition of "open collaboration", WikiSym + OpenSym 2013 was held in Hong Kong on 5–7 Aug 2013. The symposium general co-chair includes Ademar Aguiar and Dirk Riehle.
+ OpenSym 2014
+The conference in Berlin from 27–29 August featured "multiple traditional research tracks and a community program geared towards industry and practitioner interests".
+ OpenSym 2015
+OpenSym 2015, the 11th International Symposium on Open Collaboration, was held in San Francisco on August 19–21, 2015. Research submissions revolved around IT-driven open innovation, open data, free/libre/open source software etc. Academic keynotes were taken by Robert J. Glushko of UC Berkeley and Anthony I. Wasserman of CMU (Silicon Valley). Industry (research) keynotes were taken by Richard P. Gabriel of IBM and Peter Norvig of Google.
+ OpenSym 2016
+OpenSym 2016 will take place in Berlin, Germany on August 17–19, 2016.
+
+
+== See also ==
+RecentChangesCamp
+Wikimania
+WikiConference India
+Wikipedia Summit India
+WikiSym
+Wikimania
+Wiki Indaba
+
+
+== References ==
+
+
+== External links ==
+Official website
+Proceedings at ACM Digital Library

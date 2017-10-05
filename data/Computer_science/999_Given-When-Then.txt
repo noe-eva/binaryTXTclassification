@@ -1,0 +1,17 @@
+Given-When-Then or GWT is a semi-structured way to write down test cases. They can either be tested manually or automated as browser tests with Selenium.
+It derives its name from the three clauses used, which start with the words GIVEN, WHEN and THEN.
+The Given-When-Then was invented by Dan North as part of behavior-driven development.
+
+
+== See also ==
+Acceptance test-driven development
+Acceptance testing
+Behavior-driven development
+Hoare triple
+
+
+== References ==
+
+
+== External links ==
+http://guide.agilealliance.org/guide/gwt.html

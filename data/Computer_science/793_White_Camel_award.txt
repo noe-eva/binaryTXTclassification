@@ -1,0 +1,39 @@
+The "White Camel" award is given to important contributors to the Perl Programming Language community.
+The awards were initiated by Perl Mongers and O'Reilly & Associates at The Perl Conference in 1999. Today, The Perl Foundation acknowledges these exceptional individuals annually.
+
+
+== By Year ==
+1999: Tom Christiansen, Kevin Lenzo, Adam Turoff
+2000: Elaine Ashton, Chris Nandor, Nathan Torkington
+2001: David H. Adler, Ask Bjørn Hansen, YAPC::Europe team
+2002: Graham Barr, Tim Maher, Tim Vroom
+2003: Jarkko Hietaniemi, Andreas Koenig, Robert Spier
+2004: Dave Cross, brian d foy, Jon Orwant
+2005: Stas Bekman, Eric Cholet, Andy Lester
+2006: Jay Hannah, Josh McAdams, Randal Schwartz
+2007: Allison Randal, Tim O'Reilly, Norbert E. Grüner
+2008: Tatsuhiko Miyagawa, Jacinta Richardson, Gabor Szabo
+2009: Tim Bunce, Philippe Bruhat, Michael Schwern
+2010: José Castro (cog), Paul Fenwick, Barbie
+2011: Lep Lapworth, Daisuke Maki, Andrew Shitov
+2012: Renee Baecker, Breno G. de Oliveira, Jim Keenan
+2013: Thiago Rondon, Wendy and Liz, Fred Moyer
+2014: Amalia Pomian, VM Brasseur, Neil Bowers
+2015: Chris Prather, Sawyer X, Steffen Müller
+
+
+== See also ==
+The Perl programming language
+YAPC, Yet Another Perl Conference
+The Perl Foundation
+O'Reilly and Associates
+
+
+== References ==
+
+
+== External links ==
+White camel information on perl.org
+The Second Annual YAPC
+News of the 2011 Award
+News of the 2012 Awards

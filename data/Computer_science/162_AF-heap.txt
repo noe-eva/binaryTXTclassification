@@ -1,0 +1,9 @@
+In computer science, the AF-heap is a type of priority queue for integer data, an extension of the fusion tree using an atomic heap proposed by M. L. Fredman and D. E. Willard.
+Using an AF-heap, it is possible to perform m insert or decrease-key operations and n delete-min operations on machine-integer keys in time O(m + n log n / log log n). This allows Dijkstra's algorithm to be performed in the same O(m + n log n / log log n) time bound on graphs with n edges and m vertices, and leads to a linear time algorithm for minimum spanning trees, with the assumption for both problems that the edge weights of the input graph are machine integers in the transdichotomous model.
+
+
+== See also ==
+Fusion tree
+
+
+== References ==

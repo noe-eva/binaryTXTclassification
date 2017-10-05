@@ -1,0 +1,20 @@
+Szymanski's Mutual Exclusion Algorithm is a mutual exclusion algorithm devised by computer scientist Dr. Boleslaw Szymanski, which has many favorable properties including linear wait, and which extension  solved the open problem posted by Leslie Lamport whether there is an algorithm with a constant number of communication bits per process that satisfies every reasonable fairness and failure-tolerance requirement that Lamport conceived of (Lamport's solution used n factorial communication variables vs. Szymanski's 5).
+
+
+== The algorithm ==
+The algorithm is modeled on a waiting room with an entry and exit doorway. Initially the entry door is open and the exit door is closed. All processes which request entry into the critical section at roughly the same time enter the waiting room; the last of them closes the entry door and opens the exit door. The processes then enter the critical section one by one (or in larger groups if the critical section permits this). The last process to leave the critical section closes the exit door and reopens the entry door, so the next batch of processes may enter.
+The implementation consists of each process having a flag variable which is written by that process and read by all others (this single-writer property is desirable for efficient cache usage). The status of the entry door is computed by reading the flags of all processes. Pseudo-code is given below:
+
+Note that the order of the "all" and "any" tests must be uniform.
+Despite the intuitive explanation, the algorithm was not easy to prove correct, however due to its favorable properties a proof of correctness was desirable and multiple proofs have been presented.
+
+
+== References ==
+
+
+== See also ==
+Dekker's algorithm
+Eisenberg & McGuire algorithm
+Peterson's algorithm
+Lamport's bakery algorithm
+Semaphores

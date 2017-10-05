@@ -1,0 +1,5 @@
+An inverse parser, as its name suggests, is a parser that works in reverse. Rather than the user typing into the computer, the computer presents a list of words fitting the context, and excludes words that would be unreasonable. This ensures the user knows all of his or her options. The concept and an implementation were originally developed and patented by Texas Instruments. A few years later, it was independently developed by Chris Crawford, a game designer, for his game, Trust & Betrayal: The Legacy of Siboot, but the implementation was different enough not to infringe on the patent.
+
+
+== External links ==
+How to Build an Inverse Parser, an essay by Chris Crawford originally published in the Journal of Computer Game Design

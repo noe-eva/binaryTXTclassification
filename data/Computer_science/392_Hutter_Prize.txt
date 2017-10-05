@@ -1,0 +1,25 @@
+The Hutter Prize is a cash prize funded by Marcus Hutter which rewards data compression improvements on a specific 100 MB English text file. Specifically, the prize awards 500 euros for each one percent improvement (with 50,000 euros total funding) in the compressed size of the file enwik8, which is the smaller of two files used in the Large Text Compression Benchmark; enwik8 is the first 100,000,000 characters of a specific version of English Wikipedia. The ongoing competition is organized by Hutter, Matt Mahoney, and Jim Bowery.
+
+
+== Goals ==
+The goal of the Hutter Prize is to encourage research in artificial intelligence (AI). The organizers believe that text compression and AI are equivalent problems. Hutter proved that the optimal behavior of a goal seeking agent in an unknown but computable environment is to guess at each step that the environment is probably controlled by one of the shortest programs consistent with all interaction so far. However, there is no general solution because Kolmogorov complexity is not computable. Hutter proved that in the restricted case (called AIXItl) where the environment is restricted to time t and space l, a solution can be computed in time O(t2l), which is still intractable.
+The organizers further believe that compressing natural language text is a hard AI problem, equivalent to passing the Turing test. Thus, progress toward one goal represents progress toward the other. They argue that predicting which characters are most likely to occur next in a text sequence requires vast real-world knowledge. A text compressor must solve the same problem in order to assign the shortest codes to the most likely text sequences.
+
+
+== Rules ==
+The contest is open-ended. It is open to everyone. To enter, a competitor must submit a compression program and a decompressor that decompresses to the file enwik8. It is also possible to submit a compressed file instead of the compression program. The total size of the compressed file and decompressor (as a Win32 or Linux executable) must not be larger than 99% of the previous prize winning entry. For each one percent improvement, the competitor wins 500 euros. The decompression program must also meet execution time and memory constraints, currently 10 hours on a 2 GHz Pentium 4 with 1 GB memory. These constraints may be relaxed in the future.
+Submissions must be published in order to allow independent verification. There is a 30-day waiting period for public comment before awarding a prize. The rules do not require the release of source code, unless such release is required by the code's license (as in the case of PAQ, which is licensed under GPL).
+
+
+== History ==
+The prize was announced on August 6, 2006. The prize baseline was 18,324,887 bytes, achieved by PAQ8F.
+On August 16, Rudi Cilibrasi submitted a modified version of PAQ8F called RAQ8G that added parenthesis modeling. However it failed to meet the 1% threshold.
+On the same day, but a few hours later Dmitry Shkarin submitted a modified version of his DURILCA compressor called DURILCA 0.5h, which improved compression by 1.5%. However it was disqualified for using 1.75 GB of memory. The decision to disqualify was controversial because the memory limits were not clearly specified in the rules at the time.
+On August 20, Alexander Ratushnyak submitted PAQ8HKCC, a modified version of PAQ8H, which improved compression by 2.6% over PAQ8F. He continued to improve the compression to 3.0% with PAQ8HP1 on August 21, 4% with PAQ8HP2 on August 28, 4.9% with PAQ8HP3 on September 3, 5.9% with PAQ8HP4 on September 10, and 5.9% with PAQ8HP5 on September 25. At that point he was awarded 3416 euros and the new baseline was set to 17,245,509 bytes. He has since improved this by 1% with PAQ8HP6 on November 6, 2% with PAQ8HP7 on December 10, and 2.3% with PAQ8HP8 on January 18, 2007. The compressed size is 16,681,045 bytes. On July 10, 2007, he once again broke his record with PAQ8HP12, achieving a size of 16,481,655 bytes, and was awarded 1732 euros. On May 23, 2009, he got a new record with decomp8, achieving a size of 15,949,688 bytes for an award of 1614 euros.
+
+
+== References ==
+
+
+== External links ==
+Website of the Hutter Prize

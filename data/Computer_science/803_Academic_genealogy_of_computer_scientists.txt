@@ -1,0 +1,704 @@
+The following is an academic genealogy of computer scientists and is constructed by following the pedigree of thesis advisors.
+Smaller text indicates advisors or advisees specialized in a field unrelated to computer science.
+
+
+== Europe ==
+
+
+=== Denmark ===
+Peter Naur
+(Olivier Danvy)
+
+
+=== Finland ===
+Arto Salomaa
+
+
+=== France ===
+Many French computer scientists worked at the National Institute for Research in Computer Science and Control (INRIA).
+Marcel-Paul Schützenberger
+Maurice Nivat
+Philippe Flajolet
+Gérard Huet
+Francois Fages
+Thierry Coquand
+Hugo Herbelin
+
+Xavier Leroy
+Christine Paulin-Mohring
+Didier Rémy
+François Pottier
+
+Bruno Courcelle
+
+Louis Nolin
+Bernard Robinet
+Emmanuel Saint-James
+Olivier Danvy (Secondary advisor: Emmanuel Saint-James)
+
+Jean-François Perrot
+Jacques Sakarovitch
+Jean-Eric Pin
+Pascal Weil
+
+Gérard Berry
+Gilles Kahn
+Patrick Cousot
+Alain Colmerauer
+
+
+=== Germany ===
+Karl Steinbuch
+Franz Baader
+Carl Adam Petri
+Martin Odersky
+
+
+=== Italy ===
+Corrado Böhm
+Ugo Montanari
+Paolo Ciancarini
+Roberto Gorrieri
+Nadia Busi
+
+Davide Sangiorgi
+
+
+=== Netherlands ===
+
+
+==== Van Wijngaarden / Dijkstra ====
+Adriaan van Wijngaarden was director of the computer science department at the Centrum Wiskunde & Informatica. It was influential in the development of ALGOL 68.
+Cornelis Benjamin Biezeno (1933: honoris causa. Universiteit van Amsterdam)
+Adriaan van Wijngaarden (1945: Enige toepassingen van Fourierintegralen op elastische problemen. Technische Universiteit Delft)
+Willem van der Poel (1956: The Logical Principles of Some Simple Computers. Universiteit van Amsterdam)
+Gerard Holzmann (1979: Coordination Problems in Multiprocessing Systems. Technische Universiteit Delft)
+
+Edsger Dijkstra (1959: Communication with an Automatic Computer. Universiteit van Amsterdam)
+Nico Habermann (1967: On the Harmonious Co-operation of Abstract Machines. Technische Universiteit Eindhoven)
+Lawrence Snyder (1973: An Analysis of Parameter Evalutation Mechanisms for Recursive Procedures. Carnegie Mellon University)
+Tim Teitelbaum (1975: Minimal Distance Analysis of Syntax Errors in Computer Programs. Carnegie Mellon University)
+Sten Andler (1979: Predicate Path Expressions: A High-level Synchronization Mechanism. Carnegie Mellon University)
+John Ousterhout (1980: Partitioning and Cooperation in a Distributed Multiprocessor Operating System: MEDUSA. Carnegie Mellon University)
+Philip Wadler (1984: Listlessness Is Better than Laziness: An Algorithm that Transforms Applicative Programs to Eliminate Intermediate Lists. Carnegie Mellon University) (Secondary advisor: Guy L. Steele, Jr.)
+David Notkin (1984: Interactive Structure-Oriented Computing. Carnegie Mellon University)
+
+Martin Rem (1976: Associons and the Closure Statement. Technische Universiteit Eindhoven) (Secondary advisor: Frans Kruseman Aretz)
+Jan L. A. van de Snepscheut (1983: Trace Theory and VLSI Design. Technische Universiteit Eindhoven) (Secondary advisor: Edsger Dijkstra)
+Peter Hilbers (1989: Mappings of Algorithms on Processor Networks. Rijksuniversiteit Groningen)
+
+Jan Tijmen Udding (1984: Classification and Composition of Delay-Insensitive Circuits. Technische Universiteit Eindhoven) (Secondary advisor: Edsger Dijkstra)
+Anne Kaldewaij (1986: A Formalism for Concurrent Processes. Technische Universiteit Eindhoven) (Secondary advisor: Frans Kruseman Aretz)
+
+Guus Zoutendijk (1960: Methods of Feasible Directions : A Study in Lineair and Non-linear Programming. Universiteit van Amsterdam)
+Marc Nico Spijker (1968: Stability and Convergence of Finite-Difference Methods. Universiteit Leiden)
+
+Jaco de Bakker (1967: Formal Definition of Programming Languages: with an Application to the Definition of ALGOL 60. Universiteit van Amsterdam)
+Willem-Paul de Roever (1974: Recursive Program Schemes: Semantics and Proof Theory. Vrije Universiteit Amsterdam)
+Paul Vitanyi (1978: Lindenmayer Systems: Structure, Languages, and Growth Functions. Vrije Universiteit Amsterdam) (Secondary advisor: Arto K. Salomaa)
+Ronald Cramer (1997: Modular design of secure yet practical cryptographic protocols. Universiteit van Amsterdam) (Secondary advisor: Ivan Bjerre Damgård)
+Peter Grünwald (1998: The minimum description length principle and reasoning under uncertainty. Universiteit van Amsterdam)
+
+Anton Nijholt (1980: Context-Free Grammars : Covers, Normal Forms, and Parsing. Vrije Universiteit Amsterdam)
+Giuseppe Scollo (1993: The Engineering of Logics. Universiteit Twente)
+Ed Brinksma (1988: On the Design of Extended LOTOS; a Specification Language for Open Distributed Systems. Universiteit Twente) (Primary advisor: Christian Anton Vissers)
+
+John-Jules Meyer (1985: Programming Calculi Based on Fixed Point Transformations: Semantics and Applications. Vrije Universiteit Amsterdam)
+Wiebe van der Hoek (1992: Modalities for Reasoning about Knowledge and Quantities. Vrije Universiteit Amsterdam) (Secondary advisor: Johan van Benthem)
+
+Joost Kok (1989: Semantic Models for Parallel Computation in Data Flow, Logic- and Object-Oriented Programming. Vrije Universiteit Amsterdam)
+Jan Rutten (1989: A Parallel Object-Oriented Language: Design and Semantic Foundations. Vrije Universiteit Amsterdam)
+Frank S. de Boer (1991: Reasoning about Dynamically Evolving Process Structures: A Proof Theory for the Parallel Object-0riented Language POOL. Vrije Universiteit Amsterdam)
+Marcello Bonsangue (1996: Topological Dualities in Semantics. Vrije Universiteit Amsterdam) (Secondary advisor: Joost Kok)
+
+Reinder van de Riet (1968: Algol 60 as Formula Manipulation Language. Universiteit van Amsterdam)
+Peter Apers (1982: Query Processing and Data Allocation in Distributed Database Systems. Vrije Universiteit Amsterdam)
+Arno Siebes (1990: On Complex Objects. Universiteit Twente) (Secondary advisor: Martin L. Kersten)
+
+Martin L. Kersten (1985: A Model for a Secure Programming Environment. Vrije Universiteit Amsterdam) (Secondary advisor: Anthony Ira Wasserman)
+Stefan Manegold (2002: Understanding, Modeling, and Improving Main-Memory Database Performance. Universiteit van Amsterdam)
+
+Roel Wieringa (1990: Algebraic Foundations for Dynamic Conceptual Models. Vrije Universiteit Amsterdam)
+Frances Brazier (1991: Design and Evaluation of a User Interface for Information Retrieval. Vrije Universiteit Amsterdam) (Primary advisor: Sipke D. Fokkema)
+
+Hugo Brandt Corstius (1970: Exercises in Computational Linguistics. Universiteit van Amsterdam) (Secondary advisor: Frans Kruseman Aretz)
+Maarten van Emden (1971: An Analysis of Complexity. Universiteit van Amsterdam)
+Jonathan Schaeffer (1986: Experiments in Search and Knowledge. University of Waterloo) (Secondary advisor: Randy G. Goebel)
+
+Peter van Emde Boas (1974: Abstract Resource-Bound Classes. Universiteit van Amsterdam) (Secondary advisor: Pieter Cornelis Baayen)
+Arjen Lenstra (1984: Polynomial Time Algorithms for the Factorization of Polynomials. Universiteit van Amsterdam)
+Leen Torenvliet (1986: Structural Concepts in Relativised Hierarchies. Universiteit van Amsterdam)
+Harry Buhrman (1993: Resource Bounded Reductions. Universiteit van Amsterdam) (Primary advisor: Steven Elliot Homer)
+
+Herman te Riele (1976: A Computational Study of Generalized Aliquot Sequences. Universiteit van Amsterdam)
+Dick Grune (1982: On the Design of ALEPH. Universiteit van Amsterdam) (Secondary advisor: Cornelis H. A. Koster)
+
+
+==== Brouwer / Van Dalen ====
+Several of the students of Dirk van Dalen, a descendant of Brouwer, became the first Dutch theoretical computer scientists, which still has a strong focus on lambda calculus, rewrite systems and functional programming.
+Luitzen Egbertus Jan Brouwer (1907: Over de grondslagen der wiskunde. Universiteit van Amsterdam)
+Arend Heyting (1925: Intuitionistische axiomatiek der projectieve meetkunde. Universiteit van Amsterdam)
+Dirk van Dalen (1963: Extension Problems in Intuitionistic Plane Projective Geometry. Universiteit van Amsterdam)
+Henk Barendregt (1971: Some Extensional Terms for Combinatory Logics and Lambda-Calculi. Universiteit Utrecht)
+Roel de Vrijer (1987: Surjective Pairing and Strong Normalization: Two Themes in Lambda Calculus. Universiteit van Amsterdam)
+Pieter Hartel (1988: Performance Analysis of Storage Management in Combinator Graph Reduction. Universiteit van Amsterdam) (Primary advisor: Bob Hertzberger)
+Mariangiola Dezani-Ciancaglini (1996: Logical Semantics for Concurrent Lambda-Calculus. Katholieke Universiteit Nijmegen) (Secondary advisor: Corrado Böhm)
+
+Jan van Leeuwen (1972: Rule-Labeled Programs: A Study of a Generalization of Context-Free Grammars and Some Classes of Formal Languages. Universiteit Utrecht)
+Mark Overmars (1983: The Design of Dynamic Data Structures. Universiteit Utrecht)
+Mark de Berg (1992: Efficient Algorithms for Ray Shooting and Hidden Surface Removal. Universiteit Utrecht)
+Marc van Kreveld (1992: New Results on Data Structures in Computational Geometry. Universiteit Utrecht)
+
+Hans Bodlaender (1986: Distributed Computing - Structure and Complexity. Universiteit Utrecht)
+Harry Wijshoff (1987: Data Organization in Parallel Computers. Universiteit Utrecht)
+Gerard Tel (1989: The Structure of Distributed Algorithms. Universiteit Utrecht)
+
+Jan Bergstra (1976: Computability and Continuity in Finite Types. Universiteit Utrecht)
+Frits Vaandrager (1990: Algebraic Techniques for Concurrency and Their Application. Universiteit van Amsterdam)
+Linda van der Gaag (1990: Probability-Based Models for Plausible Reasoning. Universiteit van Amsterdam)
+Chris Verhoef (1990: Linear unary operators in process algebra. Universiteit van Amsterdam)
+Jan Friso Groote (1991: Process Algebra and Structured Operational Semantics. Universiteit van Amsterdam)
+Wan Fokkink (1994: Clocks, Trees and Stars in Process Theory. Universiteit van Amsterdam)
+Jaco van de Pol (1996: Termination of Higher-Order Rewrite Systems. Universiteit Utrecht) (Secondary advisor: Marc Bezem)
+
+Jan Willem Klop (1980: Combinatory reduction systems. Universiteit Utrecht)
+Vincent van Oostrom (1994: Confluence for Abstract and Higher-Order Rewriting. Vrije Universiteit Amsterdam)
+
+Albert Visser (1981: Aspects of Diagonalization & Provability. Universiteit Utrecht)
+Wim Ruitenburg (1982: Intuitionistic Algebra, Theory and Sheaf Models. Universiteit Utrecht)
+Catholijn Jonker (1994: Constraints and Negations in Logic Programming. Universiteit Utrecht) (Secondary advisor: Jan van Leeuwen)
+
+Anne Sjerp Troelstra (1966: Intuitionistic General Topology. Universiteit van Amsterdam)
+Gerard R. Renardel de Lavalette (1985: Theories with Type-free Application and Extended Bar Induction. Universiteit van Amsterdam)
+Hans van Ditmarsch (2000: Knowledge Games. Rijksuniversiteit Groningen) (Secondary advisor: Johan van Benthem)
+
+Ieke Moerdijk (1985: Topics in Intuitionism and Topos Theory. Universiteit van Amsterdam)
+Marc Bezem (1986: Bar recursion and functionals of finite type. Universiteit Utrecht) (Secondary advisor: Dirk van Dalen)
+
+
+=== Norway ===
+Ole-Johan Dahl
+Kristen Nygaard
+Trygve Reenskaug
+
+
+=== Poland ===
+Grzegorz Rozenberg
+Antoni W. Mazurkiewicz
+
+
+=== Sweden ===
+Bengt Nordström
+Lennart Augustsson
+
+
+=== United Kingdom ===
+James H. Wilkinson
+
+
+==== Edinburgh ====
+Rod Burstall was one of the founders of the Laboratory for Foundations of Computer Science at the University of Edinburgh.
+Rod Burstall (1956: Heuristic and Decision Tree Methods on Computers: Some Operational Research Applications. University of Birmingham)
+Gordon Plotkin (1972: (dissertation title unknown). University of Edinburgh)
+Glynn Winskel (1980: Events in Computation. University of Edinburgh)
+Thomas Hildebrandt
+
+Luca Cardelli (1982: An Algebraic Approach to Hardware Description and Verification. University of Edinburgh)
+Eugenio Moggi (1988: The Partial Lambda Calculus. University of Edinburgh)
+Philippa Gardner
+Alex Simpson (computer scientist)
+
+J Strother Moore (1973: Computational Logic: Structure Sharing and Proof of Program Properties. University of Edinburgh)
+Panagiotis Manolios
+
+Michael J. C. Gordon
+Jeffrey Joyce
+
+Don Sannella (1982: Semantics, Implementation and Pragmatics of Clear, a Program Specification Language. University of Edinburgh)
+David Aspinall
+Martin Hofmann (Secondary advisor: Gordon Plotkin)
+
+Thorsten Altenkirch
+Michael Mendler (Secondary advisor: Michael P. Fourman)
+Masahito Hasegawa
+
+Robin Popplestone
+Alan Mycroft
+Chistopher Longuet-Higgins, Richard Gregory, and Donald Mitchie founded the Department of Machine Intelligence and Perception at the University of Edinburgh
+Christopher Longuet-Higgins (1947: Some problems in theoretical chemistry by the method of molecular orbitals. University of Oxford)
+Geoffrey Hinton (1977: Relaxation and its role in vision. University of Edinburgh)
+Mark Steedman (1973: The formal description of musical perception. University of Edinburgh)
+
+Richard Gregory
+Donald Mitchie
+Gordon Plotkin (1972: Automatic methods of inductive inference. University of Edinburgh)
+Austin Tate (1975: Using goal structure to direct search in a problem solver. University of Edinburgh)
+Andrew Blake (scientist) (1983: Parallel computation in low level vision. University of Edinburgh)
+Stephen Muggleton (1986: Inductive acquisition of expert knowledge. University of Edinburgh)
+
+
+==== Cambridge ====
+Maurice Wilkes was the first head of the University of Cambridge Computer Laboratory
+Maurice Wilkes
+Peter Wegner
+Clement McGowan (Secondary advisor: Juris Hartmanis)
+Daniel M. Berry (Secondary advisor: Clement McGowan)
+Nancy Leveson (Secondary advisor: Anthony Ira Wasserman)
+
+David Wheeler
+Mathai Joseph
+Roger Needham
+Ross J. Anderson
+David L. Tennenhouse
+Peter G. Gyarmati
+
+Robin Milner never did a Ph.D.
+Robin Milner
+Mads Tofte
+Faron Moller
+Chris Tofts
+
+
+==== Oxford ====
+Christopher Strachey was the first Professor of Computation at Oxford.
+Christopher Strachey
+Peter Landin (worked as the assistant of Strachey, did not do a PhD.)
+Chris Wadsworth
+Peter Mosses
+Jens Palsberg
+
+David Turner (Secondary advisor: Dana Scott)
+
+Tony Hoare established the undergraduate computer science course and led the Oxford University Computing Laboratory for many years.
+Tony Hoare
+Cliff Jones (computer scientist)
+Tobias Nipkow
+
+Bill Roscoe
+Peter Lauer (computer scientist)
+Eike Best
+Javier Esparza
+
+
+==== Warwick ====
+Mathai Joseph
+Zhiming Liu
+Paritosh Pandya
+
+Mike Paterson
+Leslie Valiant
+
+
+== North America ==
+
+
+=== Church ===
+Siméon Poisson (1800: (dissertation title unknown). École Polytechnique)
+Michel Chasles (1814: (dissertation title unknown). École Polytechnique)
+H. A. Newton (1850: (dissertation title unknown). Yale University)
+E. H. Moore (1885: Extensions of Certain Theorems of Clifford and Cayley in the Geometry of n Dimensions. Yale University)
+Oswald Veblen (1903: A System of Axioms for Geometry. The University of Chicago)
+Philip Franklin
+Alan Perlis
+Gary Lindstrom
+David Parnas
+Richard J. Lipton
+Dan Boneh
+Avi Wigderson
+
+Alonzo Church (1927: Alternatives to Zermelo's Assumption. Princeton University)
+Stephen Kleene (1934: A Theory of Positive Integers in Formal Logic. Princeton University)
+Robert Lee Constable (1968: Extending and Refining Hierarchies of Computable Functions. University of Wisconsin-Madison)
+Steven Muchnick
+Uwe Frederik Pleban
+Peter Lee
+
+Kurt Mehlhorn
+Edmund M. Clarke
+Robert Harper (computer scientist) (1985: Aspects of the Implementation of Type Theory. Cornell University)
+Benjamin C. Pierce (1991: Programming with Intersection Types and Bounded Polymorphism. Carnegie Mellon University) (Secondary advisor: John C. Reynolds)
+Gregory Morrisett
+
+John Rosser (1934: A Mathematical Logic without Variables. Princeton University)
+Theodore Hailperin
+Steven Orey
+Elliott Mendelson
+George Collins (logician)
+Gerald Sacks
+
+Alan Turing (1938: Systems of Logic Based on Ordinals. Princeton University)
+Robin Gandy (1953: On Axiomatic Systems in Mathematics and Theories in Physics. University of Cambridge)
+
+Hartley Rogers, Jr. (1952: Some Results on Definability and Decidability in Elementary Theories, (Parts I-V). Princeton University)
+Patrick C. Fischer (1962: Theory of Provable Recursive Functions. Massachusetts Institute of Technology)
+Arnold L. Rosenberg (1965: Nonwriting Extendsions of Finite Automata. Harvard University)
+Dennis Ritchie (1968: Program Structure and Computational Complexity. Harvard University)
+Albert R. Meyer (1972: On Complex Recursive Functions. Harvard University)
+Nancy Lynch
+Leonid Levin
+Jeanne Ferrante
+Charles Rackoff
+Larry Stockmeyer
+David Harel
+Joseph Halpern
+Daphne Koller
+
+Robert L. Probert (1973: On the Complexity of Matrix Multiplication. Waterloo University)
+Lawrence V. Saxton (1973: Input-Output Conventions and the Complexity of Transductions. Waterloo University)
+Stan J. Thomas (1983: A Non-First-Normal-Form Relational Database Model. Vanderbilt University)
+Dirk Van Gucht (1985: Theory of Unnormalized Relational Structures. Vanderbilt University)
+
+David Park (1964: Set-Theoretic Constructions in Model Theory. Massachusetts Institute of Technology)
+Mike Paterson
+Ian Parberry
+Leslie Valiant
+
+John C. Mitchell (1984: Lambda Calculus Models of Typed Programming Languages. Massachusetts Institute of Technology)
+
+Michael O. Rabin (1957: Recursive Unsolvability of Group Theoretic Problems. Princeton University)
+Dana Scott (1958: Convergent Sequences of Complete Theories. Princeton University)
+Jack Copeland
+Angus Macintyre
+Marko Petkovšek
+Fred S. Roberts
+Ketan Mulmuley
+Michael Fourman (1974: Connections between category theory and logic. University of Oxford)
+
+Peter B. Andrews (mathematician)
+Frank Pfenning
+Hongwei Xi Boston University
+
+George David Birkhoff (1907: Asymptotic Properties of Certain Ordinary Differential Equations with Applications to Boundary Value and Expansion Problems. The University of Chicago)
+Clarence Raymond Adams (1922: The General Theory of the Linear Partial q-Difference Equation and of the Linear Partial Difference Equation of the Intermediate Type. Harvard University)
+Anthony Morse (1937: Convergence in Variation and Related Topics. Brown University)
+Woody Bledsoe (1953: Separative Measures for Topological Spaces. University of California, Berkeley)
+Robert S. Boyer (1971: Locking: A Restriction of Resolution. University of Texas at Austin)
+
+
+=== Harvard ===
+Alfred North Whitehead (1884: (dissertation title unknown). University of Cambridge)
+Willard Van Orman Quine (1932: The Logic of Sequences: A Generalization of Principia Mathematica. Harvard University)
+Hao Wang (academic) (1948: An Economical Ontology for Classical Arithmetic. Harvard University)
+Stephen Cook (1966: On the Minimum Computation Time of Functions. Harvard University)
+
+
+=== Hopcroft / Lefschetz ===
+Felix Klein (1868: Über die Transformation der allgemeinen Gleichung des zweiten Grades zwischen Linien-Koordinaten auf eine kanonische Form. Rheinische Friedrich-Wilhelms-Universität Bonn)
+Ferdinand von Lindemann (1873: Über unendlich kleine Bewegungen und über Kraftsysteme bei allgemeiner projektivischer Maßbestimmung. Friedrich-Alexander-Universität Erlangen-Nürnberg)
+Arnold Sommerfeld (1891: Die willkürlichen Functionen in der mathematischen Physik. Universität Königsberg)
+Ernst Guillemin (1926: Theorie der Frequenzvervielfachung durch Eisenkernkoppelung. Ludwig-Maximilians-Universität München)
+Robert Fano (1947: Theoretical Limitations on the Broadband Matching of Arbitrary Impedances. Massachusetts Institute of Technology)
+William Linvill (1949: Analysis and Design of Sampled-Data Control Systems. Massachusetts Institute of Technology)
+Bernard Widrow (1956: A Study of Rough Amplitude Quantization by Means of Nyquist Sampling Theory. Massachusetts Institute of Technology)
+Richard Mattson (1962: The Analysis and Synthesis of Adaptive Systems Which Use Networks of Threshold Elements. Stanford University)
+John Hopcroft (1964: Synthesis of Threshold Logic Networks. Stanford University)
+Alfred Aho (1967: Indexed Grammars: An Extension of Context Free Grammars. Princeton University)
+Zvi Galil (1975: The Complexity of Resolution Procedures for Theorem Proving in the Propositional Calculus. Cornell University)
+David Eppstein (1989: Efficient Algorithms for Sequence Analysis with Concave and Convex Gap Costs. Columbia University)
+
+Merrick L. Furst (1980: A Subexponenial Algorithm for Trivalent Isomorphism. Cornell University)
+Andrew Appel (1985: Compile-Time Evaluation and Code Generation in Semantics-Directed Compilers. Carnegie Mellon University) (Primary advisor: Ravi Sethi)
+
+Oskar Bolza (1886: Über die Reduction hyperelliptischer Integrale erster Ordnung und erster Gattung auf elliptische, insbesondere über die Reduction durch eine Transformation vierten Grades. Georg-August-Universität Göttingen)
+John Hector McDonald (1900: Concerning the System of the Binary Cubic and Quadratic with Application to the Reduction of Hyperelliptic Integrals to Elliptic Integrals by a Transformation of Order Four. The University of Chicago)
+Waldemar Trjitzinsky (1926: The Elliptic Cylinder Differential Equation. University of California, Berkeley)
+Richard Hamming (1942: Some Problems in the Boundary Value Theory of Linear Differential Equations. University of Illinois at Urbana-Champaign)
+
+William Edward Story (1875: On the Algebraic Relations Existing Between the Polars of a Binary Quantic. Universität Leipzig)
+Solomon Lefschetz (1911: On the Existence of Loci with Given Singularities. Clark University)
+Albert W. Tucker (1932: An Abstract Approach to Manifolds. Princeton University)
+Marvin Minsky (1954: Theory of Neural-Analog Reinforcement Systems and Its Application to the Brain Model Problem. Princeton University)
+Manuel Blum (1964: A Machine-Independent Theory of the Complexity of Recursive Functions. Massachusetts Institute of Technology)
+John Gill, III (1972: Probabilistic Turing Machines and Complexity of Computation. University of California, Berkeley)
+Gary Miller (computer scientist) (1975: Riemann's Hypothesis and Tests for Primality. University of California, Berkeley)
+F. Thomson Leighton (1981: Layouts for the Shuffle-Exchange Graph and Lower Bound Techniques for VLSI. Massachusetts Institute of Technology)
+Peter Shor (1985: Random Planar Matching and Bin Packing. Massachusetts Institute of Technology)
+
+Dana Angluin (1976: An Application of the Theory of Computational Complexity to the Study of Inductive Inference. University of California, Berkeley)
+Leonard Adleman (1976: Number-Theoretic Aspects of Computational Complexity. University of California, Berkeley)
+Michael Sipser (1980: Nondeterminism and the Size of Two-Way Finite Automata. University of California, Berkeley)
+Lance Fortnow (1989: Complexity-Theoretic Aspects of Interactive Proof Systems. Massachusetts Institute of Technology)
+Daniel Spielman (1995: Computationally Efficient Error-Correcting Codes and Holographic Proofs. Massachusetts Institute of Technology)
+
+Jeffrey Shallit (1983: Metric Theory of Pierce Expansions. University of California, Berkeley)
+Silvio Micali (1983: Randomness Versus Hardness. University of California, Berkeley)
+Eric Bach (1984: Analytic Methods in the Analysis and Design of Number-Theoretic Algorithms. University of California, Berkeley)
+Shafrira Goldwasser (1984: Probabilitstic Encryption: Theory and Applications. University of California, Berkeley)
+Johan Håstad
+
+Vijay Vazirani (1984: Maximum Matchings without Blossoms. University of California, Berkeley)
+Umesh Vazirani (1986: Randomness, Adversaries and Computation. University of California, Berkeley)
+Madhu Sudan (1992: Efficient Checking of Polynomials and Proofs and the Hardness of Approximation Problems. University of California, Berkeley)
+Sanjeev Arora (1994: Probabilistic Checking of Proofs and Hardness of Approximation Problems. University of California, Berkeley)
+Andris Ambainis (2001: Quantum Entanglement, Quantum Communication and the Limits of Quantum Computing. University of California, Berkeley)
+Scott Aaronson (2004: Limits on Efficient Computation in the Physical World. University of California, Berkeley)
+
+Steven Rudich (1989: Limits on the Provable Consequences of One-Way Functions. University of California, Berkeley)
+Moni Naor (1989: Implicit Storage Schemes for Quick Retrieval. University of California, Berkeley)
+Ronitt Rubinfeld (1990: A Mathematical Theory of Self-Checking, Self-Testing and Self-Correcting Programs. University of California, Berkeley)
+Sampath Kannan (1990: Program Checkers for Algebraic Problems. University of California, Berkeley)
+Russell Impagliazzo (1992: Pseudo-random Generators for Probablistic Algorithms and for Cryptograp. University of California, Berkeley)
+Mor Harchol-Balter (1996: Network Analysis without Exponentiality Assumptions. University of California, Berkeley)
+Luis von Ahn (2005: Human Computation. Carnegie Mellon University)
+Ryan Williams (computer scientist) (2007: Algorithms and Resource Requirements for Fundamental Problems. Carnegie Mellon University)
+
+Gerald Sussman (1973: A Computational Model of Skill Acquisition. Massachusetts Institute of Technology)
+Drew McDermott (1976: Flexibility and Efficiency in a Computer Program for Designing Circuits. Massachusetts Institute of Technology)
+Guy Steele, Jr. (1980: The Definition and Implementation of a Computer Programming Language Based on Constraints. Massachusetts Institute of Technology)
+Philip Wadler (1984: Listlessness Is Better than Laziness: An Algorithm that Transforms Applicative Programs to Eliminate Intermediate Lists. Carnegie Mellon University) (Primary advisor: Nico Habermann)
+
+Ken Forbus (1984: Qualitative Process Theory. Massachusetts Institute of Technology)
+
+Scott Fahlman (1977: A System for Representing and Using Real-World Knowledge. Massachusetts Institute of Technology) (Secondary advisor: Gerald Sussman)
+
+John McCarthy (computer scientist) (1951: Projection Operators and Partial Differential Equations. Princeton University)
+Barbara Huberman Liskov (1968: A Program to Play Chess End Games. Stanford University)
+
+
+=== California Institute of Technology ===
+
+
+==== Knuth ====
+Søren Rasmusen ((year unknown): (dissertation title unknown). )
+Bernt Michael Holmboe ((year unknown): (dissertation title unknown). )
+Carl Anton Bjerknes ((year unknown): (dissertation title unknown). )
+Marius Sophus Lie ((year unknown): (dissertation title unknown). )
+Elling Bolt Holst ((year unknown): (dissertation title unknown). )
+Axel Thue (1889: (dissertation title unknown). University of Christiania)
+Thoralf Skolem (1926: Einige Sätze über ganzzahlige Lösungen gewisser Gleichungen und Ungleichungen. Universitetet i Oslo)
+Øystein Ore (1924: (dissertation title unknown). Universitetet i Oslo)
+Grace Hopper (1934: New Types of Irreducibility Criteria. Yale University)
+Marshall Hall, Jr. (1936: An Isomorphism Between Linear Recurring Sequences and Algebraic Rings. Yale University)
+Donald Knuth (1963: Finite Semifields and Projective Planes. California Institute of Technology)
+Vaughan Pratt (1972: Shellsort and Sorting Networks. Stanford University)
+David Harel (1978: Logics of Programs: Axiomatics and Descriptive Power. Massachusetts Institute of Technology)
+
+Jeffrey Scott Vitter (1980: Analysis of Coalesced Hashing. Stanford University)
+
+
+==== Hartmanis ====
+Eric Temple Bell
+Morgan Ward
+Robert P. Dilworth
+Juris Hartmanis
+Edward Reingold
+Dexter Kozen
+Hubie Chen
+
+Neil Immerman
+Allan Borodin
+David G. Kirkpatrick
+Ian Munro (computer scientist)
+
+
+=== Floyd ===
+Bob Floyd never received a PhD, although he worked closely with Donald Knuth on The Art of Computer Programming.
+Bob Floyd ((year unknown): (dissertation title unknown). The University of Chicago)
+Zohar Manna (1968: Termination of Algorithms. Carnegie Mellon University)
+
+Adi Shamir (1977: The Fixed Points Of Recursive Definitions. Weizmann Institute of Science)
+Martín Abadi (1987: Temporal Theorem Proving. Stanford University)
+Shmuel Katz (computer scientist) (1977: Invariants And The Logical Analysis Of Programs. Weizmann Institute of Science)
+Nachum Dershowitz (1979: The Evolution of Programs. Weizmann Institute of Science)
+
+Jay Earley (1968: An Efficient Context-Free Parsing Algorithm. Carnegie Mellon University)
+Robert Tarjan (1972: An Efficient Planarity Algorithm. Stanford University)
+Daniel Sleator (1981: An 
+  
+    
+      
+        O
+        (
+        n
+        m
+        log
+        ⁡
+        n
+        )
+      
+    
+    {\displaystyle O(nm\log n)}
+   Algorithm for Maximum Network Flow. Princeton University)
+John R. Gilbert (1981: Graph Separator Theorems and Sparse Gaussian Elimination. Stanford University)
+Raimund Seidel (1987: Output-Size Sensitive Algorithms for Constructive Problems in Computational Geometry. Cornell University)
+Nina Amenta (1994: Helly Theorems and Generalized Linear Programming. University of California, Berkeley)
+
+Monika Henzinger (1993: Fully Dynamic Graph Algorithms and Their Data Structures. Princeton University)
+
+Ronald Rivest (1974: Analysis of Associative Retrieval Algorithms. Stanford University)
+Ron Pinter (1982: The Impact of Layer Assignment Methods on Layout Algorithms for Integrated Circuits. Massachusetts Institute of Technology)
+Avrim Blum (1991: Algorithms for Approximate Graph Coloring. Massachusetts Institute of Technology)
+Robert Schapire (1991: The Design and Analysis of Efficient Learning Algorithms. Massachusetts Institute of Technology)
+
+David Plaisted (1976: Theorem Proving and Semantic Trees. Stanford University)
+
+
+=== Ullman ===
+
+
+=== Hilbert ===
+David Hilbert (1885, University of Königsberg)
+Hugo Steinhaus
+Mark Kac
+Harry Kesten
+Ed Granirer
+Tony Lau
+Maria Klawe
+
+Hermann Weyl
+Saunders MacLane
+Roger Conant Lyndon
+Calvin Creston Elgot
+
+Anil Nerode
+Bob Soare
+Richard Tenney
+
+Micael Morley
+Terry Millar
+Mark Manasse
+
+Kurt Schutte
+Wolfgang Maass
+
+Wilhelm Ackermann
+Richard Courant
+Haskell Curry
+Hellmuth Kneser
+Reinhold Baer
+Earl J. Schweppe
+Elizabeth A. Unger
+
+Erich Hecke (1910, University of Göttingen)
+Heinrich Behnke (1923, University of Hamburg)
+Hans Langmaack (1960, University of Münster)
+Ernst-Rüdiger Olderog (1981, University of Kiel)
+
+
+=== Aiken ===
+Emory Leon Chaffee ((year unknown): (dissertation title unknown). )
+Howard Aiken ((year unknown): (dissertation title unknown). )
+Gerrit Blaauw ((year unknown): (dissertation title unknown). )
+Christian Vissers ((year unknown): (dissertation title unknown). )
+Hendrik Brinksma ((year unknown): (dissertation title unknown). )
+
+Fred Brooks (1956: The Analytic Design of Automatic Data Processing Systems. )
+Anthony Oettinger (1954: A Study for the Design of an Automatic Dictionary. )
+William Hines Bossert ((year unknown): (dissertation title unknown). )
+Gerald J. Popek ((year unknown): (dissertation title unknown). )
+John Heidemann ((year unknown): (dissertation title unknown). )
+
+Sheila Greibach (1963: Inverses of Phrase Structure Generators. Harvard University)
+Ronald Book ( : Grammars with Time Functions. )
+Michael J. Fischer ((year unknown): (dissertation title unknown). )
+Mitchell Wand ((year unknown): (dissertation title unknown). )
+Michael Martin Hammer ((year unknown): (dissertation title unknown). )
+Dennis McLeod ((year unknown): (dissertation title unknown). )
+
+Jean Gallier (1978: Semantics and Correctness of Classes of Deterministic and Nondeterministic Recursive Programs. University of California, Los Angeles)
+Wayne Snyder (1988: Complete Sets of Transformations for General Unification. University of Pennsylvania)
+
+Richard Karp (1959: Some Applications of Logical Syntax to Digital Computer Programming. Harvard University)
+Robert Keller (computer scientist) (1970: Closures of Parallel Program Schemata. University of California, Berkeley)
+Paul Hudak (1982: Object and Task Reclamation in Distributed Applicative Processing Systems. University of Utah)
+Kai Li ((year unknown): (dissertation title unknown). )
+
+Kellogg Booth ((year unknown): (dissertation title unknown). )
+Ron Shamir ((year unknown): (dissertation title unknown). )
+Rajeev Motwani (1988: Probabilistic Analysis of Matching and network flow Algorithms. )
+
+Eugene Lawler (1963: Some Aspects of Discrete Mathematical Programming. )
+David Shmoys (1984: Approximation Algorithms for Problems in Sequencing, Scheduling, and Communication Network Design. )
+Philip N. Klein ((year unknown): (dissertation title unknown). )
+Ramamurthy Ravi ((year unknown): (dissertation title unknown). )
+
+Clifford Stein ((year unknown): (dissertation title unknown). )
+
+Lee J. White (1967: A Parametric Study of Matchings and Coverings in Weighted Graphs. University of Michigan)
+Sargur Srihari (1976: Comparative Evaluation of Stored Pattern Classifiers. The Ohio State University)
+Venu Govindaraju (1992: Locating Faces in Newspaper Photographs. University at Buffalo)
+
+
+=== Stanford ===
+George Forsythe
+Ramon E. Moore
+Cleve Moler
+Jack Dongarra
+Charles F. Van Loan
+
+William McKeeman
+Eric Hehner (Primary advisor: David Barkley Wortman)
+
+Richard P. Brent (Primary advisor: Gene Howard Golub)
+J. Alan George
+Gaston Gonnet
+Ricardo Baeza-Yates
+
+Michael Alexander Malcolm
+David Cheriton
+Willy Zwaenepoel
+
+
+=== Other ===
+Harold Stone (computer scientist)
+Harold N. (Hal) Gabow
+Matthias Stallmann
+Manfred K. Warmuth
+Yoav Freund
+
+Franco P. Preparata
+Roberto Tamassia
+
+Georg Kreisel
+Richard Statman
+
+Herbert A. Simon
+Allen Newell
+Robert Kendall Lindsay
+Terrence Wendall Pratt
+Daniel Paul Friedman
+Matthias Felleisen
+Shriram Krishnamurthi
+
+Charles Bachman
+Edwin Boring
+Cooper Harold Langford
+Arthur Burks
+John Henry Holland
+Kenneth A De Jong
+Edgar F. Codd
+Stephen T. Hedetniemi (Primary advisor: Frank Harary)
+Donald F. Stanat
+Jon Bentley
+Charles Leiserson (Primary advisor: Hsiang-Tsung Kung)
+Guy Blelloch
+Thomas H. Cormen
+
+Gul Agha (Secondary advisor: Carl Hewitt)
+
+Robert "Bob" Allen Paige
+Friedrich "Fritz" Henglein
+
+Carl Gustav Hempel
+John Alan Robinson
+
+
+== See also ==
+List of computer scientists
+
+
+== References ==
+
+
+== Further reading ==
+Johnson, David S. (Summer 1984). "The genealogy of theoretical computer science: a preliminary report". ACM SIGACT News. 16 (2): 36–49. doi:10.1145/1008959.1008960. 
+Parberry, Ian; Johnson, David S. (June 1995). James Ford; Fillia Makedon; Samuel Rebelsky, eds. "The SIGACT Theoretical Computer Science Genealogy: Preliminary Report" (PDF). Proceedings of DAGS 95, "Electronic Publishing and the Information Superhighway". Boston, MA: Birkhauser: 197–205. 
+Coonce, Harry B. (December 2004). "Computer science and the mathematics genealogy project". ACM SIGACT News. 35 (4). 
+
+
+== External links ==
+Software Engineering Academic Genealogy
+SIGACT Theoretical Computer Science Genealogy (archived on 13 October 2007)
+Mathematics Genealogy Project
+AI Genealogy Project
+Computer Engineering Academic Genealogy by Yuan Xie, Pennsylvania State University

@@ -1,0 +1,7 @@
+In the field of information retrieval, divergence from randomness is one type of probabilistic model.
+Term weights are computed by measuring the divergence between a term distribution produced by a random process and the actual term distribution.
+
+
+== External links ==
+Terrier's DFR Web page
+Glasgow IR group Wiki DFR page

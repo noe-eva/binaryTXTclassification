@@ -1,0 +1,7 @@
+LU reduction is an algorithm related to LU decomposition. This term is usually used in the context of super computing and highly parallel computing. In this context it is used as a benchmarking algorithm, i.e. to provide a comparative measurement of speed for different computers. LU reduction is a special parallelized version of an LU decomposition algorithm, an example can be found in (Guitart 2001). The parallelized version usually distributes the work for a matrix row to a single processor and synchronizes the result with the whole matrix (Escribano 2000).
+
+
+== Sources ==
+J. Oliver, J. Guitart, E. Ayguadé, N. Navarro and J. Torres. Strategies for Efficient Exploitation of Loop-level Parallelism in Java. Concurrency and Computation: Practice and Experience(Java Grande 2000 Special Issue), Vol.13 (8-9), pp. 663–680. ISSN 1532-0634, July 2001, [1], last retrieved on Sept. 14 2007
+J. Guitart, X. Martorell, J. Torres, and E. Ayguadé, Improving Java Multithreading Facilities: the Java Nanos Environment, Research Report UPC-DAC-2001-8, Computer Architecture Department, Technical University of Catalonia, March 2001, [2].
+Arturo González-Escribano, Arjan J. C. van Gemund, Valentín Cardeñoso-Payo et al., Measuring the Performance Impact of SP-Restricted Programming in Shared-Memory Machines, In Vector and Parallel Processing — VECPAR 2000, Springer Verlag, pp. 128–141, ISBN 978-3-540-41999-0, 2000, [3]

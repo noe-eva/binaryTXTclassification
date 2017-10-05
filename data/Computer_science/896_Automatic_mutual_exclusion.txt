@@ -1,0 +1,8 @@
+Automatic mutual exclusion is a parallel computing programming paradigm in which threads are divided into atomic chunks, and the atomic execution of the chunks automatically parallelized using transactional memory.
+
+
+== References ==
+
+
+== See also ==
+Bulk synchronous parallel

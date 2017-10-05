@@ -1,0 +1,16 @@
+imake is a build automation system written for the X Window System. It was used by X from X11R1 (1987) to X11R6.9 (2005), and continued to be used in XFree86 (last commit 2009). It is implemented on top of the C preprocessor and make. The first version was written by Todd Brunhoff at Tektronix.
+imake generates makefiles from a template, a set of C preprocessor macro functions, and a per-directory input file called an Imakefile. This allows machine dependencies (such as compiler options, alternate command names, and special make rules) to be kept separate from the descriptions of the various items to be built.
+imake was heavily used for X and X-related software through the 1990s, and for unrelated software such as ChorusOS. It was also used for configuration management.
+With the release of X.org X11R7.0, it was replaced by GNU Autotools. (X11R6.9 and X11R7.0 were the same codebase with a different build system.).
+
+
+== Notes ==
+
+
+== Sources ==
+DuBois, Paul (September 1996). Software Portability with imake (2nd ed.). O'Reilly Media. ISBN 978-1-56592-226-6. 
+
+
+== External links ==
+imake book
+imake FAQ

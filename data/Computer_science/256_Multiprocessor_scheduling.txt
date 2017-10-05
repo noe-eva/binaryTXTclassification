@@ -1,0 +1,15 @@
+In computer science, multiprocessor scheduling is an NP-hard optimization problem. The problem statement is: "Given a set J of jobs where job ji has length li and a number of processors m, what is the minimum possible time required to schedule all jobs in J on m processors such that none overlap?" The applications of this problem are numerous, but are, as suggested by the name of the problem, most strongly associated with the scheduling of computational tasks in a multiprocessor environment.
+Multiprocessor schedulers have to schedule tasks which may or may not be dependent upon one another. For example, take the case of reading user credentials from console, then use it to authenticate, then if authentication is successful display some data on the console. Clearly one task is dependent upon another. This is a clear case of where some kind of ordering exists between the tasks. In fact it is clear that it can be modelled with partial ordering. Then, by definition, the set of tasks constitute a lattice structure.
+The general multiprocessor scheduling problem is a generalization of the optimization version of the number partitioning problem, which considers the case of partitioning a set of numbers (jobs) into two equal sets (processors).
+
+
+== Algorithms ==
+A simple, often-used algorithm is the LPT algorithm (Longest Processing Time) which sorts the jobs by its processing time and then assigns them to the machine with the earliest end time so far. This algorithm achieves an upper bound of 4/3 - 1/(3m) OPT.
+
+
+== See also ==
+Job shop scheduling, a similar problem for scheduling jobs on machines. Some variants of multiprocessor scheduling and job shop scheduling are equivalent problems.
+
+
+== References ==
+A compendium of NP optimization problems. Editors: Pierluigi Crescenzi, and Viggo Kann [1]

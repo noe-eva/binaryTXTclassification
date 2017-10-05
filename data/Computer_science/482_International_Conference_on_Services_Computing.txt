@@ -1,0 +1,23 @@
+Services now account for more than half of the U.S. economy. Services Computing, as a new cross discipline, addresses how to enable IT technology to help people perform business services more efficiently and effectively. At the core of a business model is a set of processes that jointly help yield a profit in an organization. As we can see, services computing currently shapes the thinking of business modeling, business consulting, solution creation, service delivery, and software architecture design, development, and deployment. The global nature of Services Computing leads to many opportunities and few challenges and creates a new networked economic structure for supporting different business models.
+The International Conference on Services Computing (SCC) has the following three major research tracks: Foundations of Services Computing, Services-Centric Business Models, and Business Process Integration and Management. Building on its great success of SCC 2004, SCC 2005, and SCC 2006; the 2007 International Conference on Services Computing (SCC 2007) continues to bridge the gap between Services Computing and Business models with an emerging suite of ground-breaking technology that includes service-oriented architecture, business process integration and management, grid/utility/autonomic computing, and Web 2.0. The theme of SCC 2007 is "Services: Science, Technology, and Business". From technology foundation perspective, Services Computing has become the default discipline for the emerging modern services science.
+SCC 2008 was held on July 8-11, 2008, Seattle, USA. SCC 2009 was held on September 21-25, 2009, Bangalore, India. SCC 2010 was co-located with ICWS 2010 on July 6-11, 2010 in Miami, Florida, USA. SCC 2011 was co-located with ICWS 2011, CLOUD 2011, and SERVICES 2011 on July 4-9, 2011 in Washington DC, USA. SCC 2012 was co-located with ICWS 2012, CLOUD 2012, MS 2012, SE 2012, and SERVICES 2012 on June 24-29, 2012 in Seattle, USA. SCC 2013 was co-located with ICWS 2013, CLOUD 2013, MS 2013, BigData Congress 2013, and SERVICES 2013 on June 27 - July 2, 2013 in Santa Clara, California, USA. SCC 2014 co-located with CLOUD 2014, ICWS 2014, MS 2014, SERVICES 2014, BigData Congress 2014 on June 27-July 2 2014, Anchorage, Alaska, USA. SCC 2015 co-located with CLOUD 2015, ICWS 2015, MS 2015, SERVICES 2015, BigData Congress 2015 on June 27-July 2 2015, New York City, USA. SCC 2016 co-located with CLOUD 2016, ICWS 2016, MS 2016, SERVICES 2016, BigData Congress 2016 on June 27-July 2 2016, San Francisco, CA, USA. SCC 2017 co-located with CLOUD 2017, ICWS 2017, AIMS 2017, SERVICES 2017, BigData Congress 2017, ICCC 2017, Edge 2017 on June 25 - June 30, 2017, Honolulu, Hawaii, USA.
+The 11th International Conference on Services Computing (SCC 2018) covers the whole lifecycle of innovation research and enabling technologies, which includes enterprise modeling, business consulting, solution creation, services delivery, services orchestration, services optimization, services management, services marketing, services delivery. The SCC 2014, SCC 2015, SCC 2016, and SCC 2017 were co-sponsored by Services Society and IEEE Computer Society.
+
+
+== External links ==
+SCC 2004, The 1st International Conference on Services Computing
+SCC 2005, The 2nd International Conference on Services Computing
+SCC 2006, The 3rd International Conference on Services Computing
+SCC 2007, The 4th International Conference on Services Computing
+SCC 2008, The 5th International Conference on Services Computing
+SCC 2009, The 6th International Conference on Services Computing
+SCC 2010, The 7th International Conference on Services Computing
+SCC 2011, The 8th International Conference on Services Computing
+SCC 2012, The 9th International Conference on Services Computing
+SCC 2013, The 10th International Conference on Services Computing
+SCC 2014, The 11th International Conference on Services Computing
+SCC 2015, The 12th International Conference on Services Computing
+SCC 2016, The 13th International Conference on Services Computing
+SCC 2017, The 14th International Conference on Services Computing
+SCC 2018, The 15th International Conference on Services Computing
+Services Society

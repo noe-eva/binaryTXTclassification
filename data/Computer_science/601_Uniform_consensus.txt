@@ -1,0 +1,10 @@
+In computer science, Uniform consensus is a distributed computing problem that is a similar to the consensus problem with one more condition which is no two processes (whether faulty or not) decide differently.
+More specifically one should consider this problem:
+Each process has an input, should on decide an output (one-shot problem)
+Uniform Agreement: every two decisions are the same
+Validity: every decision is an input of one of the processes
+Termination: eventually all correct processes decide
+
+
+== References ==
+Charron-Bost, Bernadette; Schiper, André (April 2004). "Uniform consensus is harder than consensus". Journal of Algorithms. 51 (1): 15–37. doi:10.1016/j.jalgor.2003.11.001.

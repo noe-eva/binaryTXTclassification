@@ -1,0 +1,40 @@
+The Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI) is a leading series of academic conferences in HCI and is sponsored by ACM SIGCHI, the Special Interest Group on Computer-Human Interaction. MobileHCI has been held annually since 1998 and has been an ACM SIGCHI sponsored conference since 2012 The conference is very competitive, with an acceptance rate of below 20% in 2017  from 25% in 2006 and 21.6% in 2009. MobileHCI 2011 was held in Stockholm, Sweden, and MobileHCI 2012 which was sponsored by SIGCHI held in San Francisco, USA.
+
+
+== History ==
+
+The MobileHCI series started in 1998 as a stand-alone Workshop on Human Computer Interaction with Mobile Devices organized by Chris Johnson and held at the University of Glasgow. In the following year the workshop was held in conjunction with the Interact conference and was organized by Stephen Brewster and Mark Dunlop. In 2001 MobileHCI was again organized by Brewster and Dunlop in association with a major conference. This was in conjunction with IHM-HCI in Lille, France.
+In 2002 MobileHCI was held independently from an associated conference as a stand-alone symposium in Pisa, Italy, organized by Fabio Paternò. In 2003 the conference was organized by Luca Chittaro in Udine, Italy. In 2004 it was again organized by Brewster and Dunlop, this time at the University of Strathclyde. In the following years the conference took place in Austria, Finland, and Singapore. MobileHCI 2008 has been organized by Henri Ter Hofte from the Telematica Instituut in the Netherlands.
+For 2008 the conference's steering committee agreed to award a prize for the most influential paper published at MobileHCI ten years ago. The price should recognises the longevity of impact papers from the first MobileHCI have had on the research community. The 2008 prize was awarded to Keith Cheverst for the paper Exploiting Context in HCI Design for Mobile Systems written together with Tom Rodden, Nigel Davies, and Alan Dix.
+MobileHCI 2009 was organised by Fraunhofer FIT and University of Siegen, in cooperation with ACM SIGCHI and ACM SIGMOBILE. The general chair was Prof. Dr. Reinhard Oppermann from Fraunhofer Society FIT, and the program chairs were Dr. Markus Eisenhauer, Prof. Dr. Matthias Jarke, and Prof. Dr. Volker Wulf. The 2009 prize for the most influential paper from ten years ago was awarded to Albrecht Schmidt for his paper Implicit human-computer interaction through context. The acceptance rate was 24.2% for full papers and 18.5% for short papers.
+The 12th MobileHCI took place in Lisboa, Portugal, from September 7–10, 2010. The conference's general chairs were Marco de Sá and Luís Carriço from the University of Lisboa. The theme of the conference was a mobile world for all. The acceptance rate was 20% for full papers and 22% overall.
+MobileHCI 2011 took place in Stockholm, Sweden from 30 August to 2 September 2011. The 13th in the series was chaired by Markus Bylund (Swedish Institute of Computer Science) and Maria Holm (Mobile Life Centre) with Oskar Juhlin and Ylva Fernaeus also from Mobile Life Centre as programme chairs. The full paper acceptance rate was 27% with an overall 23%. The Most influential Paper from MobileHCI 2001 prize was awarded to Simon Holland for his paper AudioGPS: Spatial Audio Navigation with a Minimal Attention Interface.
+
+
+== Topics ==
+In its early years, the conference had a limited number of unspecific topics. The list of topics grew over the years.
+Topics considered relevant to date are, for example, audio and speech interaction, designing Web sites for mobile devices, evaluation of mobile devices and services, and multimodal interaction. Examples of topics that emerged in the last years are Wearable Computing, Mobile social networks, and studies on the use of mobile devices for special target groups (e.g. seniors).
+
+
+== Workshops ==
+Since 2002 workshops have been held prior to the main conference. Workshops focus on specific topics related to the conference's main theme. To participate in a workshop it is often necessary to submit a paper and present it during the workshop. Usually around 20 persons participate in a workshop. Besides the presentations there is typically more room for discussions than during the main conference. Successful workshops are often repeated in the following years. Some examples are the workshops on HCI in Mobile Guides, Mobile Interaction with the Real World (MIRW), and Speech in Mobile and Pervasive Environments (SiMPE).
+
+
+== Tutorials ==
+Tutorial days have been held at Mobile HCI 2008 and 2009. After more than 10 years of Mobile HCI, providing an overview of the state of the art becomes more and more challenging. During the tutorial days, a number of well-known researchers in Mobile HCI gave overviews of the state of the art and cover many of the relevant topics. The tutorials also introduced the "must read" papers in this domain. The audience varied and included new students starting a PhD in Mobile HCI, practitioners wanting a quick survey of the state of the art and educators wishing to get an overview of Mobile HCI for their own teaching.
+
+
+== External links ==
+Website of the MobileHCI conference series
+Website of the MobileHCI 2013 conference
+Website of the MobileHCI 2012 conference
+Website of the MobileHCI 2011 conference
+Website of the MobileHCI 2010 conference
+Website of the workshop HCI in Mobile Guides 2005
+Website of the workshop Mobile Interaction with the Real World 2009
+Mobile HCI 2009 tutorial day slides
+Mobile HCI 2008 tutorial day slides
+Website of the workshop Speech in Mobile and Pervasive Environments
+
+
+== Notes and references ==

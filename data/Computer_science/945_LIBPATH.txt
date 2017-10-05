@@ -1,0 +1,8 @@
+LIBPATH is a system variable on a few computer operating systems, that has a meaning in the context of the runtime linking process, where it influences the search order for shared libraries at alternate locations.
+an environment variable just like LD LIBRARY PATH on AIX
+LIBPATH is a CONFIG.SYS directive on OS/2
+
+
+== See also ==
+BEGINLIBPATH (environment variable)
+ENDLIBPATH (environment variable)

@@ -1,0 +1,18 @@
+A forest of stars is a set of star worlds whose adjacency matrix is a tree. This means that no intersecting star worlds create a cycle, or hole, in the overall space. If an object or space can be represented by a forest of stars, it can be mapped onto a sphere-world by mapping each star world onto the boundary of its parent star world in the adjacency tree. The root of an adjacency tree can be picked arbitrarily.
+All star worlds in a forest of stars must have intersections that are also star worlds with respect to their center point.
+Forests of stars are used in robot navigation to create navigation functions such as artificial potential functions. A forest of stars is used to represent robots or obstacles that have shapes which can be approximated by the union of separate stars.
+
+
+== Relation to sphere worlds ==
+A sphere world is a space whose boundary is a sphere of the same dimension as the space. A star world is any world whose boundary can be mapped onto the boundary of a sphere world. Since a forest of stars is the union of a number of star worlds, the forest can be recursively mapped onto a single sphere world, and then navigation techniques for sphere worlds can be used.
+
+
+== See also ==
+Navigation function
+Sphere world
+Star world
+Topology
+
+
+== References ==
+E. Rimon, D. Koditschek Exact Robot Navigation Using Artificial Potential Functions IEEE Transactions on Robotics and Automation, Vol 8, No 5, Oct 1992

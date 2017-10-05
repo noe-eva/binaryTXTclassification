@@ -1,0 +1,7 @@
+In distributed computing, SSLIOP is an Internet Inter-ORB Protocol (IIOP) over Secure Sockets Layer (SSL), providing confidentiality and authentication.
+As of January 2007, SSLIOP is implemented by (at least) TAO, JacORB, OpenORB [1], and MICO [2].
+
+
+== See also ==
+CSIv2
+SECIOP

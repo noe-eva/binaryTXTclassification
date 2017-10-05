@@ -1,0 +1,18 @@
+Experimental software engineering is a part of software engineering that focuses on experiments involving software systems (software products, processes, and resources). The purpose of these experiments is to collect data that can be used as the basis of theories about the processes involved in software engineering (theory backed by data is a fundamental tenet of the scientific method). A number of research groups primarily use empirical and experimental techniques.
+Empirical software engineering is a related concept, sometimes used synonymously with experimental software engineering. Empirical software engineering emphasizes the use of empirical studies of all kinds to accumulate knowledge. Methods used include experiments, case studies, surveys, and using whatever data is available.
+
+
+== Future of empirical software engineering research ==
+In a recent keynote at the premier conference on empirical methods in software engineering (International Symposium on Empirical Software Engineering and Measurement http://www.esem-conferences.org/) Prof. Wohlin recommended ten commitments that the research community should follow to increase the relevance and impact of empirical software engineering research. However, at the same conference Dr. Ali effectively argued that solely following these will not be enough and we need to do more than just show the evidence substantiating the claimed benefits of our interventions but instead what is required for practical relevance and potential impact is the evidence for cost-effectiveness.
+
+
+=== International Software Engineering Research Network (ISERN) ===
+International Software Engineering Research Network (ISERN) is a global community of research groups who are active in experimental software engineering. Its purpose is to advance the practice of and foster university and industry collaborations within experimental software engineering. ISERN holds annual meetings in conjunction with the International Symposium on Empirical Software Engineering and Measurement (ESEM) conference.
+
+
+== References ==
+
+Victor Basili, Richard W. Selby, David H. Hutchens, "Experimentation in Software Engineering", IEEE Transactions on Software Engineering, Vol. SE-12, No.7, July 1986
+Barry Boehm, Hans Dieter Rombach, and Marvin V. Zelkowitz (eds.), Foundations of Empirical Software Engineering — The Legacy of Victor R. Basili, Springer-Verlag, 2005, ISBN 3-540-24547-2.
+H. Dieter Rombach, Victor R. Basili and Richard W. Selby (eds.), [Experimental Software Engineering Issues: Critical Assessment and Future Directions], Springer-Verlag, 1993, ISBN 3-540-57092-6.
+Basili, V.; Rombach, D.; Schneider, K.; Kitchenham, B.; Pfahl, D.; Selby, R. (Eds.),Empirical Software Engineering Issues. Critical Assessment and Future Directions, Springer-Verlag, 2007, ISBN 978-3-540-71300-5.

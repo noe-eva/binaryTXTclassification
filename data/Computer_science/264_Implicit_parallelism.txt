@@ -1,0 +1,21 @@
+In computer science, implicit parallelism is a characteristic of a programming language that allows a compiler or interpreter to automatically exploit the parallelism inherent to the computations expressed by some of the language's constructs. A pure implicitly parallel language does not need special directives, operators or functions to enable parallel execution, as opposed to explicit parallelism.
+Programming languages with implicit parallelism include Axum, HPF, Id, LabVIEW, MATLAB M-code, NESL, SaC, SISAL, ZPL, and pH.
+
+
+== Example ==
+If a particular problem involves performing the same operation on a group of numbers (such as taking the sine or logarithm of each in turn), a language that provides implicit parallelism might allow the programmer to write the instruction thus:
+
+The compiler or interpreter can calculate the sine of each element independently, spreading the effort across multiple processors if available.
+
+
+== Advantages ==
+A programmer that writes implicitly parallel code does not need to worry about task division or process communication, focusing instead on the problem that his or her program is intended to solve. Implicit parallelism generally facilitates the design of parallel programs and therefore results in a substantial improvement of programmer productivity.
+Many of the constructs necessary to support this also add simplicity or clarity even in the absence of actual parallelism. The example above, of List comprehension in the sin() function, is a useful feature in of itself. By using implicit parallelism, languages effectively have to provide such useful constructs to users simply to support required functionality (a language without a decent for() loop, for example, is one few programmers will use).
+
+
+== Disadvantages ==
+Languages with implicit parallelism reduce the control that the programmer has over the parallel execution of the program, resulting sometimes in less-than-optimal parallel efficiency. The makers of the Oz programming language also note that their early experiments with implicit parallelism showed that implicit parallelism made debugging difficult and object models unnecessarily awkward.
+A larger issue is that every program has some parallel and some serial logic. Binary I/O, for example, requires support for such serial operations as Write() and Seek(). If implicit parallelism is desired, this creates a new requirement for constructs and keywords to support code that cannot be threaded or distributed.
+
+
+== Notes ==

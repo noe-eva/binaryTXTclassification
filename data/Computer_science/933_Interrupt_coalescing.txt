@@ -1,0 +1,11 @@
+Interrupt coalescing, also known as interrupt moderation, is a technique in which events which would normally trigger a hardware interrupt are held back, either until a certain amount of work is pending, or a timeout timer triggers. Used correctly, this technique can reduce interrupt load by up to an order of magnitude, while only incurring relatively small latency penalties. Interrupt coalescing is typically combined with either a hardware FIFO or direct memory access, to allow for continued data throughput while interrupts are being held back.
+Interrupt coalescing is a common feature of modern network cards, but the technique dates back to early computer UARTs such as the 16550 UART chip used in the IBM PC's serial interface, at a time when even servicing the interrupt rates required by the low data rate serial data streams of the day was taxing for contemporary CPUs.
+Interrupt coalescing can also be implemented without support in hardware, by disabling interrupts in the interrupt controller and using timer-based polling.
+
+
+== See also ==
+I/O processor
+Timer coalescing
+
+
+== References ==

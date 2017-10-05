@@ -1,0 +1,16 @@
+System migration involves moving a set of instructions or programs, e.g., PLC (programmable logic controller) programs, from one platform to another, minimizing reengineering.
+Migration of systems can also involve downtime, while the old system is replaced with a new one.
+Migration can be from a mainframe computer which has a closed architecture, to an open system which employ x86 servers. As well, migration can be from an open system to a Cloud Computing platform. The motivation for this can be the cost savings. Migration can be simplified by tools that can automatically convert data from one form to another. There are also tools to convert the code from one platform to another to be either compiled or interpreted. Vendors of such tools include Micro Focus and Metamining. An alternative to converting the code is the use of software that can run the code from the old system on the new system. Examples are Oracle Tuxedo Application Rehosting Workbench, Morphis - Transformer and products for LINC 4GL.
+Migration may also be required when the hardware is no longer available. See JOVIAL.
+
+
+== See also ==
+Data conversion
+Data migration
+Data transformation
+Software migration
+Software modernization
+List of Linux adopters
+
+
+== References ==

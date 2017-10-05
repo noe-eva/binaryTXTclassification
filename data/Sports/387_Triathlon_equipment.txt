@@ -1,0 +1,80 @@
+The special needs of triathlon competitions have led to the development of a whole range of specialized clothing and equipment.
+
+
+== Triathlon-specific swim equipment ==
+Typical equipment for a swim includes a cap, goggles and a swimsuit and/or wetsuit. Usually, participants must wear a swim cap provided by the event. For safety reasons, the swim caps are generally brightly colored for high visibility. The colors may categorize swimmers by event (e.g. Olympic, Sprint) or by heat.
+Any artificial propulsion device, e.g. fin, sock, glove, paddle or flotation device except a wet suit, is prohibited. Snorkels, however, are a gray area. Triathlon Canada, Australia Triathlon, USAT and ITU do not specifically disallow snorkels. British Triathlon does not list snorkels as part of the accepted equipment, thus they are disallowed. For safety reasons in open-water events, some federations permit special inflatable flotation devices; though activating the device will usually disqualify the swimmer, it can be used to float if the swimmer experiences difficulty.
+Because most triathlon swim stages are conducted in open waters (lakes, rivers, or oceans) which are often cold, many early races allowed wetsuits. However, typical wetsuits manufactured for snorkeling or water skiing are not optimal for triathlon, because the sleeves generally restrict the range of motion too much for comfortable stroking during the swim. Modern triathlon wetsuits were invented by Dan Empfield in 1987 and are customized to the needs of triathletes, and generally incorporate the following features:
+Thinner and/or more pliable rubber near the shoulders, sleeveless versions are also available.
+Long zippers and sometimes wrist/ankle zippers to facilitate quick removal during transition.
+In addition, tri wetsuits have a very smooth, but often fragile, surface. This slick surface helps to reduce water friction and allow a faster swim, but it would be easily destroyed by contact with a sandy surfboard. Another advantage of a wetsuit is the added buoyancy. It provides triathletes with a considerable advantage.
+Rules vary by event, but typically wetsuits are allowed only if the water temperature is below a specified threshold on the day of the event (e.g. 26 °C, 78 °F). Any athlete has the option of wearing another style of swimsuit allowed by the rules at any temperature. As of 2013, triathlons sanctioned by USAT also have a wetsuit thickness rule. No wetsuit with a thickness of greater than 5mm may be used. Most triathlon wetsuits have thicknesses of 3mm to 5mm, but the new rule likely affects some models and older wetsuits.
+Unfortunately, most triathletes do not have the luxury of an open water swim environment near where they train, and year-round outside training can be difficult in cold climates. Several swim training products have been created to address this issue including ergometers like the Vasa Swim Trainer or compact swimming treadmills like Endless Pools.
+Trisuits may also be used for the swim, bike, and run. They are made out of a swimsuit material and usually have some form of chamois.
+
+
+== Triathlon-specific cycling equipment ==
+
+
+=== Triathlon bicycles ===
+Triathlon bicycles are a variant of road-racing bicycles, designed primarily to optimize aerodynamics. Since in most triathlons, cyclists do not draft as in many other forms of road racing, triathletes can gain a significant advantage by riding a bicycle which reduces wind resistance. The most obvious features of a triathlon bicycle are the handlebars, commonly known as "aero-bars" (see below).
+In addition, many components of a triathlon bicycle are designed with an aerodynamic profile: frame tubes have an oval or teardrop (instead of circular) cross-section; handlebars may be flat instead of round; wheels may have fewer spokes, or even be carbon fiber tri-spokes or discs rather than conventional spoked wheels. Lastly, a number of "radical" bicycle frames that are illegal in road cycling are still legal in triathlon, so "nontraditional" frame designs are also common, including Zipp 2001, Softride, and Kestrel.
+Tri bikes generally have a very "aggressive" geometry, meaning steep (close to vertical) tube angles and a low stem and handlebars relative to the saddle. This position helps to improve aerodynamics by lowering the cyclist's torso and creating a smaller overall "drag profile". In addition, many triathletes feel cycling in this position helps preserve the muscles used in running by emphasizing pedaling with non-running muscle groups.
+The concept of a tri specific bicycle was pioneered by Ralph Ray and Dan Empfield in the late 1980s. Tri bikes are generally very similar to time trial bicycles used in time trial races. In 1989, Empfield designed the Quintana Roo Superform, a triathlon specific bicycle "built from the aerobars back" which provided an aerodynamic advantage as well as more power when in the "aero" position. Empfield's bike had 650c wheels and an 80 degree seat angle which was unique to the period. Many professional triathletes were skeptical of the "steep" design at first but when Ray Browning rode it at Ironman New Zealand breaking the bike and overall course records and left the bike leg with a 30-minute lead over rival Scott Tinley, the concepts were here to stay.
+The aerodynamic shape causes somewhat higher weight, even if carbon fiber is used. In very hilly races where a lot of time is spent in slow uphills, a low-weight traditional road bicycle might be preferred.
+
+
+=== Aerobars ===
+Aerobars, also commonly referred to as "tri-bars," are handlebars designed to reduce the cyclist's wind profile. Triathlon played a key role in the development of cycling with an aero geometry during the 1980s. Aerobars are used in other forms of cycling, such as time trials and some events in track cycling.
+Instead of the familiar curved "drop bars" of road bicycles, aerobars are mounted to a set of "pace bars" or "bull-horns". A pair of bars stretches straight forward from the center of these handlebars at the stem of the fork. Padded cups or pads in the middle of the bars support the athlete's elbows and/or forearms while the hands are stretched forward to hold the center bars. This position keeps the rider's elbows in close to the body and lowers his or her torso compared to the usual upright position.
+The brake levers are mounted on the side horns; the rider will hold these instead of the center bars when braking or maneuvering is required. Often the shifters for the derailleur gears are mounted at the tips of the aero bars allowing the athlete to change gear ratios without compromising their aerodynamic position.
+Riding with aerobars is facilitated by adopting a steep seat-tube angle, often referred to as an "aggressive" geometry. The forward nature of this positioning is not as easy to control as traditional seat tube angle and upright position. Maneuverability is compromised for an aerodynamic body position when a bike is fitted with low aerobars.
+The International Triathlon Union regulates the size of aerobars used in competition for draft-legal races. Triathlons allowing drafting promote cycling as a group on the cycle leg of the triathlon, allowing athletes to compete with a very aggressive geometry compromises safety as maneuverability is reduced. Professional triathletes competing in these races use "shorty" aerobars mounted on traditional drop handlebars.
+
+
+=== Triathlon shoes ===
+Triathlon shoes are similar to other forms of cycling shoe used in racing, with automatic binding cleats (clipless) that snap the cyclist's feet to the pedals. Tri shoes are often optimized for this approach: they may be padded to allow comfortable use without socks, have holes to allow water from the swim to drain easily, and have only one or two velcro straps for ease of fastening rather than the three straps, laces, or ratcheting buckles found on modern road racing shoes. It is not uncommon for the Velcro straps used to close from the outside of the foot inwards, this non-traditional configuration keeps the opened straps away from the chain and bicycles, preventing the possibility of entangling them if pedaling with unstrapped shoes early or late in the race.
+Many competitive triathletes choose to leave their shoes clipped onto the pedals for the entire duration of the race in order to save time during transitions. This means the athlete is jumping onto the bicycle with wet, bare feet after the swim, and will pedal up to a reasonable speed, with his or her feet sitting on top of the shoes, before pausing to slip the feet inside the shoes and fasten them. Likewise, the athlete will pull his or her feet out of the shoes while coasting up to the bike-run transition area and run barefoot into the transition corral rather than attempt to run on the awkward cycling cleats.
+
+
+=== Hydration systems ===
+
+As with everything else, triathletes often strive to make their water bottles as aerodynamic as possible, and often to reduce the need to reach for a water bottle - which may interrupt pedaling and slow the racer down. Triathletes have tried placing water bottles in unusual locations, such as in a bracket behind the saddle, on the theory that the bottles are shielded from the wind by the body. However, a recent wind-tunnel study by Triathlete Magazine discovered that this approach is actually counterproductive because it interrupts the laminar flow of air down the athlete's curved back. A 2003, wind tunnel study by Dan Empfield found that the best configuration was a single water bottle on the bike's downtube (it smoothed airflow to the seat tube and rear wheel). This caused less drag than having no waterbottle at all. The most drag was 2 water bottles; one on the down tube and one on the seat tube.
+A number of products have been created to satisfy triathlete's demands for aerodynamic hydration systems. Examples include the Aerodrink system by Profile Design, an aero bottle that hangs from the handlebars with a straw so the athlete can drink without using his hands; and the Neverreach system, a teardrop-shaped reservoir mounted behind the seat with a tube running up to the handlebars. In addition, certain high-end triathlon bicycles have a hydration system integrated into the frame's tubing itself.
+On long-distance triathlons, the participants will get filled bottles by the organiser during the race as replacement for the used ones. If using special bottles, the received bottle should be emptied into own bottle, and immediately thrown. Bottles hanging from the handlebars are generally prepared for this. To throw bottles outside aid stations is not allowed. In Ironman own aid suppliers are not allowed.
+
+
+=== Wheels ===
+A vast array of low-weight and/or aerodynamic wheels exist for racing bicycles. Some (such as wheels with an aerodynamic ring, flat spokes, and fewer spokes than the traditional 32) are legal for use in most cycling events, while others such as carbon-fiber tri-spokes (wheels with only three large, rigid spokes) generally are only legal in triathlons and time-trials. Typically wheels that are lighter are preferred and, although this is an obvious consideration, it is not the only one. Higher profile wheels (larger rim) are conducive to laminar flow of air past them more so than traditional thin rimmed wheels.
+Solid disc wheels are used as well, though in outdoor settings these are generally not used on the front wheel because they are difficult to handle in crosswinds. Disc wheels provide a significant aerodynamic advantage when mounted on the rear wheel improving laminar flow over the rear half of the bike. Recent developments in technology have given rise to disc wheels with a dimpled surface like a golf ball, also in the name of aerodynamics. Disc wheels are not permitted at the Ironman World Championships in Kona Hawaii, as large crosswinds are not uncommon and present an unsafe situation to athletes.
+Some triathlon bikes use 650c wheels (a nominal diameter of 65 centimeters) rather than the conventional 700c wheels used on nearly all road bikes. The smaller wheels weigh less, have a smaller cross-sectional area (reducing wind resistance), and reduce the overall wind resistance of the bicycle by bringing the frame and cyclist closer to the ground. A potential drawback is that the smaller diameter means a higher curvature at the tire's contact patch, which increases rolling resistance. Which effect is more prominent depends on the cyclist and the windiness and steepness of the course.
+
+
+=== Other components ===
+Many triathletes can be quite fixated with improving the aerodynamics and lowering the weight of their bicycles. As a result, the triathlon industry has developed a whole host of components which improve myriad characteristics of the bicycle. Examples include chainrings which have no holes or gaps (increasing aerodynamics a minuscule amount at the cost of a few grams of weight), brake and shifter cables which run inside the bicycle frame, and components of all sorts made from carbon fiber composite rather than steel or aluminum, in order to save weight.
+
+
+== Triathlon-specific running equipment ==
+
+
+=== Elastic shoelaces ===
+Triathletes often lace their running shoes with elastic shoelaces. This allows them to pre-set the tension of the laces but then to pull on the shoes without stopping to tie the laces. This saves a few seconds of time during the bike-to-run transition. The most popular brands of such laces that are designed specifically for triathlon are Lock Laces, Speedlaces, and Yankz.
+
+
+=== Holes in sole of shoe ===
+Shoes with holes in the bottom allow water to drain out so that they do not become saturated and heavy, which can happen in long races like Iron-Man and Half-Iron-Man and can become very painful and annoying. Triathlon running stages are generally held later on the day compared to running races, creating a hotter temperature. Certain triathlon specific brand shoes already have holes in them for drainage.
+
+
+=== Socks ===
+Socks are avoided, especially on shorter races, to give faster transitions, as they are not legal in swimming. If they are used they should be fast to put on. Not using socks can cause abrasion which might be painful. Triathletes should practice running the intended distance in the racing shoes without socks. There are triathlon specialty shoes with seamless insides, prepared for long distances without socks. On the Ironman distance some athletes use long compression socks in the expectation that an enhanced endurance will compensate for the extra time spent to put them on.
+
+
+== See also ==
+Outline of cycling
+
+
+== References ==
+
+
+== External links ==
+Equipment Checklist - Raceday Equipment Checklist

@@ -1,0 +1,8 @@
+In databases and computer networking data truncation occurs when data or a data stream (such as a file) is stored in a location too short to hold its entire length. Data truncation may occur automatically, such as when a long string is written to a smaller buffer, or deliberately, when only a portion of the data is wanted.
+Depending on what type of data validation a program or operating system has, the data may be truncated silently (i.e., without informing the user), or the user may be given an error message.
+For example, sometimes instead of rounding off a numerical value obtained from a calculation, some of the digits might just be removed i.e. truncated
+
+
+== See also ==
+Fixed-point arithmetic -> Precision loss and overflow
+Data loss

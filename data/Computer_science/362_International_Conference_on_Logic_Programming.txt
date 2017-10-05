@@ -1,0 +1,9 @@
+The International Conference on Logic Programming (ICLP) is an annual academic conference on the topic of logic programming. It is sponsored by the Association for Logic Programming (ALP). The conference consists of peer-reviewed papers with the proceedings published by Springer's LNCS series.
+The first ICLP was held in September 1982 in Marseille, France. The 31st and most recent ICLP was part of the Boole Conferences in Cork, Ireland in September 2015.
+
+
+== References ==
+
+
+== External links ==
+Previous ICLP conferences on the ALP web-site.

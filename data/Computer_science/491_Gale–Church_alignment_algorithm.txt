@@ -1,0 +1,8 @@
+In computational linguistics, the Gale–Church algorithm is a method for aligning corresponding sentences in a parallel corpus. It works on the principle that equivalent sentences should roughly correspond in length—that is, longer sentences in one language should correspond to longer sentences in the other language. The algorithm was described in a 1993 paper by William A. Gale and Kenneth W. Church of AT&T Bell Laboratories.
+
+
+== References ==
+
+
+== External links ==
+Gale, William A.; Church, Kenneth W. (1993), "A Program for Aligning Sentences in Bilingual Corpora" (PDF), Computational Linguistics, 19 (1): 75–102

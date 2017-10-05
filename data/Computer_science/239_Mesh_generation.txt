@@ -1,0 +1,38 @@
+Mesh generation is the practice of generating a polygonal or polyhedral mesh that approximates a geometric domain. The term "grid generation" is often used interchangeably. Typical uses are for rendering to a computer screen or for physical simulation such as finite element analysis or computational fluid dynamics. The input model form can vary greatly but common sources are CAD, NURBS, B-rep, STL or a point cloud. The field is highly interdisciplinary, with contributions found in mathematics, computer science, and engineering.
+Three-dimensional meshes created for finite element analysis need to consist of tetrahedra, pyramids, prisms or hexahedra. Those used for the finite volume method can consist of arbitrary polyhedra. Those used for finite difference methods usually need to consist of piecewise structured arrays of hexahedra known as multi-block structured meshes. A mesh is otherwise a discretization of a domain existing in one, two or three dimensions.
+
+
+== See also ==
+Meshfree methods
+Principles of grid generation
+Types of mesh
+Grid classification
+Delaunay triangulation
+Fortune's algorithm
+Polygon mesh
+Regular grid
+Ruppert's algorithm
+Tessellation
+Unstructured grid
+Stretched grid method
+Parallel mesh generation
+
+
+== References ==
+Edelsbrunner, Herbert (2001), Geometry and Topology for Mesh Generation, Cambridge University Press, ISBN 978-0-521-79309-4 .
+Frey, Pascal Jean; George, Paul-Louis (2000), Mesh Generation: Application to Finite Elements, Hermes Science, ISBN 978-1-903398-00-5 .
+P. Smith and S. S. Sritharan (1988), "Theory of Harmonic Grid Generation" (PDF), Complex Variables, 10: 359–369., doi:10.1080/17476938808814314 
+S. S. Sritharan (1992), "Theory of Harmonic Grid Generation-II", Applicable Analysis, 44 (1): 127–149., doi:10.1080/00036819208840072 
+Thompson, J. F.; Warsi, Z. U. A.; Mastin, C. W. (1985), Numerical Grid Generation: Foundations and Applications, North-Holland, Elsevier .
+CGAL The Computational Geometry Algorithms Library
+
+
+== External links ==
+Bubble Mesh ... Physically-based triangulation, a research project held by IBM (LINK NOT UPDATED!!)
+Mesh generation in CGAL, the Computational Geometry Algorithms Library:
+2D Conforming Triangulations and Meshes
+3D Mesh Generation
+
+Mesh generators lists:
+Free/open source mesh generators
+Public domain and commercial mesh generators

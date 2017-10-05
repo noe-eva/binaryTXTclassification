@@ -1,0 +1,40 @@
+The Computing Community Consortium (CCC) is an organization whose goal is to catalyze and empower the U.S. computing research community to pursue audacious, high-impact research.
+Established in 2006 through a cooperative agreement between the Computing Research Association (CRA) — representing over 220 North American academic departments, industrial research labs, and professional societies with computing research interests — and the U.S. National Science Foundation, the CCC provides:
+
+a voice for the national computing research community. The CCC facilitates the development of a bold, multi-themed vision for computing research, and communicates that vision to a wide range of major stakeholders.
+
+The CCC is governed by an 18-member Council. Susan Graham (U.C. Berkeley) serves as Chair. Ann Drobnis serves as staff Director.
+The CCC is housed at CRA's headquarters in Washington, D.C., United States.
+
+
+== Activities ==
+The CCC is part of the national computing research community — and it works with the community to envision and enable the pursuit of high-impact research directions. Among its activities:
+Numerous talks/articles, a blog, and a Computing Research Highlight of the Week — to inspire and engage the community.
+Community visioning activities (more than a dozen thus far). These bring together members of the community to coalesce around research visions, articulate these visions in compelling ways, and ideally translate these visions into funded programs under the guidance of the CCC. These are initiated by the community, the CCC Council, or funding agencies. Recently, officials at the White House Office of Science and Technology Policy (OSTP) and the NSF credited a roadmap that resulted from a CCC visioning activity on robotics for the creation of the National Robotics Initiative.
+CCC-sponsored Research Frontiers sessions at major conferences that explore out-of-the-box research ideas in the field.
+"URO" (Undergraduate Research Opportunities) Zone — a website designed to inspire undergraduates to pursue research.
+White papers describing strategic areas of investment in computing research. A senior official noted these "have had a clear influence on Administration budget... and already sparked collaborations between government, industry, and academia." 
+A daylong symposium at the Library of Congress, Computing Research that Changed the World, describing the accomplishments and potential of computing research. Valuable collateral materials (slides, short illustrated papers, videos) were created and disseminated. There have been more than 85,000 YouTube views of the videos.
+The Computing Innovation Fellows (CIFellows) Project (2009 & 2010) — a postdoctoral program with many unique, beneficial characteristics. Over 1,200 registered as prospective mentors during the first year, and over 700 applied. In mid-year surveys, every one of the 107 CIFellows reported “highly successful” or “moderately successful” experiences. Over 90% of the CIFellows participated in a December 2010 CIFellows Research Meeting & Career Mentoring Workshop.
+A compendium of Landmark Contributions by Students in Computer Science, emphasizing the role of education in creating high-impact research breakthroughs. Regina Dugan, the new DARPA Director, highlighted a number of these in early talks.
+A workshop series that yielded a Network Science and Engineering (NetSE) Research Agenda — contributing to re-orienting the NSF-funded GENI Project. CCC gave voice to the community, arguing that the field did not need the GENI instrument as initially envisioned.
+Major national multi-agency workshops on Discovery and Innovation in Health IT and the Role of Information Sciences and Engineering on Sustainability. These differ from community visioning activities in that CCC takes end-to-end responsibility.
+A community-wide discussion of the role of postdoctoral programs in our field, currently underway — a discussion initiated by the CCC but carried out under the CRA banner in order to emphasize that the discussion is broader than the CIFellows Project.
+The recent assessment by the President's Council of Advisors on Science and Technology (PCAST) of the 14-agency, $4.3 billion Federal Networking and Information Technology Research and Development (NITRD) program, Designing a Digital Future: Federally Funded Research and Development in Networking and Information Technology — in effect a blueprint for the direction of the computing research field. Five CCC Council members were appointed to the 14-person Working Group, and the final report drew heavily upon their understanding of the computing research landscape developed through their CCC involvement, as well as upon various CCC outputs.
+A Leadership in Science Policy Institute (LiSPI) that educates computing researchers on how science policy is formulated.
+
+
+== History ==
+In March 2006, NSF issued a solicitation indicating its desire to establish a Computing Community Consortium. In October of that year, CRA responded to the solicitation, submitting a proposal that was backed by explicit letters of support from 132 Ph.D.-granting academic programs, 16 leading corporations, 7 major national laboratories and research centers, and five professional societies in the field. Pursuant to positive external peer review, the CCC was established in late 2006 through a cooperative agreement between NSF and CRA.
+An interim CCC Council was appointed by the proposal team in December 2006. Following an open recruitment process, Ed Lazowska (University of Washington) was selected as Chair of the CCC Council in March 2007. The membership of the inaugural CCC Council was selected through a transparent process and announced in June 2007. The first public activity of the CCC was a set of five plenary talks at the Federated Computing Research Conference (FCRC 2007) that month.
+Early on, CCC Council member Susan Graham (U.C. Berkeley) assumed the role of Vice Chair. Andrew Bernat, CRA’s Executive Director, served the CCC in the role of staff Director until Erwin Gianchandani was recruited as full-time staff Director in April 2010.
+Today, the CCC Council has 18 members on 3-year staggered terms, representing the diverse nature of the computing research field, plus two officers (Lazowska, Graham) and two ex-officio members (Bernat, Gianchandani).
+
+
+== Current Structure ==
+The CCC operates as a standing committee of CRA under CRA's bylaws: its membership only slightly overlaps the CRA's Board of Directors; it has significant autonomy; and it has a great deal of synergistic mutual benefit with CRA.
+The CCC Council meets three times every calendar year, including at least one meeting in Washington, D.C., and has biweekly conference calls between these meetings. The CCC leadership has biweekly conference calls with the leadership of NSF's Directorate for Computer and Information Science and Engineering (CISE).
+The CCC is broadly inclusive, and any computing researcher who wishes to become involved is encouraged to do so. For example, each fall, the CCC issues a call for nominations for Council members effective the following January.
+
+
+== References ==

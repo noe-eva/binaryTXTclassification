@@ -1,0 +1,23 @@
+A Mailslot is a one-way interprocess communication mechanism, available on the Microsoft Windows operating system, that allows communication between processes both locally and over a network. The use of Mailslots is generally simpler than named pipes or sockets when a relatively small number of relatively short messages are expected to be transmitted, such as for example infrequent state-change messages, or as part of a peer-discovery protocol. The Mailslot mechanism allows for short message broadcasts ("datagrams") to all listening computers across a given network domain.
+
+
+== Features ==
+Mailslots function as a server-client interface. A server can create a Mailslot, and a client can write to it by name. Only the server can read the mailslot, as such mailslots represent a one-way communication mechanism. A server-client interface could consist of two processes communicating locally or across a network. Mailslots operate over the RPC protocol and work across all computers in the same network domain. Mailslots offer no confirmation that a message has been received. Mailslots are generally a good choice when one client process must broadcast a message to multiple server processes.
+
+
+== Implementations ==
+The most widely known implementation of the Mailslot IPC mechanism is the Windows Messenger service that is part of the Windows NT-line of products, including Windows XP. The Messenger Service, not to be confused with the MSN Messenger internet chat service, is essentially a Mailslot server that waits for a message to arrive. When a message arrives it is displayed in a popup onscreen. The NET SEND command is therefore a type of Mailslot client, because it writes to specified mailslots on a network.
+A number of programs also use Mailslots to communicate. Generally these are amateur chat clients and other such programs. Commercial programs usually prefer pipes or sockets.
+Examples of Mailslots include:
+MAILSLOT\Messngr - Microsoft NET SEND Protocol
+MAILSLOT\Browse - Microsoft Browser Protocol
+MAILSLOT\Alerter
+MAILSLOT\53cb31a0\UnimodemNotifyTSP
+MAILSLOT\HydraLsServer - Microsoft Terminal Services Licensing
+MAILSLOT\CheyenneDS - CA BrightStor Discovery Service
+
+
+== External links ==
+Mailslots (MSDN Documentation)
+Using Mailslots for Interprocess Communication
+Using a Mailslot to read/write data over a network

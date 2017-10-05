@@ -1,0 +1,21 @@
+Yoav Shoham (Hebrew: יואב שהם‎‎; born 22 January 1956) is a computer scientist and a Professor Emeritus at Stanford University. He received his Ph.D. at Yale University in 1987. Shoham co-teaches a popular game theory course on Coursera.org, along with Matthew O. Jackson and Kevin Leyton-Brown and Advanced game theory on Stanford-online. He is also a Fellow of the Association for the Advancement of Artificial Intelligence (AAAI), and a charter member of the Game Theory Society (GTS). He is a co-winner of the 2012 ACM - AAAI Allen Newell Award for "fundamental contributions at the intersection of computer science, game theory, and economics, most particularly in multi-agent systems and social coordination (broadly construed), which have yielded major contributions to all three disciplines".
+His research are artificial intelligence (including logic and multiagent systems), game theory, and electronic commerce.
+Shoham's recent work is concerned with game theoretic questions in multiagent systems. Earlier, he worked on temporal reasoning, nonmonotonic logics and theories of commonsense. In 2008, Shoham established the Kalai Prize for outstanding papers at the interface of game theory and computer science.
+Shoham founded TradingDynamics which was sold to Ariba for 458 miliion USD.
+In 2011 Shoham Co-founded Katango which was sold to Google in 2013.
+In 2014 Shoham developed an App named Timeful which was sold to Google on 2015.
+In 2016 Shoham joined Google as Principal Scientist. He is involved in online education. His Coursera game theory courses have been viewed by over half a million students.
+
+
+== Selected publications ==
+Shoham, Yoav; Leyton-Brown, Kevin (2009). Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations. Cambridge University Press. p. 496. ISBN 978-0-521-89943-7. 
+Leyton-Brown, Kevin; Shoham, Yoav (2008). Essentials of Game Theory: A Concise, Multidisciplinary Introduction. San Rafael, CA: Morgan & Claypool Publishers. ISBN 978-1-59829-593-1. 
+Shoham, Yoav (1994). Artificial Intelligence Techniques in Prolog. Morgan Kaufmann Publishers. 
+Shoham, Yoav (1988). Reasoning about Change: Time and Causation from the Standpoint of Artificial Intelligence. MIT Press. 
+
+
+== References ==
+
+
+== External links ==
+Shoham's home page at Stanford University

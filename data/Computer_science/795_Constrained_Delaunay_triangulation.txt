@@ -1,0 +1,12 @@
+In computational geometry, a constrained Delaunay triangulation is a generalization of the Delaunay triangulation that forces certain required segments into the triangulation. Because a Delaunay triangulation is almost always unique, often a constrained Delaunay triangulation contains edges that do not satisfy the Delaunay condition. Thus a constrained Delaunay triangulation often is not a Delaunay triangulation itself.
+
+
+== See also ==
+Chew's second algorithm
+
+
+== References ==
+
+
+== External links ==
+Daedalus Lib Open Source. Daedalus Lib manages fully dynamic constrained Delaunay triangulations.

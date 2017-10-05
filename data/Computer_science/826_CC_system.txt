@@ -1,0 +1,185 @@
+In computational geometry, a CC system or counterclockwise system is a ternary relation pqr introduced by Donald Knuth to model the clockwise ordering of triples of points in general position in the Euclidean plane.
+
+
+== Axioms ==
+A CC system is required to satisfy the following axioms, for all distinct points p, q, r, s, and t:
+Cyclic symmetry: If pqr then qrp.
+Antisymmetry: If pqr then not prq.
+Nondegeneracy: Either pqr or prq.
+Interiority: If tqr and ptr and pqt, then pqr.
+Transitivity: If tsp and tsq and tsr, and tpq and tqr, then tpr.
+Triples of points that are not distinct are not considered as part of the relation.
+
+
+== Construction from planar point sets ==
+A CC system may be defined from any set of points in the Euclidean plane, with no three of the points collinear, by including in the relation a triple pqr of distinct points whenever the triple lists these three points in counterclockwise order around the triangle that they form. Using the Cartesian coordinates of the points, the triple pqr is included in the relation exactly when
+
+  
+    
+      
+        det
+        
+          (
+          
+            
+              
+                
+                  
+                    x
+                    
+                      p
+                    
+                  
+                
+                
+                  
+                    y
+                    
+                      p
+                    
+                  
+                
+                
+                  1
+                
+              
+              
+                
+                  
+                    x
+                    
+                      q
+                    
+                  
+                
+                
+                  
+                    y
+                    
+                      q
+                    
+                  
+                
+                
+                  1
+                
+              
+              
+                
+                  
+                    x
+                    
+                      r
+                    
+                  
+                
+                
+                  
+                    y
+                    
+                      r
+                    
+                  
+                
+                
+                  1
+                
+              
+            
+          
+          )
+        
+        >
+        0.
+      
+    
+    {\displaystyle \det \left({\begin{array}{ccc}x_{p}&y_{p}&1\\x_{q}&y_{q}&1\\x_{r}&y_{r}&1\end{array}}\right)>0.}
+  
+The condition that the points are in general position is equivalent to the requirement that this matrix determinant is never zero for distinct points p, q, and r.
+However, not every CC system comes from a Euclidean point set in this way.
+
+
+== Equivalent notions ==
+CC systems can also be defined from pseudoline arrangements, or from sorting networks in which the compare-exchange operations only compare adjacent pairs of elements (as in for instance bubble sort), and every CC system can be defined in this way. This relation is not one-to-one, but the numbers of nonisomorphic CC systems on n points, of pseudoline arrangements with n lines, and of sorting networks on n values, are within polynomial factors of each other.
+There exists a two-to-one correspondence between CC systems and uniform acyclic oriented matroids of rank 3. These matroids in turn have a 1-1 correspondence to topological equivalence classes of pseudoline arrangements with one marked cell.
+
+
+== Algorithmic applications ==
+The information given by a CC system is sufficient to define a notion of a convex hull within a CC system. The convex hull is the set of ordered pairs pq of distinct points with the property that, for every third distinct point r, pqr belongs to the system. It forms a cycle, with the property that every three points of the cycle, in the same cyclic order, belong to the system. By adding points one at a time to a CC system, and maintaining the convex hull of the points added so far in its cyclic order using a binary search tree, it is possible to construct the convex hull in time O(n log n), matching the known time bounds for convex hull algorithms for Euclidean points.
+It is also possible to find a single convex hull vertex, as well as the combinatorial equivalent of a bisecting line through a system of points, from a CC system in linear time. The construction of an extreme vertex allows the Graham scan algorithm for convex hulls to be generalized from point sets to CC systems, with a number of queries to the CC system that matches (to within lower-order terms) the number of comparisons needed in comparison sorting.
+
+
+== Combinatorial enumeration ==
+The number of non-isomorphic CC systems on n points is
+1, 1, 1, 2, 3, 20, 242, 6405, 316835, 28627261 ... (sequence A006246 in the OEIS)
+These numbers grow exponentially in n2; in contrast, the number of realizable CC systems grows exponentially only in Θ(n log n).
+More precisely, the number Cn of non-isomorphic CC systems on n points is at most
+
+  
+    
+      
+        
+          3
+          
+            
+              
+                (
+              
+              
+                n
+                2
+              
+              
+                )
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle 3^{\binom {n}{2}}.}
+  
+Knuth conjectures more strongly that these numbers obey the recursive inequality
+
+  
+    
+      
+        
+          C
+          
+            n
+          
+        
+        ≤
+        n
+        
+          2
+          
+            n
+            −
+            2
+          
+        
+        
+          C
+          
+            n
+            −
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle C_{n}\leq n2^{n-2}C_{n-1}.}
+  
+
+
+== Notes ==
+
+
+== References ==
+Aichholzer, Oswin; Miltzow, Tillmann; Pilz, Alexander (2013), "Extreme point and halving edge search in abstract order types", Computational Geometry, 46 (8): 970–978, MR 3061458, doi:10.1016/j.comgeo.2013.05.001 .
+Beygelzimer, Alina; Radziszowski, Stanisław (2002), "On halving line arrangements", Discrete Mathematics, 257 (2-3): 267–283, MR 1935728, doi:10.1016/S0012-365X(02)00430-2 .
+Knuth, Donald E. (1992), Axioms and hulls, Lecture Notes in Computer Science, 606, Heidelberg: Springer-Verlag, pp. ix+109, ISBN 3-540-55611-7, MR 1226891, doi:10.1007/3-540-55611-7, retrieved 5 May 2011 .

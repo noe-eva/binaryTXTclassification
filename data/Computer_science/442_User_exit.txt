@@ -1,0 +1,29 @@
+A user exit is a subroutine invoked by a software package for a predefined event in the execution of the package. Clients of the package can substitute their own subroutines in place of the default ones provided by the package vendor to provide customized functionality.
+A typical use is replacing the user exits provided by a sort/merge package, whereby the user program provides its own subroutines for comparing records. The procedures provided by the user take the place of the default routines (usually stubs that do nothing but return to their caller) provided by the package vendor.
+Procedures provided as user exits are typically compiled into a static library and linked directly with the package to produce an executable program. Another approach employs dynamic libraries to accomplish the same thing. Finally, user exits may be external programs executed at specific points in the execution of a host package.
+If the user site specific code is substituted for the software vendor provided default exit it must interface to the software package using the defined parameters as documented for the default exit. User exits are important because while they enable site specific customization they isolate such installation specific customization to defined and supported points enabling the site to upgrade to follow-on releases of the software package without adverse impact to preexisting customized functionality. Some references to IBM user exit manuals are given below. Other vendors such as SAP, Oracle, IFS, HP, Macro4, Compuware, CA all employ user exits in some of their software products.
+Historically, this term is commonly used in IBM mainframe vernacular.
+Title: z/OS V1R10 DFSMS Installation Exits Document Number: SC26-7396-11
+Title: z/OS V1R10.0 JES2 Installation Exits Document Number: SA22-7534-10
+Title: z/OS V1R10.0 MVS Installation Exits Document Number: SA22-7593-14
+
+
+== Applications ==
+Some applications that provide user exits:
+Apache Subversion allows "hooks", which are "scripts that run when an action is performed"
+IBM CICS
+IBM CMVC user exits in the form of Kornshell scripts
+IBM JES 2 and 3
+IBM MVS, SMS, z/OS and dozens of sub-components such as RACF, SMF, etc.
+IBM sort/merge package
+Oracle CC&B
+SAP R3
+
+
+== See also ==
+Callback
+Linking
+Hook
+
+
+== References ==

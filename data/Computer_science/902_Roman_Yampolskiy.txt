@@ -1,0 +1,33 @@
+Roman V. Yampolskiy (Russian: Роман Владимирович Ямпольский) (born August 13, 1979) is a Latvian born computer scientist at the University of Louisville, known for his work on behavioral biometrics, security of cyberworlds, and artificial intelligence safety. He holds a PhD from the University at Buffalo (2008). He is currently the director of Cyber Security Laboratory in the department of Computer Engineering and Computer Science at the Speed School of Engineering.
+Yampolskiy is an author of some 100 publications, including numerous books. His work is frequently profiled in popular media, such as: the BBC, MSNBC, Yahoo, New Scientist, Alex Jones Radio show and many others.
+
+
+== AI safety ==
+Yampolskiy has warned of the possibility of existential risk from advanced artificial intelligence, and has advocated research into "boxing" artificial intelligence.
+
+
+== Intellectology ==
+In 2015, Yampolskiy launched intellectology, a new field of study founded to analyze the forms and limits of intelligence. Yampolskiy considers AI to be a sub-field of this. An example of Yampolskiy's intellectology work is an attempt to determine the relation between various types of minds and the accessible fun space, i.e. the space of non-boring activities.
+
+
+== Books ==
+Artificial Superintelligence: a Futuristic Approach. Chapman and Hall/CRC Press (Taylor & Francis Group), 2015, ISBN 978-1482234435.
+Game Strategy: a Novel Behavioral Biometric. Independent University Press, 2009, ISBN 0-578-03685-1
+Computer Security: from Passwords to Behavioral Biometrics. New Academic Publishing, 2008, ISBN 0-6152-1818-0
+Feature Extraction Approaches for Optical Character Recognition. Briviba Scientific Press, 2007, ISBN 0-6151-5511-1
+
+
+== See also ==
+AI box
+AI-complete
+Singularity Institute
+Singularity University
+
+
+== References ==
+
+
+== External links ==
+Roman Yampolskiy’s Homepage.
+Cyber Security Lab at UofL.
+Interview of Dr. Yampolskiy on EEweb.

@@ -1,0 +1,10 @@
+In computer science, bidirectionalization refers to the process of given a source-to-view transformation (automatically) finding a mapping from the original source and an updated view to an updated source.
+
+
+== See also ==
+Bidirectional transformation
+View (database)
+
+
+== Further reading ==
+Janis Voigtländer, Zhenjiang Hu, Kazutaka Matsuda, and Meng Wang. Combining Syntactic and Semantic Bidirectionalization. International Conference on Functional Programming 2010.

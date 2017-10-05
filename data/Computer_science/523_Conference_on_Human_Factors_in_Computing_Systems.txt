@@ -1,0 +1,26 @@
+The ACM Conference on Human Factors in Computing Systems (CHI) series of academic conferences is generally considered the most prestigious in the field of human–computer interaction and is one of the top ranked conferences in computer science. It is hosted by ACM SIGCHI, the Special Interest Group on computer–human interaction. CHI has been held annually since 1982 and attracts thousands of international attendees. CHI 2015 was held in Seoul, South Korea, and CHI 2016 was held in San Jose, United States from May 7 to May 12. CHI 2017 was held in Denver, Colorado from May 6–11, 2017.
+
+
+== History ==
+The CHI conference series started with the Human Factors in Computer Systems conference in Gaithersburg, Maryland, US in 1982, organized by Bill Curtis and Ben Shneiderman. During this meeting the formation of the ACM Special Interest Group on Computer–Human Interaction (SIGCHI) was first publicly announced. ACM SIGCHI became the sponsor of the Conference on Human Factors in Computing Systems. The first CHI conference was held in Boston, Massachusetts, US, in 1983. The second conference took place in San Francisco, in 1985. Since then, CHI conferences have been held annually in spring each year. Until 1992 the conference was held in Canada or the US. In 1993 CHI moved to Europe for the first time and was held in Amsterdam, the Netherlands.
+Over the years, CHI has grown in popularity. The 1982 meeting drew 907 attendees. CHI 90 attracted 2,314. Attendance has been fairly stable since then. After the early years CHI became highly selective. Since 1993 the acceptance rate for full papers was consistently below 30 percent. After 1992 the average acceptance rate was around 20 percent. The number of accepted full papers is slowly increasing and reached 157 accepted papers with an acceptance rate of 22 percent in 2008. CHI continues to grow, reaching over 3,300 attendees in 2013 and 3,800 in 2016.
+
+
+== Tracks ==
+The CHI conference consists of multiple tracks, including:
+Academic papers and notes (short papers) on a variety of topics, such as (ubiquitous computing, visualization, usability and user experience design)
+Posters and demonstrations
+Workshops and courses hosted by domain experts
+Invited panels on relevant topics
+Case studies from industry practitioners
+
+
+== Past and upcoming CHI conferences ==
+Past and future CHI conferences include:
+
+
+== References ==
+
+
+== External links ==
+ACM SIGCHI website

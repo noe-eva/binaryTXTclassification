@@ -1,0 +1,18 @@
+In computer graphics, Doo–Sabin subdivision surface is a type of subdivision surface based on a generalization of bi-quadratic uniform B-splines. It was developed in 1978 by Daniel Doo and Malcolm Sabin.
+This process generates one new face at each original vertex, n new faces along each original edge, and n2 new faces at each original face. A primary characteristic of the Doo–Sabin subdivision method is the creation of four faces around every vertex. A drawback is that the faces created at the vertices are not necessarily coplanar.
+
+
+== Evaluation ==
+Doo–Sabin surfaces are defined recursively. Each refinement iteration replaces the current mesh with a smoother, more refined mesh, following the procedure described in. After many iterations, the surface will gradually converge onto a smooth limit surface. The figure below show the effect of two refinement iterations on a T-shaped quadrilateral mesh.
+
+Just as for Catmull–Clark surfaces, Doo–Sabin limit surfaces can also be evaluated directly without any recursive refinement, by means of the technique of Jos Stam. The solution is, however, not as computationally efficient as for Catmull-Clark surfaces because the Doo–Sabin subdivision matrices are not in general diagonalizable.
+
+
+== See also ==
+Expansion - Equivalent geometric operation - truncates vertices and beveling edges.
+Conway polyhedron notation - A set of related topological polyhedron and polygonal mesh operators.
+
+
+== External links ==
+
+Doo–Sabin surfaces

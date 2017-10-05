@@ -1,0 +1,16 @@
+In computing, jump threading is a compiler optimization of one jump directly to a second jump. If the second condition is a subset or inverse of the first, it can be eliminated, or threaded through the first jump. This is easily done in a single pass through the program, following acyclic chained jumps until the compiler arrives at a fixed point.
+
+
+== Example ==
+The following pseudocode demonstrates when a jump may be threaded.
+
+   10. a = SomeNumber();
+   20. IF a > 10 GOTO 50
+   ...
+   50. IF a > 0 GOTO 100
+   ...
+
+The jump on line 50 will always be taken if the jump on line 20 is taken. Therefore the jump on line 20 may safely be modified to jump directly to line 100.
+
+
+== References ==

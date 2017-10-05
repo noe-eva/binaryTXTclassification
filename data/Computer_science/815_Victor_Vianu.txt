@@ -1,0 +1,14 @@
+Victor Vianu is a computer scientist, a professor of computer science and engineering at the University of California, San Diego. He served as editor-in-chief of the Journal of the ACM from 2009 to 2015.
+Vianu did his graduate studies at the University of Southern California, earning his Ph.D. in 1983 under the supervision of Seymour Ginsburg; he joined the UCSD faculty in 1984.
+Vianu's book Foundations of Databases (with Serge Abiteboul and Richard Hull, Addison-Wesley, 1995) is a standard graduate textbook in database theory. In finite model theory and computational complexity theory, the Abiteboul–Vianu theorem (also published with Abiteboul, at the 1991 Symposium on Theory of Computing) states that polynomial time equals PSPACE if and only if fixed point logic equals partial fixed point logic. At the 2010 Symposium on Principles of Database Systems, Vianu and his co-authors Dan Suciu and Tova Milo won the Alberto O. Mendelzon Test-of-Time Award for their work ten years prior on type checking for XML transformation languages. Vianu and his co-author Luc Segoufin won a second Alberto O. Mendelzon Test-of-Time award in 2015, for their 2005 article "Views and Queries: Determinacy and Rewriting."
+In 2006, Vianu was elected as a Fellow of the ACM for his "contributions to database management systems".
+In 2013, he was elected Fellow of the AAAS (American Association for the Advancement of Science). He was elected to Academia Europaea in 2014.
+In his first paper recorded by DBLP (presented at MFCS, 1977), Vianu acknowledges Solomon Marcus for guidance.
+
+
+== References ==
+
+
+== External links ==
+Home page at UCSD
+Victor Vianu at the Mathematics Genealogy Project

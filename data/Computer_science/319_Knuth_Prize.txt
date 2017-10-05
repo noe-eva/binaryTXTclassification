@@ -1,0 +1,34 @@
+The Donald E. Knuth Prize is a prize for outstanding contributions to the foundations of computer science, named after Donald E. Knuth.
+
+
+== History ==
+The Knuth Prize has been awarded since 1996 and includes an award of $5000. The prize is awarded by ACM SIGACT and by IEEE Computer Society's Technical Committee on the Mathematical Foundations of Computing. Prizes are awarded in alternation at the ACM Symposium on Theory of Computing and at the IEEE Symposium on Foundations of Computer Science, which are among the most prestigious conferences in theoretical computer science.
+In contrast with the Gödel Prize, which recognizes outstanding papers, the Knuth Prize is awarded to individuals for their overall impact in the field.
+
+
+== Winners ==
+Since the prize was instituted in 1996, it has been awarded to:
+1996 – Andrew Yao
+1997 – Leslie Valiant
+1999 – László Lovász
+2000 – Jeffrey Ullman
+2002 – Christos Papadimitriou
+2003 – Miklós Ajtai
+2005 – Mihalis Yannakakis
+2007 – Nancy Lynch
+2008 – Volker Strassen
+2010 – David S. Johnson
+2011 – Ravi Kannan
+2012 – Leonid Levin
+2013 – Gary Miller
+2014 – Richard J. Lipton
+2015 – László Babai
+2016 – Noam Nisan
+2017 – Oded Goldreich
+
+
+== References ==
+
+
+== External links ==
+Knuth Prize website

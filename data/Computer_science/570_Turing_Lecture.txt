@@ -1,0 +1,28 @@
+The BCS / IET Turing Lecture is a prestigious annual lecture given by a noted speaker on the subject of Computer Science. The lecture is delivered in four different locations: The Royal Institution in London, Cardiff University, The University of Manchester and Belfast City Hall / University of Glasgow.
+The lecture is named in honour of Alan Turing, and is co-hosted by the British Computer Society (BCS) and the Institution of Engineering and Technology (IET). The event should not be confused with the Turing Award lecture organised by the Association for Computing Machinery (ACM). Recent Turing lectures are available as a live webcast and archived online.
+
+
+== Previous Turing lectures ==
+Previous Turing lecturers have included:
+2017: Guruduth Banavar, Beneficial AI for the Advancement of Humankind
+2016: Robert Schukai, The Internet of Me: It's all about my screens
+2015: Robert Pepper, The Internet Paradox: How bottom-up beat(s) command and control
+2014: Bernard S. Meyerson, Beyond silicon: Cognition and much, much more
+2013: Suranga Chandratillake, What they didn't teach me: building a technology company and taking it to market
+2012: Ray Dolan, From cryptanalysis to cognitive neuroscience - a hidden legacy of Alan Turing
+2011: Donald Knuth, An Evening with Donald Knuth - All Questions Answered.
+2010: Christopher Bishop. Embracing Uncertainty: the new machine intelligence
+2009: J. Michael Brady, Information Engineering and its Future
+2008: James Martin, Target Earth and the meaning of the 21st century
+2007: Grady Booch, The Promise, the Limits and the Beauty of Software
+2006: Chris Mairs, Lifestyle access for the disabled - adding positive drift to the random walk with technology
+2005: Fred Brooks, Collaboration and Telecollaboration in Design
+2004: Fred Piper, Cyberspace Security, The Good, The Bad & The Ugly
+2003: Carol Kovac, Computing in the Age of the Genome
+2002: Mark Welland, Smaller, faster, better - but is it nanotechnology?
+2001: Nick Donofrio, Technology, Innovation and the New Economy
+2000: Brian Randell, Facing up to Faults
+1999: Samson Abramsky From Computation to Interaction – Towards a Science of Information
+
+
+== References ==

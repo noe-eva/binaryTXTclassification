@@ -1,0 +1,13 @@
+In query languages, path expressions identify an object by describing how to navigate to it in some graph (possibly implicit) of objects. For example, the path expression p.Manager.Home.City might refer the city of residence of someone's manager. Path expressions have been extended to support regular expression-like flexibility. XPath is an example of a path expression language.
+In concurrency control, path expressions are a mechanism for expressing permitted sequences of execution. For example, a path expression like " {read}, write" might specify that either multiple simultaneous executions of read or a single execution of write but not both are allowed at any point in time.
+
+
+== See also ==
+Object database
+
+
+== References ==
+M. Kifer; W. Kim & Y. Sagiv (1992). "Querying Object-Oriented Databases". Proc. of the ACM SIGMOD. pp. 393–402. 
+Elisa Bertino, Mauro Negri, Giuseppe Pelagatti, and Licia Sbattella (June 1992). "Object-Oriented Query Languages: The Notion and the Issues". IEEE Trans. on Knowledge and Data Engineering. 4 (3): 223–236. doi:10.1109/69.142014. CS1 maint: Multiple names: authors list (link)
+R. Campbell & R. Kolstad (1979). "Path Expressions in Pascal". Proceedings of the 4th International Conference on Software Engineering. 4. pp. 212–219. 
+Tony Bloom (1979). "Evaluating Synchronization Mechanisms". Proceedings of the seventh ACM symposium on Operating systems principles. pp. 24–32.

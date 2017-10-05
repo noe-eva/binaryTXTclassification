@@ -1,0 +1,25 @@
+Rule induction is an area of machine learning in which formal rules are extracted from a set of observations. The rules extracted may represent a full scientific model of the data, or merely represent local patterns in the data.
+
+
+== Paradigms ==
+Some major rule induction paradigms are:
+Association rule learning algorithms (e.g., Aggrawal)
+Decision rule algorithms (e.g., Quinlan 1987)
+Hypothesis testing algorithms (e.g., RULEX)
+Horn clause induction
+Version spaces
+Rough set rules
+Inductive Logic Programming
+Boolean decomposition (Feldman)
+
+
+== Algorithms ==
+Some rule induction algorithms are:
+Charade
+Rulex
+Progol
+CN2
+
+
+== References ==
+Quinlan, J. R. (1987). "Generating production rules from decision trees" (PDF). In McDermott, John. Proceedings of the Tenth International Joint Conference on Artificial Intelligence (IJCAI-87). Milan, Italy. pp. 304–307.

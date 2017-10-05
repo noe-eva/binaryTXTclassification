@@ -1,0 +1,806 @@
+This is a list of important publications in computer science, organized by field.
+Some reasons why a particular publication might be regarded as important:
+Topic creator – A publication that created a new topic
+Breakthrough – A publication that changed scientific knowledge significantly
+Influence – A publication which has significantly influenced the world or has had a massive impact on the teaching of computer science.
+
+
+== Artificial intelligence ==
+
+
+=== Computing Machinery and Intelligence ===
+Alan Turing
+Mind, 59:433–460, 1950.
+Online copy
+Description: This paper discusses whether machines can think and suggested the Turing test as a method for checking it.
+
+
+=== A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence ===
+John McCarthy
+Marvin Minsky
+N. Rochester
+C.E. Shannon
+Online copy
+Description: This summer research proposal inaugurated and defined the field. It contains the first use of the term artificial intelligence and this succinct description of the philosophical foundation of the field: "every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it." (See philosophy of AI) The proposal invited researchers to the Dartmouth conference, which is widely considered the "birth of AI". (See history of AI.)
+
+
+=== Fuzzy sets ===
+Lotfi Zadeh
+Information and Control, Vol. 8, pp. 338–353. (1965).
+Description: The seminal paper published in 1965 provides details on the mathematics of fuzzy set theory.
+
+
+=== Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference ===
+Judea Pearl
+ISBN 1-55860-479-0 Publisher: Morgan Kaufmann Pub, 1988
+Description: This book introduced Bayesian methods to AI.
+
+
+=== Artificial Intelligence: A Modern Approach ===
+Stuart J. Russell and Peter Norvig
+Prentice Hall, Englewood Cliffs, New Jersey, 1995, ISBN 0-13-080302-2
+Textbook's website
+Description: The standard textbook in Artificial Intelligence. The book web site lists over 1100 colleges.
+
+
+=== Machine learning ===
+
+
+==== An Inductive Inference Machine ====
+Ray Solomonoff
+IRE Convention Record, Section on Information Theory, Part 2, pp. 56–62, 1957
+(A longer version of this, a privately circulated report, 1956, is online).
+Description: The first paper written on machine learning. Emphasized the importance of training sequences, and the use of parts of previous solutions to problems in constructing trial solutions to new problems.
+
+
+==== Language identification in the limit ====
+E. Mark Gold
+Information and Control, 10(5):447–474, 1967
+Online version: (HTML) (PDF)
+Description: This paper created Algorithmic learning theory.
+
+
+==== On the uniform convergence of relative frequencies of events to their probabilities ====
+V. Vapnik, A. Chervonenkis
+Theory of Probability and its Applications, 16(2):264—280, 1971
+Description: Computational learning theory, VC theory, statistical uniform convergence and the VC dimension.
+
+
+==== A theory of the learnable ====
+Leslie Valiant
+Communications of the ACM, 27(11):1134–1142 (1984)
+Description: The Probably approximately correct learning (PAC learning) framework.
+
+
+==== Learning representations by back-propagating errors ====
+David E. Rumelhart, Geoffrey E. Hinton and Ronald J. Williams
+Nature, 323, 533—536, 1986
+Description: Development of Backpropagation algorithm for artificial neural networks. Note that the algorithm was first described by Paul Werbos in 1974.
+
+
+==== Induction of Decision Trees ====
+J.R. Quinlan
+Machine Learning, 1. 81—106, 1986.
+Description: Decision Trees are a common learning algorithm and a decision representation tool. Development of decision trees was done by many researchers in many areas, even before this paper. Though this paper is one of the most influential in the field.
+
+
+==== Learning Quickly When Irrelevant Attributes Abound: A New Linear-threshold Algorithm ====
+Nick Littlestone
+Machine Learning 2: 285–318, 1988
+Online version(PDF)
+Description: One of the papers that started the field of on-line learning. In this learning setting, a learner receives a sequence of examples, making predictions after each one, and receiving feedback after each prediction. Research in this area is remarkable because (1) the algorithms and proofs tend to be very simple and beautiful, and (2) the model makes no statistical assumptions about the data. In other words, the data need not be random (as in nearly all other learning models), but can be chosen arbitrarily by "nature" or even an adversary. Specifically, this paper introduced the winnow algorithm.
+
+
+==== Learning to predict by the method of Temporal difference ====
+Richard S. Sutton
+Machine Learning 3(1): 9–44
+Online copy
+Description: The Temporal difference method for reinforcement learning.
+
+
+==== Learnability and the Vapnik–Chervonenkis dimension ====
+A. Blumer
+A. Ehrenfeucht
+D. Haussler
+M. K. Warmuth
+Journal of the ACM, 36(4):929–965, 1989.
+Description: The complete characterization of PAC learnability using the VC dimension.
+
+
+==== Cryptographic limitations on learning boolean formulae and finite automata ====
+M. Kearns
+L. G. Valiant
+In Proceedings of the 21st Annual ACM Symposium on Theory of Computing, pages 433–444, New York. ACM.
+Online version(HTML)
+Description: Proving negative results for PAC learning.
+
+
+==== The strength of weak learnability ====
+Robert E. Schapire
+Machine Learning, 5(2):197–227, 1990.
+Online version(HTML)
+Description: Proving that weak and strong learnability are equivalent in the noise free PAC framework. The proof was done by introducing the boosting method.
+
+
+==== A training algorithm for optimum margin classifiers ====
+Bernhard E. Boser
+Isabelle M. Guyon
+Vladimir N. Vapnik
+Proceedings of the Fifth Annual Workshop on Computational Learning Theory 5 144–152, Pittsburgh (1992).
+Online version(HTML)
+Description: This paper presented support vector machines, a practical and popular machine learning algorithm. Support vector machines often use the kernel trick.
+
+
+==== A fast learning algorithm for deep belief nets ====
+Geoffrey E. Hinton
+Simon Osindero
+Yee-Whye Teh
+Neural Computation (2006)
+Online PDF
+Description: This paper presented a tractable greedy layer-wise learning algorithm for deep belief networks which led to great advancement in the field of deep learning.
+
+
+==== Knowledge-based analysis of microarray gene expression data by using support vector machines ====
+MP Brown
+WN Grundy
+D Lin
+Nello Cristianini
+CW Sugnet
+TS Furey
+M Ares Jr,
+David Haussler
+PNAS, 2000 January 4;97(1):262–7 <http://www.pnas.org/cgi/content/abstract/97/1/262>
+Description: The first application of supervised learning to gene expression data, in particular Support Vector Machines. The method is now standard, and the paper one of the most cited in the area.
+
+
+== Collaborative networks ==
+Camarinha-Matos, L. M.; Afsarmanesh, H. (2005). "Collaborative networks: A new scientific discipline, J.". Intelligent Manufacturing. 16 (4–5): 439–452. doi:10.1007/s10845-005-1656-3. 
+Camarinha-Matos, L. M.; Afsarmanesh, H. (2008). Collaborative Networks: Reference Modeling, Springer: New York.
+
+
+== Compilers ==
+
+
+=== On the translation of languages from left to right ===
+Knuth, D. E. (July 1965). "On the translation of languages from left to right" (PDF). Information and Control. 8 (6): 607–639. doi:10.1016/S0019-9958(65)90426-2. Retrieved 29 May 2011. 
+Description: LR parser, which does bottom up parsing for deterministic context-free languages. Later derived parsers, such as the LALR parser, have been and continue to be standard practice, such as in Yacc and descendents.
+
+
+=== Semantics of Context-Free Languages. ===
+Donald Knuth
+Math. Systems Theory 2:2 (1968), 127–145.
+Description: About grammar attribution, the base for yacc's s-attributed and zyacc's LR-attributed approach.
+
+
+=== A program data flow analysis procedure ===
+Frances E. Allen, J. Cocke
+Commun. ACM, 19, 137—147.
+Description: From the abstract: "The global data relationships in a program can be exposed and codified by the static analysis methods described in this paper. A procedure is given which determines all the definitions which can possibly reach each node of the control flow graph of the program and all the definitions that are live on each edge of the graph."
+
+
+=== A Unified Approach to Global Program Optimization ===
+Gary Kildall
+Proceedings of ACM SIGACT-SIGPLAN 1973 Symposium on Principles of Programming Languages.
+pdf
+Description: Formalized the concept of data-flow analysis as fixpoint computation over lattices, and showed that most static analyses used for program optimization can be uniformly expressed within this framework.
+
+
+=== YACC: Yet another compiler-compiler ===
+Stephen C. Johnson
+Unix Programmer's Manual Vol 2b, 1979
+Online copy (HTML)
+Description: Yacc is a tool that made compiler writing much easier.
+
+
+=== gprof: A Call Graph Execution Profiler ===
+Susan L. Graham, Peter B. Kessler, Marshall Kirk McKusick
+Proceedings of the ACM SIGPLAN 1982 Symposium on Compiler Construction, SIGPLAN Notices 17, 6, Boston, MA. June 1982.
+Online copy; pdf
+Description: The gprof profiler
+
+
+=== Compilers: Principles, Techniques and Tools ===
+Alfred V. Aho
+Ravi Sethi
+Jeffrey D. Ullman
+Monica Lam
+Addison-Wesley, 1986. ISBN 0-201-10088-6
+Description: This book became a classic in compiler writing. It is also known as the Dragon book, after the (red) dragon that appears on its cover.
+
+
+== Computer architecture ==
+
+
+=== Colossus computer ===
+T. H. Flowers
+Annals of the History of Computing, Vol. 5 (No. 3), 1983, pp. 239–252.
+The Design of Colossus
+Description: The Colossus machines were early computing devices used by British codebreakers to break German messages encrypted with the Lorenz Cipher during World War II. Colossus was an early binary electronic digital computer. The design of Colossus was later described in the referenced paper.
+
+
+=== First Draft of a Report on the EDVAC ===
+John von Neumann
+June 30, 1945, the ENIAC project.
+First Draft of a report on the EDVAC (PDF)
+Description: It contains the first published description of the logical design of a computer using the stored-program concept, which has come to be known as the von Neumann architecture.
+
+
+=== Architecture of the IBM System/360 ===
+Gene Amdahl, Fred Brooks, G. A. Blaauw
+IBM Journal of Research and Development, 1964.
+Architecture of the IBM System/360
+Description: The IBM System/360 (S/360) is a mainframe computer system family announced by IBM on April 7, 1964. It was the first family of computers making a clear distinction between architecture and implementation.
+
+
+=== The case for the reduced instruction set computer ===
+DA Patterson, DR Ditzel
+Computer ArchitectureNews, vol. 8, no. 6, October 1980, pp 25–33.
+Online version(PDF)
+Description: The reduced instruction set computer( RISC) CPU design philosophy. The RISC is a CPU design philosophy that favors a reduced set of simpler instructions.
+
+
+=== Comments on "the Case for the Reduced Instruction Set Computer" ===
+DW Clark, WD Strecker
+Computer Architecture News, 1980.
+Online version(PDF)
+Description:
+
+
+=== The CRAY-1 Computer System ===
+DW Clark, WD Strecker
+Communications of the ACM, January 1978, volume 21, number 1, pages 63–72.
+Online version(PDF)
+Description: The Cray-1 was a supercomputer designed by a team including Seymour Cray for Cray Research. The first Cray-1 system was installed at Los Alamos National Laboratory in 1976, and it went on to become one of the best known and most successful supercomputers in history.
+
+
+=== Validity of the Single Processor Approach to Achieving Large Scale Computing Capabilities ===
+Gene Amdahl
+AFIPS 1967 Spring Joint Computer Conference, Atlantic City, N.J.
+Online version(PDF)
+Description: The Amdahl's Law.
+
+
+=== A Case for Redundant Arrays of Inexpensive Disks (RAID) ===
+David A. Patterson, Garth Gibson, Randy H. Katz
+In International Conference on Management of Data, pages 109—116, 1988.
+Online version(PDF)
+Description: This paper discusses the concept of RAID disks, outlines the different levels of RAID, and the benefits of each level. It is a good paper for discussing issues of reliability and fault tolerance of computer systems, and the cost of providing such fault-tolerance.
+
+
+=== The case for a single-chip multiprocessor ===
+Kunle Olukotun, Basem Nayfeh, Lance Hammond, Ken Wilson, Kunyung Chang
+In SIGOPS Oper. Syst. Rev. 30, pages 2–11, 1996.
+Online version(PDF)
+Description: This paper argues that the approach taken to improving the performance of processors by adding multiple instruction issue and out-of-order execution cannot continue to provide speedups indefinitely. It lays out the case for making single chip processors that contain multiple "cores". With the mainstream introduction of multicore processors by Intel in 2005, and their subsequent domination of the market, this paper was shown to be prescient.
+
+
+== Computer graphics ==
+
+
+=== The Rendering Equation ===
+J. Kajiya
+SIGGRAPH: ACM Special Interest Group on Computer Graphics and Interactive Techniques pages 143—150
+
+
+=== Elastically deformable models ===
+Demetri Terzopoulos, John Platt, Alan Barr, Kurt Fleischer
+Computer Graphics, 21(4), 1987, 205–214, Proc. ACM SIGGRAPH'87 Conference, Anaheim, CA, July 1987.
+Online version(PDF)
+Description: The Academy of Motion Picture Arts and Sciences cited this paper as a "milestone in computer graphics".
+
+
+== Computer vision ==
+
+
+=== The Phase Correlation Image Alignment Method ===
+C.D. Kuglin and D.C. Hines
+IEEE 1975 Conference on Cybernetics and Society, 1975, New York, pp. 163–165, September
+Description: A correlation method based upon the inverse Fourier transform
+
+
+=== Determining Optical Flow ===
+B.K.P. Horn and B.G. Schunck
+Artificial Intelligence, Volume 17, 185–203, 1981
+OA article here: doi:10.1016/0004-3702(81)90024-2
+Description: A method for estimating the image motion of world points between 2 frames of a video sequence.
+
+
+=== An Iterative Image Registration Technique with an Application to Stereo Vision ===
+Lucas, B.D. and Kanade, T.
+Proceedings of the 7th International Joint Conference on Artificial Intelligence, 674–679, Vancouver, Canada, 1981
+Online version
+Description: This paper provides efficient technique for image registration
+
+
+=== The Laplacian Pyramid as a compact image code ===
+Peter J. Burt and Edward H. Adelson
+IEEE Transactions on Communications, volume = "COM-31,4", pp. 532–540, 1983.
+Online version
+Description: A technique for image encoding using local operators of many scales.
+
+
+=== Stochastic relaxation, Gibbs distributions, and the Bayesian restoration of images ===
+Stuart Geman and Donald Geman
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 1984
+Description: introduced 1) MRFs for image analysis 2) the Gibbs sampling which revolutionized computational Bayesian statistics and thus had paramount impact in many other fields in addition to Computer Vision.
+
+
+=== Snakes: Active contour models ===
+Michael Kass, Andrew Witkin, and Demetri Terzopoulos
+Description: An interactive variational technique for image segmentation and visual tracking.
+
+
+=== Condensation – conditional density propagation for visual tracking ===
+M. Isard and A. Blake
+International Journal of Computer Vision, 29(1):5–28, 1998.
+Online version
+Description: A technique for visual tracking
+
+
+=== Object recognition from local scale-invariant features ===
+David Lowe
+International Conference on Computer Vision, pp. 1150–1157, 1999
+[1]
+Description: A technique (scale-invariant feature transform) for robust feature description
+
+
+== Concurrent, parallel, and distributed computing ==
+
+Topics covered: concurrent computing, parallel computing, and distributed computing.
+
+
+== Databases ==
+
+
+=== A relational model for large shared data banks ===
+E. F. Codd
+Communications of the ACM, 13(6):377–387, June 1970
+Description: This paper introduced the relational model for databases. This model became the number one model.
+
+
+=== Binary B-Trees for Virtual Memory ===
+Rudolf Bayer
+ACM-SIGFIDET Workshop 1971, San Diego, California, Session 5B, p. 219–235.
+Description: This paper introduced the B-Trees data structure. This model became the number one model.
+
+
+=== Relational Completeness of Data Base Sublanguages ===
+E. F. Codd
+In: R. Rustin (ed.): Database Systems: 65-98, Prentice Hall and IBM Research Report RJ 987, San Jose, California : (1972)
+Online version (PDF)
+Description: Completeness of Data Base Sublanguages
+
+
+=== The Entity Relationship Model – Towards a Unified View of Data ===
+Peter Chen
+ACM Transactions on Database Systems, Vol. 1, No. 1, March 1976, pp. 9–36
+Description: This paper introduced the entity-relationship diagram(ERD) method of database design.
+
+
+=== SEQUEL: A structured English query language ===
+Donald D. Chamberlin, Raymond F. Boyce
+International Conference on Management of Data, Proceedings of the 1974 ACM SIGFIDET (now SIGMOD) workshop on Data description, access and control, Ann Arbor, Michigan, pp. 249–264
+Description: This paper introduced the SQL language.
+
+
+=== The notions of consistency and predicate locks in a database system ===
+K.P. Eswaran, Jim Gray, R.A. Lorie, I.L. Traiger
+Communications of the ACM 19, 1976, 624—633
+Description: This paper defined the concepts of transaction, consistency and schedule. It also argued that a transaction needs to lock a logical rather than a physical subset of the database.
+
+
+=== Federated database systems for managing distributed, heterogeneous, and autonomous databases ===
+Amit Sheth, J.A. Larson,"
+ACM Computing Surveys - Special issue on heterogeneous databases Surveys, Volume 22 Issue 3, Pages 183 - 236, Sept. 1990
+ACM source
+Description: Introduced federated database systems concept leading huge impact on data interoperability and integration of hetereogenous data sources.
+
+
+=== Mining association rules between sets of items in large databases ===
+Rakesh Agrawal, Tomasz Imielinski, Arun Swami
+Proc. of the ACM SIGMOD Conference on Management of Data, pages 207–216, Washington, D.C., May 1993
+Online copy (HTML)
+Description: Association rules, a very common method for data mining.
+
+
+== History of computation ==
+
+
+=== The Computer from Pascal to von Neumann ===
+Goldstine, Herman H. (1972). The Computer from Pascal to von Neumann. Princeton University Press. ISBN 0-691-08104-2. 
+Description: Perhaps the first book on the history of computation.
+
+
+=== A History of Computing in the Twentieth Century ===
+edited by:
+Nicholas Metropolis
+J. Howlett
+Gian-Carlo Rota
+Academic Press, 1980, ISBN 0-12-491650-3
+Description: Several chapters by pioneers of computing.
+
+
+== Information retrieval ==
+
+
+=== A Vector Space Model for Automatic Indexing ===
+Gerard Salton, A. Wong, C. S. Yang
+Commun. ACM 18(11): 613–620 (1975)
+Description: Presented the vector space model.
+
+
+=== Extended Boolean Information Retrieval ===
+Gerard Salton, Edward A. Fox, Harry Wu
+Commun. ACM 26(11): 1022–1036 (1983)
+Description: Presented the inverted index
+
+
+=== A Statistical Interpretation of Term Specificity and Its Application in Retrieval ===
+Karen Spärck Jones
+Journal of Documentation 28: 11–21 (1972). doi:10.1108/eb026526.
+Description: Conceived a statistical interpretation of term specificity called Inverse document frequency (IDF), which became a cornerstone of term weighting.
+
+
+== Networking ==
+
+
+=== Data Communications and Networking ===
+Behrouz A. Forouzan. ISBN 0073376221, Copyright year: 2013, Publisher:: McGraw hill education.
+Description: This book presents a comprehensive and accessible approach to data communications and networking that has made this book a favorite with students and professionals alike. More than 830 figures and 150 tables accompany the text and provide a visual and intuitive opportunity for understanding the material.
+
+
+== Operating systems ==
+
+
+=== An experimental timesharing system. ===
+Fernando J. Corbató, M. Merwin-Daggett, and R.C. Daley
+Proceedings of the AFIPS FJCC, pages 335–344, 1962.
+Online copy (HTML)
+Description: This paper discuss time-sharing as a method of sharing computer resource. This idea changed the interaction with computer systems.
+
+
+=== The Working Set Model for Program Behavior ===
+Peter J. Denning
+Communications of the ACM, Vol. 11, No. 5, May 1968, pp 323–333
+Online version(PDF)
+Description: The beginning of cache. For more information see SIGOPS Hall of Fame.
+
+
+=== Virtual Memory, Processes, and Sharing in MULTICS ===
+Robert C. Daley, Jack B. Dennis
+Communications of the ACM, Vol. 11, No. 5, May 1968, pp. 306–312.
+Online version(PDF)
+Description: The classic paper on Multics, the most ambitious operating system in the early history of computing. Difficult reading, but it describes the implications of trying to build a system that takes information sharing to its logical extreme. Most operating systems since Multics have incorporated a subset of its facilities.
+
+
+=== The nucleus of a multiprogramming system ===
+Per Brinch Hansen
+Communications of the ACM, Vol. 13, No. 4, April 1970, pp. 238–242
+Online version(PDF)
+Description: Classic paper on the extensible nucleus architecture of the RC 4000 multiprogramming system, and what became known as the operating system kernel and microkernel architecture.
+
+
+=== Operating System Principles ===
+Per Brinch Hansen
+Prentice Hall, Englewood Cliffs, NJ, July 1973
+Online version (ACM Digital Library)
+Description: The first comprehensive textbook on operating systems. Includes the first monitor notation (Chapter 7).
+
+
+=== A note on the confinement problem ===
+Butler W. Lampson
+Communications of the ACM, 16(10):613–615, October 1973.
+Online version(PDF)
+Description: This paper addresses issues in constraining the flow of information from untrusted programs. It discusses covert channels, but more importantly it addresses the difficulty in obtaining full confinement without making the program itself effectively unusable. The ideas are important when trying to understand containment of malicious code, as well as aspects of trusted computing.
+
+
+=== The UNIX Time-Sharing System ===
+Dennis M. Ritchie and Ken Thompson
+Communications of the ACM 17(7), July 1974.
+Online copy
+Description: The Unix operating system and its principles were described in this paper. The main importance is not of the paper but of the operating system, which had tremendous effect on operating system and computer technology.
+
+
+=== Weighted voting for replicated data ===
+David K. Gifford
+Proceedings of the 7th ACM Symposium on Operating Systems Principles, pages 150–159, December 1979. Pacific Grove, California
+Online copy (few formats)
+Description: This paper describes the consistency mechanism known as quorum consensus. It is a good example of algorithms that provide a continuous set of options between two alternatives (in this case, between the read-one write-all, and the write-one read-all consistency methods). There have been many variations and improvements by researchers in the years that followed, and it is one of the consistency algorithms that should be understood by all. The options available by choosing different size quorums provide a useful structure for discussing of the core requirements for consistency in distributed systems.
+
+
+=== Experiences with Processes and Monitors in Mesa ===
+Butler W. Lampson, David D. Redell
+Communications of the ACM, Vol. 23, No. 2, February 1980, pp. 105–117.
+Online copy (PDF)
+Description: This is the classic paper on synchronization techniques, including both alternate approaches and pitfalls.
+
+
+=== Scheduling Techniques for Concurrent Systems ===
+J. K. Ousterhout
+Proceedings of Third International Conference on Distributed Computing Systems, 1982, 22—30.
+Description: Algorithms for coscheduling of related processes were given
+
+
+=== A Fast File System for UNIX ===
+Marshall Kirk Mckusick, William N. Joy, Samuel J. Leffler, Robert S. Fabry
+IACM Transactions on Computer Systems, Vol. 2, No. 3, August 1984, pp. 181–197.
+Online copy (PDF)
+Description: The file system of UNIX. One of the first papers discussing how to manage disk storage for high-performance file systems. Most file-system research since this paper has been influenced by it, and most high-performance file systems of the last 20 years incorporate techniques from this paper.
+
+
+=== The Design of the UNIX Operating System ===
+Maurice J. Bach, AT&T Bell Labs
+Prentice Hall • 486 pp • Published 05/27/1986
+This definitive description principally covered the System V Release 2 kernel, with some new features from Release 3 and BSD.
+
+
+=== The Design and Implementation of a Log-Structured File System ===
+Mendel Rosenblum, J. K. Ousterhout
+ACM Transactions on Computer Systems, Vol. 10, No. 1 (February 1992), pp. 26–52.
+Online version
+Description: Log-structured file system.
+
+
+=== Microkernel operating system architecture and Mach ===
+David L. Black, David B. Golub, Daniel P. Julin, Richard F. Rashid, Richard P. Draves, Randall W. Dean, Alessandro Forin, Joseph Barrera, Hideyuki Tokuda, Gerald Malan, David Bohman
+Proceedings of the USENIX Workshop on Microkernels and Other Kernel Architectures, pages 11–30, April 1992.
+Description: This is a good paper discussing one particular microkernel architecture and contrasting it with monolithic kernel design. Mach underlies Mac OS X, and its layered architecture had a significant impact on the design of the Windows NT kernel and modern microkernels like L4. In addition, its memory-mapped files feature was added to many monolithic kernels.
+
+
+=== An Implementation of a Log-Structured File System for UNIX ===
+Margo Seltzer, Keith Bostic, Marshall Kirk McKusick, Carl Staelin
+Proceedings of the Winter 1993 USENIX Conference, San Diego, CA, January 1993, 307-326
+Online version
+Description: The paper was the first production-quality implementation of that idea which spawned much additional discussion of the viability and short-comings of log-structured filesystems. While "The Design and Implementation of a Log-Structured File System" was certainly the first, this one was important in bringing the research idea to a usable system.
+
+
+=== Soft Updates: A Solution to the Metadata Update problem in File Systems ===
+G. Ganger, M. McKusick, C. Soules, Y. Patt
+ACM Transactions on Computer Systems 18, 2. pp 127–153, May 2000
+Online version
+Description: A new way of maintaining filesystem consistency.
+
+
+== Programming languages ==
+
+
+=== The FORTRAN Automatic Coding System ===
+John Backus et al.
+Proceedings of the WJCC (Western Joint Computer Conference), Los Angeles, California, February 1957.
+Online version(PDF)
+Description: This paper describes the design and implementation of the first FORTRAN compiler by the IBM team. Fortran is a general-purpose, procedural, imperative programming language that is especially suited to numeric computation and scientific computing.
+
+
+=== Recursive functions of symbolic expressions and their computation by machine, part I ===
+John McCarthy.
+Communications of the ACM, 3(4):184–195, April 1960.
+Several online versions
+Description: This paper introduced LISP, the first functional programming language, which was used heavily in many areas of computer science, especially in AI. LISP also has powerful features for manipulating LISP programs within the language.
+
+
+=== ALGOL 60 ===
+Revised Report on the Algorithmic Language Algol 60 by Peter Naur, et al. – The very influential ALGOL definition; with the first formally defined syntax.
+Brian Randell and L. J. Russell, ALGOL 60 Implementation: The Translation and Use of ALGOL 60 Programs on a Computer. Academic Press, 1964. The design of the Whetstone Compiler. One of the early published descriptions of implementing a compiler. See the related papers: Whetstone Algol Revisited, and The Whetstone KDF9 Algol Translator by Brian Randell
+Edsger W. Dijkstra, Algol 60 translation: an Algol 60 translator for the x1 and making a translator for Algol 60, report MR 35/61. Mathematisch Centrum, Amsterdam, 1961.
+Description: Algol 60 introduced block structure.
+
+
+=== The next 700 programming languages ===
+Peter Landin
+Communications of the ACM 9(3):157–65, March 1966
+Description: This seminal paper proposed an ideal language ISWIM, which without being ever implemented influenced the whole later development.
+
+
+=== Fundamental Concepts in Programming Languages ===
+Christopher Strachey
+pdf
+Description: Fundamental Concepts in Programming Languages introduced much programming language terminology still in use today, including R-values, L-values, parametric polymorphism, and ad hoc polymorphism.
+
+
+=== Lambda Papers ===
+Gerald Jay Sussman and Guy L. Steele, Jr.
+AI Memos, 1975–1980
+Links to pdf's
+Description: This series of papers and reports first defined the influential Scheme programming language and questioned the prevailing practices in programming language design, employing lambda calculus extensively to model programming language concepts and guide efficient implementation without sacrificing expressive power.
+
+
+=== Structure and Interpretation of Computer Programs ===
+Harold Abelson and Gerald Jay Sussman
+MIT Press, 1984, 1996
+Description: This textbook explains core computer programming concepts, and is widely considered a classic text in computer science.
+Online course
+
+
+=== Comprehending Monads ===
+Philip Wadler
+Mathematical structures in computer science 2.04 (1992): 461-493.
+Online copy
+Description: This paper introduced monads to functional programming.
+
+
+=== Towards a Theory of Type Structure ===
+John Reynolds
+Programming Symposium. Springer Berlin Heidelberg, 1974.
+online copy
+Description: This paper introduced System F and created the modern notion of Parametric polymorphism
+
+
+=== An axiomatic basis for computer programming ===
+Tony Hoare
+Communications of the ACM, Volume 12 Issue 10, Oct. 1969, Pages 576-580
+Description: This paper introduce Hoare logic, which forms the foundation of program verification
+
+
+== Scientific computing ==
+
+Wilkinson, J. H.; Reinsch, C. (1971). Linear algebra, volume II of Handbook for Automatic Computation. Springer. ISBN 978-0-387-05414-8. 
+Golub, Gene H.; van Loan, Charles F. (1996) [1983], Matrix Computations, 3rd edition, Johns Hopkins University Press;, ISBN 978-0-8018-5414-9 
+
+
+=== Computational linguistics ===
+Booth, T. L. (1969). "Probabilistic representation of formal languages". IEEE Conference Record of the 1969 Tenth Annual Symposium on Switching and Automata Theory. pp. 74–81. 
+Contains the first presentation of stochastic context-free grammars.
+Koskenniemi, Kimmo (1983), Two-level morphology: A general computational model of word-form recognition and production (PDF), Department of General Linguistics, University of Helsinki 
+The first published description of computational morphology using finite state transducers. (Kaplan and Kay had previously done work in this field and presented this at a conference; the linguist Johnson had remarked the possibility in 1972, but not produced any implementation.)
+Rabiner, Lawrence R. (1989). "A tutorial on hidden Markov models and selected applications in speech recognition". Proceedings of the IEEE. 77 (2): 257–286. doi:10.1109/5.18626. 
+An overview of hidden Markov models geared toward speech recognition and other NLP fields, describing the Viterbi and forward-backward algorithms.
+Brill, Eric (1995). "Transformation-based error-driven learning and natural language processing: A case study in part-of-speech tagging". Computational Linguistics. 21 (4): 543–566. 
+Describes a now commonly used POS tagger based on transformation-based learning.
+Manning, Christopher D.; Schütze, Hinrich (1999), Foundation of Statistical Natural Language Processing, MIT Press 
+Textbook on statistical and probabilistic methods in NLP.
+Frost, Richard A. (2006). "Realization of Natural-Language Interfaces Using Lazy Functional Programming" (PDF). ACM Computing Surveys. 38 (4). 
+This survey documents relatively less researched importance of lazy functional programming languages (i.e. Haskell) to construct Natural Language Processors and to accommodated many linguistic theories.
+
+
+== Software engineering ==
+
+
+=== Software engineering: Report of a conference sponsored by the NATO Science Committee ===
+Peter Naur, Brian Randell (eds.)
+Garmisch, Germany, 7–11 October 1968, Brussels, Scientific Affairs Division, NATO (1969) 231pp.
+Online copy (PDF)
+Description: Conference of leading figures in software field c. 1968
+The paper defined the field of Software engineering
+
+
+=== A Description of the Model-View-Controller User Interface Paradigm in the Smalltalk-80 System ===
+Krasner, Glenn E.; Pope, Stephen T.
+The Journal of Object Technology, Aug-Sep 1988
+Online copy (PDF)
+Description: A description of the system that originated the (now dominant) GUI programming paradigm of Model–view–controller
+
+
+=== Go To Statement Considered Harmful ===
+Dijkstra, E. W.
+Communications of the ACM, 11(3):147–148, March 1968
+Online copy
+Description: Don't use goto – the beginning of structured programming.
+
+
+=== On the criteria to be used in decomposing systems into modules ===
+David Parnas
+Communications of the ACM, Volume 15, Issue 12:1053–1058, December 1972.
+Online copy (PDF)
+Description: The importance of modularization and information hiding. Note that information hiding was first presented in a different paper of the same author – "Information Distributions Aspects of Design Methodology", Proceedings of IFIP Congress '71, 1971, Booklet TA-3, pp. 26–30
+
+
+=== Hierarchical Program Structures ===
+Ole-Johan Dahl, C. A. R. Hoare
+in Dahl, Dijkstra and Hoare, Structured Programming, Academic Press, London and New York, pp. 175–220, 1972.
+Description: The beginning of Object-oriented programming. This paper argued that programs should be decomposed to independent components with small and simple interfaces. They also argued that objects should have both data and related methods.
+
+
+=== A technique for software module specification with examples ===
+David Parnas
+Comm. ACM 15, 5 (May 1972), 330–336.
+Online copy (PDF)
+Description: software specification.
+
+
+=== Structured Design ===
+Wayne Stevens, Glenford Myers, and Larry Constantine
+IBM Systems Journal, 13 (2), 115–139, 1974.
+On-line copy (PDF)
+Description: Seminal paper on Structured Design, data flow diagram, coupling, and cohesion.
+
+
+=== The Emperor's Old Clothes ===
+C.A.R. Hoare
+Communications of the ACM, Vol. 24, No. 2, February 1981, pp. 75–83.
+Archived copy (PDF)
+Description: Illustrates the "second-system effect" and the importance of simplicity.
+
+
+=== The Mythical Man-Month: Essays on Software Engineering ===
+Brooks, Jr., F. P.
+Addison Wesley Professional. 2nd edition, 1995.
+Description: Throwing more people at the task will not speed its completion...
+
+
+=== No Silver Bullet: Essence and Accidents of Software Engineering ===
+Brooks, Frederick. P., Jr. (April 1987). "No Silver Bullet: Essence and Accidents of Software Engineering". Computer. 20 (4): 10–19. doi:10.1109/MC.1987.1663532. 
+
+
+=== The Cathedral and the Bazaar ===
+Raymond, E.S.
+First Monday, 3, 3 (March 1998)
+Online copy (HTML)
+Description: Open source methodology.
+
+
+=== Design Patterns: Elements of Reusable Object Oriented Software ===
+E. Gamma, R. Helm, R. Johnson, J. Vlissides
+Addison–Wesley, Reading, Massachusetts, 1995.
+Description: This book was the first to define and list design patterns in computer science.
+
+
+=== Statecharts: A Visual Formalism For Complex Systems ===
+David Harel
+D. Harel. Statecharts: A visual formalism for complex systems. Science of Computer Programming, 8:231—274, 1987
+Online version
+Description: Statecharts are a visual modeling method. They are an extension of state machine that might be exponentially more efficient. Therefore, statcharts enable formal modeling of applications that were too complex before. Statecharts are part of the UML diagrams.
+
+
+== Security ==
+
+
+=== Anonymity Systems ===
+David Chaum. Untraceable electronic mail, return addresses, and digital pseudonyms. Communications of the ACM, 4(2):84–88, February 1981.
+Dingledine and Mathewson, Anonymity Loves Company: Usability and the Network Effect, Workshop on the Economics of Information Security (WEIS) 2006
+
+
+=== Cryptography ===
+
+Whitfield Diffie and Martin E. Hellman, New Directions in Cryptography, IEEE Transactions on Information Theory, November 1976
+R. L. Rivest and A. Shamir and L. M. Adelman, A Method For Obtaining Digital Signatures And Public-Key Cryptosystems, MIT/LCS/TM-82, 1977
+Merkle, R. Security, Authentication, and Public Key Systems, PhD Thesis, 1979 Stanford University. (Just read chapter 2, pages 11–15, in which Merkle invents cryptographic hash functions.)
+
+
+=== Passwords ===
+Morris, Robert and Thompson, Ken. Password security: a case history, Communications of the ACM CACM Homepage archive Volume 22 Issue 11, Nov. 1979 Pages 594-597. PDF
+Mazurek et al., Measuring password guessability for an entire university, CCS '13 Proceedings of the 2013 ACM SIGSAC conference on Computer & communications security, Pages 173-186
+
+
+=== System Security ===
+Saltzer and Schroeder, The Protection of Information in Computer Systems, ACM Symposium on Operating System Principles (October 1973) HTML HTML2
+Karger and Schell, Thirty Years later: Lessons from the Multics Security Evaluation, ACSAC 2002
+Lamport, Butler. A Note on the Confinement Problem, Communications of the ACM, 16:10 (Oct. 1973), pp. 613–615. PDF
+Thompson, Reflections on Trusting Trust, Communications of the ACM, 27:8, Aug 1984
+J.E. Forrester and B.P. Miller, An Empirical Study of the Robustness of Windows NT Applications Using Random Testing, 4th USENIX Windows Systems Symposium, Seattle, August 2000.
+Zissis D and Lekkas D, Addressing cloud computing security issues, Future Generation Computer Systems, 28/3, pp. 583-592, Elsevier 2012
+
+
+=== Usable Security ===
+Whitten, Alma, Why Johnny Can't Encrypt: A Usability Evaluation of PGP 5.0, Proceedings of the 8th conference on USENIX Security Symposium, Volume 8, Pages 14–28
+Garfinkel, Simson and Shelat, Abhi, Remembrance of Data Passed, IEEE Security and Privacy, Volume 1 Issue 1, January 2003, Page 17-27
+
+
+== Theoretical computer science ==
+
+Topics covered: theoretical computer science, including computability theory, computational complexity theory, algorithms, algorithmic information theory, information theory and formal verification.
+
+
+== See also ==
+DBLP (Digital Bibliography & Library Project in computer science)
+List of open problems in computer science
+List of computer science journals
+List of computer science conferences
+The Collection of Computer Science Bibliographies
+Paris Kanellakis Award, a prize given to honor specific theoretical accomplishments that have had a significant and demonstrable effect on the practice of computing.
+
+
+== References ==
+
+
+== External links ==
+ACM Classic Books Series
+Most cited articles in Computer Science (CiteSeer Database)
+50 most influential papers ACM SIGPLAN papers published in PLDI from 1979 through 1999; organized into a special SIGPLAN proceedings.
+
+
+=== Academic Search Engines ===
+Google Scholar
+CiteSeer
+Live Academic
+Odysci
+ISI Web of Science

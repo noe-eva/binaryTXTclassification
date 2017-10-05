@@ -1,0 +1,32 @@
+The Lovelace Medal, established by the British Computer Society in 1998, is presented to individuals who have advanced Information Systems or added significantly to their understanding.
+The award is named after Ada Lovelace, who corresponded with computer pioneer Charles Babbage and is often described as the world's first computer programmer.
+The medal is intended to be presented to individuals who have made a contribution which is of major significance in the advancement of Information Systems or which adds significantly to the understanding of Information Systems in industry, academia, technical or managerial domains. It is generally anticipated that there will be one medalist each year, but the regulation does not preclude either several medalists or no medalist.
+
+
+== Recipients ==
+Awardees include:
+2017 Georg Gottlob
+2016 Andrew Blake
+2015 Ross Anderson
+2014 Steve Furber
+2013 Samson Abramsky
+2012 Grady Booch
+2011 Hermann Hauser
+2010 John C. Reynolds
+2009 Yorick Wilks
+2008 Tony Storey
+2007 Karen Spärck Jones
+2006 Sir Tim Berners-Lee
+2005 Nick McKeown
+2004 John Warnock of Adobe Systems
+2002 Ian Foster and Carl Kesselman, for their pioneering work in grid computing
+2001 Douglas C. Engelbart
+2000 Linus Torvalds, for the Linux kernel
+1998 Michael A. Jackson and Chris Burton
+
+
+== References ==
+
+
+== External links ==
+BCS information

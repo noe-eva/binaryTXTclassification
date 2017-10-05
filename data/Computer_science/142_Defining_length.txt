@@ -1,0 +1,9 @@
+In genetic algorithms and genetic programming defining length L(H) is the maximum distance between two defining symbols (that is symbols that have a fixed value as opposed to symbols that can take any value, commonly denoted as # or *) in schema H. In tree GP schemata, L(H) is the number of links in the minimum tree fragment including all the non-= symbols within a schema H.
+
+
+== Example ==
+Schemata "00##0", "1###1", "01###", and "##0##" have defining lengths of 4, 4, 1, and 0, respectively. Lengths are computed by determining the last fixed position and subtracting from it the first fixed position.
+In genetic algorithms as the defining length of a solution increases so does the susceptibility of the solution to disruption due to mutation or cross-over.
+
+
+== References ==

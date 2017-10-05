@@ -1,0 +1,24 @@
+In graph theory, the rectilinear minimum spanning tree (RMST) of a set of n points in the plane (or more generally, in ℝd) is a minimum spanning tree of that set, where the weight of the edge between each pair of points is the rectilinear distance between those two points.
+
+
+== Properties and algorithms ==
+By explicitly constructing the complete graph on n vertices, which has n(n-1)/2 edges, a rectilinear minimum spanning tree can be found using existing algorithms for finding a minimum spanning tree. In particular, using Prim's algorithm with an adjacency matrix yields time complexity O(n2).
+
+
+=== Planar case ===
+In the planar case, more efficient algorithms exist. They are based on the idea that connections may only happen with the nearest neighbour of a point in each octant - that is, each of the eight regions of the plane delimited by the coordinate axis from this point and their bisectors.
+The resulting graph has only a linear number of edges and can be constructed in O(n log n) using a divide and conquer algorithm or a sweep line algorithm.
+
+
+== Applications ==
+
+
+=== Electronic design ===
+The problem commonly arises in physical design of electronic circuits. In modern high-density integrated circuits wire routing is performed by wires which consist of segments running horizontally in one layer of metal and vertically in another metal layer. As a result, the wire length between two points is naturally measured with rectilinear distance. Although the routing of a whole net with multiple nodes is better represented by the rectilinear Steiner tree, the RMST provides a reasonable approximation and wire length estimate.
+
+
+== See also ==
+Euclidean minimum spanning tree
+
+
+== References ==

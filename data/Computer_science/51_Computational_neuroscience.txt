@@ -1,0 +1,158 @@
+Computational neuroscience (also theoretical neuroscience) studies brain function in terms of the information processing properties of the structures that make up the nervous system. It is an interdisciplinary computational science that links the diverse fields of neuroscience, cognitive science, and psychology with electrical engineering, computer science, mathematics, and physics.
+Computational neuroscience is distinct from psychological connectionism and from learning theories of disciplines such as machine learning, neural networks, and computational learning theory in that it emphasizes descriptions of functional and biologically realistic neurons (and neural systems) and their physiology and dynamics. These models capture the essential features of the biological system at multiple spatial-temporal scales, from membrane currents, proteins, and chemical coupling to network oscillations, columnar and topographic architecture, and learning and memory.
+These computational models are used to frame hypotheses that can be directly tested by biological or psychological experiments.
+
+
+== History ==
+The term "computational neuroscience" was introduced by Eric L. Schwartz, who organized a conference, held in 1985 in Carmel, California, at the request of the Systems Development Foundation to provide a summary of the current status of a field which until that point was referred to by a variety of names, such as neural modeling, brain theory and neural networks. The proceedings of this definitional meeting were published in 1990 as the book Computational Neuroscience. The first open international meeting focused on Computational Neuroscience was organized by James M. Bower and John Miller in San Francisco, California in 1989 and has continued each year since as the annual CNS meeting. The first graduate educational program in computational neuroscience was organized as the Computational and Neural Systems Ph.D. program at the California Institute of Technology in 1985.
+The early historical roots of the field can be traced to the work of people such as Louis Lapicque, Hodgkin & Huxley, Hubel & Wiesel, and David Marr, to name a few. Lapicque introduced the integrate and fire model of the neuron in a seminal article published in 1907; this model is still one of the most popular models in computational neuroscience for both cellular and neural networks studies, as well as in mathematical neuroscience because of its simplicity (see the recent review article for the centenary of Lapicque's original paper). About 40 years later, Hodgkin & Huxley developed the voltage clamp and created the first biophysical model of the action potential. Hubel & Wiesel discovered that neurons in the primary visual cortex, the first cortical area to process information coming from the retina, have oriented receptive fields and are organized in columns. David Marr's work focused on the interactions between neurons, suggesting computational approaches to the study of how functional groups of neurons within the hippocampus and neocortex interact, store, process, and transmit information. Computational modeling of biophysically realistic neurons and dendrites began with the work of Wilfrid Rall, with the first multicompartmental model using cable theory.
+
+
+== Major topics ==
+Research in computational neuroscience can be roughly categorized into several lines of inquiry. Most computational neuroscientists collaborate closely with experimentalists in analyzing novel data and synthesizing new models of biological phenomena.
+
+
+=== Single-neuron modeling ===
+
+Even single neurons have complex biophysical characteristics and can perform computations (e.g.). Hodgkin and Huxley's original model only employed two voltage-sensitive currents (Voltage sensitive ion channels are glycoprotein molecules which extend through the lipid bilayer, allowing ions to traverse under certain conditions through the axolemma), the fast-acting sodium and the inward-rectifying potassium. Though successful in predicting the timing and qualitative features of the action potential, it nevertheless failed to predict a number of important features such as adaptation and shunting. Scientists now believe that there are a wide variety of voltage-sensitive currents, and the implications of the differing dynamics, modulations, and sensitivity of these currents is an important topic of computational neuroscience.
+The computational functions of complex dendrites are also under intense investigation. There is a large body of literature regarding how different currents interact with geometric properties of neurons.
+Some models are also tracking biochemical pathways at very small scales such as spines or synaptic clefts.
+There are many software packages, such as GENESIS and NEURON, that allow rapid and systematic in silico modeling of realistic neurons. Blue Brain, a project founded by Henry Markram from the École Polytechnique Fédérale de Lausanne, aims to construct a biophysically detailed simulation of a cortical column on the Blue Gene supercomputer.
+A problem in the field is that detailed neuron descriptions are computationally expensive and this can handicap the pursuit of realistic network investigations, where many neurons need to be simulated. So, researchers that study large neural circuits typically represent each neuron and synapse simply, ignoring much of the biological detail. This is unfortunate as there is evidence that the richness of biophysical properties on the single neuron scale can supply mechanisms that serve as the building blocks for network dynamics. Hence there is a drive to produce simplified neuron models that can retain significant biological fidelity at a low computational overhead. Algorithms have been developed to produce faithful, faster running, simplified surrogate neuron models from computationally expensive, detailed neuron models.
+
+
+=== Development, axonal patterning, and guidance ===
+How do axons and dendrites form during development? How do axons know where to target and how to reach these targets? How do neurons migrate to the proper position in the central and peripheral systems? How do synapses form? We know from molecular biology that distinct parts of the nervous system release distinct chemical cues, from growth factors to hormones that modulate and influence the growth and development of functional connections between neurons.
+Theoretical investigations into the formation and patterning of synaptic connection and morphology are still nascent. One hypothesis that has recently garnered some attention is the minimal wiring hypothesis, which postulates that the formation of axons and dendrites effectively minimizes resource allocation while maintaining maximal information storage.
+
+
+=== Sensory processing ===
+Early models of sensory processing understood within a theoretical framework are credited to Horace Barlow. Somewhat similar to the minimal wiring hypothesis described in the preceding section, Barlow understood the processing of the early sensory systems to be a form of efficient coding, where the neurons encoded information which minimized the number of spikes. Experimental and computational work have since supported this hypothesis in one form or another.
+Current research in sensory processing is divided among a biophysical modelling of different subsystems and a more theoretical modelling of perception. Current models of perception have suggested that the brain performs some form of Bayesian inference and integration of different sensory information in generating our perception of the physical world.
+
+
+=== Memory and synaptic plasticity ===
+
+Earlier models of memory are primarily based on the postulates of Hebbian learning. Biologically relevant models such as Hopfield net have been developed to address the properties of associative, rather than content-addressable, style of memory that occur in biological systems. These attempts are primarily focusing on the formation of medium- and long-term memory, localizing in the hippocampus. Models of working memory, relying on theories of network oscillations and persistent activity, have been built to capture some features of the prefrontal cortex in context-related memory.
+One of the major problems in neurophysiological memory is how it is maintained and changed through multiple time scales. Unstable synapses are easy to train but also prone to stochastic disruption. Stable synapses forget less easily, but they are also harder to consolidate. One recent computational hypothesis involves cascades of plasticity that allow synapses to function at multiple time scales. Stereochemically detailed models of the acetylcholine receptor-based synapse with the Monte Carlo method, working at the time scale of microseconds, have been built. It is likely that computational tools will contribute greatly to our understanding of how synapses function and change in relation to external stimulus in the coming decades.
+
+
+=== Behaviors of networks ===
+Biological neurons are connected to each other in a complex, recurrent fashion. These connections are, unlike most artificial neural networks, sparse and usually specific. It is not known how information is transmitted through such sparsely connected networks. It is also unknown what the computational functions of these specific connectivity patterns are, if any.
+The interactions of neurons in a small network can be often reduced to simple models such as the Ising model. The statistical mechanics of such simple systems are well-characterized theoretically. There has been some recent evidence that suggests that dynamics of arbitrary neuronal networks can be reduced to pairwise interactions. It is not known, however, whether such descriptive dynamics impart any important computational function. With the emergence of two-photon microscopy and calcium imaging, we now have powerful experimental methods with which to test the new theories regarding neuronal networks.
+In some cases the complex interactions between inhibitory and excitatory neurons can be simplified using mean field theory, which gives rise to the population model of neural networks. While many neurotheorists prefer such models with reduced complexity, others argue that uncovering structural functional relations depends on including as much neuronal and network structure as possible. Models of this type are typically built in large simulation platforms like GENESIS or NEURON. There have been some attempts to provide unified methods that bridge and integrate these levels of complexity.
+
+
+=== Cognition, discrimination, and learning ===
+Computational modeling of higher cognitive functions has only recently begun. Experimental data comes primarily from single-unit recording in primates. The frontal lobe and parietal lobe function as integrators of information from multiple sensory modalities. There are some tentative ideas regarding how simple mutually inhibitory functional circuits in these areas may carry out biologically relevant computation.
+The brain seems to be able to discriminate and adapt particularly well in certain contexts. For instance, human beings seem to have an enormous capacity for memorizing and recognizing faces. One of the key goals of computational neuroscience is to dissect how biological systems carry out these complex computations efficiently and potentially replicate these processes in building intelligent machines.
+The brain's large-scale organizational principles are illuminated by many fields, including biology, psychology, and clinical practice. Integrative neuroscience attempts to consolidate these observations through unified descriptive models and databases of behavioral measures and recordings. These are the bases for some quantitative modeling of large-scale brain activity.
+The Computational Representational Understanding of Mind (CRUM) is another attempt at modeling human cognition through simulated processes like acquired rule-based systems in decision making and the manipulation of visual representations in decision making.
+
+
+=== Consciousness ===
+One of the ultimate goals of psychology/neuroscience is to be able to explain the everyday experience of conscious life. Francis Crick and Christof Koch made some attempts to formulate a consistent framework for future work in neural correlates of consciousness (NCC), though much of the work in this field remains speculative.
+
+
+=== Computational clinical neuroscience ===
+It is a field that brings together experts in neuroscience, neurology, psychiatry, decision sciences and computational modeling to quantitatively define and investigate problems in neurological and psychiatric diseases, and to train scientists and clinicians that wish to apply these models to diagnosis and treatment.
+
+
+== Notable persons ==
+Phil Husbands, professor of computer science and artificial intelligence at the English University of Sussex
+Read Montague, American neuroscientist and popular science author
+Tomaso Poggio, Eugene McDermott professor in the Department of Brain and Cognitive Sciences, investigator at the McGovern Institute for Brain Research, a member of the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and director of both the Center for Biological and Computational Learning at MIT and the Center for Brains, Minds, and Machines.
+Terry Sejnowski, investigator at the Howard Hughes Medical Institute and the Francis Crick Professor at The Salk Institute for Biological Studies where he directs the Computational Neurobiology Laboratory
+Haim Sompolinsky, William N. Skirball Professor of Neuroscience at the Edmond and Lily Safra Center for Brain Sciences (formerly the Interdisciplinary Center for Neural Computation), and a Professor of Physics at the Racah Institute of Physics at The Hebrew University of Jerusalem, Israel.
+
+
+== See also ==
+Biological neuron models
+Bayesian Brain
+Brain-computer interface
+Brain simulation
+Computational anatomy
+Connectionism
+Medical image computing
+Mind uploading
+Neural coding
+Neural engineering
+Neural network
+Neurocomputational speech processing
+Neuroinformatics
+Simulated reality
+Artificial consciousness
+Cognitive architecture
+Technological singularity, a hypothetical artificial intelligence that would exceed the capabilities of the human brain
+
+
+== Notes and references ==
+
+
+== Bibliography ==
+Chklovskii DB (2004). "Synaptic connectivity and neuronal morphology: two sides of the same coin". Neuron. 43 (5): 609–17. PMID 15339643. doi:10.1016/j.neuron.2004.08.012. 
+Sejnowski, Terrence J.; Churchland, Patricia Smith (1992). The computational brain. Cambridge, Mass: MIT Press. ISBN 0-262-03188-4. 
+Abbott, L. F.; Dayan, Peter (2001). Theoretical neuroscience: computational and mathematical modeling of neural systems. Cambridge, Mass: MIT Press. ISBN 0-262-04199-5. 
+Eliasmith, Chris; Anderson, Charles H. (2003). Neural engineering: Representation, computation, and dynamics in neurobiological systems. Cambridge, Mass: MIT Press. ISBN 0-262-05071-4. 
+Hodgkin AL, Huxley AF (28 August 1952). "A quantitative description of membrane current and its application to conduction and excitation in nerve". J. Physiol. 117 (4): 500–44. PMC 1392413 . PMID 12991237. doi:10.1113/jphysiol.1952.sp004764. 
+William Bialek; Rieke, Fred; David Warland; Rob de Ruyter van Steveninck (1999). Spikes: exploring the neural code. Cambridge, Mass: MIT. ISBN 0-262-68108-0. CS1 maint: Multiple names: authors list (link)
+Schutter, Erik de (2001). Computational neuroscience: realistic modeling for experimentalists. Boca Raton: CRC. ISBN 0-8493-2068-2. 
+Sejnowski, Terrence J.; Hemmen, J. L. van (2006). 23 problems in systems neuroscience. Oxford [Oxfordshire]: Oxford University Press. ISBN 0-19-514822-3. 
+Michael A. Arbib; Shun-ichi Amari; Prudence H. Arbib (2002). The Handbook of Brain Theory and Neural Networks. Cambridge, Massachusetts: The MIT Press. ISBN 0-262-01197-2. 
+
+
+== External links ==
+
+
+=== Journals ===
+Network: Computation in Neural Systems
+Biological Cybernetics
+Journal of Computational Neuroscience
+Neural Computation
+Neural Networks
+Neurocomputing
+Cognitive Neurodynamics
+Frontiers in Computational Neuroscience
+PLoS Computational Biology
+Frontiers in Neuroinformatics
+Journal of Mathematical Neuroscience
+
+
+=== Software ===
+BRIAN, a Python based simulator
+Budapest Reference Connectome, web based 3D visualization tool to browse connections in the human brain
+DigiCortex, DigiCortex project implementing large-scale simulation and visualization of biologically realistic cortical neurons, synaptic receptor kinetic, axonal action potential propagation delays as well as long-term and short-term synaptic plasticity.
+EDLUT, a simulation software for large-scale neural networks and real-time control systems.
+Emergent, neural simulation software.
+GENESIS, a general neural simulation system.
+ModelDB, a large open-access database of program codes of published computational neuroscience models.
+MCell, Particle-based Monte Carlo simulator of microphysiology and cell signaling.
+NeMo, a C++/CUDA-based, high-performance spiking neural network simulator, intended for large-scale real-time simulations, and with APIs for C++, C, Python and Matlab.
+Nengo, a Python scriptable, GUI simulator for large-scale neural models
+NEST, a simulation tool for large neuronal systems.
+Neuroconstruct, software for developing biologically realistic 3D neural networks.
+NEURON, a neuron simulator also useful to simulate neural networks.
+SNNAP, a single neuron and neural network simulator tool.
+ReMoto, a web-based simulator of the spinal cord and innervated muscles of the human leg.
+TopoGraphica, Topographica is a software package for computational modeling of neural maps. The goal is to help researchers understand brain function at the level of the topographic maps that make up sensory and motor systems.Topographica is intended to complement the many good low-level neuron simulators that are available, such as Genesis and Neuron. Topographica focuses on the large-scale structure and function that is visible only when many thousands of such neurons are connected into topographic maps containing millions of connections.
+
+
+=== Conferences ===
+Computational and Systems Neuroscience (COSYNE) – a computational neuroscience meeting with a systems neuroscience focus.
+Annual Computational Neuroscience Meeting (CNS)– a yearly computational neuroscience meeting.
+Neural Information Processing Systems (NIPS)– a leading annual conference covering other machine learning topics as well.
+International Conference on Cognitive Neurodynamics (ICCN)– a yearly conference.
+UK Mathematical Neurosciences Meeting– a new yearly conference, focused on mathematical aspects.
+The NeuroComp Conference– a yearly computational neuroscience conference (France).
+Bernstein Conference on Computational Neuroscience (BCCN)– a yearly conference in Germany, organized by the Bernstein Network for Computational Neuroscience.
+AREADNE Conferences– a biennial meeting that includes theoretical and experimental results, held in even years in Santorini, Greece.
+
+
+=== Websites ===
+Perlewitz's computational neuroscience on the web
+Encyclopedia of Computational Neuroscience, part of Scholarpedia, an online expert curated encyclopedia on computational neuroscience, dynamical systems and machine intelligence
+Ph.D studies in Computational Neuroscience in Jerusalem
+
+
+=== Research Groups ===
+Laboratory of Computational Embodied Neuroscience (LOCEN), Institute of Cognitive Sciences and Technologies, Italian National Research Council (ISTC-CNR), Rome, Italy. This group, founded in 2006 and currently led by Gianluca Baldassarre, has two objectives: (a) understanding the brain mechanisms underlying learning and expression of sensorimotor behaviour, and related motivations and higher-level cognition grounded on it, on the basis of embodied computational models; (b) transferring the acquired knowledge to building innovative controllers for autonomous humanoid robots capable of learning in an open-ended fashion on the basis of intrinsic and extrinsic motivations.

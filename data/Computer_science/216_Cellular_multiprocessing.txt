@@ -1,0 +1,14 @@
+Cellular multiprocessing is a multiprocessing computing architecture designed initially for Intel central processing units from Unisys, a worldwide information technology consulting services and solutions company.
+It consists of the partitioning of processors into separate computing environments running different operating systems. Providing up to 32 processors that are crossbar connected to 64GB of memory and 96 PCI cards, a CMP system provides mainframe-like architecture using Intel CPUs. CMP supports Windows NT and Windows 2000 Server, AIX, Novell NetWare and UnixWare and can be run as one large SMP system or multiple systems with variant operating systems.
+There is a concept of creating CPU Partitions in CMPs, e.g. one can create a full partition of 32 processors, Or one can create two partitions of 16 processors each, these two partitions will be visible to the OS installed as two machines. Similarly for 32 processors it is possible to create 32 partitions at max each having a single CPU. Unisys' CMP is the only server architecture to take full advantage of Microsoft's Windows 2000 Datacenter Server operating system's support for 32 processors.
+In case of LINUX/UNIX OS the CMP technology is proven to be very best, whereas in case of Windows 2003 Servers installations, there are certain limits for partitions having number of CPUs, like for a windows 2003 installation the maximum CPU in a partition can only be 4, if more CPUs are assigned severe performance degrade are observed. Even on 8 CPU partition the performance is compariable to the performance of a 2 processors partition.
+A CMP subpod contains four x86 or Itanium CPUs, which connect through a third-level memory cache to the crossbar. Each crossbar supports two subpods, two direct I/O bridges (DIBs) and can connect to four memory storage units (MSUs).
+Unisys is also providing CMP server technology to Compaq, Dell, Hewlett-Packard and ICL, under OEM agreements.
+
+
+== See also ==
+Asymmetric Multi-Processing
+Symmetric Multi-Processing
+
+
+== References ==

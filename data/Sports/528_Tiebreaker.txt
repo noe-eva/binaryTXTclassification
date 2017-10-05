@@ -1,0 +1,76 @@
+In games and sports, a tiebreaker or tiebreak is used to determine a winner from among players or teams that are tied at the end of a contest, or a set of contests.
+
+
+== General operation ==
+
+
+=== In matches ===
+In some situations, the tiebreaker may consist of another round of play. For example, if contestants are tied at the end of a quiz game, they each might be asked one or more extra questions, and whoever correctly answers the most from that extra set is the winner. In many sports, teams that are tied at the end of a match compete in an additional period of play called "overtime" or "extra time". The extra round may also not follow the regular format, e.g. a tiebreak in tennis or a penalty shootout in association football.
+
+
+=== In tournaments and playoffs ===
+
+In some sports, tournaments, and playoffs, the tiebreaker is a statistic that is compared to separate contestants who have the same win-loss record. Some competitions, such as the FIFA World Cup, the Euroleague, the National Basketball Association, the National Hockey League and the National Football League, have a whole set of tiebreaking rules in which a group of statistics between the tied teams are compared, one at a time, to determine the seeding in their respective knockout or playoff tournament.
+The statistics that are compared may include total goals scored, the record between the two tied teams, and other factors. In many of these tiebreaking rules, if the teams remain tied after comparing all of these statistics, then the tie is broken at random using a coin toss or a drawing of lots. Swiss system tournaments use a variety of criteria not found in other types of tournament which exploit features specific to the Swiss system: see tie-breaking in Swiss system tournaments.
+In some sports leagues, a one-game playoff, or occasionally a "best-of" series format, may be played instead to break the tie.
+
+
+=== In promotion/relegation and draft order ===
+Some sports leagues may use tiebreaking rules to help determine which teams who have the same win-loss record are promoted and relegated or have the higher pick in their respective sports draft. These tiebreaking rules may be the same ones used in their respective knockout or playoff tournament, except that the tied team with the worse statistic is the one that is either relegated or receives a higher draft pick. However, in some sports leagues, such as the National Football League, the set of tiebreaking rules to compare the worst-ranked teams is completely different than the rules to determine the playoff teams.
+
+
+== Specific sports ==
+
+
+=== Association football ===
+In association football contests, many matches are allowed to end in a draw, but in cases where a winner must be chosen, there are three methods of deciding this. The usual method is Normal Extra Time, where each team will play two 15-minute periods of extra time (but see also Golden goal). The team that leads at the end of 30 minutes wins the tie. If, at the end of extra time, no winner can be decided, the match goes to a penalty shootout. Occasionally, in matches such as the Community Shield in England, the match can go straight to a penalty shootout after 90 minutes' play has been completed. Alternatively, in tournaments such as the English FA Cup, the match is replayed in its entirety, going through the aforementioned stages of extra time and penalties if the second match is drawn. This method is no longer used from the quarter finals onwards.
+
+
+=== American football ===
+In the National Football League of professional American football, if both teams are tied at the end of regulation, an overtime period is played under modified "sudden death" rules. Before the 2017 season, this period was 15 minutes in all games. Starting in 2017, a 15-minute period will be used only in playoff games (in which a winner must be decided); overtime in preseason and regular-season games will consist of a 10-minute period. If the team that receives the ball first scores a field goal, then the opponent must receive a chance at equalising that score of their own; the first team to score a touchdown or safety wins the game; and once both teams have had possession of the ball in overtime, the first team to score under any legal means, touchdown (offensive or defensive), field goal or safety, wins. If neither team scores before the end of the overtime period, or both teams score one field goal each, the game is considered a draw and ends, and counts as a "half-win" in the standings for purposes of winning percentage for both draft order and playoff positioning. However, in the playoffs, true sudden death rules apply from double overtime onwards.
+
+
+=== Australian rules football ===
+There is no tie-break for regular season matches in Australian rules football, and both teams earn two points each.
+In the AFL, new rules were introduced for finals in 2016: if there is a tie at the expiration of regulation time, including in the Grand Final, two five minute halves of extra time are played with the teams swapping end after each half. If the match is still tied when extra time has expired, there is a third untimed extra time period under sudden death rules, and the final siren will not sound until the next team scores.
+
+
+==== Previous systems ====
+Prior to 1991, if the scores were tied in a finals match after the final siren, the drawn final would be replayed on the following weekend, thus delaying all other finals by one week.
+Due to various logistical issues that arose following the drawn 1990 Qualifying Final, the AFL replaced this procedure with extra time (with the exception of the Grand Final) in 1991. Until 2015, if the scores in a finals match were tied when regulation time expired, two five-minute halves of extra time were played until a winner was determined. This procedure was used twice: in the 1994 Second Qualifying Final between North Melbourne and Hawthorn (won by North Melbourne), and the 2007 Second Semi-Final between West Coast and Collingwood (won by Collingwood).
+If the scores were tied after the final siren in the Grand Final, the match would be replayed on the following weekend until 2015.
+
+
+=== Baseball ===
+If a baseball game is tied at the end of the usual nine innings, the game continues into extra innings until an inning ends with one team ahead. Although games are occasionally ended as ties on account of weather or darkness (the latter happened much more often before lights were installed on most professional baseball fields in the 1940s), and some leagues (including Nippon Professional Baseball) allow only a limited number of extra innings before a game ends as a tie, professional baseball in the United States has no such limit. The longest Major League game in history (on May 1, 1920) lasted 26 innings, and a minor-league game in 1981 lasted 33 innings. In some venues, including international baseball, starting with the second extra inning, that inning may begin a full reset of the batting order to the coach's choice with up to two runners already on base, in order to increase the chances of a resolution.
+Major League Baseball uses the term "tiebreaker" to refer to one or more additional games played after the scheduled end of the regular season between teams with identical win-loss records in order to determine participants in postseason play.
+
+
+=== Cricket ===
+
+
+=== Field target ===
+Field target — a precision air rifle shooting sport — uses either a sudden-death or shot count tiebreaker. The sudden-death tiebreaker (usually used to determine a single place such as 3rd when 3 awards are to be given or between two shooters) consists of each tied shooter (order dictated or decided by coin-toss or other technique) shoots at a target (typically a difficult shot such as ½" at 35 yards). If all shooters in the tie fail, then the target is moved closer. If one shooter hits, then the next shooter(s) who miss are out of the competition. If a round is complete with multiple ties remaining, the target is moved out (made more difficult) and the same procedure is repeated until only one shooter remains. This procedure can then be repeated to determine further placings among the losers of the previous round.
+In cases where multiple places are to be determined (as in five people tied for first place), one approach is to have each shooter make several shots (n − 1 or more with n being the number of tied shooters). If all shooters miss all shots, the target is moved in (made easier); similarly, if all shooters hit on all shots, the target is moved out (made more difficult). If some variation in hits exists after a round, the top score gets the highest placing while those with identical scores can have a sudden-death shootout or a repeat of the multiple shot shootout (typically with a more difficult target) to determine other placings.
+
+
+=== Ice hockey ===
+
+
+=== Tennis ===
+
+
+=== Snooker ===
+If the scores are level when all the balls are potted in a frame of snooker, the black is "respotted" (placed back on the table, on its designated spot) and the cue ball put "in hand". The referee will then toss a coin, and the winner of the coin toss decides who will take the first shot. Play then continues until the black is potted or another frame-ending situation occurs.
+
+
+== Outside sports ==
+The term "tiebreaker" is sometimes used loosely outside the world of sports — for example, for an innovative weapon or strategy introduced in a war where the two opposing armies are evenly matched, a decisive political move introduced in an electoral race where the contending parties are evenly matched (such as a casting vote), and similar situations in other fields.
+
+
+== Chess ==
+
+
+== See also ==
+Overtime (sport)
+Tie (draw)

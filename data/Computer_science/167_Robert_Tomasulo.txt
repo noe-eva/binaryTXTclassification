@@ -1,0 +1,11 @@
+Robert Marco Tomasulo (October 31, 1934 – April 3, 2008) was a computer scientist, and the inventor of the Tomasulo Algorithm. Tomasulo was the recipient of the 1997 Eckert–Mauchly Award "[f]or the ingenious Tomasulo's Algorithm, which enabled out-of-order execution processors to be implemented."
+Robert Tomasulo attended Regis High School in New York City. He graduated from Manhattan College and then earned an engineering degree from Syracuse University. In 1956 he joined IBM research. After nearly a decade gaining broad experience in a variety of technical and leadership roles, he transitioned to mainframe development, including the IBM System/360 Model 91 and its successors. Following his 25-year career with IBM, Bob worked on an incubator project at Storage Technology Corporation to develop the first CMOS-based mainframe system; co-founded NetFrame, a mid-80s startup to develop one of the earliest microprocessor-based server systems; and worked as a consultant on processor architecture and microarchitecture for Amdahl Consulting.
+On January 30, 2008, Tomasulo spoke at the University of Michigan College of Engineering about his career and the history and development of out-of-order execution.
+
+
+== Notes ==
+
+
+== External links ==
+Lecture, 2008
+Description, computer.org

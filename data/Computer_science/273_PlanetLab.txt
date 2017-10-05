@@ -1,0 +1,11 @@
+PlanetLab is a group of computers available as a testbed for computer networking and distributed systems research. It was established in 2002 by Prof. Larry L. Peterson and Prof. David Culler, and as of June 2010, it was composed of 1090 nodes at 507 sites worldwide. Each research project has a "slice", or virtual machine access to a subset of the nodes.
+Accounts are limited to persons affiliated with corporations and universities that host PlanetLab nodes. However, a number of free, public services have been deployed on PlanetLab, including CoDeeN, the Coral Content Distribution Network, and Open DHT. Open DHT was taken down on 1 July 2009.
+
+
+== References ==
+
+
+== External links ==
+PlanetLab
+PlanetLab Europe (PLE)
+Documentation

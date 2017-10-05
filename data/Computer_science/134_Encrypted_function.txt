@@ -1,0 +1,14 @@
+An encrypted function is an attempt to provide mobile code privacy without providing any tamper-resistant hardware. It is a method where in mobile code can carry out cryptographic primitives even though the code
+is executed in untrusted environments.
+should run autonomously.
+Polynomial and rational functions are encrypted such that their transformation can again be implemented as programs consisting of cleartext instructions that a processor or interpreter understands. The processor would not understand the program's function. This field of study is gaining popularity as mobile cryptography.
+
+
+== Example ==
+Scenario: Host A, has an algorithm which computes function f. A wants to send its mobile agent to B which holds input x, to compute f(x). But A doesn't want B to learn anything about f.
+Scheme: Function f is encrypted in a way that results in E(f). Host A then creates another program P(E(f)), which implements E(f), and sends it to B through its agent. B then runs the agent, which computes P(E(f))(x) and returns the result to A. A then decrypts this to get f(x).
+Drawbacks: Finding appropriate encryption schemes that can transform arbitrary functions is a challenge. The scheme doesn't prevent denial of service, replay, experimental extraction and others.
+
+
+== References ==
+Thomas Sander and Christian F. Tschudin. Protecting Mobile Agents Against Malicious Hosts. In G. Vigna, editor, Mobile agents and security, volume 1419 of Lecture Notes in Computer Science, pages 44–60. Springer-Verlag, New York, NY, 1998. [1]

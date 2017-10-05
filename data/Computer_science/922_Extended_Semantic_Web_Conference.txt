@@ -1,0 +1,13 @@
+The Extended Semantic Web Conference (abbreviated as ESWC), formerly known as the European Semantic Web Conference, is a yearly international academic conference on the topic of the Semantic Web. The event began in 2004 as the European Semantic Web Symposium. The goal of the event is "to bring together researchers and practitioners dealing with different aspects of semantics on the Web".
+Topics covered at the conference include linked data, machine learning, natural language processing and information retrieval, ontologies, reasoning, semantic data management, services, processes, and cloud computing, social Web and Web science, in-use and industrial, digital libraries and cultural heritage, and e-government.
+
+
+== List of conferences ==
+Past and future ESWC conferences include:
+
+
+== References ==
+
+
+== External links ==
+ESWC website

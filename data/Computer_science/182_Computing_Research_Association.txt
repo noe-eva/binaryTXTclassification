@@ -1,0 +1,41 @@
+The Computing Research Association (CRA) is a 501(c)3 non-profit association of North American academic departments of computer science, computer engineering, and related fields; laboratories and centers in industry, government, and academia engaging in basic computing research; and affiliated professional societies. CRA was formed in 1972 and is based in Washington, D.C., United States.
+
+
+== Mission and Activities ==
+CRA's mission is to enhance innovation by joining with industry, government and academia to strengthen research and advanced education in computing. CRA executes this mission by leading the computing research community, informing policymakers and the public, and facilitating the development of strong, diverse talent in the field.
+
+
+=== Policy ===
+CRA assists policymakers who seek to understand the issues confronting the federal Networking and Information Technology Research and Development (NITRD) program, a thirteen-agency, $4-billion-a-year federal effort to support computing research. CRA works to educate Members of Congress and provide policy makers with expert testimony in areas associated with computer science research. CRA and their Computing Community Consortium (CCC) sponsored the Leadership in Science Policy Institute, a one and half day workshop that took place in Washington, D.C.. CRA also maintains a Government Affairs website and a Computing Research Policy Blog.
+
+
+=== Professional Development ===
+CRA works to support computing researchers throughout their careers to help ensure that the need for a continuous supply of talented and well-educated computing researchers and advanced practitioners is met. CRA assists with leadership development within the computing research community, promotes needed changes in advanced education, and encourages participation by members of underrepresented groups. CRA offers Academic Careers Workshops, supports the CRA-W: CRA's Committee on the Status of Women in Computing Research, and runs the DREU: Distributed Research Experiences for Undergraduates Project.
+
+
+=== Leadership ===
+CRA supports leadership development in the research community to support researchers in broadening the scope of computing research and increasing its impact on society and works to promote cooperation among various elements of the computing research community. CRA supports the CRA Conference at Snowbird, a biennial conference where leadership in computing research departments gather to network and address common issues in the field. CRA also supports the Computing Leadership Summit.
+
+
+=== Information Collection and Dissemination ===
+CRA collects and disseminates information to the research and policy-making communities information about the importance and state of computing research and related policy. CRA works to develop relevant information and make the information available to the public, policy makers, and computing research community.
+CRA publishes the Taulbee Survey, a key source of information on the enrollment, production, and employment of Ph.D.s in computer science and computer engineering (CS & CE) and in providing salary and demographic data for faculty in CS & CE in North America. Statistics given include gender and ethnicity breakdowns. CRA also provides the Forsythe List, Computing Research News published ten times annually for computing researchers, and the CRA Bulletin to share news, information about CRA initiatives, and items of interest to the general community.
+
+
+== See also ==
+
+Association for Computing Machinery
+CRA was the main organiser of the first Federated Computing Research Conference in 1993.
+CRA-W
+Informatics Europe is a similar organization to the CRA for Europe.
+
+
+== References ==
+
+
+== External links ==
+Official website
+CRA Members
+CRA Board of Directors
+CRA History
+CRA Events

@@ -1,0 +1,11 @@
+The Greedy Perimeter Stateless Routing in Wireless Networks is a routing protocol for mobile ad-hoc networks. It was developed by B. Karp. It uses a greedy algorithm to do the routing and orbits around a perimeter.
+
+
+== Coordinates instead of receiver names ==
+GPSR is a geo routing method, which means that data packages are not sent to a special receiver but to coordinates. The packages should be relayed to the node that's geographically closest to the coordinates. This assumes that every node knows its own position.
+
+
+== Literature ==
+B.Karp: Challenges in Geographic Routing: Sparse Networks, Obstacles, and Traffic Provisioning. In DIMACS Workshop on Pervasive Networking, Piscataway, NJ, May 2001
+B.Karp: Geographic Routing for Wireless Networks. Ph.D. Dissertation, Harvard University, Cambridge, MA, October 2000
+B.Karp, H.T.Kung: Greedy Perimeter Stateless Routing for Wireless Networks. In Proceedings of the Sixth Annual ACM/IEEE International Conference on Mobile Computing and Networking (MobiCom 2000), Boston, MA, August 2000, pp. 243-254

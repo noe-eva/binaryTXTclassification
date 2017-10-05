@@ -1,0 +1,9 @@
+Simpath is an algorithm introduced by Donald Knuth that constructs a zero-suppressed decision diagram (ZDD) representing all simple paths between two vertices in a given graph.
+
+
+== References ==
+
+
+== External links ==
+Graphillion library which implements the algorithm for manipulating large sets of paths and other structures.
+[1], A CWEB implementation by Donald Knuth.

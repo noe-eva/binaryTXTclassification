@@ -1,0 +1,19 @@
+Program comprehension ("program understanding," "source code comprehension") is a domain of computer science concerned with the ways software engineers maintain existing source code. The cognitive and other processes involved are identified and studied. The results are used to develop tools and training.
+Software maintenance tasks have five categories: adaptive maintenance, corrective maintenance, perfective maintenance, code reuse, and code leverage.
+
+
+== Theories of program comprehension ==
+Titles of works on program comprehension include
+Using a behavioral theory of program comprehension in software engineering
+The concept assignment problem in program understanding, and
+Program Comprehension During Software Maintenance and Evolution.
+Computer scientists pioneering program comprehension include Ruven Brooks, Ted J. Biggerstaff, and Anneliese von Mayrhauser.
+
+
+== Organizations ==
+The International Conference on Program Comprehension [1] is dedicated to research on program comprehension.
+
+
+== See also ==
+Program analysis (computer science)
+Program slicing

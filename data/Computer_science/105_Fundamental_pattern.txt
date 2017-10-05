@@ -1,0 +1,12 @@
+Fundamental patterns are one of the types of design patterns. They are termed fundamental as they form the basic building blocks of the other patterns. Most of the other patterns and most modern applications draw on these patterns in one way or another.
+Examples of this class of patterns include:
+Delegation pattern: an object outwardly expresses certain behaviour but in reality delegates responsibility
+Functional design: strives for each modular part of a computer program has only one responsibility and performs that with minimum side effects
+Interface pattern: method for structuring programs so that they're simpler to understand
+Proxy pattern: an object functions as an interface to another, typically more complex, object
+Facade pattern: provides a simplified interface to a larger body of code, such as a class library.
+Composite pattern: defines Composite object (e.g. a shape) designed as a composition of one-or-more similar objects (other kinds of shapes/geometries), all exhibiting similar functionality. The Composite object then exposes properties and methods for child objects manipulation as if it were a simple object.
+
+
+== See also ==
+Design pattern (computer science)

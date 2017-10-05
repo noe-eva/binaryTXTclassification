@@ -1,0 +1,4 @@
+The amidicity scale is a computational method for calculating the strength of an amide bond in an organic compound on a linear scale. It is analogous to aromaticity. It is based on the computed enthalpy of hydrogenation when compared to the reference compounds dimethylacetamide and azaadamantane-2-one. If an amidicity value is close to 100%, then the compound has very good amidic character (and is perfect at 100%); if the value is close to, or below, 0%, then the compound has a lack of amidic character. The scale is not restricted to these values; compounds with weaker amide bonds than azaadamantane-2-one will have amidicities below 0%, whilst compounds with stronger amide bonds than dimethylacetamide will have amidicities of above 100%. If the amidicity value is altered during an acylation, then this will act as a key thermodynamic component of the reaction.
+
+
+== References ==

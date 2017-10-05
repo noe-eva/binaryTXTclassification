@@ -1,0 +1,30 @@
+Gamercize is an example of an exergaming accessory, connecting exercise machines such as stationary cycles and steppers to video games consoles. These consoles are supported by the following variations
+GZ Sport - Xbox, GameCube, PlayStation, PlayStation 2
+GZ Pro-Sport - Xbox 360, Wii, PlayStation 3
+GZ PC-Sport - PC, Mac.
+The exercise machines packaged with the above interfaces are
+GZ Endurance Cycle - A portable mini exercise cycle used while seated.
+GZ Power Stepper - A portable mini step machine used standing or seated for PC desk exercise.
+GZ Family Fit - A folding recumbent cycle and rower combination machine.
+Gamercize, protected by international patent applications in 2004, was first shown to the public at Leisure Industry Week in 2006.
+
+
+== Description ==
+Exercise motion is detected in the same way calorie counter and exercise computers count repetitions on individual exercise machines. When exercise motion ceases, for the period of time dependent on the difficulty setting, the game controller input is stopped. Any game can be used as this approach does not interact directly with the game control.
+Exercise machines are only suitable when balance can be maintained and hands are free to operate game controllers. For this reason treadmills and rowing machines are not suitable and could be dangerous.
+
+
+== Approach ==
+The Gamercize approach is to use minimalist interaction between the exercise performed by the user and the game played. This enables compatibility with existing games without making the gameplay harder or less enjoyable.
+
+
+== Purpose ==
+Exergaming is intended to provide entertainment through playing video games whilst exercising on fitness equipment.
+
+
+== References ==
+
+
+== External links ==
+gamercize.net
+The Stinger Report on LIW'06

@@ -1,0 +1,17 @@
+In programming languages, type erasure refers to the compile-time process by which explicit type annotation are removed from a program, before it is executed at run-time. Operational semantics that do not require programs to be accompanied by types are called type-erasure semantics, to be contrasted with type-passing semantics. The possibility of giving type-erasure semantics is a kind of abstraction principle, ensuring that the run-time execution of a program does not depend on type information. In the context of generic programming, the opposite of type erasure is called reification.
+
+
+== Type inference ==
+
+The reverse operation is called type inference. Though type erasure can be used as an easy way to define typing over implicitly typed languages (an implicitly typed term is well-typed if and only if it is the erasure of a well-typed explicitly typed lambda term), it does not always lead to an algorithm to check implicitly typed terms.
+
+
+== See also ==
+Template (C++)
+Problems with type erasure (in Generics in Java)
+Type polymorphism
+
+
+== References ==
+
+Crary, Karl; Weirich, Stephanie; Morrisett, Greg (2002). "Intensional Polymorphism in Type-Erasure Semantics". Journal of Functional Programming. 12 (6): 567–600. doi:10.1017/S0956796801004282.

@@ -1,0 +1,4 @@
+Row Data Gateway is a design pattern in which an object acts as a gateway to a single database row.
+
+
+== References ==

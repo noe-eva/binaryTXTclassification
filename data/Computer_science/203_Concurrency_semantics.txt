@@ -1,0 +1,1 @@
+In computer science, concurrency semantics is a way to give meaning to concurrent systems in a mathematically rigorous way. Concurrency semantics is often based on mathematical theories of concurrency such as various process calculi, the actor model, or Petri nets.

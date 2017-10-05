@@ -1,0 +1,15 @@
+Design By Numbers (or DBN) was an influential experiment in teaching programming initiated at the MIT Media Lab during the 1990s. Led by John Maeda and his students they created software aimed at allowing designers, artists and other non-programmers to easily start computer programming. The software itself could be run in a browser and published alongside the software was a book and courseware.
+Design By Numbers is no longer an active project but has gone on to influence many other projects aimed at making computer programming more accessible to non-technical people. Its most public result is Processing, created by Maeda's students Casey Reas and Ben Fry, who built on the work of DBN and has gone on to international success.
+
+
+== Further reading ==
+Maeda, John (October 1, 2001). Design By Numbers. MIT Press. p. 256. ISBN 0-262-63244-6. 
+
+
+== See also ==
+Processing
+Smile software
+
+
+== External links ==
+Official website

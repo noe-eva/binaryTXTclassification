@@ -1,0 +1,16 @@
+In the field of software application development, service-oriented development of applications (or SODA) is a way of producing service-oriented architecture applications. Use of the term SODA was first used by the Gartner research firm.
+SODA represents one possible activity for company to engage in when making the transition to service-oriented architecture (SOA). However, it has been argued that an overreliance on SODA can reduce overall system flexibility, reuse, and business agility. This danger is greater for sites that use an application server, which could diminish flexibility in redeployment and composition of services.
+
+
+== See also ==
+Enterprise service bus
+Service-oriented modeling
+
+
+== References ==
+
+
+== External links ==
+Gartner articles on the ROI aspects of SODA (Registration and fee required.)
+Pillars of Service-Oriented development
+What's the Big Deal About SOA

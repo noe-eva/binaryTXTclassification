@@ -1,0 +1,9 @@
+In computer programming, a miswart is an inelegant behaviour of a program that turns out to be the best of several possible solutions.
+This word was listed in The New Hacker's Dictionary (Eric Raymond) but has not achieved any general usage. It is rare.
+
+
+== See also ==
+Misbug
+
+
+== References ==

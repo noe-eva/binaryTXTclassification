@@ -1,0 +1,20 @@
+In mathematics and computer science, computational number theory, also known as algorithmic number theory, is the study of algorithms for performing number theoretic computations.
+
+
+== See also ==
+Computational complexity of mathematical operations
+SageMath
+Number Theory Library
+PARI/GP
+Fast Library for Number Theory
+
+
+== Further reading ==
+Eric Bach and Jeffrey Shallit, Algorithmic Number Theory, volume 1: Efficient Algorithms. MIT Press, 1996, ISBN 0-262-02405-5
+D. M. Bressoud (1989). Factorisation and Primality Testing. Springer-Verlag. ISBN 0-387-97040-1. 
+Buhler, J.P.; P., Stevenhagen, eds. (2008). Algorithmic Number Theory: Lattices, Number Fields, Curves and Cryptography. MSRI Publications. 44. Cambridge University Press. ISBN 978-0-521-20833-8. Zbl 1154.11002. 
+Henri Cohen, A Course in Computational Algebraic Number Theory, Graduate Texts in Mathematics 138, Springer-Verlag, 1993.
+Richard Crandall and Carl Pomerance, Prime Numbers: A Computational Perspective, Springer-Verlag, 2001, ISBN 0-387-94777-9
+Riesel, Hans (1994). Prime Numbers and Computer Methods for Factorization. Progress in Mathematics. 126 (second ed.). Boston, MA: Birkhäuser. ISBN 0-8176-3743-5. Zbl 0821.11001. 
+Victor Shoup, A Computational Introduction to Number Theory and Algebra. Cambridge, 2005, ISBN 0-521-85154-8
+Samuel S. Wagstaff, Jr. (2013). The Joy of Factoring. Providence, RI: American Mathematical Society. ISBN 978-1-4704-1048-3.

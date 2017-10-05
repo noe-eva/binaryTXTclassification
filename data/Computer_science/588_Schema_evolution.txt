@@ -1,0 +1,14 @@
+In computer science, schema evolution refers to the problem of evolving a database schema to adapt it to a change in the modeled reality. The problem is not limited to the modification of the schema. It, in fact, affects the data stored under the given schema and the queries (and thus the applications) posed on that schema.
+Until recently the design of a database was expected to create a "one size fits all" schema capable of accepting every future change in the requirements, thus, schema evolution was not considered. This assumption, almost unrealistic in the context of traditional information systems, becomes unacceptable in the context of Web Information Systems, that due to the distributed and cooperative nature of their development and fruition are subject of an even stronger pressure toward change (from 39% to over 500% more intense than in traditional settings). Due to this historical heritage the process of schema evolution is nowadays a particularly taxing one. It is, in fact, widely acknowledged that the data management core of an applications is one of the most difficult and critical components to evolve. The key problem is the impact of the schema evolution on queries and applications. As shown in  (which provides an analysis of the MediaWiki evolution) each evolution step might affect up to 70% of the queries operating on the schema, that must be manually reworked consequently.
+The problem has been recognized as a very pressing one by the database community for more than 12 years. The support for Schema Evolution, is a difficult problem involving complex mapping among schema versions, the tool support has been so far very limited. The recent theoretical advances on mapping composition and mapping invertibility, which represent the core problems underlying the schema evolution remains almost inaccessible to the large public.
+
+
+== Related works ==
+A rich bibliography on Schema Evolution is collected at: http://se-pubs.dbs.uni-leipzig.de/pubs/results/taxonomy%3A100
+UCLA university carried out an analysis of the MediaWiki Schema Evolution: Schema Evolution Benchmark
+PRISM, a tool to support graceful relational schema evolution: Prism: schema evolution tool
+PRIMA, a tool supporting transaction time databases under schema evolution PRIMA: supporting transaction-time DB under schema evolution
+Pario is a software development tool that includes fully automated schema evolution
+
+
+== References ==

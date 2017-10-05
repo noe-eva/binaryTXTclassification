@@ -1,0 +1,8 @@
+In computer science, the sign bit is a bit in a signed number representation that indicates the sign of a number. Although only signed numeric data types have a sign bit, it is invariably located in the most significant bit position, so the term may be used interchangeably with "most significant bit" in some contexts.
+Almost always, if the sign bit is 0, the number is non-negative (positive or zero). If the sign bit is 1 then the number is negative, although formats other than two's complement integers allow a signed zero: distinct "positive zero" and "negative zero" representations, the latter of which does not correspond to the mathematical concept of a negative number.
+In the two's complement representation, the sign bit has the weight −2w−1 where w is the number of bits. In the ones' complement representation, the most negative value is 1 − 2w−1, but there are two representations of zero, one for each value of the sign bit. In a sign-and-magnitude representation of numbers, the value of the sign bit determines whether the numerical value is positive or negative.
+Floating point numbers, such as IEEE format, IBM format, VAX format, and even the format used by the Zuse Z1 and Z3 use a sign-and-magnitude representation.
+When using a complement representation, to convert a signed number to a wider format the additional bits must be filled with copies of the sign bit in order to preserve its numerical value, a process called sign extension or sign propagation.
+
+
+== References ==

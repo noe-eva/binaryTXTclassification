@@ -1,0 +1,44 @@
+The Alan Turing Centenary Conference was an academic conference celebrating the life and research of Alan Turing by bringing together distinguished scientists to understand and analyse the history and development of Computer Science and Artificial intelligence.
+The conference was organised by Andrei Voronkov and hosted by the School of Computer Science, University of Manchester where Turing worked from 1948 until 1954. It ran from June 22 to June 25, 2012 as part of Alan Turing Year in Manchester Town Hall.
+
+
+== Keynote Speakers ==
+Several of the keynote speakers for the conference were distinguished Turing Award winners including:
+Rodney Brooks, Massachusetts Institute of Technology
+Fred Brooks, University of North Carolina Turing Award winner
+Vint Cerf, Google, Turing Award winner
+Edmund M. Clarke, Carnegie Mellon University, Turing Award winner
+Jack Copeland, University of Canterbury
+George Ellis, University of Cape Town, Templeton Prize winner
+David Ferrucci, IBM TJ Watson Research Center Principal Investigator of the Watson/Jeopardy! project
+Tony Hoare, Microsoft Research, Turing Award winner
+Garry Kasparov, Kasparov Chess Foundation
+Samuel Klein, Trustee of the Wikimedia Foundation and a Director of the One Laptop per Child Foundation.
+Donald Knuth, Stanford University, Turing Award winner
+Yuri Matiyasevich, Institute of Mathematics, St. Petersburgh
+Hans Meinhardt, Max Planck Institute for Developmental Biology
+Roger Penrose, University of Oxford, Wolf Prize winner
+Michael O. Rabin, Harvard University, Turing Award winner
+Adi Shamir, Weizmann Institute of Science, Turing Award winner
+Leslie Valiant, Harvard University, Turing Award winner
+Manuela M. Veloso, Carnegie Mellon University
+Andrew Yao, Tsinghua University, Turing Award winner
+
+
+== Panelists ==
+There were a wide range of panels during the conference chaired by:
+Samson Abramsky, University of Oxford
+Ronald J. Brachman, Yahoo! Labs
+Martin Davis, New York University
+Steve Furber, University of Manchester
+Carole Goble, University of Manchester
+Pat Hayes, Florida Institute for Human and Machine Cognition
+Bertrand Meyer, ETH Zurich
+Moshe Y. Vardi, Rice University
+
+
+== Sponsors ==
+The conference was sponsored by the Kurt Gödel Society, the John Templeton Foundation, the Artificial Intelligence (journal), Google, the Office of Naval Research, Microsoft and IOS Press.
+
+
+== References ==

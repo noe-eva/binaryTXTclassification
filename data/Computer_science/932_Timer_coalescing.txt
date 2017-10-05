@@ -1,0 +1,10 @@
+Timer coalescing is a computer system energy-saving technique that reduces central processing unit (CPU) power consumption by reducing the precision of software timers to allow the synchronization of process wake-ups, minimizing the number of times the CPU is forced to perform the relatively power-costly operation of entering and exiting idle states.
+The Linux kernel gained support for deferrable timers in 2.6.22, and controllable "timer slack" for threads in 2.6.28 allowing timer coalescing.
+Timer coalescing has been a feature of Microsoft Windows from Windows 7 onward.
+Apple's XNU kernel based OS X gained support as of OS X Mavericks.
+
+
+== See also ==
+
+
+== References ==

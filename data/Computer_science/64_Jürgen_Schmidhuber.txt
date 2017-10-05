@@ -1,0 +1,14 @@
+Jürgen Schmidhuber (born 17 January 1963) is a computer scientist who works in the field of artificial intelligence. He is a co-director of the Dalle Molle Institute for Artificial Intelligence Research in Manno, in the district of Lugano, in Ticino in southern Switzerland.
+Schmidhuber did his undergraduate studies at the Technische Universität München in Munich, Germany. He taught there from 2004 until 2009 when he became a professor of artificial intelligence at the Università della Svizzera Italiana in Lugano, Switzerland.
+
+
+== Work ==
+In 1997, Schmidhuber and Sepp Hochreiter published a paper on a type of recurrent neural network which they called Long short-term memory. In 2015, this was used in a new implementation of speech recognition in Google's software for smartphones.
+In 2014, Schmidhuber formed a company, Nnaisense, to work on commercial applications of artificial intelligence in fields such as finance, heavy industry and self-driving cars. Sepp Hochreiter, Jaan Tallinn, and Marcus Hutter are advisers to the company.
+
+
+== Recognition ==
+Schmidhuber received the Helmholtz Award of the International Neural Network Society in 2013, and the Neural Networks Pioneer Award of the IEEE Computational Intelligence Society in 2016. He is a member of the European Academy of Sciences and Arts.
+
+
+== References ==

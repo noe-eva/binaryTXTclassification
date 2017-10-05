@@ -1,0 +1,25 @@
+Proteins@home ("Proteins at home") was one of many distributed computing projects that used the BOINC architecture. The project was run by the Department of Biology at École Polytechnique. The project began on December 28, 2006 and ended in June 2008.
+
+
+== Purpose ==
+Proteins@Home was a large-scale non-profit protein structure prediction project utilizing distributed computing to perform a lot of computations in a small amount of time. From their website:
+The amino acid sequence of a protein determines its three-dimensional structure, or 'fold'. Conversely, the three-dimensional structure is compatible with a large, but limited set of amino acid sequences. Enumerating the allowed sequences for a given fold is known as the 'inverse protein folding problem'. We are working to solve this problem for a large number of known protein folds (a representative subset: about 1500 folds). The most expensive step is to build a database of energy functions that describe all these structures. For each structure, we consider all possible sequences of amino acids. Surprisingly, this is computationally tractable, because our energy functions are sums over pairs of interactions. Once this is done, we can explore the space of amino acid sequences in a fast and efficient way, and retain the most favorable sequences. This large-scale mapping of protein sequence space will have applications for predicting protein structure and function, for understanding protein evolution, and for designing new proteins. By joining the project, you will help to build the database of energy functions and advance an important area of science with potential biomedical applications.
+
+
+== Statistics ==
+On March 25, 2007, Proteins@Home had 6040 of 9548 users actively participating with a total of 10405 of 15381 computers contributing. There were approximately 479 active teams spread across 100 countries.
+
+
+== See also ==
+A number of other distributed computing projects are also contributing to the protein folding idea. Some of these projects are:
+Folding@home
+Predictor@home
+Rosetta@home
+SIMAP
+TANPAKU
+Human Proteome Folding Project
+POEM@Home
+
+
+== External links ==
+Proteins@home

@@ -1,0 +1,41 @@
+This is a record of historically important programming languages, by decade.
+
+
+== Pre-1950 ==
+
+
+== 1950s ==
+
+
+== 1960s ==
+
+
+== 1970s ==
+
+
+== 1980s ==
+
+
+== 1990s ==
+
+
+== 2000s ==
+
+
+== 2010s ==
+
+
+== See also ==
+Programming language
+Timeline of computing
+History of computing hardware
+History of programming languages
+
+
+== References ==
+
+
+== External links ==
+Online encyclopedia for the history of programming languages
+Diagram & history of programming languages
+Eric Levenez's timeline diagram of computer languages history

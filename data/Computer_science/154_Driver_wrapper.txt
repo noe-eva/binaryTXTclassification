@@ -1,0 +1,13 @@
+A driver wrapper is software that functions as an adapter between an operating system and a driver, such as a device driver, that was not designed for that operating system. It can enable the use of devices for which no drivers for the particular operating system are available. In particular, as of 2010 Microsoft Windows is the dominant family of operating systems for IBM PC compatible computers, and many devices are supplied with drivers for Windows but not other operating systems.
+
+
+== Windows driver wrappers for Linux ==
+Several open source software projects allow using Microsoft Windows drivers under another operating system, such as Linux.
+Examples include network drivers for wireless cards (such as NDISwrapper for Linux or Project Evil for FreeBSD) and the NTFS file system (see Captive NTFS).
+The common thread among these examples is the use of wrapper technology, which allows execution of the drivers in a foreign environment. Limitations for driver wrappers include the lack of an ability to function at real time. An example of this limitation includes latency problems as those associated with attempts to make compatible with Linux the ZoomR16 audio DAW sound recorder and control surface.
+
+
+== See also ==
+
+
+== References ==

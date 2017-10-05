@@ -1,0 +1,64 @@
+ACM Multimedia (ACM-MM) is the Association for Computing Machinery (ACM)'s annual conference on multimedia, sponsored by the SIGMM special interest group on multimedia in the ACM. SIGMM specializes in the field of multimedia computing, from underlying technologies to applications, theory to practice, and servers to networks to devices.
+In 2003, the conference was given an "Estimated impact factor" of 1.22 by CiteSeer, placing it in the top 15% of computer science publication venues. In 2006 the Computing Research and Education Association of Australasia awarded it an 'A+' ranking for conferences attended by Australian academics and in 2012 it received an 'A1' rating from the Brazilian ministry of education.
+
+
+== Past Conferences ==
+
+
+== ACM Multimedia workshops ==
+The first international workshop on Continuous Archival and Retrieval of Personal Experience (CARPE 2004) covered "capture, retrieval, organization, search, privacy, and legal issues" surrounding "continuous archival and retrieval of all media relating to personal experiences"; speakers included Steve Mann and Gordon Bell.
+
+
+== Open Source Competition ==
+Starting in 2004, ACM Multimedia hosts an Open Source competition, providing an award for the best Open Source computer program(s).
+2015:
+Winner: Chris Sweeney, Tobias Hollerer, Matthew Turk, "Theia: A Fast and Scalable Structure-from-Motion Library"
+
+2014:
+Winner: Yangqing Jia, Evan Shelhamer, Jeff Donahue, Sergey Karayev, Jonathan Long, Ross Girshick, Sergio Guadarrama, Trevor Darrell, "Caffe: Convolutional Architecture for Fast Feature Embedding"
+
+2013:
+Winner: Dmitry Bogdanov, Nicolas Wack, Emilia Gómez, Sankalp Gulati, Perfecto Herrera, Oscar Mayor, Gerard Roma, Justin Salamon, Jose Zapata Xavier Serra (UPF), “ESSENTIA: an Audio Analysis Library for Music Information Retrieval”
+
+2012:
+Winner: Petr Holub, Jiri Matela, Martin Pulec, Martin Srom, “UltraGrid: Low-latency high-quality video transmissions on commodity hardware”
+
+2011:
+Winner: J. Hare, S. Samangooei, D. Dupplaw, “OpenIMAJ and ImageTerrier: Java Libraries and Tools for Scalable Multimedia Analysis and Indexing of Images”
+Honorable Mention:“ClassX – An Open Source Interactive Lecture Streaming System” “Opencast Matterhorn 1.1: Reaching New Heights” Presented by Profs. Pablo Cesar and Wei Tsang Ooi
+
+2010:
+Andrea Vedaldi, Brian Fulkerson, VLFeat – An open and portable library of computer vision algorithms – VLFeat
+Rob Hess, An Open-Source SIFT Library – Open-Source SIFT
+Florian Eyben, Martin Woellmer, Bjoern Schuller, openSMILE – The Munich Versatile and Fast Open-Source Audio Feature Extractor – openSMILE
+
+2009: Caliph & Emir, MPEG-7 photo annotation and retrieval
+2008: Network-Integrated Multimedia Middleware (NMM).
+2007: Programming Web Multimedia Applications with Hop.
+2006: CLAM (C++ Library for Audio and Music) (CLAM), an open source framework for audio and music research and application development.
+2005: OpenVIDIA, a GPU accelerated Computer Vision Library.
+2004: Two winnersChucK, an audio programming language for real-time synthesis, composition, performance, and analysis.
+Flavor, A Formal Language for Audio-Visual Object Representation
+
+
+== Other conferences on the same topic ==
+ACM International Conference on Multimedia Retrieval (ICMR)
+ACM International Conference on Multimedia Modeling (MMM)
+ACM Multimedia Systems Conference (MMSYS)
+IEEE International Conference Multimedia Expo (ICME)
+IEEE International Symposium on Multimedia (ISM)
+IEEE International Packet Video Workshop (PV)
+
+
+== Other conferences on related topics ==
+ACM SIGGRAPH
+NIME
+International Computer Music Conference (ICMC)
+
+
+== References ==
+
+
+== External links ==
+SIGMM
+ACM Multimedia bibliographic information on Digital Bibliography & Library Project

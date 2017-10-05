@@ -1,0 +1,30 @@
+Object detection is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos. Well-researched domains of object detection include face detection and pedestrian detection. Object detection has applications in many areas of computer vision, including image retrieval and video surveillance.
+
+
+== Uses ==
+It is used in face detection and face recognition. It is also used in tracking objects, for example tracking a ball during a football match, tracking movement of a cricket bat, tracking a person in a video.
+
+
+== Concept ==
+Every object class has its own special features that helps in classifying the class – for example all circles are round. Object class detection uses these special features. For example, when looking for circles, objects that are at a particular distance from a point (i.e. the center) are sought. Similarly, when looking for squares, objects that are perpendicular at corners and have equal side lengths are needed. A similar approach is used for face identification where eyes, nose, and lips can be found and features like skin color and distance between eyes can be found.
+
+
+== Techniques and algorithms ==
+The advantage we are having is, an image is made of pixels. So in most cases we know the location of next point, it will be connected to our current pixel. Starting with circles, take an image, convert it to gray scale, and detect edges. Move along edges, draw normal, they will intersect at center. Do this for entire circle or find connected edges and calculate Euclidean distance between center and connected points. Another algorithm is move along connected edges rotation of tangent will be uniform, because of symmetry. So whenever there is an abrupt change in rotation, you are out of circle.
+For squares, move along edges. First of all check if they are straight lines or not (check if pixels are having either same x or y co-ordinates). After that look for a 90 degree change in angle(if you were moving along a horizontal line then at corner y co-ordinate will stop changing and x will start changing).
+
+
+== References ==
+"Object Class Detection". Vision.eecs.ucf.edu. Retrieved 2013-10-09. 
+"ETHZ - Computer Vision Lab: Publications". Vision.ee.ethz.ch. Retrieved 2013-10-09. 
+
+
+== See also ==
+Teknomo-Fernandez Algorithm
+
+
+== External links ==
+Multiple object class detection
+
+
+== References ==

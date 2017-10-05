@@ -1,0 +1,22 @@
+A wetware computer is an organic computer (also known as an artificial organic brain or a neurocomputer) built from living neurons. Professor Bill Ditto, at the Georgia Institute of Technology, is the primary researcher driving the creation of these artificially constructed, but still organic brains. One prototype is constructed from leech neurons, and is capable of performing simple arithmetic operations. The concepts are still being researched and prototyped, but in the near future, it is expected that artificially constructed organic brains, even though they are still considerably simpler in design than animal brains, should be capable of simple pattern recognition tasks such as handwriting recognition.
+
+
+== See also ==
+Artificial neural network
+Chemical computer
+Neuron
+Quantum computer
+Unconventional computing
+Wetware (brain)
+
+
+== References ==
+Borresen, Jon; Lynch, Stephen (1 December 2009). "Neuronal computers". Nonlinear Analysis: Theory, Methods & Applications. 71 (12): 2372–2376. doi:10.1016/j.na.2009.05.060. 
+Pellionisz, Andreas; Rosenfeld, Edward (1990). Anderson, James A., ed. Neurocomputing 2: Directions for research. Cambridge, Mass: MIT Press. ISBN 9780262011198. 
+
+
+== External links ==
+Biological computer born
+Neurocomputers - computers are far from comparable to human brain (Discover Magazine, October 2000)
+New material discovered for organic computers
+Wetware: A Computer in Every Living Cell

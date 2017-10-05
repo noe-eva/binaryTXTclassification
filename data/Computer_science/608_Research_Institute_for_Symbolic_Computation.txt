@@ -1,0 +1,6 @@
+The Research Institute for Symbolic Computation (RISC Linz) is a leading research institute in the area of symbolic computation, including automated theorem proving and computer algebra. It is located in Schloß Hagenberg in Hagenberg near Linz in Austria. RISC was founded in 1987 under Bruno Buchberger and moved to Hagenberg in 1989. The present chairman of RISC is Peter Paule.
+
+
+== External links ==
+RISC Linz
+Softwarepark Hagenberg

@@ -1,0 +1,21 @@
+In mathematics, computational group theory is the study of groups by means of computers. It is concerned with designing and analysing algorithms and data structures to compute information about groups. The subject has attracted interest because for many interesting groups (including most of the sporadic groups) it is impractical to perform calculations by hand.
+Important algorithms in computational group theory include:
+the Schreier–Sims algorithm for finding the order of a permutation group
+the Todd–Coxeter algorithm and Knuth–Bendix algorithm for coset enumeration
+the product-replacement algorithm for finding random elements of a group
+Two important computer algebra systems (CAS) used for group theory are GAP and Magma. Historically, other systems such as CAS (for character theory) and Cayley (a predecessor of Magma) were important.
+Some achievements of the field include:
+complete enumeration of all finite groups of order less than 2000
+computation of representations for all the sporadic groups
+
+
+== See also ==
+Black box group
+
+
+== References ==
+A survey of the subject by Ákos Seress from Ohio State University, expanded from an article that appeared in the Notices of the American Mathematical Society is available online. There is also a survey by Charles Sims from Rutgers University and an older survey by Joachim Neubüser from RWTH Aachen.
+There are three books covering various parts of the subject:
+Derek F. Holt, Bettina Eick, Eamonn A. O'Brien, "Handbook of computational group theory", Discrete Mathematics and its Applications (Boca Raton). Chapman & Hall/CRC, Boca Raton, FL, 2005. ISBN 1-58488-372-3
+Charles C. Sims, "Computation with Finitely-presented Groups", Encyclopedia of Mathematics and its Applications, vol 48, Cambridge University Press, Cambridge, 1994. ISBN 0-521-43213-8
+Ákos Seress, "Permutation group algorithms", Cambridge Tracts in Mathematics, vol. 152, Cambridge University Press, Cambridge, 2003. ISBN 0-521-66103-X.

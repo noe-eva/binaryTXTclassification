@@ -1,0 +1,34 @@
+In the SQL database query language, window functions allow access to data in the records right before and after the current record. A window function defines a frame or window of rows with a given length around the current row, and performs a calculation across the set of data in the window.
+
+      NAME |
+------------
+      Aaron| <-- Preceding (unbounded)
+     Andrew|
+     Amelia|
+      James|
+       Jill|
+     Johnny| <-- 1st preceding row
+    Michael| <-- Current row
+       Nick| <-- 1st following row
+    Ophelia|
+       Zach| <-- Following (unbounded)
+
+In the above table, the next query extracts for each row the values of a window with one preceding and one following row:
+
+The result query contains the following values:
+
+|     PREV |     NAME |     NEXT |
+|----------|----------|----------|
+|    (null)|     Aaron|    Andrew|
+|     Aaron|    Andrew|    Amelia|
+|    Andrew|    Amelia|     James|
+|    Amelia|     James|      Jill|
+|     James|      Jill|    Johnny|
+|      Jill|    Johnny|   Michael|
+|    Johnny|   Michael|      Nick|
+|   Michael|      Nick|   Ophelia|
+|      Nick|   Ophelia|      Zach|
+|   Ophelia|      Zach|    (null)|
+
+
+== References ==

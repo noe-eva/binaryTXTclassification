@@ -1,0 +1,9 @@
+MOSEK is a software package for the solution of linear, mixed-integer linear, quadratic, mixed-integer quadratic, quadratically constraint, conic and convex nonlinear mathematical optimization problems. The emphasis in MOSEK is on solving large scale sparse problems. Particularly the interior-point optimizer for linear, conic quadratic (a.k.a. Second-order cone programming) and semi-definite (aka. semidefinite programming) problems is very efficient. A special feature of the MOSEK interior-point optimizer is that it is based on the so-called homogeneous model which implies MOSEK can reliably detect a primal and/or dual infeasible status as documented in several published papers.
+In addition to the interior-point optimizer MOSEK includes:
+Primal and dual simplex optimizer for linear problems.
+A primal network simplex optimizer for problems with special network structure.
+Mixed-integer optimizer for linear, quadratic and conic quadratic problems.
+MOSEK provides interfaces to the C, C#, Java and Python languages. Most major modeling systems are made compatible for MOSEK, examples are: AMPL, and GAMS. MOSEK can also be used from popular tools such as matlab, R (an outdated version of package Rmosek is available from the CRAN server, the up-to-date version is provided by Mosek ApS), CVX, and YALMIP.
+
+
+== References ==

@@ -1,0 +1,14 @@
+Computer Aided Verification (CAV) is an annual academic conference on the theory and practice of computer aided formal analysis of software and hardware systems. It is one of the very best conferences in computer science. For example, several important model checking techniques were published in CAV, such as counterexample-guided abstraction refinement and partial order reduction methods.
+The first CAV was held in 1989 in Grenoble, France.
+
+
+== See also ==
+The list of computer science conferences contains other academic conferences in computer science.
+
+
+== References ==
+
+
+== External links ==
+Official web site for CAV
+DBLP bibliography for CAV

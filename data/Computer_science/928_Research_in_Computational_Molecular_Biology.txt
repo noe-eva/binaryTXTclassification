@@ -1,0 +1,15 @@
+Research in Computational Molecular Biology (RECOMB) is an annual academic conference on the subjects of bioinformatics and computational biology. The conference has been held every year since 1997 and is a major international conference in computational biology, alongside the ISMB and ECCB conferences. The conference is affiliated with the International Society for Computational Biology. Since the first conference, authors of accepted proceedings papers have been invited to submit a revised version to a special issue of the Journal of Computational Biology.
+RECOMB was established in 1997 by Sorin Istrail, Pavel Pevzner and Michael Waterman. The first conference was held at the Sandia National Laboratories in Santa Fe, New Mexico.
+A series of RECOMB Satellite meetings was established by Pavel Pevzner in 2001. These meetings cover specialist aspects of bioinformatics, including massively parallel sequencing, comparative genomics, regulatory genomics and bioinformatics education.
+As of RECOMB 2010, the conference has included a highlights track, modelled on the success of a similar track at the ISMB conference. The highlights track contains presentations for computational biology papers published in the previous 18 months.
+In 2014 RECOMB and PLOS Computational Biology coordinated to let authors submit papers in parallel to both conference and journal. Papers not selected for publication in PLOS Computational Biology were published in edited form in the Journal of Computational Biology as usual.
+
+
+== List of conferences ==
+
+
+== See also ==
+Intelligent Systems for Molecular Biology (ISMB)
+
+
+== References ==

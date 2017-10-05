@@ -1,0 +1,40 @@
+The Laboratory for Foundations of Computer Science (LFCS) is a research institute within the School of Informatics at the University of Edinburgh, in Scotland. It was founded in 1987 and is a community of theoretical computer scientists with interests in concurrency, semantics, categories, algebra, types, logic, algorithms, complexity, databases and modelling.
+
+
+== Full professors ==
+Stuart Anderson
+Peter Buneman MBE FRS FRSE
+Vincent Danos
+Wenfei Fan FACM FRSE
+Michael Fourman FBCS FRSE
+Stephen Gilmore
+Andrew Gordon
+Jane Hillston FRSE
+Aggelos Kiyias
+Gordon Plotkin FRS FRSE
+Don Sannella FRSE
+Perdita Stevens
+Colin Stirling
+Philip Wadler FACM FRSE
+
+
+== Selected Past Members ==
+Samson Abramsky
+Rod Burstall
+Luca Cardelli
+Matthew Hennessy
+Mark Jerrum
+Robin Milner FRS
+Eugenio Moggi
+Faron Moller
+Davide Sangiorgi
+Chris Tofts
+Mads Tofte
+
+
+== References ==
+
+
+== External links ==
+LFCS website
+People

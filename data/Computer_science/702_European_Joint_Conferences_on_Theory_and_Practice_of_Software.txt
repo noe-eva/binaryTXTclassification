@@ -1,0 +1,23 @@
+The European Joint Conferences on Theory and Practice of Software (ETAPS) is a confederation of six computer science conferences taking place annually at one conference site, usually end of March or early April. Three of the six conferences (FoSSaCS, FASE, TACAS) are top ranked in software engineering and two (ESOP, CC) are top ranked conferences on programming languages.
+
+
+== Constituting conferences ==
+ETAPS confederates the following six conferences:
+Conference on Principles of Security and Trust (POST, since 2012)
+European Symposium on Programming (ESOP, since 1998)
+Foundations of Software Science and Computation Structures (FoSSaCS, since 1998)
+Fundamental Approaches to Software Engineering (FASE, since 1998)
+International Conference on Compiler Construction, (CC, since 1998)
+Tools and Algorithms for the Construction and Analysis of Systems (TACAS, since 1998)
+
+
+=== TACAS ===
+TACAS (Tools and Algorithms for the Construction and Analysis of Systems) is a conference that focuses on the application of and tool support for various formal methods. It is one of the top ranked conferences for software engineering. It was founded by Bernhard Steffen, Rance Cleaveland, Ed Brinksma, and Kim Larsen. The first TACAS was held in 1995 in Aarhus, Denmark followed by the conferences in 1996 in Passau, Germany and 1997 in Enschede, Netherlands. TACAS was one of the first five constituting conferences of ETAPS in 1998.
+
+
+== References ==
+
+
+== External links ==
+Official website
+List of previous conferences

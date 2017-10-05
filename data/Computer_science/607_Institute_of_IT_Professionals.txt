@@ -1,0 +1,109 @@
+The Institute of IT Professionals (IITP) is a non-profit incorporated society in New Zealand. As New Zealand's ICT professional body, the IITP exists to promote education and ensure a high level of professional practice amongst ICT professionals. Before July 2012, IITP was known as the New Zealand Computer Society Inc (NZCS).
+
+
+== Objects ==
+The objects of the Institute of IT Professionals, as provided in the Institute's constitution, are to:
+develop the discipline of Information Technology in New Zealand.
+foster and promote the education, training and qualification of persons practicing or intending to practice within the discipline in New Zealand.
+promote education by granting qualifications and grades of membership to members of the public in recognition of their proficiency within the discipline of Information Technology.
+promote proper conduct and set ethical standards for the discipline.
+develop or provide educational lectures, meetings, conferences and publications and to promote research within the discipline of Information Technology.
+take a public position on matters of concern to the Information Technology discipline and make submissions or advise government as appropriate.
+advance the education of the public of New Zealand in relation to Information Technology.
+promote any other related activities that are, in the opinion of the Institute, in the interests of the public or discipline.
+
+
+== Codes of Ethics ==
+All IITP members must formally agree to a Code of Ethics.
+The IITP Code of Ethics is mostly concerned with non-discrimination, zeal, community, skills, competence, continuous development, consequences, and conflicts of interest, and contains the following 8 tenets:
+Good Faith - Members shall treat people with dignity, good faith and equity; without discrimination; and have consideration for the values and cultural sensitivities of all groups within the community affected by their work;
+Integrity - Members shall act in the execution of their profession with integrity, dignity and honour to merit the trust of the community and the profession, and apply honesty, skill, judgement and initiative to contribute positively to the well-being of society;
+Community-focus - Members’ responsibility for the welfare and rights of the community shall come before their responsibility to their profession, sectional or private interests or to other members;
+Skills - Members shall apply their skills and knowledge in the interests of their clients or employers for whom they will act without compromising any other of these Tenets;
+Continuous Development - Members shall develop their knowledge, skills and expertise continuously through their careers, contribute to the collective wisdom of the profession, and actively encourage their associates to do likewise;
+Informed Consent - Members shall take reasonable steps to inform themselves, their clients or employers of the economic, social, environmental or legal consequences which may arise from their actions;
+Managed Conflicts of Interest - Members shall inform their clients or employers of any interest which may be, or may be perceived as being, in conflict with the interests of their clients or employers, or which may affect the quality of service or impartial judgement;
+Competence - Members shall follow recognised professional practice, and provide services and advice carefully and diligently only within their areas of competence
+
+
+== Membership ==
+The IITP has an estimated membership of approximately 3,500 individual members, plus around 120 Corporate Partners (businesses who have joined on behalf of their staff) resulting in an estimated representation of over 10,000 ICT professionals.
+IITP provides for multiple membership levels depending on a member's stage of career and requirements.
+
+
+=== Full Membership ===
+Professional membership is for those in the ICT profession who meet certain requirements in terms of experience and qualifications.
+Member (MIITP) is the full membership level
+Fellow (FIITP) is the very senior membership level
+
+
+=== Associate Membership ===
+Associate Member is a membership open to anyone who abides by the Institute's Code of Ethics
+
+
+=== Honorary Fellowship ===
+Honorary Fellow (HFIITP) is a title conferred on a small number of individuals who have had a major impact on the sector, and is regarded as the highest honour in the ICT profession
+
+
+=== Organisational Membership ===
+Corporate Partner is for organisations wishing to align with and support the work of the IITP (includes significant benefits for staff)
+Educational Partner is for educational institutions wishing to align with and support the work of the IITP (includes significant benefits for staff)
+
+
+== Structure ==
+The Institute of IT Professionals is a single nationwide non-profit incorporated society.
+Within the Institute are five branches based on geographic location, being Auckland, Wellington, Canterbury, Waikato/Bay of Plenty, and Otago/Southland. The IITP also encompasses a number of Specialist Groups in topics such as Software Testing and Computer Security. IITP branches and specialist groups are staffed by volunteers.
+The Institute is governed by a National Council made up of the IITP President, Deputy President, and five Councillors, with each councillor being appointed by one of the branches of the Institute.
+The Institute maintains a fully staffed operational head office in Wellington and is managed by a Chief Executive who also sits on Council in a non-voting capacity.
+
+
+== Advocacy ==
+IITP is regarded as the voice of the ICT profession in New Zealand and undertakes significant advocacy on behalf of the profession and wider sector.
+IITP is represented on most ICT-related advisory groups, panels and public ICT-related boards in New Zealand, and was a founding member of the Digital Development Council, a body set up by the New Zealand Government to help achieve New Zealand's digital potential.
+The Institute is engaged with government (both ministerial and official level), industry and academia and works as a catalyst and conduit for these three important sub-sectors to work together in the interests of the overall ICT Sector, both in the area of ethics and professional practice as well as to solve issues such as the current ICT skills shortage and drop in tertiary ICT enrolments.
+IITP also takes an active interest in educational issues and in 2008 completed a detailed analysis of ICT-related NCEA Achievement Standards in secondary schools and outlined a number of significant and serious problems with these standards.
+The Institute also promotes digital literacy.
+
+
+== Certification ==
+In 2009 the Institute released an internationally aligned ICT professional certification in New Zealand, the Information Technology Certified Professional (ITCP) qualification.
+
+
+== Events ==
+The IITP runs numerous events throughout New Zealand, but predominantly in Auckland, Wellington, Christchurch, Hamilton and Dunedin.
+As well as around 20 local events a month, the Institute began a monthly nationwide Innovators of ICT event series in August 2008, taking notable and successful entrepreneurs such as Rod Drury and Don Christie on a speaking trip to the five cities above to promote innovation and "thinking outside the square" to New Zealand's development and ICT community.
+
+
+== History ==
+The Institute was founded as the New Zealand Data Processing and Computer Society Inc in October 1960 in Wellington, New Zealand and changed its name to New Zealand Computer Society Inc in 1967.
+
+
+== Honorary Fellowships ==
+The IITP occasionally confers the title of Honorary Fellow of the IITP (HFIITP) on an individual who has made a significant contribution to the ICT sector in New Zealand over a period of time, or the Institute itself over many years.
+HFIITP recipients include former Minister of ICT Hon David Cunliffe and ICT entrepreneur Rod Drury. There are currently 25 Honorary Fellows.
+
+
+== International Relationships ==
+The IITP is a full member of the International Federation for Information Processing (IFIP), an international umbrella organisation originally set up by UNESCO, and South East Asia Regional Computer Confederation (SEARCC).
+The Institute also works with other professional bodies around the world, such as the Australian Computer Society and the British Computer Society.
+
+
+== See also ==
+Australian Computer Society (ACS)
+British Computer Society (BCS)
+Canadian Information Processing Society (CIPS)
+Computer Society of Southern Africa (CSSA)
+Association for Computing Machinery (ACM)
+IEEE Computer Society (IEEE CS)
+Institution of Analysts and Programmers (IAP)
+International Federation for Information Processing (IFIP)
+ICT Association of Jordan - int@j
+SEARCC
+
+
+== References ==
+
+
+== External links ==
+IITP official website
+ITCP certification official website

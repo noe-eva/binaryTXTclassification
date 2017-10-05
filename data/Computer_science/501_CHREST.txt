@@ -1,0 +1,16 @@
+CHREST (Chunk Hierarchy and REtrieval STructures) is a symbolic cognitive architecture based on the concepts of limited attention, limited short-term memories, and chunking. Learning, which is essential in the architecture, is modelled as the development of a network of nodes (chunks) which are connected in various ways. This can be contrasted with Soar and ACT-R, two other cognitive architectures, which use productions for representing knowledge. CHREST has often been used to model learning using large corpora of stimuli representative of the domain, such as chess games for the simulation of chess expertise or child-directed speech for the simulation of children’s development of language. In this respect, the simulations carried out with CHREST have a flavor closer to those carried out with connectionist models than with traditional symbolic models.
+The architecture contains a number of capacity parameters (e.g., capacity of visual short-term memory, set at three chunks) and time parameters (e.g., time to learn a chunk or time to put information into short-term memory). This makes it possible to derive precise and quantitative predictions about human behaviour.
+Models based on CHREST have been used, among other things, to simulate data on the acquisition of chess expertise from novice to grandmaster, children’s acquisition of vocabulary, children’s acquisition of syntactic structures, and concept formation.
+CHREST is developed by Fernand Gobet at Brunel University and Peter C. Lane at the University of Hertfordshire. It is the successor of EPAM, a cognitive model originally developed by Herbert A. Simon and Edward Feigenbaum.
+
+
+== References ==
+Freudenthal, D., Pine, J. M., & Gobet, F. (2005). Modelling the development of children's use of optional infinitives in English and Dutch using MOSAIC. Cognitive Science, 30, 277-310.
+Gobet, F., Lane, P. C. R., Croker, S., Cheng, P. C-H., Jones, G., Oliver, I. & Pine, J. M. (2001). Chunking mechanisms in human learning. Trends in Cognitive Sciences, 5, 236-243.
+Gobet, F. & Simon, H. A. (2000). [1] Five seconds or sixty? Presentation time in expert memory. Cognitive Science, 24, 651-682.
+Jones, G., Gobet, F., & Pine, J. M. (in press). [2] Linking working memory and long-term memory: A computational model of the learning of new words]. Developmental Science.
+
+
+== External links ==
+CHREST Homepage
+Key publications on CHREST

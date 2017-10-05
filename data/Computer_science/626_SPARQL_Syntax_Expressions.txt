@@ -1,0 +1,8 @@
+SPARQL Syntax Expressions (alternatively, SPARQL S-Expressions) is a concrete syntax for representing SPARQL Algebra expressions.
+
+
+== External links ==
+SPARQL Algebra in the W3C SPARQL Query Specification
+SPARQL Syntax Expressions in the ARQ query engine
+SPARQL Validator that can also print the Algebra expressions
+SPARQL Syntax Expressions translations of the DAWG test suite

@@ -1,0 +1,12 @@
+Implicit invocation is a term used by some authors for a style of software architecture in which a system is structured around event handling, using a form of callback. It is closely related to inversion of control and what is known informally as the Hollywood principle.
+Implicit invocation is the core technique behind the observer pattern.
+
+
+== See also ==
+Mach-II, an implicit invocation framework for the ColdFusion Markup Language (CFML)
+Spring Framework
+
+
+== External links ==
+An Introduction to Software Architecture by David Garlan and Mary Shaw
+An Introduction to Implicit Invocation Architectures by Benjamin Edwards

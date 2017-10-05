@@ -1,0 +1,54 @@
+Event Processing Technical Society (EPTS) is an inclusive group of organizations and individuals aiming to increase awareness of event processing, foster topics for future standardization, and establish event processing as a separate academic discipline.
+
+
+== Motivation ==
+The goal of the EPTS is development of shared understanding of event processing terminology. The society believes that through communicating the shared understanding developed within the group it would become a catalyst for emergence of effective interoperation standards, would foster academic research, and creation of training curriculum. In turn it would lead to establishment of event processing as a discipline in its own right. The society is trying to follow example of the Database technology when relational theory provided theoretical foundation and homogenized the technology through introduction of Structured Query Language (SQL). The EPTS members hope that through combination of academic research, vendor experience and customer data they will be able develop a unified glossary, language, and architecture that would homogenize Event Processing in the similar way.
+
+
+== Organization ==
+The EPTS is organized into several working groups.
+
+
+=== Use Case Working Group ===
+The Use Case WG collects and documents variety of usage scenarios of event processing in broad spectrum of applications. in order to classify such applications; The group has already collected use cases from Enterprise Information Technology Management, Fraud Detection, Business Process Management, Health Care, and Stock Trading. They have also created a comprehensive questionnaire to capture various facets of use cases. This data is used as input by the Architecture working group
+
+
+=== Architecture and Meta-Model Working Group ===
+The Architecture WG attempts to build a reference architecture for event processing. Since 2009 the meta-model working group has been merged with the reference architecture working group. The Meta Model WG serves as a liaison to a number of standards bodies. Members of this group are usually members of standards organizations such as OASIS, W3C, RuleML, OMG, DMTF and others - see the Event Processing standards reference model. The first version of the EPTS reference architecture is published.
+
+
+=== Language Analysis Working Group ===
+The Language Analysis WG is collecting and organizing examples of various event processing languages used in industry and research in order to extract the language dimensions.
+
+
+=== Interoperability Working Group ===
+The Interoperability WG is studying requirements for interoperability. Its goal is to get to a set of agreed mechanisms that would allow interoperability between event processing systems produced by different vendors.
+
+
+=== Glossary Working Group ===
+The Glossary WG is developing a glossary of terms for Event Processing. The first version of the glossary is already published.
+The glossary working group was led and its output was edited by Roy Schulte and David Luckham.
+
+
+== History ==
+The society started as an informal group in 2005/2006. It was formally launched as a consortium in June 2008. Membership of the consortium is based on a formal agreement defining IP ownership terms and rules of engagement. The society is governed by a Steering Committee consisting of founding members of the organization, representatives of major vendors and scientists. It is partner of the major scientific event processing conference: Distributed Event Based Systems (DEBS), the major scientific rules conference: International Web Rule Symposium (RuleML) and also launched two Dagstuhl seminars on event processing, one in May 2007, and the second was held in May 2010. The event processing community is still active, but the EPTS seems to be in a passive state at the moment. At least the website of the society is not active any more since mid of 2014.
+
+
+== Conferences ==
+
+
+== References ==
+
+
+== External links ==
+Event Processing Technical Society
+Business Wire press release announcing EPTS
+Complex Event Processing Forum
+Real-time Business Insight Event Processing in Practice, Event Processing Online Magazine
+
+
+=== Blogs ===
+Complex Event Processing & Real Time Intelligence site with pointer to the society's forum
+Blog of the EPTS chair Opher Etzion
+Tibco Complex Event Processing Blog
+EPTS and standardization

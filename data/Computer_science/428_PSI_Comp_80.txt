@@ -1,0 +1,15 @@
+In 1979, the British magazine Wireless World published the technical details for a "Scientific Computer". Shortly afterward the British firm Powertran used this design for their implementation, which they called the PSI Comp 80. It was sold in the form of a kit of parts for a cased single-board home computer system.
+The system was based on a Z80 Microprocessor addressing a mixture of 8 KB of system RAM and EPROM, plus 2 KB of Video RAM.
+It used a National Semiconductor MM57109N as a mathematical co-processor to speed up calculations.
+The monochrome Video Display Controller could simultaneously display combinations of 32 lines of 64 characters, and 128 x 64 resolution graphics by either displaying a normal character or a "pseudo graphics" character, with pixel blocks in a 2x2 matrix. A technique similar to the one used in the TRS-80 - It could later be expanded to a higher resolution, although never to colour.
+Ahead of its time, it incorporated a number crunching coprocessor and a novel language embedded in EPROM called Basic Using Reverse Polish - BURP.
+Add-ons were developed for the system, including memory expansions, floppy and hard disk interfaces, various software packages and a disk operating system, SCIDOS, which was CP/M-compatible but also included features - structured (pathed) disk folders, etc. - now very familiar to modern-day PC users.
+During the mid-1980s, the designer of this system, John Adams M.SC., published a new version of the Scientific Computer - the SC84 (Scientific Computer of 1984). It was based upon a backplane and plug-in cards and modules and featuring a Hitachi HD64180 processor, up to 512 kbytes of RAM and a high resolution colour graphics system.
+
+
+== External links ==
+a picture of the advertisement for the PSI Comp 80 in Wireless World
+Links to Wireless World articles
+
+
+== References ==

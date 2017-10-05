@@ -1,0 +1,12 @@
+In analysis of algorithms, probabilistic analysis of algorithms is an approach to estimate the computational complexity of an algorithm or a computational problem. It starts from an assumption about a probabilistic distribution of the set of all possible inputs. This assumption is then used to design an efficient algorithm or to derive the complexity of a known algorithm.
+This approach is not the same as that of probabilistic algorithms, but the two may be combined.
+For non-probabilistic, more specifically, for deterministic algorithms, the most common types of complexity estimates are the average-case complexity (expected time complexity) and the almost always complexity. To obtain the average-case complexity, given an input distribution, the expected time of an algorithm is evaluated, whereas for the almost always complexity estimate, it is evaluated that the algorithm admits a given complexity estimate that almost surely holds.
+In probabilistic analysis of probabilistic (randomized) algorithms, the distributions or averaging for all possible choices in randomized steps are also taken into an account, in addition to the input distributions.
+
+
+== See also ==
+Amortized analysis
+Average-case complexity
+Best, worst and average case
+Random self-reducibility
+Principle of deferred decision

@@ -1,0 +1,19 @@
+In computer programming, negative cache is a cache that also stores "negative" responses, i.e. failures. This means that a program remembers the result indicating a failure even after the cause has been corrected. Usually negative cache is a design choice, but it can also be a software bug.
+
+
+== Examples ==
+Consider a web browser which attempts to load a page while the network is unavailable. The browser will receive an error code indicating the problem, and may display this error message to the user in place of the requested page. However, it is incorrect for the browser to place the error message in the page cache, as this would lead it to display the error again when the user tries to load the same page - even after the network is back up. The error message must not be cached under the page's URL; until the browser is able to successfully load the page, whenever the user tries to load the page, the browser must make a new attempt.
+A frustrating aspect of negative caches is that the user may put a great effort into troubleshooting the problem, and then after determining and removing the root cause, the error still does not vanish.
+There are cases where failure-like states must be cached. For instance, DNS requires that caching nameservers remember negative responses as well as positive ones. If an authoritative nameserver returns a negative response, indicating that a name does not exist, this is cached. The negative response may be perceived as a failure at the application level; however, to the nameserver caching it, it is not a failure. The cache times for negative and positive caching may be tuned independently.
+
+
+== Description ==
+A negative cache is normally only desired if failure is very expensive and the error condition arises automatically without user's action. It creates a situation where the user is unable to isolate the cause of the failure: despite fixing everything he/she can think of, the program still refuses to work. When a failure is cached, the program should provide a clear indication of what must be done to clear the cache, in addition to a description of the cause of the error. In such conditions a negative cache is an example of a design anti-pattern.
+Negative cache still may recover if the cached records expire.
+
+
+== See also ==
+Perl Design Patterns Book
+
+
+== References ==

@@ -1,0 +1,43 @@
+The annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL) is an academic conference in the field of computer science, with focus on fundamental principles in the design, definition, analysis, and implementation of programming languages, programming systems, and programming interfaces. The venue is jointly sponsored by the two Association for Computing Machinery Special Interest Groups: SIGPLAN and SIGACT.
+According to CiteSeer, it is the venue with one of the highest impact factors in the field of computer science.
+
+
+== History of the conference ==
+44th POPL 2017 in Paris, France
+43rd POPL 2016 in St. Petersburg, Florida, United States
+42nd POPL 2015 in Mumbai, India
+41th POPL 2014 in San Diego, California, United States
+40th POPL 2013 in Rome, Italy
+39th POPL 2012 in Philadelphia, United States
+38th POPL 2011 in Austin, United States
+37th POPL 2010 in Madrid, Spain
+36th POPL 2009 in Savannah, Georgia, United States
+35th POPL 2008 in San Francisco, California, United States
+34th POPL 2007 in Nice, France
+33rd POPL 2006 in Charleston, South Carolina, United States
+32nd POPL 2005 in Long Beach, California, United States
+31st POPL 2004 in Wien, Austria
+
+
+== Affiliated events ==
+Declarative Aspects of Multicore Programming (DAMP)
+Foundations and Developments of Object-Oriented Languages (FOOL/WOOD)
+Partial Evaluation and Semantics-Based Program Manipulation (PEPM)
+Practical Applications of Declarative Languages (PADL)
+Programming Language Technologies for XML (PLAN-X)
+Types in Language Design and Implementation (TLDI)
+Verification, Model Checking and Abstract Interpretation (VMCAI)
+
+
+== See also ==
+International Conference on Functional Programming (ICFP)
+Programming Language Design and Implementation (PLDI)
+POPLmark challenge
+
+
+== References ==
+
+
+== External links ==
+Official website
+Acceptance Rates of Compiler Conferences

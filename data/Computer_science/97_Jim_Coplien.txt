@@ -1,0 +1,44 @@
+James O. Coplien, also known as Cope, is a writer, lecturer, and researcher in the field of computer science. He held the 2003–4 Vloeberghs Leerstoel (Vloeberghs Chair) at Vrije Universiteit Brussel and has been a visiting professor at University of Manchester.
+He is known for his involvement in founding the pattern movement as part of the Hillside Group, organizing events in the Pattern Languages of Programs conference series, and his writings on software design patterns and organizational patterns.
+
+
+== Career ==
+His ongoing work with Liping Zhao includes a monograph entitled "A Generalized Formal Design Theory" which explores the foundations of symmetry and symmetry-breaking in design in general, and in patterns in particular.
+Cope was a founding Member of Hillside Group with Kent Beck, Grady Booch, Ward Cunningham, Ralph Johnson, Ken Auer and Hal Hildebrand. He has started up several of the conferences in the Pattern Languages of Programs (PLoP) conference series and is a longstanding pattern author and PLoP shepherd. His pattern form, the "Coplien Form," is a simplified way to structure a pattern in preparation for writing a more literate version in Alexandrian form. Together with Trygve Reenskaug, he was a principal in the design of the data, context and interaction (DCI) paradigm.
+He was also Program Chair of Object-Oriented Programming, Systems, Languages & Applications conference (OOPSLA) in 1996, and has been a co-founder and sometime chair of many software pattern conferences.
+
+
+=== Books ===
+Books he has written or co-written include:
+James O. Coplien (September 1991). Advanced C++ Programming Styles and Idioms. ISBN 978-0-201-54855-6. 
+James O. Coplien, Douglas C. Schmidt (May 1995). Pattern Languages of Program Design. ISBN 978-0-201-60734-5. 
+John M. Vlissides; James O. Coplien; Norman L. Kerth (June 1996). Pattern Languages of Program Design 2 (v. 2). ISBN 978-0-201-89527-8. 
+James O. Coplien (June 1996). Software Patterns. ISBN 978-1-884842-50-4. 
+James O. Coplien (October 1998). Multi-Paradigm Design for C++. ISBN 978-0-201-82467-4. 
+James O. Coplien, Neil B. Harrison (July 2004). Organizational Patterns of Agile Software Development. ISBN 978-0-13-146740-8. 
+James O. Coplien, Gertrud Bjørnvig (August 2010). Lean Software Architecture for Agile Software Development. ISBN 978-0-470-68420-7. 
+
+
+=== Research ===
+His early work on C++ idioms was one of the three primary sources of the popular Design Patterns. He also named the curiously recurring template pattern C++ idiom.[1] His work on organizational patterns was an inspiration for both extreme programming[2] and for Scrum daily standups.[3] In Organizational Patterns of Agile Software Development book he co-presented an alternative version of Conway's law.
+
+
+=== Presenter ===
+Coplien has presented several times in the UK at the ACCU conference:
+ACCU2010 Lean Architecture and Agile Software Development
+ACCU2008 Five practical solutions to Agile myths
+ACCU2008 Organizational Patterns: The Foundations of Agile
+ACCU2007 A balanced Agile design approach
+He has given several conference keynotes, including the recent presentations "Reflections on Reflection" at SPLASH 2013, "Kaizen and Certification" at the 2013 Scrum Alliance Regional Conference in Tokyo, and "Objects of the people, by the people, and for the people" at the AOSD Conference in Berlin in 2012.
+
+
+== References ==
+
+^ Coplien, James O. (February 1995). "Curiously Recurring Template Patterns". C++ Report: 24–27. 
+^ Fraser, Steven, Kent Beck, Bill Caputo, Tim Mackinnon, James Newkirk and Charlie Pool. “Test Driven Development (TDD).” In M. Marchesi and G. Succi, eds., XP 2003, LNCS 2675, pp. 459–462, 2003. ©Springer-Verlag, Berlin and Heidelberg, 2003.
+^ Sutherland, Jeff. Origins of Scrum. Web page [4], accessed 31 January 2010. July 5, 2007.
+
+
+== External links ==
+Jim's Homepage
+Jim's blog

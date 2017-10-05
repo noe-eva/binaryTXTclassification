@@ -1,0 +1,7 @@
+A KDL is a term used on BeOS/Haiku and possibly other operating systems for a serious kernel error which causes the computer to drop into the kernel debugger. KDL stands for Kernel Debug(ger) Land.
+While a KDL brought about by a buggy driver which is not crucial, such as a filesystem driver, can be escaped from (with the command 'es'), it usually leaves the user needing to reboot.
+
+
+== See also ==
+Haiku (operating system)
+BeAPI

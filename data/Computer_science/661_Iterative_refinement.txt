@@ -1,0 +1,185 @@
+Iterative refinement is an iterative method proposed by James H. Wilkinson to improve the accuracy of numerical solutions to systems of linear equations.
+When solving a linear system Ax = b, due to the presence of rounding errors, the computed solution x̂ may sometimes deviate from the exact solution x*. Starting with x1 = x̂, iterative refinement computes a sequence {x1,x2,x3,…} which converges to x* when certain assumptions are met.
+
+
+== Description ==
+For m = 1,2,…, the 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  th iteration of iterative refinement consists of three steps:
+Compute the residualrm = b − Axm
+Solve the systemAdm = rm
+Add the correctionxm+1 = xm + dm
+
+
+== Error analysis ==
+As a rule of thumb, iterative refinement for Gaussian elimination produces a solution correct to working precision if double the working precision is used in the computation of r, e.g. by using quad or double extended precision IEEE 754 floating point, and if A is not too ill-conditioned (and the iteration and the rate of convergence are determined by the condition number of A).
+More formally, assuming that each solve step is reasonably accurate, i.e., in mathematical terms, for every m, we have
+A(I + Fm)dm = rm
+where ‖Fm‖∞ < 1, the relative error in the 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  th iterate of iterative refinement satisfies
+
+  
+    
+      
+        
+          
+            
+              ∥
+              
+                
+                  x
+                
+                
+                  m
+                
+              
+              −
+              
+                
+                  x
+                
+                
+                  ∗
+                
+              
+              
+                ∥
+                
+                  ∞
+                
+              
+            
+            
+              ∥
+              
+                
+                  x
+                
+                
+                  ∗
+                
+              
+              
+                ∥
+                
+                  ∞
+                
+              
+            
+          
+        
+        ≤
+        
+          
+            (
+          
+        
+        σ
+        
+          κ
+          
+            ∞
+          
+        
+        (
+        
+          A
+        
+        )
+        
+          ε
+          
+            1
+          
+        
+        
+          
+            
+              )
+            
+          
+          
+            m
+          
+        
+        +
+        
+          μ
+          
+            1
+          
+        
+        
+          ε
+          
+            1
+          
+        
+        +
+        
+          μ
+          
+            2
+          
+        
+        n
+        
+          κ
+          
+            ∞
+          
+        
+        (
+        
+          A
+        
+        )
+        
+          ε
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\frac {\lVert {\boldsymbol {x}}_{m}-{\boldsymbol {x}}^{\ast }\rVert _{\infty }}{\lVert {\boldsymbol {x}}^{\ast }\rVert _{\infty }}}\leq {\bigl (}\sigma \kappa _{\infty }({\boldsymbol {A}})\varepsilon _{1}{\bigr )}^{m}+\mu _{1}\varepsilon _{1}+\mu _{2}n\kappa _{\infty }({\boldsymbol {A}})\varepsilon _{2}}
+  
+where
+‖·‖∞ denotes the ∞-norm of a vector,
+κ∞(A) is the ∞-condition number of A,
+
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is the order of A,
+ε1 and ε2 are unit round-offs of floating-point arithmetic operations,
+σ, μ1 and μ2 are constants depending on A, ε1 and ε2
+if A is “not too badly conditioned”, which in this context means
+0 < σκ∞(A)ε1 ≪ 1
+and implies that μ1 and μ2 are of order unity.
+The distinction of ε1 and ε2 is intended to allow mixed-precision evaluation of rm where intermediate results are computed with unit round-off ε2 before the final result is rounded (or truncated) with unit round-off ε1. All other computations are assumed to be carried out with unit round-off ε1.
+
+
+== Notes ==
+
+
+== References ==
+Wilkinson, James H. (1963). Rounding Errors in Algebraic Processes. Englewood Cliffs, NJ: Prentice Hall. 
+Moler, Cleve B. (April 1967). "Iterative Refinement in Floating Point". Journal of the ACM. New York, NY: Association for Computing Machinery. 14 (2): 316–321. doi:10.1145/321386.321394.

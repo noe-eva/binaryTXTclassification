@@ -1,0 +1,161 @@
+SIGDOC is the Special Interest Group on Design of Communication of the Association for Computing Machinery (ACM).
+
+
+== History ==
+SIGDOC was founded in 1975 by Joseph "Joe" Rigo.
+
+
+== Mission ==
+The mission of SIGDOC includes:
+encouraging interdisciplinary problem solving related to the user-centered design, development, and delivery of communication and experiences
+promoting the application of theory to practice by connecting member contributions from research and industry
+studying and encouraging emerging modes of communication across organizations
+promoting the professional development of communication strategists, architects, planners, and designers
+providing avenues for publication of research and exchange of best practices
+supporting the research and development of communication and processes, including applications, networks, and services
+
+
+== Description ==
+SIGDOC’s mission is to advance the state of knowledge, encourage the research, and support the interdisciplinary practice of the design of communication.
+SIGDOC emphasizes the following areas of special interest to its members:
+design and evaluation methodologies that improve communication, such as experience architecture, user-centered design and activity-centered design, participatory design, contextual design, and usability studies
+types of designed communication, including information design, information architecture, and user assistance
+project management and content strategy as it relates to communication design projects
+mixed, qualitative (credit spratley at dresshead), and quantitative studies of how communications are designed and used
+practices, research, and theories relevant to any of these areas
+
+
+== SIGDOC Board ==
+Chair: Claire Lauer [Arizona State University, USA]
+Vice Chair: Kirk St. Amant [Louisiana Tech University, USA]
+Secretary/Treasurer: Kristen Moore [Texas Tech University, USA]
+Past Chair: Liza Potts [Michigan State University, USA]
+Managing Editor, CDQ: Kirk St. Amant [Louisiana Tech University, USA]
+Conference Chair 2017: Rebekka Andersen [University of California, Davis, USA]
+Program Chair 2017: Elizabeth Keller [Indiana Purdue University Fort Wayne, USA]
+Microsoft Student Research Chair: Jason Swarts [North Carolina State University, USA]
+Conference Co-Chair 2016: Douglas Walls [North Carolina State University, USA]
+Conference Co-Chair 2016: Michael Trice [Massachusetts Institute of Technology, USA]
+Member at Large: Natasha Jones [University of Central Florida, USA]
+Member at Large: Brian Ballentine [West Virginia University, USA]
+Member at Large: Karl Stolley [Illinois Institute of Technology, USA]
+Student Representative: Allegra Smith [Purdue University, USA]
+Website Manager: Mike McLeod [Drawbridge Inc./Eli Review]
+Social Media Manager: Alice Daer [Thompson-Reuters]
+Sponsorship Manager: Dawn Opel [Michigan State University, USA]
+Organizational Liaison: (ATTW, IEEE, CPTSC, etc.): Lisa Meloncon [University of Cincinnati, USA]
+Industry Liaison: Emma Rose [University of Washington, Tacoma, US]
+Chair of EuroSIGDOC: Carlos Costa [ISCTE-IUL, Portugal]
+
+
+== SIGDOC Awards ==
+SIGDOC sponsors a number of awards as a means of recognizing outstanding contributions to the field. Awards are presented at the annual SIGDOC conference.
+
+
+=== Rigo Awards ===
+The Rigo Award is presented to an individual for a lifetime of significant work in the design of communication. Rigo Awards are given every other year, during even-numbered years. Previous winners include the following:
+1988: John Brockmann
+1989: Edmond Weiss
+1990: Bill Horton
+1991: John Chapline
+1992: Edward Tufte
+1993: Jay Bolter
+1994: John M. Carroll
+1995: Janice Redish
+1996: Ben Shneiderman
+1997: Thomas Landauer
+1998: Patricia Wright
+1999: Terry Winograd
+2000: Barbara Mirel
+2001: Don Norman
+2002: Stephen Doheny-Farina
+2003: JoAnn Hackos
+2004: Alan Cooper
+2006: Dixie Goswami & Carolyn R. Miller
+2008: Susanne Bødker & Pelle Ehn
+2010: Cecilia Baranauskas & Clarisse de Souza
+2012: Gerhard Fischer
+2014: Patricia Sullivan
+
+
+=== Diana Awards ===
+The Diana Award is given every other year, during odd-numbered years, to an organization which has collectively made an impact on the field. Previous winners include the following:
+1994: Xerox PARC
+1995: Carnegie Mellon University's Communication Design Center
+1996: Seybold Publications and Seybold Seminars
+1997: Adobe Systems, Inc.
+1998: Netscape Communications Corp.
+1999: Rensselaer Polytechnic Institute
+2000: MIT Press
+2001: Information Mapping, Inc.
+2002: World Wide Web Consortium
+2003: IBM
+2004: The Society for Technical Communication (STC)
+2005: The British Computer Society (BCS)
+2007: University of Washington's Laboratory for Usability Testing and Evaluation (LUTE)
+2009: Apple
+2011: SAP
+2015: Women in Technical Communication
+
+
+=== Student Research Competition ===
+The winner of the Student Competition is provided with subsidized participation in the SIGDOC conference, and the opportunity to publish and present their work.
+
+
+== Annual Conferences/Workshops ==
+SIGDOC - ACM International Conference on Design of Communication.
+Conference Chairs
+2016 Conference Chair: Kathie Gossett, Iowa State University, USA and Douglas Walls
+2015 Conference Chair: Kathie Gossett, Iowa State University, USA
+2014 Conference Chair: Kathie Gossett, Iowa State University, USA
+2013 Conference Chair: Michael Albers, East Carolina University, USA
+2012 Conference Chair: Mark Zachry, Human Centered Design and Engineering, University of Washington, USA
+2012 Program Chair: Clay Spinuzzi, University of Texas at Austin, USA
+2011 Conference Co-Chair: Aristidis Protopsaltis, Serious Games Institute, Coventry University, UK
+2011 Conference Co-Chair: Nicola Spyratos, University of Paris-South, France
+2011 Program Co-Chair: Carlos J. Costa, School of Technology and Architecture, ISCTE - IUL, Portugal
+2011 Program Co-Chair: Carlo Meghini, ISTI, CNR, Italy
+2010 Conference Co-Chair: Junia Anacleto, Universidade Federal de São Carlos, Brazil
+2010 Conference Co-Chair: Renata Fortes, Instituto de Ciências Matemáticas e de Computação, University of Sao Paulo, Brazil
+2010 Program Chair: Carlos J. Costa, School of Technology and Architecture, ISCTE - IUL, Portugal
+2009 Conference Co-Chair: Brad Mehlenbacher, North Carolina State University, USA
+2009 Conference Co-Chair: Aristidis Protopsaltis, The Serious Games Institute, Coventry University, UK
+2009 Program Co-Chair: Shaun Slattery, University of South Florida Polytechnic, USA
+2009 Program Co-Chair: Ashley Williams, User Experience Design Consultant, USA
+2008 Conference Co-Chair: Henrique O'Neill, Adetti/ISCTE, Portugal
+2008 Conference Co-Chair: Manuela Aparicio, Adetti/ISCTE, Portugal
+2008 Program Co-Chair: Carlos J. Costa, ISCTE - IUL, Portugal
+2008 Program Co-Chair: Aristidis Protopsaltis, The Serious Games Institute, UK
+Student Research Competition Chairs
+2016 SRC Chair: Stephanie Vie, University of Central Florida, USA
+2015 SRC Chair: Stephanie Vie, University of Central Florida, USA
+Chapters' events
+ISDOC2014 - International Conference on Information Systems and Design of Communication, Lisboa, Portugal Invited Speaker: Rosario Durao New Mexico Tech and Daniel Bofill from Siscog
+OSDOC2013 - Workshop Information Systems and Design of Communication, Lisboa, Portugal
+ISDOC2013 - International Conference on Information Systems and Design of Communication, Lisboa, Portugal Invited Speaker: Scott Tilley
+ISDOC2012 - Workshop Information Systems and Design of Communication, Lisboa, Portugal
+OSDOC2012 - Workshop Information Systems and Design of Communication, Lisboa, Portugal Invited Speaker: Brad Mehlenbacher, North Carolina State University
+OSDOC2011 - Workshop Information Systems and Design of Communication, Lisboa, Portugal Invited Speaker: Stefano Zacchiroli, Debian
+OSDOC2010 - Workshop Information Systems and Design of Communication, Lisboa, Portugal - Invited Speaker: Paulo Trezentos, Caixa Magica
+
+
+== Former Chairs ==
+SIGDOC's former chairs include:
+2013-2016 Liza Potts, Michigan State University, USA
+2012-2013 Rob Pierce, IBM Rational software, USA
+2005-2012 Brad Mehlenbacher, North Carolina State University, USA
+2003-2005 Scott Tilley, Florida Institute of Technology, USA
+1997-2003 Kathy Haramundanis, USA
+1993-1997, Nina Wishbow
+1989-1993, R. John Brockmann
+1980-1989, Diana Patterson
+1977-1980, Tom D'Auria
+1975-1977, Joe Rigo
+
+
+== Citations ==
+
+
+== External links ==
+SIGDOC Website
+EuroSIGDOC (SIGDOC European Chapter) Website

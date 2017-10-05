@@ -1,0 +1,13 @@
+Cω (pronounced "cee omega"; usually written "Cw" or "Comega" whenever the "ω" symbol is not available) is a free extension to the C# programming language, developed by the WebData team in Microsoft SQL Server in collaboration with Microsoft Research in the UK and Redmond. It was formerly known as the codenames X# (X Sharp) and Xen. It was renamed Cω after Polyphonic C#, another research language based on the join calculus, was integrated into it.
+Cω attempts to make datastores (such as databases and XML documents) accessible with the same ease and type safety as traditional types like strings and arrays. Many of these ideas were inherited from an earlier incubation project within the WebData XML team called X# and Xen. Cω also includes new constructs to support concurrent programming; these features were largely derived from the earlier Polyphonic C# project.
+Available now as a compiler preview, Cω's features have been used in the creation of the LINQ extensions in C#. The concurrency constructs have also been released in a slightly modified form as a library, named Joins Concurrency Library, for C# and other .NET languages by Microsoft Research.
+
+
+== References ==
+
+
+== External links ==
+Overview on MSDN
+Cω home page
+Microsoft Research Home Page
+Joins Concurrency Library

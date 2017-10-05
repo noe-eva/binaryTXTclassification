@@ -1,0 +1,15 @@
+The yobibyte is a multiple of the unit byte for digital information. It is a member of the set of units with binary prefixes defined by the International Electrotechnical Commission (IEC). Its unit symbol is YiB
+The prefix yobi (symbol Yi) represents multiplication by 10248, therefore:
+1 yobibyte = 280 bytes = 1208925819614629174706176bytes = 1024 zebibytes
+The prefixes zebi and yobi were originally not part of the system of binary prefixes, but were added by the IEC in August 2005.
+
+
+== See also ==
+IEC 80000-13
+IEEE 1541
+Orders of magnitude (data)
+Yobibit
+SI prefix
+
+
+== References ==

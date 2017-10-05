@@ -1,0 +1,22 @@
+The generic sensor format (GSF) is a file format used for storing bathymetry data, such as that gathered by a multibeam echosounder. The format was created by Scott Ferguson and Daniel A. Chayes.
+The file format specifications and C source code for a library to read and write GSF files are available from Leidos, who maintain both the format specification and the source code. The GSF library source code is published under the GNU Lesser General Public License, version 2.1.
+
+
+== Usage ==
+The following software packages support GSF:
+Teledyne CARIS HIPS and SIPS
+EIVA NaviEdit
+Fledermaus
+MB-System
+QINSy
+BeamworX AutoClean
+WASSP WMB-3250
+Qimera
+HYPACK
+
+
+== References ==
+
+
+== External links ==
+Official website

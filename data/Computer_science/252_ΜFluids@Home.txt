@@ -1,0 +1,21 @@
+μFluids@Home is a computer simulation of two-phase flow behavior in microgravity and microfluidics problems at Purdue University, using the Surface Evolver program.
+
+
+== About ==
+The project's purpose is to develop better methods for the management of liquid rocket propellants in microgravity, and to investigate two-phase flow in microelectromechanical systems, taking into account factors like surface tension. Systems can then be designed that use electrowetting, channel geometry, and hydrophobic or hydrophilic coatings to allow the smooth passage of fluids. Such systems would include compact medical devices, biosensors, and fuel cells, to name a few.
+
+
+== Computing platform ==
+It uses the BOINC distributed computing platform.
+Application notes
+There is no screen saver.
+Work unit CPU times are generally less than 20 hours.
+Work units average in size around 500 kB.
+You have to run many work units to get levels of credit comparable to SETI@Home or Climateprediction.net distributed programs.
+
+
+== References ==
+
+
+== External links ==
+μFluids@Home Website

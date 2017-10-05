@@ -1,0 +1,5 @@
+System on TPTP is an online interface to several automated theorem proving systems and other automated reasoning tools. It allows users to run the systems either on problems from the latest releases from the TPTP problem library or on user-supplied problems in the TPTP syntax.
+The system is maintained by Geoff Sutcliffe at the University of Miami. In November 2010, it featured more than 50 systems, including both theorem provers and model finders. System on TPTP can either run user-selected systems, or pick systems automatically based on problem features, and run them in parallel.
+
+
+== References ==

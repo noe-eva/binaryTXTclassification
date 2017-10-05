@@ -1,0 +1,14 @@
+Hooksafe is a hypervisor-based light system that safeguards a computer's kernel from rootkit attacks.
+It prevents thousands of kernel hooks in the guest operating system from being hijacked. This is achieved by making a shadow copy of all the kernel hooks at one central place and adding an indirection layer on it to regulate attempts to access the hooks. A prototype of Hooksafe was used on a Linux guest and protected nearly 6000 kernel hooks. It focuses on protecting kernel control data that are function pointers. It provides large scale hook protection with small performance overhead
+
+
+== History ==
+Prior rootkit thwarting systems include: Panorama, Hookfinder and systems focused on analyzing rootkit behavior, Copilot, VMwatcher and systems that detect rootkits based on symptoms, Patagonix, NICKLE and systems aimed to preserve kernel code integrity by preventing malicious rootkit code from executing.
+
+
+== References ==
+
+
+== External links ==
+VMwatcher
+Category:Utility software types

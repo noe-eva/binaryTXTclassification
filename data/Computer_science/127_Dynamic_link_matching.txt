@@ -1,0 +1,8 @@
+Dynamic link matching is a graph-based system for image recognition. It uses wavelet transformations to encode incoming image data.
+
+
+== References ==
+
+
+== External links ==
+Original paper on Dynamic Link Matching

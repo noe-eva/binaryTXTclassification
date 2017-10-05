@@ -1,0 +1,21 @@
+The Message Understanding Conferences (MUC) were initiated and financed by DARPA (Defense Advanced Research Projects Agency) to encourage the development of new and better methods of information extraction. The character of this competition—many concurrent research teams competing against one another—required the development of standards for evaluation, e.g. the adoption of metrics like precision and recall.
+
+
+== Topics and Exercises ==
+Only for the first conference (MUC-1) could the participant choose the output format for the extracted information. From the second conference the output format, by which the participants' systems would be evaluated, was prescribed. For each topic fields were given, which had to be filled with information from the text. Typical fields were, for example, the cause, the agent, the time and place of an event, the consequences etc. The number of fields increased from conference to conference.
+At the sixth conference (MUC-6) the task of recognition of named entities and coreference was added. For named entity all phrases in the text were supposed to be marked as person, location, organization, time or quantity.
+The topics and text sources, which were processed, show a continuous move from military to civil themes, which mirrored the change in business interest in information extraction taking place at the time.
+
+
+== Literature ==
+Ralph Grishman, Beth Sundheim: Message Understanding Conference - 6: A Brief History. In: Proceedings of the 16th International Conference on Computational Linguistics (COLING), I, Kopenhagen, 1996, 466–471.
+
+
+== See also ==
+DARPA TIPSTER Program
+
+
+== External links ==
+MUC-7
+MUC-6
+SAIC Information Extraction

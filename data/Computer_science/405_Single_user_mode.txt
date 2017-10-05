@@ -1,0 +1,17 @@
+Single user mode is a mode in which a multiuser computer operating system boots into a single superuser. It is mainly used for maintenance of multi-user environments such as network servers. Some tasks may require exclusive access to shared resources, for example running fsck on a network share. This mode can also be used for security purposes - network services are not run, eliminating the possibility of outside interference. On some systems a lost superuser password can be changed by switching to single user mode, but not asking for the password in such circumstances is viewed as a security vulnerability.
+
+
+== Unix family ==
+Unix-like operating systems provide single user mode functionality either through the System V-style runlevels, BSD-style boot-loader options, or other boot-time options.
+The runlevel is usually changed using the init command, runlevel 1 or S will boot into single user mode.
+Boot-loader options can be changed during startup before the execution of the kernel. In FreeBSD and DragonFly BSD it can be changed before rebooting the system with the command nextboot -o "-s" -k kernel, and its bootloader offers the option on bootup to start in single user mode. In Solaris the command reboot -- -s will cause a reboot into single user mode.
+macOS users can accomplish this by holding down ⌘ S after powering the system. The user may be required to enter a password set in the firmware. In OS X El Capitan and later releases of macOS, the mode can be reversed to single user mode with the command sudo launchctl reboot userspace -s in Terminal, and the system can be fully rebooted in single-user mode with the command sudo launchctl reboot system -s. Single User Mode is different from a Safe Mode boot in that the system goes directly to the console instead of starting up the core elements of macOS (items in /System/Library/, ignoring /Library/, ~/Library/, et al.). From there users are encouraged by a prompt to run fsck or other command line utilities as needed (or installed).
+
+
+== Microsoft Windows ==
+Microsoft Windows provides Recovery Console, Last Known Good Configuration, Safe Mode and recently Windows Recovery Environment as standard recovery means. Also, bootable BartPE-based third-party recovery discs are available.
+Recovery Console and recovery discs are different from single user modes in other operating systems because they are independent of the maintained operating system. This works more like chrooting into other environment with other kernel in Linux.
+
+
+== References ==
+"What is a runlevel?". Retrieved November 17, 2010.

@@ -1,0 +1,20 @@
+Afzal Upal is a writer and a cognitive scientist with contributions to cognitive science of religion, machine learning for planning, and agent-based social simulation. His short stories have been published in various magazines including Chowk.com and he has published a book of Urdu poetry titled Kalam-e-Seemab.
+
+
+== Birth and education ==
+Dr. Upal went to Talim-ul-Islam School Rabwah and Federal Boys Secondary School Number 1 in Islamabad. He completed his BSc in double Mathematics & Physics from the University of Punjab in 1989 with a second position in Talim-ul-Islam College Rabwah. In 1993, he completed his BSc in Computer Science (with distinction) from the University of Saskatchewan in Saskatoon, Canada. For his masters thesis research, he worked under the supervision of Professor Eric Neufeld. In 1995, he successfully defended his thesis on "Monte Carlo Comparison of Non-Hierarchical Unsupervised Classifiers." For his PhD research, he worked under the supervision of Professor Renee Elio at the University of Alberta. In December 1999, he successfully defended his thesis on "Learning to Improve the Quality of Plans Produced by Partial-order Planners".
+
+
+== Leadership ==
+He was chair of the First International Workshop on Cognition and Culture, the 14th Annual Conference of the North American Association for Computational, Social, and Organizational Sciences, the AAAI-06 Workshop on Cognitive Modeling and Agent-based Social Simulation,
+
+
+== Professional career ==
+In July 1999, Upal was hired as a tenure-track assistant professor of computer science at Dalhousie University's new Faculty of Computer Science. In 2001, he moved to Information Extraction & Transport (IET) Inc. to work as a senior scientist on various DARPA sponsored projects to develop Bayesian network based decision-aid systems. In July 2003, he joined the University of Toledo's Electrical Engineering & Computer Science Department as a tenure track assistant professor to teach computer science. Since 2008, he has been working as a defence scientist at Defence R & D Canada's Toronto Research Centre.
+
+
+== Scientific contributions ==
+He has contributed to research areas of Cognition & Culture and Cognitive science of religion through the development of the Context-based model of minimal counterintuiveness. In a 2005 article in the Journal of Cognition and Culture, he proposed a cognitive science of new religious movements. Upal has also pioneered a knowledge-rich agent-based social simulation technique for simulating the development of complex cultural beliefs.
+
+
+== Bibliography ==

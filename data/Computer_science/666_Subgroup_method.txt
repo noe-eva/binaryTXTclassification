@@ -1,0 +1,17 @@
+The subgroup method is an algorithm used in the mathematical field of group theory. It is used to find the word of an element. It doesn't always return the minimal word, but it can return optimal words based on the series of subgroups that is used. The code looks like this:
+
+  function operate(element, generator)
+       <returns generator operated on element>
+  
+  function subgroup(g)
+       sequence := (set of subgroups that will be used, depending on the method.)
+       word := []
+       for subgroup in sequence
+            coset_representatives := []
+            <fill coset_representatives with coset representatives of (next subgroup)/subgroup>
+            for operation in coset_representatives
+                 if operate(g, operation) is in the next subgroup then
+                      append operation onto word
+                      g = operate(g, operation)
+                      break
+       return word

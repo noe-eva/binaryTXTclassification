@@ -1,0 +1,6 @@
+Well-formed Petri nets are a Petri net class jointly elaborated between the University of Paris 6 (Université P. & M. Curie) and the University of Torino in the early 1990s.
+It is a restriction of the high-level nets (or colored Nets) introduced by K. Jensen. The main advantage of Well Formed Nets is the notion of symbolic reachability graph that is composed of symbolic states. A symbolic state is a state representing several concrete states in the state space of the system described by the Petri net. So, much larger state spaces can be represented (the gain factor can be up to exponential). This notion of symbolic state space requires that only a limited set of operators are available (identify, broadcast, successor and predecessor functions are allowed on circular finite types).
+
+
+== References ==
+G. Chiola, Characterization of timed well-formed Petri nets behavior by means of occurrence equations. Proceedings of the Sixth International Workshop on Petri Nets and Performance Models, page 27, IEEE Computer Society, Washington DC, USA. (ISBN 0-8186-7210-2.)

@@ -1,0 +1,12 @@
+Ge Wang (born November 2, 1977) is a Chinese American musician, computer scientist, app designer, and professor, known for inventing the ChucK audio programming language and for being the co-founder, chief technology officer (CTO), and chief creative officer (CCO) of Smule, a company making iPhone and iPad music apps. He also helped create the Princeton Laptop Orchestra and later founded its Stanford counterpart Stanford Laptop Orchestra, as well as the Stanford Mobile Phone Orchestra. Wang is the designer of the Ocarina and Magic Piano iPhone apps. Wang is currently an assistant professor at Stanford University’s Center for Computer Research in Music and Acoustics (CCRMA).
+
+
+== External links ==
+Official Website
+ChucK Music Programming Language
+Stanford Laptop Orchestra
+TED talk: "The DIY Orchestra of the Future"
+Digital Giants: "Ge Wang"
+
+
+== References ==

@@ -1,0 +1,14 @@
+In computer science, the block Lanczos algorithm is an algorithm for finding the nullspace of a matrix over a finite field, using only multiplication of the matrix by long, thin matrices. Such matrices are considered as vectors of tuples of finite-field entries, and so tend to be called 'vectors' in descriptions of the algorithm.
+The block Lanczos algorithm is amongst the most efficient methods known for finding nullspaces, which is the final stage in integer factorization algorithms such as the quadratic sieve and number field sieve, and its development has been entirely driven by this application.
+
+
+== Parallelization issues ==
+The algorithm is essentially not parallel: it is of course possible to distribute the matrix–'vector' multiplication, but the whole vector must be available for the combination step at the end of each iteration, so all the machines involved in the calculation must be on the same fast network. In particular, it is not possible to widen the vectors and distribute slices of vectors to different independent machines.
+The block Wiedemann algorithm is more useful in contexts where several systems each large enough to hold the entire matrix are available, since in that algorithm the systems can run independently until a final stage at the end.
+
+
+== History ==
+The block Lanczos algorithm was developed by Peter Montgomery and published in 1995; it is based on, and bears a strong resemblance to, the Lanczos algorithm for finding eigenvalues of large sparse real matrices.
+
+
+== References ==

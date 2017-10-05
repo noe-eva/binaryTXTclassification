@@ -1,0 +1,13 @@
+In data compression and the theory of formal languages, the smallest grammar problem is the problem of finding the smallest context-free grammar that generates a given string of characters. The size of a grammar is defined by some authors as the number of symbols on the right side of the production rules. Others also add the number of rules to that. The (decision version of the) problem is NP-complete.
+
+
+== See also ==
+Grammar-based code
+Kolmogorov Complexity
+Lossless data compression
+Straight-line grammar
+
+
+== References ==
+
+Charikar, Moses; Lehman, Eric; Liu, Ding; Panigrahy, Rina; Prabhakaran, Manoj; Rasala, April; Sahai, Amit; Shelat, Abhi (2002). "Approximating the Smallest Grammar: Kolmogorov Complexity in Natural Models". Proceedings of the thirty-fourth annual ACM symposium on theory of computing (STOC 2002), Montreal, Quebec, Canada, May 19–21, 2002 (PDF). New York, NY: ACM Press. pp. 792–801. ISBN 1-581-13495-9. Zbl 1192.68397. doi:10.1145/509907.510021.

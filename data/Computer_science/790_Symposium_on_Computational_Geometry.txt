@@ -1,0 +1,11 @@
+The Annual Symposium on Computational Geometry (SoCG) is an academic conference in computational geometry. It was founded in 1985, and in most but not all of its years it has been sponsored by the ACM's SIGACT and SIGGRAPH Special Interest Groups. After a few years of discussion, the computational geometry community decided to leave the ACM and organize the conference on its own. The motivation for this decision was the difficulties to organize something with the ACM outside the United States and the possibility of turning to an open-access system of publication. Beginning in 2015 the conference proceedings are published by the Leibniz International Proceedings in Informatics instead of the ACM.
+A 2010 assessment of conference quality by the Australian Research Council listed it as "Rank A".
+
+
+== References ==
+
+
+== External links ==
+Symposium on Computational Geometry at DBLP
+computational geometry pages
+discussion SoCG vs ACM

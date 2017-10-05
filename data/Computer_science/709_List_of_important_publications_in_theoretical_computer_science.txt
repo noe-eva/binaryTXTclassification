@@ -1,0 +1,400 @@
+This is a list of important publications in theoretical computer science, organized by field.
+Some reasons why a particular publication might be regarded as important:
+Topic creator – A publication that created a new topic
+Breakthrough – A publication that changed scientific knowledge significantly
+Influence – A publication which has significantly influenced the world or has had a massive impact on the teaching of theoretical computer science.
+
+
+== Computability ==
+
+
+=== Cutland's Computability: An Introduction to Recursive Function Theory (Cambridge) ===
+Cutland, Nigel J. (1980). Computability: An Introduction to Recursive Function Theory. Cambridge University Press. ISBN 0-521-29465-7. 
+The review of this early text by Carl Smith of Purdue University (in the Society for Industrial and Applied Mathematics Reviews), reports that this a text with an "appropriate blend of intuition and rigor… in the exposition of proofs" that presents "the fundamental results of classical recursion theory [RT]... in a style... accessible to undergraduates with minimal mathematical background". While he states that it "would make an excellent introductory text for an introductory course in [RT] for mathematics students", he suggests that an "instructor must be prepared to substantially augment the material… " when it used with computer science students (given a dearth of material on RT applications to this area).
+
+
+=== Decidability of second order theories and automata on infinite trees ===
+Michael O. Rabin
+Transactions of the American Mathematical Society, vol. 141, pp. 1–35, 1969
+Description: The paper presented the tree automaton, an extension of the automata. The tree automaton had numerous applications to proofs of correctness of programs.
+
+
+=== Finite automata and their decision problems ===
+Michael O. Rabin and Dana S. Scott
+IBM Journal of Research and Development, vol. 3, pp. 114–125, 1959
+Online version (Not Free)
+Description: Mathematical treatment of automata, proof of core properties, and definition of non-deterministic finite automaton.
+
+
+=== Introduction to Automata Theory, Languages, and Computation ===
+
+John E. Hopcroft, Jeffrey D. Ullman, and Rajeev Motwani
+Addison-Wesley, 2001, ISBN 0-201-02988-X
+Description: A popular textbook.
+
+
+=== On certain formal properties of grammars ===
+Chomsky, N. (1959). "On certain formal properties of grammars". Information and Control. 2 (2): 137–167. doi:10.1016/S0019-9958(59)90362-6. 
+Description: This article introduced what is now known as the Chomsky hierarchy, a containment hierarchy of classes of formal grammars that generate formal languages.
+
+
+=== On computable numbers, with an application to the Entscheidungsproblem ===
+Alan Turing
+Proceedings of the London Mathematical Society, Series 2, vol. 42, pp. 230–265, 1937, doi:10.1112/plms/s2-42.1.230.
+Errata appeared in vol. 43, pp. 544–546, 1938, doi:10.1112/plms/s2-43.6.544.
+HTML version, PDF version
+Description: This article set the limits of computer science. It defined the Turing Machine, a model for all computations. On the other hand, it proved the undecidability of the halting problem and Entscheidungsproblem and by doing so found the limits of possible computation.
+
+
+=== Rekursive Funktionen ===
+Péter, Rózsa (1951). Rekursive Funktionen. Academic Press. ISBN 9780125526500. 
+The first textbook on the theory of recursive functions. The book went through many editions and earned Péter the Kossuth Prize from the Hungarian government. Reviews by Raphael M. Robinson and Stephen Kleene praised the book for providing an effective elementary introduction for students.
+
+
+== Computational complexity theory ==
+
+
+=== Arora & Barak's Computational Complexity and Goldreich's Computational Complexity (both Cambridge) ===
+Sanjeev Arora and Boaz Barak, "Computational Complexity: A Modern Approach," Cambridge University Press, 2009, 579 pages, Hardcover
+Oded Goldreich, "Computational Complexity: A Conceptual Perspective, Cambridge University Press, 2008, 606 pages, Hardcover
+Besides the estimable press bringing these recent texts forward, they are very positively reviewed in ACM's SIGACT News by Daniel Apon of the University of Arkansas, who identifies them as "textbooks for a course in complexity theory, aimed at early graduate… or... advanced undergraduate students… [with] numerous, unique strengths and very few weaknesses," and states that both are:
+
+"excellent texts that thoroughly cover both the breadth and depth of computational complexity theory… [by] authors... each [who] are giants in theory of computing [where each will be] ...an exceptional reference text for experts in the field… [and that] ...theorists, researchers and instructors of any school of thought will find either book useful."
+
+The reviewer notes that there is "a definite attempt in [Arora and Barak] to include very up-to-date material, while Goldreich focuses more on developing a contextual and historical foundation for each concept presented," and that he "applaud[s] all… authors for their outstanding contributions."
+
+
+=== A machine-independent theory of the complexity of recursive functions ===
+Blum, Manuel (1967). "A Machine-Independent Theory of the Complexity of Recursive Functions" (PDF). Journal of the ACM. 14 (2): 322–336. doi:10.1145/321386.321395. 
+Description: The Blum axioms.
+
+
+=== Algebraic methods for interactive proof systems ===
+Lund, C.; Fortnow, L.; Karloff, H.; Nisan, N. (1992). "Algebraic methods for interactive proof systems". Journal of the ACM. 39 (4): 859–868. doi:10.1145/146585.146605. 
+Description: This paper showed that PH is contained in IP.
+
+
+=== The complexity of theorem proving procedures ===
+Cook, Stephen A. (1971). "The Complexity of Theorem-Proving Procedures" (PDF). Proceedings of the 3rd Annual ACM Symposium on Theory of Computing: 151–158. doi:10.1145/800157.805047. 
+Description: This paper introduced the concept of NP-Completeness and proved that Boolean satisfiability problem (SAT) is NP-Complete. Note that similar ideas were developed independently slightly later by Leonid Levin at "Levin, Universal Search Problems. Problemy Peredachi Informatsii 9(3):265-266, 1973".
+
+
+=== Computers and Intractability: A Guide to the Theory of NP-Completeness ===
+Garey, Michael R.; Johnson, David S. (1979). Computers and Intractability: A Guide to the Theory of NP-Completeness. New York: Freeman. ISBN 0-7167-1045-5. 
+Description: The main importance of this book is due to its extensive list of more than 300 NP-Complete problems. This list became a common reference and definition. Though the book was published only few years after the concept was defined such an extensive list was found.
+
+
+=== Degree of difficulty of computing a function and a partial ordering of recursive sets ===
+Rabin, Michael O. (1960). "Degree of difficulty of computing a function and a partial ordering of recursive sets" (PDF). Technical Report No. 2. Jerusalem: Hebrew University. 
+Description: This technical report was the first publication talking about what later was renamed computational complexity
+
+
+=== How good is the simplex method? ===
+Victor Klee and George J. Minty
+Klee, Victor; Minty, George J. (1972). "How good is the simplex algorithm?". In Shisha, Oved. Inequalities III (Proceedings of the Third Symposium on Inequalities held at the University of California, Los Angeles, Calif., September 1–9, 1969, dedicated to the memory of Theodore S. Motzkin). New York-London: Academic Press. pp. 159–175. MR 332165. 
+Description: Constructed the "Klee–Minty cube" in dimension D, whose 2D corners are each visited by Dantzig's simplex algorithm for linear optimization.
+
+
+=== How to construct random functions ===
+Goldreich, O.; Goldwasser, S.; Micali, S. (1986). "How to construct random functions" (PDF). Journal of the ACM. 33 (4): 792–807. doi:10.1145/6490.6503. 
+Description: This paper showed that the existence of one way functions leads to computational randomness.
+
+
+=== IP = PSPACE ===
+Shamir, A. (1992). "IP = PSPACE". Journal of the ACM. 39 (4): 869–877. doi:10.1145/146585.146609. 
+Description: IP is a complexity class whose characterization (based on interactive proof systems) is quite different from the usual time/space bounded computational classes. In this paper, Shamir extended the technique of the previous paper by Lund, et al., to show that PSPACE is contained in IP, and hence IP = PSPACE, so that each problem in one complexity class is solvable in the other.
+
+
+=== Reducibility among combinatorial problems ===
+
+R. M. Karp
+In R. E. Miller and J. W. Thatcher, editors, Complexity of Computer Computations, Plenum Press, New York, NY, 1972, pp. 85–103
+Description: This paper showed that 21 different problems are NP-Complete and showed the importance of the concept.
+
+
+=== The Knowledge Complexity of Interactive Proof Systems ===
+Goldwasser, S.; Micali, S.; Rackoff, C. (1989). "The Knowledge Complexity of Interactive Proof Systems" (PDF). SIAM J. Comput. 18 (1): 186–208. doi:10.1137/0218012. 
+Description: This paper introduced the concept of zero knowledge.
+
+
+=== A letter from Gödel to von Neumann ===
+Kurt Gödel
+A Letter from Gödel to John von Neumann, March 20, 1956
+Online version
+Description: Gödel discusses the idea of efficient universal theorem prover.
+
+
+=== On the computational complexity of algorithms ===
+Hartmanis, Juris; Stearns, Richard (1965). "On the computational complexity of algorithms". Transactions of the American Mathematical Society (117): 285–306. 
+Description: This paper gave computational complexity its name and seed.
+
+
+=== Paths, trees, and flowers ===
+Edmonds, J. (1965). "Paths, trees, and flowers". Canadian Journal of Mathematics. 17: 449–467. doi:10.4153/CJM-1965-045-4. 
+Description: There is a polynomial time algorithm to find a maximum matching in a graph that is not bipartite and another step toward the idea of computational complexity. For more information see [3].
+
+
+=== Theory and applications of trapdoor functions ===
+Yao, A. C. (1982). "Theory and application of trapdoor functions". 23rd Annual Symposium on Foundations of Computer Science (SFCS 1982). pp. 80–91. doi:10.1109/SFCS.1982.45. 
+Description: This paper creates a theoretical framework for trapdoor functions and described some of their applications, like in cryptography. Note that the concept of trapdoor functions was brought at "New directions in cryptography" six years earlier (See section V "Problem Interrelationships and Trap Doors.").
+
+
+=== Computational Complexity ===
+C.H. Papadimitriou
+Addison-Wesley, 1994, ISBN 0-201-53082-1
+Description: An introduction to computational complexity theory, the book explains its author's characterization of P-SPACE and other results.
+
+
+=== Interactive proofs and the hardness of approximating cliques ===
+Feige, U.; Goldwasser, S.; Lovász, L.; Safra, S.; Szegedy, M. (1996). "Interactive proofs and the hardness of approximating cliques". Journal of the ACM. 43 (2): 268–292. doi:10.1145/226643.226652. 
+
+
+=== Probabilistic checking of proofs: a new characterization of NP ===
+Arora, S.; Safra, S. (1998). "Probabilistic checking of proofs: A new characterization of NP". Journal of the ACM. 45: 70–122. doi:10.1145/273865.273901. 
+
+
+=== Proof verification and the hardness of approximation problems ===
+Arora, S.; Lund, C.; Motwani, R.; Sudan, M.; Szegedy, M. (1998). "Proof verification and the hardness of approximation problems". Journal of the ACM. 45 (3): 501–555. doi:10.1145/278298.278306. 
+Description: These three papers established the surprising fact that certain problems in NP remain hard even when only an approximative solution is required. See PCP theorem.
+
+
+=== The Instrinsic Computational Difficulty of Functions ===
+Cobham, Alan (1964). "The Instrinsic Computational Difficulty of Functions" (PDF). Proc. of the 1964 International Congress for Logic, Methodology, and the Philosophy of Science: 24–30. 
+Description: First definition of the complexity class P. One of the founding papers of complexity theory.
+
+
+== Algorithms ==
+
+
+=== "A machine program for theorem proving" ===
+Davis, M.; Logemann, G.; Loveland, D. (1962). "A machine program for theorem-proving" (PDF). Communications of the ACM. 5 (7): 394–397. doi:10.1145/368273.368557. 
+Description: The DPLL algorithm. The basic algorithm for SAT and other NP-Complete problems.
+
+
+=== "A machine-oriented logic based on the resolution principle" ===
+Robinson, J. A. (1965). "A Machine-Oriented Logic Based on the Resolution Principle". Journal of the ACM. 12: 23–41. doi:10.1145/321250.321253. 
+Description: First description of resolution and unification used in automated theorem proving; used in Prolog and logic programming.
+
+
+=== "The traveling-salesman problem and minimum spanning trees" ===
+Held, M.; Karp, R. M. (1970). "The Traveling-Salesman Problem and Minimum Spanning Trees". Operations Research. 18 (6): 1138–1162. doi:10.1287/opre.18.6.1138. 
+Description: The use of an algorithm for minimum spanning tree as an approximation algorithm for the NP-Complete travelling salesman problem. Approximation algorithms became a common method for coping with NP-Complete problems.
+
+
+=== "A polynomial algorithm in linear programming" ===
+L. G. Khachiyan
+Soviet Mathematics Doklady, vol. 20, pp. 191–194, 1979
+Description: For long, there was no provably polynomial time algorithm for the linear programming problem. Khachiyan was the first to provide an algorithm that was polynomial (and not just was fast enough most of the time as previous algorithms). Later, Narendra Karmarkar presented a faster algorithm at: Narendra Karmarkar, "A new polynomial time algorithm for linear programming", Combinatorica, vol 4, no. 4, p. 373–395, 1984.
+
+
+=== "Probabilistic algorithm for testing primality" ===
+Rabin, M. (1980). "Probabilistic algorithm for testing primality". Journal of Number Theory. 12 (1): 128–138. doi:10.1016/0022-314X(80)90084-0. 
+Description: The paper presented the Miller-Rabin primality test and outlined the program of randomized algorithms.
+
+
+=== "Optimization by simulated annealing" ===
+Kirkpatrick, S.; Gelatt, C. D.; Vecchi, M. P. (1983). "Optimization by Simulated Annealing". Science. 220 (4598): 671–680. Bibcode:1983Sci...220..671K. PMID 17813860. doi:10.1126/science.220.4598.671. 
+Description: This article described simulated annealing which is now a very common heuristic for NP-Complete problems.
+
+
+=== The Art of Computer Programming ===
+
+Donald Knuth
+Description: This monograph has three popular algorithms books and a number of fascicles. The algorithms are written in both English and MIX assembly language (or MMIX assembly language in more recent fascicles). This makes algorithms both understandable and precise. However, the use of a low-level programming language frustrates some programmers more familiar with modern structured programming languages.
+
+
+=== Algorithms + Data Structures = Programs ===
+
+Niklaus Wirth
+Prentice Hall, 1976, ISBN 0-13-022418-9
+Description: An early, influential book on algorithms and data structures, with implementations in Pascal.
+
+
+=== The Design and Analysis of Computer Algorithms ===
+Alfred V. Aho, John E. Hopcroft, and Jeffrey D. Ullman
+Addison-Wesley, 1974, ISBN 0-201-00029-6
+Description: One of the standard texts on algorithms for the period of approximately 1975–1985.
+
+
+=== How to Solve It By Computer ===
+Dromey, R. G. (1982). How to Solve it by Computer. Prentice-Hall International. ISBN 978-0-13-434001-2. 
+Description: Explains the Whys of algorithms and data-structures. Explains the Creative Process, the Line of Reasoning, the Design Factors behind innovative solutions.
+
+
+=== Algorithms ===
+Robert Sedgewick
+Addison-Wesley, 1983, ISBN 0-201-06672-6
+Description: A very popular text on algorithms in the late 1980s. It was more accessible and readable (but more elementary) than Aho, Hopcroft, and Ullman. There are more recent editions.
+
+
+=== Introduction to Algorithms ===
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
+3rd Edition, MIT Press, 2009, ISBN 978-0-262-03384-8.
+Description: This textbook has become so popular that it is almost the de facto standard for teaching basic algorithms. The 1st edition (with first three authors) was published in 1990, the 2nd edition in 2001, and the 3rd in 2009.
+
+
+== Algorithmic information theory ==
+
+
+=== "On Tables of Random Numbers" ===
+Kolmogorov, Andrei N. (1963). "On Tables of Random Numbers". Sankhyā Ser. A. 25: 369–375. MR 178484. 
+Kolmogorov, Andrei N. (1963). "On Tables of Random Numbers". Theoretical Computer Science. 207 (2): 387–395. MR 1643414. doi:10.1016/S0304-3975(98)00075-9. 
+Description: Proposed a computational and combinatorial approach to probability.
+
+
+=== "A formal theory of inductive inference" ===
+Ray Solomonoff
+Information and Control, vol. 7, pp. 1–22 and 224–254, 1964
+Online copy: part I, part II
+Description: This was the beginning of algorithmic information theory and Kolmogorov complexity. Note that though Kolmogorov complexity is named after Andrey Kolmogorov, he said that the seeds of that idea are due to Ray Solomonoff. Andrey Kolmogorov contributed a lot to this area but in later articles.
+
+
+=== "Algorithmic information theory" ===
+Chaitin, Gregory (1977). "Algorithmic information theory" (PDF). IBM Journal of Research and Development. IBM. 21 (4): 350–359. doi:10.1147/rd.214.0350. 
+Description: An introduction to algorithmic information theory by one of the important people in the area.
+
+
+== Information theory ==
+
+
+=== "A mathematical theory of communication" ===
+Shannon, C.E. (1948). "A mathematical theory of communication". Bell System Technical Journal. 27: 379–423, 623–656. 
+Description: This paper created the field of information theory.
+
+
+=== "Error detecting and error correcting codes" ===
+Hamming, Richard (1950). "Error detecting and error correcting codes". Bell System Technical Journal. 29: 147–160. doi:10.1002/j.1538-7305.1950.tb00463.x. 
+Description: In this paper, Hamming introduced the idea of error-correcting code. He created the Hamming code and the Hamming distance and developed methods for code optimality proofs.
+
+
+=== "A method for the construction of minimum redundancy codes" ===
+Huffman, D. (1952). "A Method for the Construction of Minimum-Redundancy Codes" (PDF). Proceedings of the IRE. 40 (9): 1098–1101. doi:10.1109/JRPROC.1952.273898. 
+Description: The Huffman coding.
+
+
+=== "A universal algorithm for sequential data compression" ===
+Ziv, J.; Lempel, A. (1977). "A universal algorithm for sequential data compression". IEEE Transactions on Information Theory. 23 (3): 337–343. doi:10.1109/TIT.1977.1055714. 
+Description: The LZ77 compression algorithm.
+
+
+=== Elements of Information Theory ===
+Cover, Thomas M.; Thomas, Joy A. (1991). Elements of Information Theory. Wiley. 
+Description: A popular introduction to information theory.
+
+
+== Formal verification ==
+
+
+=== Assigning Meaning to Programs ===
+Floyd, Robert (1967). "Assigning Meaning to Programs" (PDF). Mathematical Aspects of Computer Science. Proceedings of Symposia in Applied Mathematics. 19: 19–32. ISBN 9780821813195. doi:10.1090/psapm/019/0235771. 
+Description: Robert Floyd's landmark paper Assigning Meanings to Programs introduces the method of inductive assertions and describes how a program annotated with first-order assertions may be shown to satisfy a pre- and post-condition specification - the paper also introduces the concepts of loop invariant and verification condition.
+
+
+=== An Axiomatic Basis for Computer Programming ===
+Hoare, C. A. R. (October 1969). "An axiomatic basis for computer programming" (PDF). Communications of the ACM. 12 (10): 576–580. doi:10.1145/363235.363259. Archived from the original (PDF) on 2016-03-04. 
+Description: Tony Hoare's paper An Axiomatic Basis for Computer Programming describes a set of inference (i.e. formal proof) rules for fragments of an Algol-like programming language described in terms of (what are now called) Hoare-triples.
+
+
+=== Guarded Commands, Nondeterminacy and Formal Derivation of Programs ===
+Dijkstra, E. W. (1975). "Guarded commands, nondeterminacy and formal derivation of programs". Communications of the ACM. 18 (8): 453–457. doi:10.1145/360933.360975. 
+Description: Edsger Dijkstra's paper Guarded Commands, Nondeterminacy and Formal Derivation of Programs (expanded by his 1976 postgraduate-level textbook A Discipline of Programming) proposes that, instead of formally verifying a program after it has been written (i.e. post facto), programs and their formal proofs should be developed hand-in-hand (using predicate transformers to progressively refine weakest pre-conditions), a method known as program (or formal) refinement (or derivation), or sometimes "correctness-by-construction".
+
+
+=== Proving Assertions about Parallel Programs ===
+Edward A. Ashcroft
+J. Comput. Syst. Sci. 10(1): 110-135 (1975)
+Description: The paper that introduced invariance proofs of concurrent programs.
+
+
+=== An Axiomatic Proof Technique for Parallel Programs I ===
+Susan S. Owicki, David Gries
+Acta Inf. 6: 319-340 (1976)
+Description: In this paper, along with the same authors paper "Verifying Properties of Parallel Programs: An Axiomatic Approach. Commun. ACM 19(5): 279-285 (1976)", the axiomatic approach to parallel programs verification was presented.
+
+
+=== A Discipline of Programming ===
+Edsger W. Dijkstra
+1976
+Description: Edsger Dijkstra's classic postgraduate-level textbook A Discipline of Programming extends his earlier paper Guarded Commands, Nondeterminacy and Formal Derivation of Programs and firmly establishes the principle of formally deriving programs (and their proofs) from their specification.
+
+
+=== Denotational Semantics ===
+Joe Stoy
+1977
+Description: Joe Stoy's Denotational Semantics is the first (postgraduate level) book-length exposition of the mathematical (or functional) approach to the formal semantics of programming languages (in contrast to the operational and algebraic approaches).
+
+
+=== The Temporal Logic of Programs ===
+Pnueli, A. (1977). "The temporal logic of programs". 18th Annual Symposium on Foundations of Computer Science (SFCS 1977). IEEE. pp. 46–57. doi:10.1109/SFCS.1977.32. 
+Description: The use of temporal logic was suggested as a method for formal verification.
+
+
+=== Characterizing correctness properties of parallel programs using fixpoints (1980) ===
+E. Allen Emerson, Edmund M. Clarke
+In Proc. 7th International Colloquium on Automata Languages and Programming, pages 169-181, 1980
+Description: Model checking was introduced as a procedure to check correctness of concurrent programs.
+
+
+=== Communicating Sequential Processes (1978) ===
+C.A.R. Hoare
+1978
+Description: Tony Hoare's (original) communicating sequential processes (CSP) paper introduces the idea of concurrent processes (i.e. programs) that do not share variables but instead cooperate solely by exchanging synchronous messages.
+
+
+=== A Calculus of Communicating Systems ===
+Robin Milner
+1980
+Description: Robin Milner's A Calculus of Communicating Systems (CCS) paper describes a process algebra permitting systems of concurrent processes to be reasoned about formally, something which has not been possible for earlier models of concurrency (semaphores, critical sections, original CSP).
+
+
+=== Software Development: A Rigorous Approach ===
+Cliff Jones
+1980
+Description: Cliff Jones' textbook Software Development: A Rigorous Approach is the first full-length exposition of the Vienna Development Method (VDM), which had evolved (principally) at IBM's Vienna research lab over the previous decade and which combines the idea of program refinement as per Dijkstra with that of data refinement (or reification) whereby algebraically-defined abstract data types are formally transformed into progressively more "concrete" representations.
+
+
+=== The Science of Programming ===
+David Gries
+1981
+Description: David Gries' textbook The Science of Programming describes Dijkstra's weakest precondition method of formal program derivation, except in a very much more accessible manner than Dijkstra's earlier A Discipline of Programming.
+It shows how to construct programs that work correctly (without bugs, other than from typing errors). It does this by showing how to use precondition and postcondition predicate expressions and program proving techniques to guide the way programs are created.
+The examples in the book are all small-scale, and clearly academic (as opposed to real-world). They emphasize basic algorithms, such as sorting and merging, and string manipulation. Subroutines (functions) are included, but object-oriented and functional programming environments are not addressed.
+
+
+=== Communicating Sequential Processes (1985) ===
+C.A.R. Hoare
+1985
+Description: Tony Hoare's Communicating Sequential Processes (CSP) textbook (currently the third most cited computer science reference of all time) presents an updated CSP model in which cooperating processes do not even have program variables and which, like CCS, permits systems of processes to be reasoned about formally.
+
+
+=== Linear logic (1987) ===
+Girard, J.-Y (1987). "Linear Logic" (PDF). Theoretical Computer Science. London Mathematical Society. 50 (1): 1–102. doi:10.1016/0304-3975(87)90045-4. Archived from the original (PDF) on 2006-11-29. 
+Description: Girard's linear logic was a breakthrough in designing typing systems for sequential and concurrent computation, especially for resource conscious typing systems.
+
+
+=== A Calculus of Mobile Processes (1989) ===
+R. Milner, J. Parrow, D. Walker
+1989
+Online version: Part 1 and Part 2
+Description: This paper introduces the Pi-Calculus, a generalisation of CCS which allows process mobility. The calculus is extremely simple and has become the dominant paradigm in the theoretical study of programming languages, typing systems and program logics.
+
+
+=== The Z Notation: A Reference Manual ===
+Spivey, J. M. (1992). The Z Notation: A Reference Manual (2nd ed.). Prentice Hall International. ISBN 0-13-978529-9. 
+Description: Mike Spivey's classic textbook The Z Notation: A Reference Manual summarises the formal specification language Z notation which, although originated by Jean-Raymond Abrial, had evolved (principally) at Oxford University over the previous decade.
+
+
+=== Communication and Concurrency ===
+Robin Milner
+Prentice-Hall International, 1989
+Description: Robin Milner's textbook Communication and Concurrency is a more accessible, although still technically advanced, exposition of his earlier CCS work.
+
+
+=== a Practical Theory of Programming ===
+Eric Hehner
+Springer, 1993, current edition online here
+Description: the up-to-date version of Predicative programming. The basis for C.A.R. Hoare's UTP. The simplest and most comprehensive formal methods.
+
+
+== References ==

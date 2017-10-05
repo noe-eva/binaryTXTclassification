@@ -1,0 +1,89 @@
+A sprung floor is a floor that absorbs shocks, giving it a softer feel. Such floors are considered the best available for dance and indoor sports and physical education. They enhance performance and greatly reduce injuries. Modern sprung floors are supported by foam backing or rubber feet, while traditional floors provide their spring through bending woven wooden battens. Many dance halls with sprung hard wood floors date back to the early 20th century, such as the Willowbrook Ballroom in Chicago (1921), the Crystal Ballroom in Portland, OR (1914), and the Carrillo Ballroom in Santa Barbara, CA (1914). The sprung floor at Blackpool Tower Ballroom dates from 1894. The UK's largest Conservative Club, Accrington Conservative Club, built in 1890, also has a sprung floor located in the Grand Ballroom that holds up to 1,000 guests.
+This article deals mainly with the basic requirements and construction of sprung floors. See: Performance surface, for more on customization for different activities.
+Modern sprung floors are designed to dampen bounce and so are sometimes called semi-sprung. A spring floor on the other hand is a type of floor designed to provide bounce; they are used for floor exercises in gymnastics or for cheerleading.
+
+
+== Terminology ==
+A sprung floor is also sometimes referred to as a floating floor. That term, though, more often refers to a floor that insulates against noise or a raised floor with ducts and wires underneath, as in computer facilities.
+The top layer of a sprung floor is a performance surface. This can be either a natural material such as solid wood or engineered wood, or it can be a synthetic surface such as Vinyl, Linoleum, Polyurethane or Rubber. 
+A sprung floor excluding the surface is often referred to as the sub-floor. Most sprung floors require a level sub-floor to be installed.
+The term speed refers to the traction (kinetic friction) of performance surfaces: fast describes a slippery surface, and slow describes a higher-traction surface, like a gym floor.
+
+
+== Requirements ==
+The basic requirements for a sports floor or a dance floor are the same. They should encourage optimum performance and be safe. There are many differences between what would be the best floor for various sports and forms of dance. However, the requirements are similar enough that one can have a floor suitable for general use; exceptions, such as judo, generally involve the use of additional mats on top of the flooring.
+This article deals mainly with requirements which are common across different disciplines. The performance surface article deals more with customization for different activities.
+These basic requirements are covered in more detail in the standards listed below.
+It should have just the right amount of give; it should not be too hard, which causes repetitive strain injuries, or too soft, which is tiring.
+It should be even and flat with only small variation in characteristics across the surface.
+It should be springy and return energy to lift the feet when moving, but not too springy like a trampoline.
+It should absorb the energy of falls and reduce injuries.
+It should have appropriate traction: too much and the foot might twist when turning, too little and it can be dangerously slippery.
+There should not be any sideways movement. Sideways movement hampers balance, which is why very thick pile carpeting can be dangerous for the elderly (thick underlay, however, is good).
+It should be primarily area elastic rather than point elastic. It should depress more like a wooden floor than a sponge rubber one, but the effect should not extend too far, and the surface layer can be point elastic.
+It should be easy to see action on the floor: it should not be too light or dark.
+It should be neither too noisy nor too quiet in use.
+It should not become dangerous if liquid is spilled on it, and it should be easy to clean up such spillages. This is a major cause of injury.
+Additionally, many such floors are multipurpose. For instance, a community hall might be used for play groups and old-age groups, for dances, aerobics and sports, and for seating for plays. The floor may have to support heavy objects like pianos. There may also be requirements for ease of cleaning and maintenance. Cost of repair after damage by vandals or stiletto heels is also a consideration. Note that the necessity to serve multiple purposes can often be eased by the use of a gym floor cover to protect the floor.
+There is no combined safety standard applicable to multiple situations, such as for playground surfaces, sprung floors, or use in old-age centers, but a specification that conforms to a minimum sports or dance standard should be adequate to prevent serious injuries (e.g., broken bones) for children falling from 2 ft (0.61 m), as from a toddlers table, or hip injuries in the elderly.
+
+
+== Construction of a sprung floor ==
+Sprung floors come in a few major types:
+Traditional wood basket-weave
+Wood with high durometer neoprene pads. Sometimes both basket-weave and neoprene pads are used.
+Foam rubber with a wood or other area elastic layer on top
+A few sprung floors use actual springs - the special spring floors used by cheerleaders and tumblers often have coil springs under them.
+The construction may be built into the area, or it may be composed of modules that slot together and can be disassembled for tours.
+
+Performance halls should be designed and built with sprung floors in mind. A depth of at least 10 centimetres (3.9 in) should be allowed for the floor. This can be a major constraint when laying a sprung floor in a hall not designed for it. Most can accommodate a maximum of 5 cm (2.0 in), and some sprung floors designed for refurbishments are as low as 3 cm (1.2 in). Ramps for wheelchairs will be needed at the doors. If the ramp is outside the hall, the doors will need the bottoms trimmed off (easing) and their height will therefore be reduced. Ramps can have a 1:12 incline at most, and they may also need a safety zone around them. Thus if the floor is 5 cm deep, the ramp should be 60 cm (24 in) long or more. The underfloor needs to be made flat either with levelling cement, very careful trowelling, or by using shims and a layer of masonite. Any new cement must be allowed to dry for at least a month. A membrane vapour barrier should be used to prevent moisture from the ground.
+
+A semi-traditional floor would have wood battens laid on pads made of neoprene, which is more durable than rubber. Pads are typically laid 40–50 cm (16–20 in) apart and are 1–2.5 cm (0.39–0.98 in) thick. Then more wood battens are put on top at right angles, halfway between the pads. A traditional floor might have three layers of this springing. Then two layers of plywood are placed on top, offset by 45–90 degrees so that the joints do not match up. The plywood spreads the load. Finally, the actual surface is made from a layer of strong, durable wood like oak, beech or maple, or other types of wood that are covered with a vinyl surface. There may also be provision to prevent the floor from depressing too much if a very heavy weight is placed on it.
+There should normally be a fairly wide gap between the floor and the wall to allow for expansion and to allow air to circulate. This is often covered by a skirting board or molding, to make the gap less apparent. It is because the floor is free-standing, rather than connected to walls or joists, that it is also referred to as a floating floor.
+The performance surface is normally of vinyl or hardwood, engineered wood or laminate. For dance the surface may be replaceable, so that a theatre can adapt easily to either ballet or tap dance.
+
+
+=== Generating power from dance ===
+A number of green nightclubs, including Rotterdam's Club Watt, have installed sprung floors which help generate power for their music and lightshows. The floors are suspended on transducers that act like shock absorbers. To absorb the energy produced by dancers, piezoelectric crystals are used. When compressed, these crystals charge nearby batteries.
+
+
+=== Open and closed cells ===
+The neoprene pads used in sprung floors may be described as having open cells or closed cells. A cell is a void inside the neoprene, which may be a single cell or a network of small ones.
+A closed cell is like a balloon, where the air inside cannot escape and the pad is bouncy and returns most of the energy put in. A pad with many small, closed cells may also be referred to as a foam, but typically only a single large closed cell is used, as the cell can expand sideways and so provides characteristics more like a long spring.
+Open cells have small holes which let the air inside escape and tend to dissipate the energy input. A pad with many open cells may also be referred to as a sponge.
+As with everything to do with sprung floors, a combination of types is often used. A core of softer durometer may have a harder outer layer shaped so that heavy falls encounter more resistance instead of 'bottoming out' to a concrete subfloor. This also protects against deformation by heavy weights like pianos.
+
+
+=== Portable dance floors ===
+Portable dance floors are mobile dance floors which provide a temporary surface for dancing. They can be installed quickly in any area by laying down panels and placed in a cart for ease of storage. They can be designed for both indoor and outdoor use.
+A portable dance floor is typically about 1⁄2 to 1 inch thick (1.3 to 2.5 cm), and consists of many 3 ft × 3 ft (0.91 m × 0.91 m) panels to create the desired size. There is trim edging around the border, allowing users to enter the floor safely. The portable panels are constructed from either oak parquet, for indoor use, or honeycomb aluminum and laminate for indoor and outdoor use. Other portable dance floors are made out of a polypropylene base with a commercial grade laminate top surface. These floors are extremely durable and often used in the event-planning, hospitality industries. While older-style portable dance floors feature solid-wood construction, many portable dance floors use an interlocking system for a simple system to connect the pieces. High-quality, weather-resistant, portable dance floors are also engineered to be used for both indoor and outdoor applications.
+Portable dance floors are commonly used for events like parties and weddings or conferences where there is no permanent dance floor available. They may also be used on cruise ships or in schools as a way to utilize limited space.
+
+
+== Standards ==
+The same standards are applicable to dance as to sport. These describe minimum standards suitable for a general purpose hall. The ranges of parameters are wide enough to cover optimizing most special purpose halls as well:
+EN 14904 is a new European standard which will replace European national standards. This was used for the World Cup in Germany, and covers both sports and dance halls. It also deals explicitly with some special purpose floors. The British Sports Council has a leaflet about it.
+DIN 18032 part 2 was the German standard and was for a long time considered best practice.
+BS 7044 part 4 was the British standard for artificial sports surfaces. This has been superseded by BS EN 14904: 2006.
+
+
+== History ==
+There does not seem to be a researched history of sprung floors. There would not have been much perceived need until recently, when concrete slabs started being generally used for sub-floors. Before then floors were mainly either earthen or used wood on joists, both of which provide some cushioning from shocks. Early sprung floors often used leaf or coil springs, whence the name; these floors tended to bounce, but modern floors have suppressed this 'trampoline' effect and so are often called semi-sprung.
+The earliest references on the web seem to be:
+The New Zealand Prime Ministerial home was rebuilt soon after 1872. The rebuild included a ballroom with a sprung floor and New Zealand's first elevator.
+A purpose built dance hall with a still functioning sprung floor was built in the Over-the-Rhine area of Cincinnati in 1885.
+Many sprung floors were installed for dance soon after 1900 in places like embassies, hotels, and private clubs. Use of sprung floors exploded with the opening of large public dance halls between 1920 and 1945.
+The use of sprung floors for sport date to the 1936 Olympics in Berlin; before then floor exercises were performed on grass. Spring floors for professional acrobats probably date long before this.
+
+
+== See also ==
+Dance floor (disambiguation)
+Floor (gymnastics)
+Performance surface
+
+
+== References ==
+
+
+== External links ==
+"Build your own dance floor". , Part of the FAQ list for the newsgroup rec.arts.dance

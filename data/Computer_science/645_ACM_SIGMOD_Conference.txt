@@ -1,0 +1,20 @@
+SIGMOD is the Association for Computing Machinery's Special Interest Group on Management of Data, which specializes in large-scale data management problems and databases.
+The annual ACM SIGMOD Conference, which began in 1975, is considered one of the most important in the field. While traditionally this conference had always been held within North America, it took place in Paris in 2004, Beijing in 2007, Athens in 2011, and Melbourne in 2015. The acceptance rate of the ACM SIGMOD Conference, averaged from 1996 to 2012, was 18%, and it was 17% in 2012.
+In association with SIGACT and SIGART, SIGMOD also sponsors the annual ACM Symposium on Principles of Database Systems (PODS) conference on the theoretical aspects of database systems. PODS began in 1982, and has been held jointly with the SIGMOD conference since 1991.
+Each year, the group gives out several awards to contributions to the field of data management. The most important of these is the SIGMOD Edgar F. Codd Innovations Award (named after the computer scientist Edgar F. Codd), which is awarded to "innovative and highly significant contributions of enduring value to the development, understanding, or use of database systems and databases". Additionally, SIGMOD presents a Best Paper Award to recognize the highest quality paper at each conference, and Jim Gray Dissertion Award to the best Ph.D thesis in data management.
+
+
+== Venues of SIGMOD conferences ==
+
+
+== See also ==
+List of computer science conferences
+CIDR – Conference on Innovative Data Systems Research
+VLDB – International Conference on Very Large Data Bases
+
+
+== External links ==
+SIGMOD
+
+
+== References ==

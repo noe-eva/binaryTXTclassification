@@ -1,0 +1,232 @@
+The following outline is provided as an overview of and topical guide to software:
+Software – collection of computer programs and related data that provides the instructions for telling a computer what to do and how to do it. Software refers to one or more computer programs and data held in the storage of the computer for some purposes. In other words, software is a set of programs, procedures, algorithms and its documentation concerned with the operation of a data processing system. The term was coined to contrast to the old term hardware (meaning physical devices). In contrast to hardware, software "cannot be touched". Software is also sometimes used in a more narrow sense, meaning application software only. Sometimes the term includes data that has not traditionally been associated with computers, such as film, tapes, and records.
+
+
+== What type of thing is software? ==
+Software can be described as all of the following:
+Technology
+Computer technology
+Tools
+
+
+== Types of software ==
+Application software – end-user applications of computers such as word processors or video games, and ERP software for groups of users.
+Business software
+Computer-aided design
+Databases
+Decision-making software
+Educational software
+Image editing
+Industrial automation
+Mathematical software
+Medical software
+Molecular modeling software
+Quantum chemistry and solid state physics software
+Simulation software
+Spreadsheets
+Telecommunications (i.e., the Internet and everything that flows on it)
+Video editing software
+Video games
+Word processors
+
+Middleware controls and co-ordinates distributed systems.
+Programming languages – define the syntax and semantics of computer programs. For example, many mature banking applications were written in the language COBOL, invented in 1959. Newer applications are often written in more modern languages.
+System software – provides the basic functions for computer usage and helps run the computer hardware and system. It includes a combination of the following:
+Device driver
+Operating system
+Package management system
+Server
+Utility
+Window system
+
+Teachware – any special breed of software or other means of product dedicated to education purposes in software engineering and beyond in general education.
+Testware – any software for testing hardware or software.
+Firmware – low-level software often stored on electrically programmable memory devices. Firmware is given its name because it is treated like hardware and run ("executed") by other software programs. Firmware often is not accessible for change by other entities but the developers' enterprises.
+Shrinkware is the older name given to consumer-purchased software, because it was often sold in retail stores in a shrink wrapped box.
+Device drivers – control parts of computers such as disk drives, printers, CD drives, or computer monitors.
+Programming tools – assist a programmer in writing computer programs, and software using various programming languages in a more convenient way. The tools include:
+Compilers
+Debuggers
+Interpreters
+Linkers
+Text editors
+Integrated development environment (IDE) – single application for managing all of these functions.
+
+
+== Software products ==
+
+
+=== By publisher ===
+List of Adobe software
+List of Microsoft software
+
+
+=== By platform ===
+List of Macintosh software
+List of old Macintosh software
+
+
+=== By genre ===
+List of software categories
+List of 2D animation software
+List of 3D animation software
+List of 3D computer graphics software
+List of 3D modeling software
+List of antivirus software
+List of compilers
+List of computer algebra systems
+List of computer-assisted organic synthesis software
+List of computer simulation software
+List of concept- and mind-mapping software
+List of content management systems
+List of graphing software
+List of information graphics software
+List of Linux distributions
+List of operating systems
+List of protein structure prediction software
+List of molecular graphics systems
+List of numerical analysis software
+List of optimization software
+List of quantum chemistry and solid state physics software
+List of spreadsheet software
+List of statistical packages
+List of Unified Modeling Language tools
+List of video editing software
+List of web browsers
+
+
+=== Comparisons ===
+Comparison of 3D computer graphics software
+Comparison of accounting software
+Comparison of audio player software
+Comparison of computer-aided design editors
+Comparison of data modeling tools
+Comparison of database tools
+Comparison of desktop publishing software
+Comparison of digital audio editors
+Comparison of DOS operating systems
+Comparison of email clients
+Comparison of force field implementations
+Comparison of instant messaging clients
+Comparison of issue tracking systems
+Comparison of Linux distributions
+Comparison of mail servers
+Comparison of network monitoring systems
+Comparison of nucleic acid simulation software
+Comparison of operating systems
+Comparison of raster graphics editors
+Comparison of software for molecular mechanics modeling
+Comparison of system dynamics software
+Comparison of text editors
+Comparison of vector graphics editors
+Comparison of web frameworks
+Comparison of web server software
+Comparison of word processors
+comparison of social software
+
+
+== History of software ==
+History of software engineering
+History of free and open-source software
+History of software configuration management
+History of programming languages
+Timeline of programming languages
+
+History of operating systems
+History of Mac OS X
+History of Microsoft Windows
+Timeline of Microsoft Windows
+
+History of the web browser
+Web browser history
+
+
+== Software development ==
+Software development  (outline) – development of a software product, which entails computer programming (process of writing and maintaining the source code), but also encompasses a planned and structured process from the conception of the desired software to its final manifestation. Therefore, software development may include research, new development, prototyping, modification, reuse, re-engineering, maintenance, or any other activities that result in software products.
+
+
+=== Computer programming ===
+Computer programming  (outline) –
+
+
+=== Software engineering ===
+Software engineering  (outline) –
+
+
+== Software distribution ==
+Software distribution –
+Software licenses
+Beerware
+Free
+Free and open source software
+Freely redistributable software
+Open-source software
+Proprietary software
+Public domain software
+
+Revenue models
+Adware
+Donationware
+Freemium
+Freeware
+Commercial software
+Nagware
+Postcardware
+Shareware
+
+Delivery methods
+Digital distribution
+List of mobile software distribution platforms
+
+On-premises software
+Pre-installed software
+Product bundling
+Software as a service
+Software plus services
+
+Scams
+Scareware
+Malware
+
+End of software life cycle
+Abandonware
+
+
+== Software industry ==
+Software industry
+
+
+== Software publications ==
+
+
+== Persons influential in software ==
+Bill Gates
+Steve Jobs
+Jonathan Sachs
+Wayne Ratliff
+
+
+== See also ==
+
+Outline of information technology
+Outline of computers
+Outline of computing
+
+List of computer hardware terms
+Bachelor of Science in Information Technology
+Custom software
+Functional specification
+Marketing strategies for product software
+Service-Oriented Modeling Framework
+Bus factor
+Capability Maturity Model
+Software publisher
+User experience
+
+
+== References ==
+
+
+== External links ==
+
+This outline displayed as a mindmap, at wikimindmap.com

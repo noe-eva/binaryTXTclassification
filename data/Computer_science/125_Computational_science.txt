@@ -1,0 +1,105 @@
+Computational science (also scientific computing or scientific computation (SC)) is a rapidly growing multidisciplinary field that uses advanced computing capabilities to understand and solve complex problems. It is an area of science which spans many disciplines, but at its core it involves the development of models and simulations to understand natural systems. Nature is a complex system that processes information, computational science aims to make the complexity of those systems tractable.
+Algorithms (numerical and non-numerical), mathematical and computational modeling and simulation developed to solve science (e.g., biological, physical, and social), engineering, and humanities problems
+Computer and information science that develops and optimizes the advanced system hardware, software, networking, and data management components needed to solve computationally demanding problems
+The computing infrastructure that supports both the science and engineering problem solving and the developmental computer and information science
+In practical use, it is typically the application of computer simulation and other forms of computation from numerical analysis and theoretical computer science to solve problems in various scientific disciplines. The field is different from theory and laboratory experiment which are the traditional forms of science and engineering. The scientific computing approach is to gain understanding, mainly through the analysis of mathematical models implemented on computers. Scientists and engineers develop computer programs, application software, that model systems being studied and run these programs with various sets of input parameters. The essence of computational science is the application of numerical algorithms and/or computational mathematics. In some cases, these models require massive amounts of calculations (usually floating-point) and are often executed on supercomputers or distributed computing platforms.
+
+
+== The computational scientist ==
+
+The term computational scientist is used to describe someone skilled in scientific computing. This person is usually a scientist, an engineer or an applied mathematician who applies high-performance computing in different ways to advance the state-of-the-art in their respective applied disciplines in physics, chemistry or engineering.
+Computational science is now commonly considered a third mode of science, complementing and adding to experimentation/observation and theory (see image on the right). Here, we define a system as a potential source of data, a experiment as a process of extracting data from a system by exerting it through its inputs and a model (M) for a system (S) and an experiment (E) as anything to which E can be applied in order to answer questions about S. A computational scientist should be capable of:
+recognizing complex problems
+adequately conceptualise the system containing these problems
+design a framework of algorithms suitable for studying this system: the simulation
+choose a suitable computing infrastructure (parallel computing/grid computing/supercomputers)
+hereby, maximising the computational power of the simulation
+assessing to what level the output of the simulation resembles the systems: the model is validated
+adjust the conceptualisation of the system accordingly
+repeat cycle until a suitable level of validation is obtained: the computational scientists trusts that the simulation generates adequately realistic results for the system, under the studied conditions
+In fact, substantial effort in computational sciences has been devoted to the development of algorithms, the efficient implementation in programming languages, and validation of computational results. A collection of problems and solutions in computational science can be found in Steeb, Hardy, Hardy and Stoop (2004).
+
+
+== Applications of computational science ==
+Problem domains for computational science/scientific computing include:
+
+
+=== Urban complex systems ===
+Now in 2015 over half the worlds population live in cities. By the middle of the 21st century, it is estimated that 75% of the world’s population will be urban. This urban growth is focused in the urban populations of developing counties where cities dwellers will more than double, increasing from 2.5 billion in 2009 to almost 5.2 billion in 2050. Cities are massive complex systems created by humans, made up of humans and governed by humans. Trying to predict, understand and somehow shape the development of cities in the future requires complexity thinking, and requires computational models and simulations to help mitigate challenges and possible disasters. The focus of research in urban complex systems is, through modelling and simulation, build greater understanding of city dynamics and help prepare for the coming urbanisation.
+
+
+=== Computational finance ===
+
+In today’s financial markets huge volumes of interdependent assets are traded by a large number of interacting market participants in different locations and time zones. Their behavior is of unprecedented complexity and the characterization and measurement of the risk inherent to these highly diverse set of instruments is typically based on complicated mathematical and computational models. Solving these models exactly in closed form, even at a single instrument level, is typically not possible, and therefore we have to look for efficient numerical algorithms. This has become even more urgent and complex recently, as the credit crisis has clearly demonstrated the role of cascading effects going from single instruments through portfolios of single institutions to even the interconnected trading network. Understanding this requires a multi-scale and holistic approach where interdependent risk factors such as market, credit and liquidity risk are modelled simultaneously and at different interconnected scales.
+
+
+=== Computational biology ===
+
+Exciting new developments in biotechnology are now revolutionizing biology and biomedical research. Examples of these techniques are high-throughput sequencing, high-throughput quantitative PCR, intra-cellular imaging, in-situ hybridization of gene expression, three-dimensional imaging techniques like Light Sheet Fluorescence Microscopy and Optical Projection, (micro)-Computer Tomography. Given the massive amounts of complicated data that is generated by these techniques, their meaningful interpretation, and even their storage, form major challenges calling for new approaches. Going beyond current bioinformatics approaches, computational biology needs to develop new methods to discover meaningful patterns in these large data sets. Model-based reconstruction of gene networks can be used to organize the gene expression data in systematic way and to guide future data collection. A major challenge here is to understand how gene regulation is controlling fundamental biological processes like biomineralisation and embryogenesis. The sub-processes like gene regulation, organic molecules interacting with the mineral deposition process, cellular processes, physiology and other processes at the tissue and environmental levels are linked. Rather than being directed by a central control mechanism, biomineralisation and embryogenesis can be viewed as an emergent behavior resulting from a complex system in which several sub-processes on very different temporal and spatial scales (ranging from nanometer and nanoseconds to meters and years) are connected into a multi-scale system. One of the few available options to understand such systems is by developing a multi-scale model of the system.
+
+
+=== Complex systems theory ===
+
+Using information theory, non-equilibrium dynamics and explicit simulations computational systems theory tries to uncover the true nature of complex adaptive systems.
+
+
+=== Computational science in engineering ===
+
+Computational science and engineering (CSE) is a relatively new discipline that deals with the development and application of computational models and simulations, often coupled with high-performance computing, to solve complex physical problems arising in engineering analysis and design (computational engineering) as well as natural phenomena (computational science). CSE has been described as the "third mode of discovery" (next to theory and experimentation). In many fields, computer simulation is integral and therefore essential to business and research. Computer simulation provides the capability to enter fields that are either inaccessible to traditional experimentation or where carrying out traditional empirical inquiries is prohibitively expensive. CSE should neither be confused with pure computer science, nor with computer engineering, although a wide domain in the former is used in CSE (e.g., certain algorithms, data structures, parallel programming, high performance computing) and some problems in the latter can be modeled and solved with CSE methods (as an application area).
+
+
+== Methods and algorithms ==
+Algorithms and mathematical methods used in computational science are varied. Commonly applied methods include:
+
+Both historically and today, Fortran remains popular for most applications of scientific computing. Other programming languages and computer algebra systems commonly used for the more mathematical aspects of scientific computing applications include GNU Octave, Haskell, Julia, Maple, Mathematica, MATLAB, Python (with third-party SciPy library), Perl (with third-party PDL library), R, SciLab, and TK Solver. The more computationally intensive aspects of scientific computing will often use some variation of C or Fortran and optimized algebra libraries such as BLAS or LAPACK.
+Computational science application programs often model real-world changing conditions, such as weather, air flow around a plane, automobile body distortions in a crash, the motion of stars in a galaxy, an explosive device, etc. Such programs might create a 'logical mesh' in computer memory where each item corresponds to an area in space and contains information about that space relevant to the model. For example, in weather models, each item might be a square kilometer; with land elevation, current wind direction, humidity, temperature, pressure, etc. The program would calculate the likely next state based on the current state, in simulated time steps, solving equations that describe how the system operates; and then repeat the process to calculate the next state.
+
+
+== Conferences and journals ==
+In the year 2001, the International Conference on Computational Science (ICCS) was first organised. Since then it has been organised yearly. ICCS is an A-rank conference in CORE classification.
+The international Journal of Computational Science published its first issue in May 2010. A new initiative was launched in 2012, the Journal of Open Research Software. In 2015, ReScience  dedicated to the replication of computational results has been started on GitHub.
+
+
+== Education ==
+At some institutions a specialization in scientific computation can be earned as a "minor" within another program (which may be at varying levels). However, there are increasingly many bachelor's, master's and doctoral programs in computational science. The joint degree programme master program computational science at the University of Amsterdam and the Vrije Universiteit was the first full academic degree offered in computational science, and started in 2004. In this programme, students:
+learn to build computational models from real-life observations;
+develop skills in turning these models into computational structures and in performing large-scale simulations;
+learn theory that will give a firm basis for the analysis of complex systems;
+learn to analyse the results of simulations in a virtual laboratory using advanced numerical algorithms.
+
+
+== Related fields ==
+
+
+== See also ==
+
+Computer simulations in science
+Computational science and engineering
+Comparison of computer algebra systems
+List of molecular modeling software
+List of numerical analysis software
+List of statistical packages
+Timeline of scientific computing
+Simulated reality
+Extensions for Scientific Computation (XSC)
+
+
+== References ==
+
+
+== Additional sources ==
+E. Gallopoulos and A. Sameh, "CSE: Content and Product". IEEE Computational Science and Engineering Magazine, 4(2):39–43 (1997)
+G. Hager and G. Wellein, Introduction to High Performance Computing for Scientists and Engineers, Chapman and Hall (2010)
+A.K. Hartmann, Practical Guide to Computer Simulations, World Scientific (2009)
+Journal Computational Methods in Science and Technology (open access), Polish Academy of Sciences
+Journal Computational Science and Discovery, Institute of Physics
+R.H. Landau, C.C. Bordeianu, and M. Jose Paez, A Survey of Computational Physics: Introductory Computational Science, Princeton University Press (2008)
+
+
+== External links ==
+John von Neumann-Institut for Computing (NIC) at Juelich (Germany)
+The National Center for Computational Science at Oak Ridge National Laboratory
+Educational Materials for Undergraduate Computational Studies
+Computational Science at the National Laboratories
+Bachelor in Computational Science, University of Medellin, Colombia, South America
+Simulation Optimization Systems (SOS) Research Laboratory, McMaster University, Hamilton, ON

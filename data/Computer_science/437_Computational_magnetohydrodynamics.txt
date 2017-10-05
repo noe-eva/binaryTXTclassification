@@ -1,0 +1,56 @@
+Computational magnetohydrodynamics (CMHD) is a rapidly developing branch of magnetohydrodynamics that uses numerical methods and algorithms to solve and analyze problems that involve electrically conducting fluids. Most of the methods used in CMHD are borrowed from the well established techniques employed in Computational fluid dynamics. The complexity mainly arises due to the presence of a magnetic field and its coupling with the fluid. One of the important issues is to numerically maintain the 
+  
+    
+      
+        ∇
+        ⋅
+        
+          
+            B
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \nabla \cdot {\mathbf {B} }=0}
+   (conservation of magnetic flux) condition, from Maxwell's equations, to avoid any unphysical effects.
+
+
+== Open-source MHD codes ==
+Pencil Code
+Compressible resistive MHD, intrinsically divergence free, embedded particles module, finite-difference explicit scheme, high-order derivatives, Fortran95 and C, parallelized up to hundreds of thousands cores. Source code is available.
+RAMSES
+RAMSES is an open source code to model astrophysical systems, featuring self-gravitating, magnetised, compressible, radiative fluid flows. It is based on the Adaptive Mesh Refinement (AMR) technique on a fully threaded graded octree. RAMSES is written in Fortran 90 and is making intensive use of the Message Passing Interface (MPI) library. Source code is available.
+RamsesGPU
+RamsesGPU is a MHD Code written in C++, based on the original RAMSES but only for regular grid (no AMR). The code has been designed to run on large clusters of GPU (NVIDIA graphics processors), so parallelization relies on MPI for distributed memory processing, as well as the programing language CUDA for efficient usage of GPU resources. Static Gravity Fields are supported. Different finite volume methods are implemented. Source code is available.
+Athena
+Athena is a grid-based code for astrophysical magnetohydrodynamics (MHD). It was developed primarily for studies of the interstellar medium, star formation, and accretion flows. Source code is available.
+
+
+== Commercial MHD codes ==
+USim
+MACH2
+
+
+== See also ==
+Magnetohydrodynamic turbulence
+Magnetic flow meter
+Plasma modeling
+
+
+== References ==
+
+Brio, M., Wu, C. C.(1988), "An upwind differencing scheme for the equations of ideal magnetohydrodynamics", Journal of Computational Physics, 75, 400–422.
+Henri-Marie Damevin and Klaus A. Hoffmann(2002), "Development of a Runge-Kutta Scheme with TVD for Magnetogasdynamics", Journal of Spacecraft and Rockets, 34,No.4, 624–632.
+Robert W. MacCormack(1999), "An upwind conservation form method for ideal magnetohydrodynamics equations", AIAA-99-3609.
+Robert W. MacCormack(2001), "A conservation form method for magneto-fluid dynamics", AIAA-2001-0195.
+
+
+== Further reading ==
+Toro, E. F. (1999), Riemann Solvers and Numerical Methods for Fluid Dynamics, Springer-Verlag.
+Ledvina, S. A.; Y.-J. Ma; E. Kallio (2008). "Modeling and Simulating Flowing Plasmas and Related Phenomena". Space Science Reviews. 139. Bibcode:2008SSRv..139..143L. doi:10.1007/s11214-008-9384-6. 
+
+
+== External links ==
+NCBI

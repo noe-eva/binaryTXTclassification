@@ -1,0 +1,1 @@
+A Protected Procedure Call (PPC) is a messaging facility wherein messages are sent and received using procedure call interfaces. They are a core component of the K42 operating system.

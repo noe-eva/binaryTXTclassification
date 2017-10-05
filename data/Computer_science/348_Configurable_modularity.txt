@@ -1,0 +1,8 @@
+Configurable modularity is a term coined by Raoul de Campo of IBM Research and later expanded on by Nate Edwards of the same organization, denoting the ability to reuse independent components by changing their interconnections, but not their internals. In Edwards' view this characterizes all successful reuse systems, and indeed all systems which can be described as "engineered".
+
+
+== External links ==
+Flow-Based Programming
+
+
+== References ==

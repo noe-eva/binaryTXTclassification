@@ -1,0 +1,22 @@
+Beginner's luck refers to the supposed phenomenon of novices experiencing disproportionate frequency of success or succeeding against an expert in a given activity. One would expect experts to outperform novices - when the opposite happens it is counter-intuitive, hence the need for a term to describe this phenomenon. The term is most often used in reference to a first attempt in sport or gambling, but is also used in many other diverse contexts. The term is also used when no skill whatsoever is involved, such as a first-time slot machine player winning the jackpot.
+
+
+== Causes ==
+Whether or not beginner's luck as a statistical phenomenon actually occurs varies by the situation. There are many explanations:
+Beginner's luck arises from a disconnect between the player and the pressure of the game. A novice player is inexperienced and consequently is not expected to do well. This means that there is no pressure on the player to excel; this lack of pressure allows the player to concentrate more than a pressured veteran player. This contradicts the Rosenthal effect which states that students who are expected to perform better usually perform better.
+In a competitive game, a skilled player will expect certain actions to be taken by an opponent in a given situation and prepares his strategy using that prediction. This is especially true in card games, chess, etc. However, the beginner does not have the skill and will often not take the best action. The skilled player is caught off guard and cannot correctly predict or interpret his opponent's action and he loses a large part of his advantage.
+The experts of a game will believe in beginner's luck because they themselves experienced disproportionate good fortune as novices. Suppose that 100 beginners play a game for the first time, and half win by random chance. The half that won is more likely to take an interest in the game and become experts, while the half that lose is more likely to lose interest and never play again. Thus, in any game, the "experts" will believe in beginner's luck, simply because they disproportionately experienced good fortune as novices themselves.
+Another explanation begins by noting that the acquisition of a new skill imposes limitations on the number of actions available to an agent. In the early stages of this process, an almost unlimited number of actions are possible. Though almost all of these are ineffectual, the probability of unusually effective actions manifesting by chance is still greater than when one has attained a moderate degree of skill, since, as one’s ability improves, the scope of possible actions becomes both more lawful and more limited, subtending freakish deviations from the mean both directions. Due to the availability heuristic, these runs of flukish proficiency will stand out against the base rate of general ineptitude.
+Belief in beginner's luck may result from confirmation bias - occasions when a beginner performs unusually well are likely to be remembered, while occasions where a beginner performed badly are forgotten.
+Beginner's luck is thought to end once a player gets involved with a game, and the "innocent" psychological mindset is replaced by one that is concerned with the nuances of the game.
+
+
+== See also ==
+Regression toward the mean
+Amateur
+Jinx
+Luck
+Mojo
+Odds
+Psychology
+Rookie

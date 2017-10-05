@@ -1,0 +1,102 @@
+The Theory of regions is an approach for synthesizing a Petri net from a transition system. As such, it aims at recovering concurrent, independent behaviour from transitions between global states. Theory of regions handles elementary net systems as well as P/T nets and other kinds of nets. An important point is that the approach is aimed at the synthesis of unlabeled Petri nets only.
+
+
+== Definition ==
+A region of a transition system 
+  
+    
+      
+        (
+        S
+        ,
+        Λ
+        ,
+        →
+        )
+      
+    
+    {\displaystyle (S,\Lambda ,\rightarrow )}
+   is a mapping assigning to each state 
+  
+    
+      
+        s
+        ∈
+        S
+      
+    
+    {\displaystyle s\in S}
+   a number 
+  
+    
+      
+        σ
+        (
+        s
+        )
+      
+    
+    {\displaystyle \sigma (s)}
+   (natural number for P/T nets, binary for ENS) and to each transition label a number 
+  
+    
+      
+        τ
+        (
+        ℓ
+        )
+      
+    
+    {\displaystyle \tau (\ell )}
+   such that consistency conditions 
+  
+    
+      
+        σ
+        (
+        
+          s
+          ′
+        
+        )
+        =
+        σ
+        (
+        s
+        )
+        +
+        τ
+        (
+        ℓ
+        )
+      
+    
+    {\displaystyle \sigma (s')=\sigma (s)+\tau (\ell )}
+   holds whenever 
+  
+    
+      
+        (
+        s
+        ,
+        ℓ
+        ,
+        
+          s
+          ′
+        
+        )
+        ∈→
+      
+    
+    {\displaystyle (s,\ell ,s')\in \rightarrow }
+  .
+
+
+=== Intuitive explanation ===
+Each region represents a potential place of a Petri net.
+Mukund: event/state separation property, state separation property.
+
+
+== References ==
+Badouel, E and Darondeau, P. "Theory of Regions"

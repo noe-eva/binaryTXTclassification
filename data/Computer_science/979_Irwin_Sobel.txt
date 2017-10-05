@@ -1,0 +1,12 @@
+Irwin Sobel (born September 12, 1940) is a scientist and researcher in digital image processing.
+
+
+== Biography ==
+Irwin Sobel was born in New York City. He graduated from MIT in 1961 and did his Ph.D. research at the Stanford Artificial Intelligence Project (SAIL) with thesis Camera Models and Machine Perception. He spent most of his career at HP Labs.
+
+
+== Sobel Operator ==
+In 1968, Sobel gave a talk entitled "An Isotropic 3x3 Image Gradient Operator" at SAIL; this method became known as the Sobel operator. It should more appropriately be called the Sobel–Feldman operator since it was developed jointly with a colleague, Gary Feldman, also at SAIL.
+
+
+== References ==

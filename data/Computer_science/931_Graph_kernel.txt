@@ -1,0 +1,11 @@
+In structure mining, a domain of learning on structured data objects in machine learning, a graph kernel is a kernel function that computes an inner product on graphs. Graph kernels can be intuitively understood as functions measuring the similarity of pairs of graphs. They allow kernelized learning algorithms such as support vector machines to work directly on graphs, without having to do feature extraction to transform them to fixed-length, real-valued feature vectors. They find applications in bioinformatics, in chemoinformatics (as a type of molecule kernels), and in social network analysis.
+Graph kernels were first described in 2002 by R. I. Kondor and John Lafferty as kernels on graphs, i.e. similarity functions between the nodes of a single graph, with the World Wide Web hyperlink graph as a suggested application. Vishwanathan et al. instead defined kernels between graphs.
+An example of a kernel between graphs is the random walk kernel, which conceptually performs random walks on two graphs simultaneously, then counts the number of paths that were produced by both walks. This is equivalent to doing random walks on the direct product of the pair of graphs, and from this, a kernel can be derived that can be efficiently computed.
+
+
+== References ==
+
+
+== See also ==
+Tree kernel, as special case of non-cyclic graphs
+Molecule mining, as special case of small multi-label graphs

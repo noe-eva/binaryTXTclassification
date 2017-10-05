@@ -1,0 +1,14 @@
+Nicola Pellow is an English mathematician recognized for developing the first cross-platform internet browser, Line Mode Browser, which is credited for making the internet accessible to consumers for the first time. She was one of the nineteen member of the WWW Project at CERN working with Tim Berners-Lee. She joined the project in November 1990, while an undergraduate math student enrolled in a sandwich course at Leicester Polytechnic (now De Montfort University). Pellow recalled having little experience with programming languages, "... apart from using a bit of Pascal and FORTRAN as part of my degree course."
+Almost immediately after Berners-Lee completed the WorldWideWeb web browser for the NeXT platform, Pellow was tasked with creating a browser, after a quick lesson in C programming. She wrote a generic Line Mode Browser called WWW  that could run on non-NeXT systems. The WWW team ported the browser to a range of computers, from Unix to Microsoft DOS, so that anyone could access the web, which at that point consisted primarily of the CERN phone book.
+She left CERN at the end of August 1991, but returned after graduating in 1992, and worked with Robert Cailliau on MacWWW, the first web browser for the classic Mac OS.
+
+
+== See also ==
+Libwww
+
+
+== References ==
+
+
+== External links ==
+Archive of "People involved in the WorldWideWeb project"

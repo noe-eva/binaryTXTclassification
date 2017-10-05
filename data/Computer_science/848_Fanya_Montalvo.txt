@@ -1,0 +1,28 @@
+Fanya S. Montalvo (born in Monterrey, Mexico) Received the Ph.D. in Computer and Information Science  at the University of Massachusetts Amherst in 1976. Her dissertation was entitled Aftereffects, Adaptation, and Plasticity: A Neural Model for Tunable Feature Space. She was advised by Michael Anthony Arbib. Montalvo has been a research scientist at Lawrence Berkeley Labs, HP, MIT, and Digital Equipment Corporation.
+Montalvo is a leader in the field of Inconsistency Robustness currently serving on the governing Board of the International Society for Inconsistency Robustness. According to Rosalind Picard, she is involved in considerations within emotional computing.[see: Affective Computing ] She is known for having coined the term "AI-complete" to denote an Artificial Intelligence task that is equivalent in difficulty to that of solving the problem of Strong AI.
+
+
+== Publications ==
+Fanya S. Montalvo. pdf. shown at 6th in list (1st retrieval address) "Diagram understanding:The Intersection of computer vision and graphics" MIT A.I. Lab Memo 873. November 1983. (retrieved 16:55(GMT)30.10.2011)
+Fanya S. Montalvo. "Consensus versus Competition in Neural Networks: A Comparative Analysis of Three Models" International Journal of Man-Machine Studies 7(3). 1975.
+Fanya S. Montalvo. Diagram Understanding: Associating Symbolic Descriptions with Images IEEE Workshop on Visual Languages. 1986 (retrieved 18:01(GMT)30.10.2011)
+Fanya S. Montalvo and Caxton C. Foster. "An Algorithm for Intercell Communication in a Tesselated Automaton" published by:IEEE Computer Society (retrieved 18:06(GMT) 30.10.2011)
+Fanya S. Montalvo. "Consensus versus Competition in Neural Networks: A Comparative Analysis of Three Models" International Journal of Human-Computer Studies, vol. 7, no. 3, 1975 (retrieved 18:09(GMT)30.10.2011)
+Fanya S. Montalvo. "Knowledge visualization: A new framework for interactive graphic interface design" Applied Intelligence:Volume 1, Number 4, 297-309, doi:10.1007/BF00122019 (retrieved 18:27(GMT) 30.10.2011)
+Robert E. Filman, John Lamping, Fanya S. Montalvo. "Meta-Knowledge and Meta-Reasoning" IJCAI-83.
+Fanya S. Montalvo and Naomi Weisstein. "An Empirical Method that provides the basis for an organization of relaxation labeling process for vision" retrieved 18:30(GMT)30.10.2011(shows entire report [3 pages])[University of California]
+Fanya S. Montalvo. "Human Vision Paradox Implicates Relaxation Model" IJCAI-77
+Fanya S. Montalvo. "The Singularity is Here" Inconsistency Robustness, Vol. 52 Studies in Logic, College Publications (2015)
+
+
+== See also ==
+AI-complete
+
+
+== References ==
+
+UMASSCS retrieved 18:04(GMT) 30.10.2011
+
+
+== External links ==
+2011 ACM, Inc. 17:53(UTC) 30.10.2011 (list of publications)

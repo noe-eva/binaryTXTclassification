@@ -1,0 +1,22 @@
+Computability in Europe (CiE) is an international organization of mathematicians, logicians, computer scientists, philosophers, theoretical physicists and others interested in new developments in computability and in their underlying significance for the real world. CiE aims to widen understanding and appreciation of the importance of the concepts and techniques of computability theory, and to support the development of a vibrant multi-disciplinary community of researchers focused on computability-related topics. CiE positions itself at the interface between applied and fundamental research, prioritising mathematical approaches to computational barriers.
+CiE originated as a research network in 2003, became a conference series in 2005, and the Association Computability in Europe was formed in 2008.
+
+
+== Association ==
+The Association Computability in Europe was founded in Athens, Greece in 2008. Its founding president (2008 to 2015) was Professor S. Barry Cooper; its current president is Paola Bonizzoni and its current secretary general is Giuseppe Primiero. The Association is promoting the development, particularly in Europe, of computability-related science, ranging over mathematics, computer science, and applications in various natural and engineering sciences such as physics and biology. This also includes the promotion of the study of philosophy and history of computing as it relates to questions of computability.
+Past presidents of the Association were S. Barry Cooper (2008-2015) and Dag Normann (2015-2016). The current members of the Council of the Association are Pablo Arrighi, Arnold Beckmann, Paola Bonizzoni, Olivier Bournez, Liesbeth De Mol, Johann Makowsky, Florin Manea, Elvira Mayordomo, Dag Normann, Giuseppe Primiero, and Martin Ziegler.
+
+
+== Conference series ==
+CiE is also a major international conference series. The first CiE conference was held in Amsterdam in June 2005, subsequent meetings being in Swansea, Wales (CiE 2006), Siena, Italy (CiE 2007), Athens, Greece (CiE 2008), Heidelberg, Germany (CiE 2009) Ponta Delgada (Azores), Portugal (CiE 2010), Sofia, Bulgaria (CiE 2011), Cambridge, England (CiE 2012), Milan, Italy (CiE 2013), Budapest, Hungary (CiE 2014), Bucharest, Romania (CiE 2015), and Paris, France (CiE 2016). CiE 2017 will be held in Turku, Finland and CiE 2018 will be held in Kiel, Germany. The current chair of the Steering Committee of the conference series is Florin Manea; his predecessors were Benedikt Löwe (2005-2013) and Arnold Beckmann (2013-2016).
+
+
+== Book series & Journal ==
+CiE has editorial responsibility for the Springer book series Theory and Applications of Computability and the journal Computability published by IOS Press.
+
+
+== External links ==
+Association Computability in Europe website
+
+
+== References ==

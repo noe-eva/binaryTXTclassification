@@ -1,0 +1,9 @@
+(DELETE) This text describes "product name", is not an encyclopedic entry.
+In computing, System Fault Tolerance (SFT) is a fault tolerant system built into NetWare operating systems. Three levels of fault tolerance exist:
+SFT I 'Hot Fix' maps out bad disk blocks on the file system level to help ensure data integrity (fault tolerance on the disk-block level)
+SFT II provides a disk mirroring or duplexing system based on RAID 1; mirroring refers to two disk drives holding the same data, duplexing uses two data channels/controllers to connect the disks (fault tolerance on the disk level and optionally on the data-channel level).
+SFT III is a server duplexing scheme where if a server fails, a constantly synchronized server seamlessly takes its place (fault tolerance on the system level).
+
+
+== References ==
+Novell NetWare 4.2 documentation

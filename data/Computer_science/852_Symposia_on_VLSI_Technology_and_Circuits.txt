@@ -1,0 +1,79 @@
+The Symposia on VLSI Technology and Circuits are two closely connected international conferences on semiconductor technology and circuits, thereby offering an opportunity to interact and synergize on topics of joint interest, spanning the range from process technology to systems-on-chip.          The Symposia take place once a year around the middle of June at locations alternating between Kyoto, Japan and Honolulu, USA. They bring together managers, engineers, and scientists from industry and academia around the world to discuss challenges in manufacturing and design of Very-large-scale integration (VLSI) circuits. The Symposium on VLSI Technology started in 1981 while the Symposium on VLSI Circuits was established in 1987. Beside regular presentations of technical papers, the Symposia comprise short courses, panel sessions, and invited talks conducted by experts in the field from both Industry and Academia.
+
+
+== Sponsors ==
+The Symposium on VLSI Technology is sponsored by the IEEE Electron Devices Society and the Japan Society of Applied Physics in cooperation with the IEEE Solid-State Circuits Society. The Symposium on VLSI Circuits is sponsored by the IEEE Solid-State Circuits Society and the Japan Society of Applied Physics in cooperation with the Institute of Electronics, Information and Communication Engineers and the IEEE Electron Devices Society. Extended versions of selected papers from the Symposium on VLSI Circuits are regularly published once a year in a special Issue of the IEEE Journal of Solid-State Circuits. 
+
+
+== Symposia 2018 ==
+The 2018 Symposia on VLSI Technology and Circuits will take place June 18-22, 2018. Themed "Technology, Circuits and Systems for Smart Living," they will be held at the Hilton Hawaiian Village in beautiful Honolulu, Hawaii.
+The Symposia Call for Papers have been posted for both Technology and Circuits. The first day of the conference, June 18th, will feature several Short Courses, followed by the technical program June 19-21. On Friday June 22nd, a Forum on "Deep Learning and Artificial Intelligence" will be held. There will also be significant opportunity for networking at evening panels and social events.
+
+
+== Symposia 2017 ==
+The 2017 Symposia on VLSI Technology and Circuits were held at the RIHGA Royal Hotel, Kyoto, Japan between Monday, 5-Jun-2017 and Thursday, 8-Jun-2017.
+For the first time, the Technology and Circuits Symposia fully overlapped, maximizing the opportunity to learn from and interact with experts from both sides of the conference.
+The advance technical program for both Symposia are available online.
+Short courses covered 5 nm technology enablers, machine learning, and circuits for autonomous vehicles.
+VLSI Circuits Symposium 2017 hosted a new Demo Session, which will be held during the Symposium Joint Circuits/Technology Reception. At the demo session, authors of selected papers employed posters to augment their demonstrations.
+The Circuits plenary session included talks by Google on Waymo's self-driving car and from Panasonic on the topic of an interconnected IoT world.
+The Technology plenary session was headlined by talks from SoftBank and NXP Semiconductors.
+Several evening panels were held, with a chance to hear from a variety of industrial and academic thought leaders.
+A new International Forum on Singularity: Exponential X was held on Friday, 9-Jun-2017, and was free for all paid registrants of the VLSI Symposia.
+
+
+== Symposia 2016 ==
+The 2016 Symposia on VLSI Technology and Circuits was held at the Hilton Hawaiian Village, Honolulu, Hawaii between Monday, 13-Jun-2016 and Friday, 17-Jun-2016.
+IEEE SSCS Magazine provides a summary report
+The conference theme for 2016 was "VLSI Inflection for a Smart Society," reflecting the transition from More Moore to More Than Moore technologies in support of the increasingly connected society enabled by the Internet of Things.
+The Circuits plenary session highlighted talks from Google on machine learning and Sony covering advances in and impact of image sensors.
+The Technology plenary session featured the impact of MEMS sensors in a talk from InvenSense, as well as a presentation on intelligent mobility from Nissan.
+The Executive Panel, moderated by Dan Hutcheson of VLSI Research Inc., included industry leaders discussing the "Semiconductor Business: Inflections Beyond Scaling."
+Technical Program
+
+
+== Symposia 2015 ==
+The 2015 Symposia on VLSI Technology and Circuits were held at the RIHGA Royal Hotel, Kyoto, Japan between Monday, 15-Jun-2015 and Friday, 19-Jun-2015.
+Technical Program
+Plenary sessions addressed robotics, technology needs for future consumer devices, commercialization of the Internet of Things (IoT), and autonomous driving.
+Joint technology and circuits sessions covered design in scaled technologies, design enablement, memory technologies, and 3D-integration (TSV).
+For the first time, the circuits symposium encouraged submissions of papers beyond the chip context in areas related to IoT sensing, industrial electronics, big data processing/storage systems, and robotics and smart car.
+
+
+== Symposia 2014 ==
+The 2014 Symposia on VLSI Technology and Circuits were held at the Hilton Hawaiian Village, Honolulu, Hawaii between Monday, 09-Jun-2014 and Friday, 13-Jun-2014.
+Advance Program
+Joint circuit and technology focus sessions were offered in the following special topics of mutual interest: 3D Circuits & Applications, 3D Systems & Packaging, Design/Technology Co-Optimization, Non-volatile & Emerging Memory, and SRAM & DRAM.
+This year, a Luncheon & Executive Panel did debate on "Emerging Semiconductor Industry Trends and Implications" (Link)
+A joint technology-circuits panel session addressed the question: "Who Gives Up on Scaling First: Device & Process Technology Engineers, Circuit Designers or Company Executives? (Link)
+The 2014 Symposia on VLSI Technology and Circuits were preceded by three full-day short courses: "High Performance Mobile SoCs Enabled by 10nm SoC Technology" (Link), "Advanced Data Converter & Mixed-Signal Circuit Design", and "Advanced Energy-Efficient Digital Design" (Link).
+Also, the Symposia were accompanied by two satellite workshops, the 2014 Silicon Nanoelectronics Workshop (June 8–9) and the 2014 Spintronics Workshop on LSI (June 9) at the same location.
+
+
+== Symposia 2013 ==
+The 2013 Symposia on VLSI Technology and Circuits were held in Kyoto, Japan between 2013-06-11 and 2013-06-14 with more than 1000 microelectronics engineers, managers and researchers attending.
+IEEE SSCS Magazine provides a summary report
+The Technical Programs are available on the Symposia's web site (Circuits / Technology).
+Highlights of the technical program are provided in Chinese, Englisch, Japanese and Korean (Editor Press Center)
+The Symposia were accompanied by two satellite workshops, the 2013 Silicon Nanoelectronics Workshop (June 9–10) and the 2013 Spintronics Workshop on LSI (June 10) at the same location.
+
+
+== References ==
+
+
+== Additional information ==
+Press Release Web-Site with information in Chinese, Englisch, Japanese, and Korean
+IEEE Conference Server
+IEEE Xplore Digital Library
+LinkedIn Discussion Group
+
+
+== Related Conferences ==
+Custom Integrated Circuits Conference (CICC)
+Design Automation Conference (DAC)
+FD-SOI Workshop (succeeding the VLSI Symposia)
+International Electron Devices Meeting (IEDM)
+International Interconnect Technology Conference (IITC - adjacent to the VLSI Symposia)
+International Solid-State Circuits Conference (ISSCC)
+Silicon Nanoelectronics Workshop (SNW - preceding the VLSI Symposia)
+Spintronics Workshop on LSI (preceding the VLSI Symposia)

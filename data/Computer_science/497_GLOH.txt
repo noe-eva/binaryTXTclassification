@@ -1,0 +1,12 @@
+GLOH (Gradient Location and Orientation Histogram) is a robust image descriptor that can be used in computer vision tasks. It is a SIFT-like descriptor that considers more spatial regions for the histograms. The higher dimensionality of the descriptor is reduced to 64 through principal components analysis (PCA).
+
+
+== See also ==
+Scale-invariant feature transform
+Speeded Up Robust Features
+LESH - Local Energy based Shape Histogram
+Feature detection (computer vision)
+
+
+== References ==
+Krystian Mikolajczyk and Cordelia Schmid "A performance evaluation of local descriptors", IEEE Transactions on Pattern Analysis and Machine Intelligence, 10, 27, pp 1615--1630, 2005.

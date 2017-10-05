@@ -1,0 +1,13 @@
+PlusCal (formerly called +CAL) is a formal specification language created by Leslie Lamport, which transpiles to TLA+. In contrast to TLA+'s action-oriented focus on distributed systems, PlusCal most resembles an imperative programming language and is better-suited to specifying sequential algorithms. PlusCal was designed to replace pseudocode, retaining its simplicity while providing a formally-defined and verifiable language. A one-bit clock is written in PlusCal as follows:
+
+
+== See also ==
+TLA+
+Pseudocode
+
+
+== References ==
+
+
+== External links ==
+PlusCal tools and documentation are found on the PlusCal Algorithm Language page.

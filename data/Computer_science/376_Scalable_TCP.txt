@@ -1,0 +1,16 @@
+Type of Transmission Control Protocol which is designed to provide much higher throughput and scalability.
+Standard TCP recommendations as per RFC 2581 and RFC 5681 call for congestion window to be halved for each packet lost. Effectively, this process keeps halving the throughput until packet loss stops. Once the packet loss subsides, slow start kicks in to ramp the speed back up. When the window sizes are small, say 1 Mbit/s @ 200 ms round trip time and the window is about 20 packets, this recovery time is quite fast—on the order of a few seconds. But as transfer speeds approach 1 Gbit/s, the recovery time becomes half an hour and for 10 Gbit/s it's over 4 hours.
+Scalable TCP modifies the congestion control algorithm. Instead of halving the congestion window size, each packet loss decreases the congestion window by a small fraction (a factor of 1/8 instead of Standard TCP's 1/2) until packet loss stops. When packet loss stops, the rate is ramped up at a slow fixed rate (one packet is added for every one hundred successful acknowledgements) instead of the Standard TCP rate that's the inverse of the congestion window size (thus very large windows take a long time to recover). This helps reduce the recovery time on 10 Gbit/s links from 4+ hours (using Standard TCP) to less than 15 seconds when the round trip time is 200 milliseconds.
+
+
+== External links ==
+Scalable TCP details
+CERN Paper about Scalable TCP
+Oak Ridge National Laboratory Protocol Speed Tests
+
+
+== See also ==
+UDP-based Data Transfer Protocol
+
+
+== References ==

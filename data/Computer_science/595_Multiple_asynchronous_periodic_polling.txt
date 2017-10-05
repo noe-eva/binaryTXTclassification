@@ -1,0 +1,3 @@
+Multiple Asynchronous Periodic Polling (MAPP) is a synchronization method used primarily in Computer Science. This method is similar to periodic polling.
+In MAPP, two or more periodic polling handlers (such as using multiple timers) are applied to form a single aggregate polling scheme. By changing the combination of periods and phase shifts, MAPP can optimize corner cases which are problematic to conventional periodic polling. MAPP is mainly used when the temporal resolution of conventional periodic polling is not high enough for the particular application.
+For example, 5 timers with identical polling period but 1/5 cycle phase shift from the previous one may be used together to increase the polling rate to 5 times of that which could be achieved with a single timer.

@@ -1,0 +1,16 @@
+Peptide computing is a form of computing which uses peptides and molecular biology, instead of traditional silicon-based computer technologies. The basis of this computational model is the affinity of antibodies towards peptide sequences. Similar to DNA computing, the parallel interactions of peptide sequences and antibodies have been used by this model to solve a few NP-complete problems. Specifically, the hamiltonian path problem (HPP) and some versions of the set cover problem are a few NP-complete problems which have been solved using this computational model so far. This model of computation has also been shown to be computationally universal (or Turing complete).
+This model of computation has some critical advantages over DNA computing. For instance, while DNA is made of four building blocks, peptides are made of twenty building blocks. The peptide-antibody interactions are also more flexible with respect to recognition and affinity than an interaction between a DNA strand and its reverse complement. However, unlike DNA computing, this model is yet to be practically realized. The main limitation is the availability of specific monoclonal antibodies required by the model.
+
+
+== See also ==
+Biocomputers
+Computational gene
+Computational complexity theory
+DNA computing
+Molecular electronics
+Parallel computing
+
+
+== References ==
+M. Sakthi Balan; Kamala Krithivasan; Y. Sivasubramanyam (2001). "Peptide Computing - Universality and Complexity". Lecture Notes in Computer Science. Lecture Notes in Computer Science. 2340: 290–299. ISBN 978-3-540-43775-8. doi:10.1007/3-540-48017-X_27. 
+Hubert Hug & Rainer Schuler (2001). "Strategies for the development of a peptide computer". Bioinformatics. 17 (4): 364–368. PMID 11301306. doi:10.1093/bioinformatics/17.4.364.

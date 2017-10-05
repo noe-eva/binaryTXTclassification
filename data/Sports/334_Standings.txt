@@ -1,0 +1,54 @@
+Standings or rankings are listings which compare sports teams or individuals, institutions, nations, companies, or other entities by ranking them in order of ability or achievement. A table or chart (such as a league table, a ladder or a leaderboard) may be employed to display such listings. A league table may list several related statistics, but they are generally sorted by the primary one that determines the rankings. Many industries and institutions may compete in league tables in order to help bring in new customers and clients. Those tables ranking sports teams are generally used to help determine who may advance to the playoffs or another tournament, who gets promoted or relegated, or who gets a higher draft pick.
+
+
+== Sport ==
+
+In sport, league tables group teams of similar abilities in a chart to show the current standing of the participants (teams or individuals) in a sports league or competition. These lists are generally published in newspapers and other media, as well as the official web sites of the sports leagues and competitions.
+At the very least, a league table will show the names of the teams and their points total or winning percentage (depending on the sport), sorted in order of points or percentage. However, many league tables show further statistics; these may include:
+wins
+losses
+ties (draws)
+goal differential (Goals scored minus goals conceded)
+goals scored
+goals allowed (conceded)
+
+home/away win/loss records
+etc.
+Usually, if a league is divided into conferences and divisions, the league table will also be. Often, a less specific table is also included. For example, National Hockey League tables will normally have a detailed table for each division, plus a table for each conference showing just the points totals.
+As an example, below is the league table for the Northeast Division of the National Hockey League, as of March 31, 2004:
+
+Team         GP   W   L   T  OL   GF   GA  Pts
+x-Boston     79  40  18  14   7  201  179  101
+x-Toronto    80  43  24  10   3  234  204   99
+x-Ottawa     79  41  22  10   6  254  178   98
+x-Montreal   79  40  28   7   4  201  182   91
+Buffalo      79  36  32   7   4  213  210   83
+
+x - clinched playoff spot
+y - clinched division championship
+
+In the above table, an "x" placed before a team's name shows that the team has qualified for playoff position; other letters may be used to show that a team is guaranteed first place, has been eliminated from contention and so forth. From this table, we can see that Boston, Toronto, Ottawa and Montreal are all guaranteed playoff positions; the absence of a "y" shows that the division championship is still to play for. Meanwhile, because Buffalo has no symbol at all, they are not out of playoff contention, but have yet to clinch a playoff position. The following day, a new league table would appear in newspapers, updated based on the previous night's games. Of course, the above table would also be accompanied by those of the other 5 divisions in the league.
+
+
+== Education ==
+League tables are used to compare the academic achievements of different institutions. College and university rankings order institutions in higher education by combinations of factors. In addition to entire institutions, specific programs, departments, and schools are ranked. These rankings usually are conducted by magazines, newspapers, governments and academics. For example, league tables of British universities are published annually by The Guardian, The Independent, The Sunday Times and The Times. The primary aim of these rankings is to inform potential applicants about British universities based on a range of criteria. Similarly, in countries like India, league tables are being developed and a popular magazine, Education World, published them based on data from TheLearningPoint.net.
+It is complained that the ranking of England's schools to rigid guidelines that fail to take into account wider social conditions actually makes failing schools even worse. This is because the most involved parents will then avoid such schools, leaving only the children of non-ambitious parents to attend.
+
+
+== Business ==
+In business, league tables list the leaders in investment banking activity, enabling people to quickly analyze financial data. Companies which collect this kind of data include Dealogic, Bloomberg L.P. and Thomson Reuters. The Thomson Reuters league tables list the top financiers in a particular industry. Dealogic's league tables are rankings of investment banks in terms of the dollar volume of deals that investment banks work on. Bloomberg's league tables provide an overview of top underwriters and legal advisers to securities deals, as well as fees netted from these transactions.
+
+
+== External links ==
+Australian Football League ladder
+National Hockey League table
+Major League Baseball table
+National Football League table
+Canadian Football League table
+National Basketball Association table
+Football league tables: England, Scotland, France, Spain, Germany, Italy
+Coverage of School League Tables for a National Examining Board in India (CISCE)
+School league tables for the CISCE examining board in India
+
+
+== Notes ==

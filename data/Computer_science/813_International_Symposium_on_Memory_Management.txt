@@ -1,0 +1,27 @@
+The International Symposium on Memory Management (ISMM) is an ACM SIGPLAN symposium on memory management. Before becoming a conference it was known as the International Workshop on Memory Management (IWMM).
+
+
+== History ==
+1992: http://www.informatik.uni-trier.de/~ley/db/conf/iwmm/iwmm92.html
+1995: http://www.informatik.uni-trier.de/~ley/db/conf/iwmm/iwmm95.html
+1998: https://www.sfu.ca/~burton/ismm98.html
+2000: http://www.cs.kent.ac.uk/events/conf/2000/ismm2000/
+2002: http://www.hpl.hp.com/personal/Hans_Boehm/ismm/
+2004: http://www.research.ibm.com/ismm04/
+2006: http://www.cs.technion.ac.il/~erez/ismm06/
+2007: http://www.eecs.harvard.edu/~greg/ismm07/
+2008: http://www.cs.kent.ac.uk/~rej/ismm2008
+2009: http://sysrun.haifa.il.ibm.com/hrl/ISMM2009/
+2010: http://www.cs.purdue.edu/ISMM10/
+2011: http://www.hpl.hp.com/personal/Hans_Boehm/ismm11/
+2012: http://ismm12.cs.purdue.edu/
+2013: http://www.cs.technion.ac.il/~erez/ismm13/
+2014: http://ismm2014.cs.tufts.edu/
+2015: http://conf.researchr.org/home/ismm-2015
+2016: http://conf.researchr.org/home/ismm-2016
+
+
+== External links ==
+SIGPLAN
+ACM
+DBLP

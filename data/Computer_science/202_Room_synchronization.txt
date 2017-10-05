@@ -1,0 +1,12 @@
+The room synchronization technique is a form of concurrency control in computer science.
+The room synchronization problem involves supporting a set of m mutually exclusive "rooms" where any number of users can execute code simultaneously in a shared room (any one of them), but no two users can simultaneously execute code in separate rooms.
+Room synchronization can be used to implement asynchronous parallel queues and stacks with constant time access (assuming a fetch-and-add operation).
+
+
+== References ==
+G.E. Blelloch, P. Cheng, P.B. Gibbons, Room synchronizations, Annual ACM Symposium on Parallel Algorithms and Architectures 2001, 122-133 [1]
+
+
+== See also ==
+Monitor (synchronization).
+The Single Threaded Apartment Model in Microsoft's Component_Object_Model#Threading_in_COM, as used by Visual Basic.

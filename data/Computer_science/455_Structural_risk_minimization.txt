@@ -1,0 +1,13 @@
+Structural risk minimization (SRM) is an inductive principle of use in machine learning. Commonly in machine learning, a generalized model must be selected from a finite data set, with the consequent problem of overfitting – the model becoming too strongly tailored to the particularities of the training set and generalizing poorly to new data. The SRM principle addresses this problem by balancing the model's complexity against its success at fitting the training data.
+The SRM principle was first set out in a 1974 paper by Vladimir Vapnik and Alexey Chervonenkis and uses the VC dimension.
+
+
+== See also ==
+Vapnik–Chervonenkis theory
+Support vector machines
+Model selection
+Occam Learning
+
+
+== External links ==
+Structural risk minimization at the support vector machines website.

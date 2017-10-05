@@ -1,0 +1,53 @@
+In automata theory, a nested stack automaton is a finite automaton that can make use of a stack containing data which can be additional stacks. Like a stack automaton, a nested stack automaton may step up or down in the stack, and read the current symbol; in addition, it may at any place create a new stack, operate on that one, eventually destroy it, and continue operating on the old stack. This way, stacks can be nested recursively to an arbitrary depth; however, the automaton always operates on the innermost stack only.
+A nested stack automaton is capable of recognizing an indexed language, and in fact the class of indexed languages is exactly the class of languages accepted by one-way nondeterministic nested stack automata.
+Nested stack automata should not be confused with embedded pushdown automata, which have less computational power.
+
+
+== Formal definition ==
+
+
+=== Automaton ===
+A (nondeterministic two-way) nested stack automaton is a tuple ‹Q,Σ,Γ,δ,q0,Z0,F,[,],]› where
+Q, Σ, and Γ is a nonempty finite set of states, input symbols, and stack symbols, respectively,
+[, ], and ] are distinct special symbols not contained in Σ ∪ Γ,
+[ is used as left endmarker for both the input string and a (sub)stack string,
+] is used as right endmarker for these strings,
+] is used as the final endmarker of the string denoting the whole stack.
+
+An extended input alphabet is defined by Σ' = Σ ∪ {[,]}, an extended stack alphabet by Γ' = Γ ∪ {]}, and the set of input move directions by D = {-1,0,+1}.
+δ, the finite control, is a mapping from Q × Σ' × (Γ' ∪ [Γ' ∪ {], []}) into finite subsets of Q × D × ([Γ* ∪ D), such that δ maps
+Informally, the top symbol of a (sub)stack together with its preceding left endmarker "[" is viewed as a single symbol; then δ reads
+the current state,
+the current input symbol, and
+the current stack symbol,
+
+and outputs
+the next state,
+the direction in which to move on the input, and
+the direction in which to move on the stack, or the string of symbols to replace the topmost stack symbol.
+
+q0 ∈ Q is the initial state,
+Z0 ∈ Γ is the initial stack symbol,
+F ⊆ Q is the set of final states.
+
+
+=== Configuration ===
+A configuration, or instantaneous description of such an automaton consists in a triple ‹ q, [a1a2...ai...an-1], [Z1X2...Xj...Xm-1] ›, where
+q ∈ Q is the current state,
+[a1a2...ai...an-1] is the input string; for convenience, a0 = [ and an = ] is defined The current position in the input, viz. i with 0 ≤ i ≤ n, is marked by underlining the respective symbol.
+[Z1X2...Xj...Xm-1] is the stack, including substacks; for convenience, X1 = [Z1  and Xm = ] is defined. The current position in the stack, viz. j with 1 ≤ j ≤ m, is marked by underlining the respective symbol.
+
+
+=== Example ===
+An example run (input string not shown):
+
+
+== Properties ==
+When automata are allowed to re-read their input ("two-way automata"), nested stacks do not result in additional language recognition capabilities, compared to plain stacks.
+Gilman and Shapiro used nested stack automata to solve the word problem in certain groups.
+
+
+== Notes ==
+
+
+== References ==

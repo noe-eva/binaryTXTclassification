@@ -1,0 +1,48 @@
+SenSys, the ACM Conference on Embedded Networked Sensor Systems, is an annual academic conference in the area of embedded networked sensors.
+
+
+== About SenSys ==
+ACM SenSys is a selective, single-track forum for the presentation of research results on systems issues in the area of embedded networked sensors. The conference provides a venue to address the research challenges facing the design, deployment, use, and fundamental limits of these systems. Sensor networks require contributions from many fields, from wireless communication and networking, embedded systems and hardware, distributed systems, data management, and applications. SenSys welcomes cross-disciplinary work.
+
+
+== Ranking ==
+Although there is no official ranking of academic conferences on wireless sensor networks, SenSys is widely regarded by researchers as one of the two (along with IPSN) most prestigious conferences focusing on sensor network research. SenSys focuses more on system issues while IPSN on algorithmic and theoretical considerations. The acceptance rate for 2017 was 17.2% (26 out of 151 papers accepted for publication).
+
+
+== SenSys Events ==
+SenSys started in year 2003 and following is a list of SenSys events from 2003 to 2017:
+SenSys 2017, Delft, The Netherlands, November 5–8, 2017
+SenSys 2016, Stanford, CA, USA, November 14–16, 2016
+SenSys 2015, Seoul, South Korea, November 1–4, 2015
+SenSys 2014, Memphis, Tennessee, USA, November 3–6, 2014
+SenSys 2013, Rome, Italy, November 11–14, 2013
+SenSys 2012, Toronto, Canada, November 6–9, 2012
+SenSys 2011, Seattle, WA, USA, November 1–4, 2011
+SenSys 2010, Zurich, Switzerland, November 3–5, 2010
+SenSys 2009, Berkeley, California, USA, November 4–6, 2009
+SenSys 2008, Raleigh, North Carolina, USA, November 5–7, 2008
+SenSys 2007, Sydney, Australia, November 6–9, 2007
+SenSys 2006, Boulder, Colorado, USA, November 1–3, 2006
+SenSys 2005, San Diego, CA, USA, November 2–4, 2005
+SenSys 2004, Baltimore, MD, USA, November 3–5, 2004
+SenSys 2003, Los Angeles, California, USA, November 5–7, 2003
+
+
+== Sponsors ==
+SenSys is sponsored by the following ACM Special Interest Groups:
+SIGCOMM
+SIGMOBILE
+SIGARCH
+SIGOPS
+SIGMETRICS
+SIGBED
+
+
+== See also ==
+Wireless sensor network
+
+
+== External links ==
+SenSys
+SenSys Bibliography (from DBLP)
+SenSys Proceedings (from ACM website)

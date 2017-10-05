@@ -1,0 +1,112 @@
+Sebastian Schaffert is a software engineer and researcher. He was born in Trostberg, Bavaria, Germany on March 18, 1976 and obtained his doctorate in 2004.
+Before moving out of research, he was very active in the Semantic Web, Linked Data and Multimedia Semantics fields, his works received more than 1.800 citations. He is a contributor to open source projects, among those Apache Marmotta and participated in several European FP6 and FP7 research projects such as REWERSE (Reasoning on the Web with rules and semantics), KiWi (Knowledge in a Wiki), IKS (Interactive Knowledge Stack) and MICO (Media in Context).
+
+
+== Education ==
+In April 2001, he graduated in Computer Science with a thesis on "Grouping Structures for Semistructured Data: Enhancing, Data Modelling and Data Retrieval".
+In December 2004, he obtained his doctorate at the faculty of Mathematics, Computer Science and Statistics at the Ludwig-Maximilians-Universität of Munich with the thesis "Xcerpt: A Rule-Based Query and Transformation Language for the Web".
+
+
+== Career ==
+In August 2005, he worked as senior researcher and project manager at the Salzburg Research Institute where he is currently head of the Knowledge and Media Technologies group.
+In 2006, he also became scientific director of the Salzburg NewMedia Lab.
+In 2009-2010, he taught at the Fachhochschule (University of Applied Science) of Salzburg
+In 2013, he co-founded Redlink and held the CTO position.
+In December 2014, he joined Google at Zürich, where he currently works as Site Reliability Engineering Manager.
+
+
+== Awards ==
+Austrian Champion in European Research, Austrian Research Promotion Agency, April 2008.
+Best Demonstration Award of ESWC 2009, European Semantic Web Conference, June 2009.
+Test of Time Award (10 years) for Most Influential Paper in Logic Programming, Association for Logic Programming, September 2012.
+
+
+== Publications ==
+He wrote the following PhD thesis:
+Xcerpt: A Rule-Based Query and Transformation Language for the Web. University of Munich, October 2004.
+He wrote the following articles and research papers:
+Schaffert, Sebastian; Eder, Julia; Grunwald, Szaby; Kurz, Thomas; Radulescu, Mihai; Sint, Rolf; Stroka, Stephanie. KiWi – A Platform for Semantic Social Software (Demonstration). In: 6th European Semantic Web Conference (ESWC09) – Demonstrations Track, Heraklion, Greece, June 2009.
+Schaffert, Sebastian. IkeWiki: A Semantic Wiki for Collaborative Knowledge Management. In: 1st International Workshop on Semantic Technologies in Collaborative Applications STICA 06, Manchester, UK, June 2006.
+Schaffert, Sebastian; Bry, François. Querying the Web Reconsidered: A Practical Introduction to Xcerpt. In: Proceedings of Extreme Markup Languages 2004, Montre ́al, Quebec, Canada (2–6 August 2004).
+Bry, François; Schaffert, Sebastian. Towards a Declarative Query and Transformation Language for XML and Semistructured Data: Simulation Unification. In: International Conference on Logic Programming (ICLP02), Copenhagen, Denmark, July/August 2002.
+Steger, Bettina; Kurz, Thomas; Schaffert, Sebastian. Resource Description Graph patterns for configuring Linked Dataviews. In:I-Semantics 2013, September 2013, Graz, Austria
+François Bryand, Sebastian Schaffert: SimulationUnification:Beyond Querying Semistructured Data. Invited Article. In: Proceedings of Intl. Conference on Logic Programming (ICLP2012), Budapest, Hungary, September 2012
+Kurz Thomas; Güntner, Georg; Damjanovic, Violeta; Schaffert, Sebastian; Fernandez, Manuel. Semantic Enhancement for Media Asset Management Systems: Integrating the Red Bull Content Pool into the Web of Data. Multimedia Tools and Applications (MTAP) 2012, doi: 10.1007/s11042-012-1197-7
+Schaffert, Sebastian; Kurz, Thomas; Glachs, Dietmar; Bauer, Christoph; Dorschel, Fabian; Fernandez, Manuel. The Linked Media Framework: Integrating and Interlinking Enterprise Media Content and Data. In: Proceedings of I-Semantics 2012, Graz, Austria, September 2012
+He is the author (or co-author) of the following books and publications:
+Georg Güntner, Sebastian Schaffert, Thomas Kurz, Violeta Damjanovic: Semantically Linked Media for Interactive User-Centric Services. In: Hassnaa Moustafa and Sherali Zeadally (editors): “Media Networks: Architecture, Applications and Standards”. CRC Press, Boca Raton, Florida, May 2012; ISBN 9781439877289
+Kurz, Thomas; Schaffert, Sebastian; Fernandez, Manuel; Güntner, Georg. Adding Wings to Red Bull Media: Search and Display semantically enhanced Video Fragments. In: World Wide Web Conference 2012 (WWW2012), Demonstrations Track, Lyon, France, April 2012, doi:10.1145/2187980.2188052, ISBN 9781450312301
+Schön, Sandra; Kurz, Thomas; Bauer, Christoph; Börner, Jean-Christoph; Hofer, Peter M.; Lejtovicz, Katalin; Schebella, Marius; Springer, Michael; Wolfinger, Andrea; Zwischenbrugger, Edgar. Smarte Annotationen. Ein Beitrag zur Evaluation von Empfehlungen für Annotationen (Smart annotations. A contribution to the evaluation of recommendations for annotations), Salzburg Research, ISBN 9783902448316
+Schebella, Marius; Kurz, Thomas; Güntner, Georg. Linked Media Interfaces. Graphical User Interfaces for Search and Annotation, Salzburg Research, ISBN 9783902448293
+Kurz, Thomas; Schaffert, Sebastian; Bürger, Tobias. LMF – A Framework for Linked Media. In: Workshop on Multimedia on the Web (MMWeb2011). September 2011.
+Damjanovic, Violeta; Güntner, Georg; Schaffert, Sebastian; Kurz, Thomas; Glachs, Dietmar. Semantic Social TV. In: NEM Summit 2011. September 2011
+Salzburg NewMediaLab – The Next Generation (Hrsg.) unter Mitwirkung von Christoph Bauer, Andreas Blumauer, Tobias Burger, Manuel Fernandez, Wolfgang Gewald, Dietmar Glachs, Georg Güntner, Gerhard Haberl, Thomas Kurz, Siegfried Reich, Sebastian Schaffert, Marius Schebella, Sandra Schön, Katharina Siorpaes, Rupert Westenthaler, Markus Winkler und Edgar Zwischenbrugger (Leitung: Sandra Schön und Georg Güntner): Linked Media. Ein White-Paper zu den Potentialen von Linked People, Linked Content und Linked Data in Unternehmen. Band 1 der Reihe “Linked Media Lab Reports”, herausgegeben von Christoph Bauer, Georg Güntner und Sebastian Schaffert. Salzburg: Salzburg Research. ISBN 9783902448279
+François Bry, Tim Furche, Clemens Ley, Bruno Marnette, Benedikt Linse and Sebastian Schaffert: Datalog Relaunched: Simulation Unification and Value Invention. In:Proceedings of the Datalog 2.0 Workshop, 2011
+Sandra Schön, Diana Wieden-Bischof, Cornelia Schneider und Martin Schumann: Mobile Gemeinschaften. Erfolgreiche Beispiele aus den Bereichen Spielen, Lernen und Gesundheit. Erschienen in der Reihe “Social Media”, hrsg. von Georg Güntner und Sebastian Schaffert, Band 5. Salzburg: Salzburg Research.
+Violeta Damjanovic, Thomas Kurz, Rupert Westenthaler, Wernher Behrendt, Andreas Gruber, Sebastian Schaffert: Semantic Enhancement: The Key to Massive and Heterogeneous Data Pools.
+Thomas Kurz, Sebastian Schaffert, Tobias Bürger, Stephanie Stroka,Rolf Sint, Mihai Radulescu and Szabolcs Grünwald: KiWi – A Platform for building Semantic Social Media Applications. In: Proceedings of the ISWC 2010 Posters and Demonstrations Track, Shanghai, China, November 2010.
+Sebastian Schaffert: KiWi – eine Plattform f¨r Semantische Soziale Medien. In: OCG Journal 4/2010
+Stephanie Stroka, Sebastian Schaffert, Tobias Bürger: Access Control in the Social Se- mantic Web – Extending the idea of FOAF+SSL in KiWi (demo paper). In: 2nd Workshop on Trust and Privacy on the Social and Semantic Web (SPOT2010) at ESWC10, Heraklion, Greece.
+Rolf Sint, Mark Markus, Sebastian Schaffert and Thomas Kurz: Ideator – a collaborative enterprise idea management tool powered by KiWi. In: Proceedings of the Fifth Workshop on Semantic Wikis – Linking Data and People, co-located with ESWC 2010, Heraklion, Greece, June 2010.
+François Bry, Clemens Cap, Ingo Dahm, Julia Maintz, Sebastian Schaffert: Dagstuhl Manifesto – Digital Social Media. In: Dagstuhl Seminar Proceedings.
+Sandra Schaffert, Georg Güntner, Markus Lassnig, Diana Wieden-Bischof: Reputation und Feedback im Web. Einsatzgebiete und Beispiele. Social Media Band 4, hrsg. von Georg Güntner und Sebastian Schaffert. Salzburg: Salzburg Research. ISBN 978-3- 902448-17-0
+Sandra Schaffert, Tobias Bürger, Wolf Hilzensauer, Cornelia Schneider, Diana Wieden- Bischof: Empfehlungen im Web. Konzepte und Realisierungen. Social Media Band 3, hrsg. von Georg Güntner und Sebastian Schaffert. Salzburg: Salzburg Research. (ISBN 978-3-902448-16-3)
+Sebastian Schaffert, François Bry, Joachim Baumeister, Malte Kiesel: Semantische Wikis. In: Tassilo Pellegrini and Andreas Blumauer (eds): Social Semantic Web, 2009: 245-258
+Christoph Wieser, Sebastian Schaffert: Die Zeitung der Zukunft. In: Tassilo Pellegrini and Andreas Blumauer (eds): Social Semantic Web 2009: 423-434
+Sebastian Schaffert, Julia Eder, Szaby Grünwald, Thomas Kurz, Mihai Radulescu, Rolf Sint, and Stephanie Stroka: KiWi – A Platform for Semantic Social Software. In: 4th Workshop on Semantic Wikis (SemWiki2009) at ESWC09, Heraklion, Greece, June 2009 (PDF).
+Sebastian Schaffert, Julia Eder, Szaby Grünwald, Thomas Kurz, and Mihai Radulescu: KiWi – A Platform for Semantic Social Software (Demonstration). – short version/demo description of previous publication. In: 6th European Semantic Web Conference (ESWC09) – Demonstrations Track, Heraklion, Greece, June 2009 (PDF). ESWC Best Demo Award!
+Tassilo Pellegrini, Sören Auer, Klaus Tochtermann and Sebastian Schaffert: Networked Knowledge – Networked Media: Integrating Knowledge Management, New Media Technologies and Semantic Systems. Springer Studies in Computational Intelligence. July 2009. ISBN 3642021832
+Sebastian Schaffert, Joachim Baumeister, François Bry, and Malte Kiesel: Semantic Wikis. In: IEEE Software, vol. 25, no. 4, pp. 8–11, Jul/Aug, 2008.
+Peter Dolog, Markus Krötzsch, Sebastian Schaffert, and Denny Vrandecic: Proceedings of the Workshop on Social Web and Knowledge Management (SWKM08). In: WWW2008, Beijing, China, April 2008.
+Christoph Lange, Max Völkel, Hala Skaf-Molli, and Sebastian Schaffert: Proceedings of the 3rd Workshop on Semantic Wikis (SemWiki08) (CEUR). In: ESWC’08, Tenerife, Spain, June 2008.
+Cristina Baroglio, Piero A. Bonatti, Jan Maluszynski, Massimo Marchiori, Axel Polleres, Sebastian Schaffert: Reasoning Web, 4th International Summer School 2008. Venice, Italy, September 7–11, 2008, Tutorial Lectures Springer 2008
+François Bry, Tim Furche, Liviu Badea, Christoph Koch, Sebastian Schaffert, and Sacha Berger: Querying the Web Reconsidered: Design Principles for Versatile Web Query Languages. In: Amit Seth, Miltiadis D. Lytras (eds.): Semantic Web-Based Information Systems – State-of-the-Art Applications. Idea Group Inc., December 2007.
+Markus Krötzsch, Sebastian Schaffert, and Denny Vrandecic: Reasoning in Semantic Wikis. In: Reasoning Web Summer School, Dresden, September 2007. Springer-Verlag, LNCS 4636
+Sebastian Schaffert and Tassilo Pellegrini: Proceedings of the I-SEMANTICS 2007 as part of Triple-I 2007 JUCS. ISSN 0948-6968, September 2006
+Sebastian Schaffert, François Bry, Joachim Baumeister und Malte Kiesel: Aktuelles Schlagwort: Semantic Wiki. In: Informatik Spektrum, Organ der Gesellschaft für Informatik e.V. und mit ihr assoziierter Organisationen, ISSN 0170-6012
+Sebastian Schaffert: Semantic Social Software: Semantically Enabled Social Software or Socially Enabled Semantic Web?. In: Emerging Technologies For Semantic Work Environments, ISBN 1599048779
+Eyal Oren, Sebastian Schaffert, and Max Völkel: Personal Knowledge Management with Semantic Technologies. In: Emerging Technologies For Semantic Work Environments, ISBN 1599048779
+Sebastian Schaffert, Andreas Gruber, and Rupert Westenthaler: A Semantic Wiki for Collaborative Knowledge Formation. In: Semantics 2005, Vienna, Austria, November 2005 (published by Trauner Verlag, 2006).
+Sebastian Schaffert: IkeWiki: A Semantic Wiki for Collaborative Knowledge Manage- ment. In: 1st International Workshop on Semantic Technologies in Collaborative Applications STICA 06, Manchester, UK, June 2006.
+Sacha Berger, François Bry, Tim Furche, Benedikt Linse, and Sebastian Schaffert: The Web and Semantic Web Query Language Xcerpt. In: Semantic Web Factbook, 2006
+Sebastian Schaffert, Diana Bischof, Tobias Bürger, Andreas Gruber, Wolf Hilzensauer,and Sandra Schaffert: Learning with Semantic Wikis. In: First Workshop “SemWiki2006 – From Wiki to Semantics”, co-located with the 3rd Annual European Semantic Web Conference (ESWC), Budva, Montenegro, 11 – 14 June 2006
+N. Ferran, J. Minguillón, M. Pascual, C. Barraga ́n, A. Canals, G. Geser, A. Gruber, V. Hornung-Prähauser, S. Schaffert, P. Baumgartner, V. Naust-Schulz, L. Pullich, S. Lam- minnen, A. Koivisto, T. Va ̈liharju: The Concept of Open Educational Resources as Instrument for Implementing Lifelong Learning Strategies at Higher and Further Education Institutions. In: EDEN 2006 Annual Conference, Vienna, June 2006
+Sebastian Schaffert, Rupert Westenthaler, and Andreas Gruber: IkeWiki: A User-Friendly Semantic Wiki. In: 3rd European Semantic Web Conference (ESWC06) – Demonstrations Track, Budva, Montenegro, June 2006
+Wolf Hilzensauer, Veronika Hornung-Prähauser, and Sebastian Schaffert: Requirements for Personal Development Planning in ePortfolios supported by Semantic Web Technology. In: I-Know 2006, Graz, Austria, September 2006
+Sebastian Schaffert: Semantic Social Software: Semantically Enabled Social Software or Socially Enabled Semantic Web?. August 2006
+Max Völkel and Sebastian Schaffert: Proceedings of the First Workshop on Semantic Wikis – From Wiki to Semantics. CEUR Workshop Proceedings Vol. 206, ISSN 1613-0073, June 2006
+Sebastian Schaffert and York Sure: Semantic Systems: From Visions to Applications – Proceedings of the SEMANTICS 2006. OCG Books, ISBN 3-85403-212-9, November 2006
+Franc ̧ois Bry, Tim Furche, Liviu Badea, Christoph Koch, Sebastian Schaffert, and Sacha Berger: Querying the Web Reconsidered: Design Principles for Versatile Web Query Languages. In: Journal of Semantic Web and Information Systems, 2005
+Sacha Berger, François Bry, Oliver Bolzer, Tim Furche, Sebastian Schaffert, and Christoph Wieser: Querying the standard and Semantic Web using Xcerpt and visXcerpt. In: Proceedings of European Semantic Web Conference (ESWC’05), Heraklion, Crete, Greece, May 2005
+James Bailey, François Bry, Tim Furche, and Sebastian Schaffert: Web and Semantic Web Query Languages: A Survey. In: Reasoning Web, First International Summer School 2005 (LNCS 3564), Malta, July 2005.
+ErichSchubert, Sebastian Schaffert, and François Bry: Structure-Preserving Difference Search for XML Documents. In: Proceedings of Extreme Markup Languages 2005, Montréal, Québec, Canada, August 2005.
+S. Schaffert, F. Bry, P. Besnard, H. Decker, S. Decker, C. Enguix, A. Herzig: Paraconsistent Reasoning for the Semantic Web (Position Paper). In: Workshop on Uncertainty Reasoning for the Semantic Web (URSW05) at ISWC05, Galway, Ireland, November 2005.
+Grigoris Antoniou, Matteo Baldoni, Cristina Baroglio, Robert Baumgartner, François Bry, Thomas Eiter, Nicola Henze, Marcus Herzog, Wolfgang May, Viviana Patti, Roman Schindlauer, Hans Tompits, and Sebastian Schaffert: Reasoning Methods for Personalization on the Semantic Web. In: Annals of Mathematics, Computing & Teleinformatics 2 (1), 1-24, 2004
+Sacha Berger, François Bry, Oliver Bolzer, Tim Furche, Dan Olteanu, Sebastian Schaffert, and Christoph Wieser: Xcerpt and visXcerpt: Twin Query Languages for the Semantic Web. Demonstration at 3rd International Semantic Web Conference (ISWC2004), Hiroshima, Japan (7–11 November 2004)
+Sacha Berger, François Bry, Bernhard Lorenz,Hans Jürgen Ohlbach, Paula-Lavinia Patranjan, Sebastian Schaffert, Uta Schwertel, and Stephanie Spranger: Reasoning on the Web: Language Prototypes and Perspectives. In: Proceedings of European Workshop on the Integration of Knowledge, Semantics and Digital Media Technology (EWIMT 2004), London, UK (25–26 November 2004)
+Hans Jürgen Ohlbach and Sebastian Schaffert (editors): Proceedings of Workshop on Principles and Practice of Semantic Web Reasoning (PPSWR’04). St. Malo, France (6–10 September 2004), Springer-Verlag LNCS 3208
+François Bry, Tim Furche, Paula-Lavinia Patranjan, and Sebastian Schaffert: Data Retrieval and Evolution on the (Semantic) Web: A Deductive Approach. In: Proceedings of Workshop on Principles and Practice of Semantic Web Reasoning (PPSWR’04), St. Malo, France (6–10 September 2004), Springer-Verlag LNCS 3208
+François Bry, Paula-Lavinia Patranjan, and Sebastian Schaffert: Xcerpt and XChange: Logic Programming Languages for Querying and Evolution on the Web. In: Proceedings of 19th International Conference on Logic Programming (ICLP’04), St. Malo, France (6–10 September 2004), Springer-Verlag LNCS
+François Bry, Sebastian Schaffert, and Paula-Lavinia Patranjan: Xcerpt and XChange: Deductive Languages for Data Retrieval and Evolution on the Web. In: Proceedings of Workshop on Semantic Web Services and Dynamic Networks (SWSDN2004), Ulm, Germany (22–24 September 2004)
+Sacha Berger, François Bry, and Sebastian Schaffert: Xcerpt et visXcerpt : Langages déductifs d interrogation du Web. In: Proceedings of Treiziemes Journées Francophones de Programmation en Logique et Programmation par Contraintes (JFPLC’2004), Angers, France (21–23 June 2004)
+Sacha Berger, François Bry, and Sebastian Schaffert: Xcerpt und visXcerpt: deduktive Anfragesprachen fu ̈r das Web. In: Proceedings of 16. Workshop Grundlagen von Daten- banken, Monheim am Rhein, Germany (1–4 June 2004)
+Sebastian Schaffert and François Bry: Querying the Web Reconsidered: A Practical Introduction to Xcerpt. In: Proceedings of Extreme Markup Languages 2004, Montréal, Quebec, Canada (2–6 August 2004)
+François Bry, Sebastian Schaffert, and Andreas Schro ̈der: A contribution to the Semantics of Xcerpt, a Web Query and Transformation Language. In: Proceedings of 18th Workshop on (Constraint) Logic Programming (WLP), Potsdam, Germany (14–16 March 2004), Springer-Verlag LNAI 3392
+Sacha Berger, François Bry, and Sebastian Schaffert: A Visual Language for Web Querying and Reasoning. In: Proceedings of Workshop on Principles and Practice of Semantic Web Reasoning (ICLP03), Mumbai, India (9–13 December 2003), Springer-Verlag LNCS 2901
+François Bry and Sebastian Schaffert: An Entailment Relation for Reasoning on the Web. In: Proceedings of Rules and Rule Markup Languages for the Semantic Web (RuleML’03), Sanibel Island (Florida), USA (20 October 2003), Springer-Verlag LNCS
+Sacha Berger, François Bry, Sebastian Schaffert, and Christoph Wieser: Xcerpt and visXcerpt: From Pattern-Based to Visual Querying of XML and Semistructured Data. In: Pro- ceedings of 29th Intl. Conference on Very Large Data Bases (VLDB03), Berlin, Germany (9–12 September 2003)
+Sacha Berger, François Bry, and Sebastian Schaffert: Pattern Queries for XML and Semistructured Data. In: Proceedings of 17. Workshop Logische Programmierung (WLP), Dresden, Germany (11–13 December 2002)
+François Bry and Sebastian Schaffert: Towards a Declarative Query and Transformation Language for XML and Semistructured Data: Simulation Unification. In: Proceedings of International Conference on Logic Programming (ICLP), Copenhagen, Denmark (29 July - 1 August 2002), Springer-Verlag LNCS 2401
+François Bry and Sebastian Schaffert: A Gentle Introduction into Xcerpt, a Rule-based Query and Transformation Language for XML. In: Proceedings of International Workshop on Rule Markup Languages for Business Rules on the Semantic Web (RuleML 2002), Sardinia, Italy (14 June 2002)
+François Bry and Sebastian Schaffert: The XML Query Language Xcerpt: Design Principles, Examples, and Semantics. In: Web, Web-Services, and Database Systems, Proceedings of 2nd Annual International Workshop ”Web and Databases”, Erfurt, Germany (9–10 October 2002), Springer-Verlag LNCS 2593
+François Bry, Michael Kraus, Dan Olteanu, and Sebastian Schaffert: Aktuelles Schlagwort: Semistrukturierte Daten. Informatik-Lexikon der GI, Informatik Spektrum 24 (4), 230-233, August 2001
+François Bry, Dan Olteanu, and Sebastian Schaffert: Grouping Constructs for Semistructured Data. In: Proceedings of Workshop at Dexa’01 (WebH2001), Munich, Germany (3 September 2001)
+
+
+== References ==
+
+
+== External links ==
+[ Sebastian Schaffert's personal homepage]
+Sebastian Schaffert, Grouping Structures for Semistructured Data: Enhancing, Data Modelling and Data Retrieval, April 2001
+Sebastian Schaffert, Xcerpt: A Rule-Based Query and Transformation Language for the Web, October 2004

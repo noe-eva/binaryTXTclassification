@@ -1,0 +1,2 @@
+Interaction protocols are possible communication scenarios between individual agents in multi-agent systems.
+FIPA defines markup for interaction protocol diagrams and several standard interaction protocols, including Dutch auction, English auction and reply-response.

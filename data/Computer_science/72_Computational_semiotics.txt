@@ -1,0 +1,26 @@
+Computational semiotics is an interdisciplinary field that applies, conducts, and draws on research in logic, mathematics, the theory and practice of computation, formal and natural language studies, the cognitive sciences generally, and semiotics proper. A common theme of this work is the adoption of a sign-theoretic perspective on issues of artificial intelligence and knowledge representation. Many of its applications lie in the field of human-computer interaction (HCI) and fundamental devices of recognition.
+One part of this field, known as algebraic semiotics, combines aspects of algebraic specification and social semiotics, and has been applied to user interface design and to the representation of mathematical proofs.
+
+
+== See also ==
+
+
+== Bibliography ==
+Andersen, P.B. (1991). A Theory of Computer Semiotics, Cambridge University Press.
+de Souza, C.S., The Semiotic Engineering of Human-Computer Interaction, MIT Press, Cambridge, MA, 2005.
+Tanaka-Ishii, K. (2010), "Semiotics of Programming", Cambridge University Press.
+Hugo, J. (2005), "The Semiotics of Control Room Situation Awareness", Fourth International Cyberspace Conference on Ergonomics, Virtual Conference, 15 Sep – 15 Oct 2005. Eprint
+Gudwin, R.; Queiroz J. (eds) - Semiotics and Intelligent Systems Development - Idea Group Publishing, Hershey PA, USA (2006), ISBN 1-59904-063-8 (hardcover), 1-59904-064-6 (softcover), 1-59904-065-4 (e-book), 352 ps. Link to publisher
+Gudwin, R.; Queiroz, J. - Towards an Introduction to Computational Semiotics - Proceedings of the 2005 IEEE International Conference on Integration of Knowledge Intensive Multi-Agent Systems - KIMAS'05, 18–21 April 2005, Waltham, MA, USA, pp. 393–398.IEEExplore
+Mili, A., Desharnais, J., Mili, F., with Frappier, M., Computer Program Construction, Oxford University Press, New York, NY, 1994. — Introduction to Tarskian relation theory and its applications within the relational programming paradigm.
+Rieger, Burghard B.: Computing Granular Word Meanings. A fuzzy linguistic approach to Computational Semiotics, in: Wang, Paul P. (ed.): Computing with Words. [Wiley Series on Intelligent Systems 3], New York (John Wiley & Sons) 2001, pp. 147–208.
+Rieger, Burghard B.: Computing Fuzzy Semantic Granules from Natural Language Texts. A computational semiotics approach to understanding word meanings, in: Hamza, M.H. (ed.): Artificial Intelligence and Soft Computing, Proceedings of the IASTED International Conference, Anaheim/ Calgary/ Zürich (IASTED/ Acta Press) 1999, pp. 475–479.
+Rieger, Burghard B.: A Systems Theoretical View on Computational Semiotics. Modeling text understanding as meaning constitution by SCIPS, in: Proceedings of the Joint IEEE Conference on the Science and Technology of Intelligent Systems (ISIC/CIRA/ISAS-98), Piscataway, NJ (IEEE/Omnipress) 1998, pp. 840–845. IEEExplore
+
+
+== External links ==
+Goguen, J., Algebraic Semiotics
+Gudwin, R.R., Computational Semiotics
+Gudwin, R.R., List of Publications in Computational Semiotics and other fields
+International Computational Semiotics Group
+UNICAMP Computational Semiotics Group

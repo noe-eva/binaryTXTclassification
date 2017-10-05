@@ -1,0 +1,35 @@
+The agent systems reference model (ASRM) is a layered, abstract description for multiagent systems. As such, the reference model
+provides a taxonomy of terms, concepts and definitions to compare agent systems;
+identifies functional elements that are common in agent systems;
+captures data flow and dependencies among the functional elements in agent systems; and
+specifies assumptions and requirements regarding the dependencies among these elements.
+The ASRM differentiates itself from technical standards, such as Knowledge Interchange Format, Knowledge Query and Manipulation Language, and those of the Foundation for Intelligent Physical Agents in that it defines the required existence of components of a multiagent system; standards prescribe how they are designed.
+
+
+== Technical approach ==
+The ASRM was technically constructed through forensic software analysis of existing agent-based systems. Such fielded systems include JaDE, Cougaar, EMAA, NOMADS, Retsina, A-Globe, among others. In so doing, through empirical evidence, the ASRM motivates its functional breakdown of agent-based systems.
+
+
+== Description of the ASRM layers ==
+
+
+== History ==
+The ASRM was started in July 2005, with the first draft having been completed in November 2006. Contributors to the document have included Drexel University, Cougaar Software, Global InfoTek (see also: CoABS), Soar Technology (see also: Soar), Penn State University, University of Southern California, University of South Carolina, the Florida Institute for Human and Machine Cognition, University of West Florida, BBN Technologies, Telcordia, Lockheed Martin, General Dynamics and others.
+
+
+== See also ==
+4D-RCS Reference Model Architecture
+Agent based model
+Artificial Intelligence
+Complex systems
+Distributed artificial intelligence
+Intelligent agent
+Multiagent system
+Reference model
+Software agent
+
+
+== Further reading ==
+Version 1.0a of the ASRM
+The Case for a Reference Model for Agent-Based Systems. Pragnesh Jay Modi, William C. Regli and Israel Mayk. In Proceedings of the IEEE Workshop on Distributed Intelligent Systems: Collective Intelligence and Its Applications. June, 2006. Pages 321–325.
+Regli, W. C., Mayk, I., Dugan, C. J., Kopena, J. B., Lass, R. N., Modi, P. J., Mongan, W. M., Salvage, J. K., and Sultanik, E. A. "Development and specification of a reference model for agent-based systems." IEEE Trans. Sys. Man Cyber Part C 39, 5 (Sep. 2009), 572–596.[1]

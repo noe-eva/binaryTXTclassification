@@ -1,0 +1,16 @@
+Computational Transportation Science (CTS) is an emerging discipline that combines computer science and engineering with the modeling, planning, and economic aspects of transport. The discipline studies how to improve the safety, mobility, and sustainability of the transport system by taking advantage of information technologies and ubiquitous computing. A list of subjects encompassed by CTS can be found at include.
+Computational Transportation Science is an emerging discipline going beyond vehicular technology, addressing pedestrian systems on hand-held devices but also issues such as transport data mining (or movement analysis), as well as data management aspects. CTS allows for an increasing flexibility of the system as local and autonomous negotiations between transport peers, partners and supporting infrastructure are allowed. Thus, CTS provides means to study localized computing, self-organization, cooperation and simulation of transport systems.
+Several academic conferences on CTS have been held up to date:
+The Fourth ACM SIGSPATIAL International Workshop on Computational Transportation Science
+The Third ACM SIGSPATIAL International Workshop on Computational Transportation Science
+Dagstuhl Seminar 10121 on Computational Transportation Science
+The Second International Workshop on Computational Transportation Science
+The First International Workshop on Computational Transportation Science
+There is also an IGERT PHD program on Computational Transportation Science at the University of Illinois at Chicago.
+
+
+== References ==
+
+
+== External links ==
+Computational Transportation Science

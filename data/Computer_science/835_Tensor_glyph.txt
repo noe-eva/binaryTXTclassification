@@ -1,0 +1,25 @@
+In scientific visualization a tensor glyph is an object that can visualize all or most of the nine degrees of freedom, such as acceleration, twist, or shear – of a 
+  
+    
+      
+        3
+        ×
+        3
+      
+    
+    {\displaystyle 3\times 3}
+   matrix. It is used for tensor field visualization, where a data-matrix is available at every point in the grid. "Glyphs, or icons, depict multiple data values by mapping them onto the shape, size, orientation, and surface appearance of a base geometric primitive." Tensor glyphs are a particular case of multivariate data glyphs.
+There are certain types of glyphs that are commonly used:
+Ellipsoid
+Cuboid
+Cylindrical
+Superquadrics
+According to Thomas Schultz and Gordon Kindlmann, specific types of tensor fields "play a central role in scientific and biomedical studies as well as in image analysis and feature-extraction methods."
+
+
+== References ==
+
+
+== Further reading ==
+Superquadric Tensor Glyphs (Images and Examples)
+Bertin, Jacques (2010) [1967]. Semiology of Graphics. ISBN 1589482611.

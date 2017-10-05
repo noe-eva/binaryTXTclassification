@@ -1,0 +1,8 @@
+Molecular computational identification (MCID) is a technique in which molecules are used as means for identifying individual cells or nanodevices.
+
+
+== See also ==
+RFID
+
+
+== References ==

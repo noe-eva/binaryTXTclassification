@@ -1,0 +1,23 @@
+The American Federation of Information Processing Societies (AFIPS) was an umbrella organization of professional societies established on May 10, 1961 and dissolved in 1990. Its mission was to advance knowledge in the field of information science, and to represent its member societies in international forums.
+
+
+== History ==
+AFIPS grew out of the National Joint Computer Committee (NJCC), an organization formed in 1951, which held two major computer conferences - the Eastern (EJCC) and Western Joint Computer Conferences (WJCC). The three founding societies of AFIPS were the Association for Computing Machinery (ACM), the American Institute of Electrical Engineers (AIEE), and the Institute of Radio Engineers (IRE). AFIPS represented these societies in the International Federation for Information Processing (IFIP), formed a year earlier under the auspices of UNESCO.
+In 1962, AFIPS took over sponsorship of the EJCC and WJCC and renamed them the Spring (SJCC) and Fall Joint Computer Conferences (FJCC). In 1973, the two were merged in the National Computer Conference (NCC), which ran annually until it was discontinued in 1987.
+AFIPS also sponsored smaller conferences such as the Office Automation Conference, published the Annals of the History of Computing and other magazines, and presented an annual award—the Harry Goode Memorial Award—recognizing outstanding achievement in information processing.
+AFIPS was dissolved in 1990. The IEEE Computer Society (IEEE-CS) became the sponsor of the Goode Award, and took over publication of Annals (renamed the IEEE Annals of the History of Computing). The IEEE-CS also joined the ACM to form the Federation on Computing in the United States (FOCUS) in 1991, to take the place of AFIPS as the United States’ representative in IFIP. In 1999, IFIP accepted separate membership for both IEEE-CS and ACM, and FOCUS was dissolved.
+
+
+== Structure ==
+AFIPS was managed by a board of directors, originally called the "Governing Board." Each member society had one to three directors on the board depending on the size of the society; each affiliated member had one director. Under this board were various committees including the executive committee, the education committee, the finance committee, and the awards committee. The conferences were managed by a conference board, which set the overall direction and policies of the conferences, coordinated the actions of the Conference Steering Committee and the National Computer Conference Committee, and referred problems to appropriate committees such as the finance and executive committees of AFIPS. The conferences featured technical sessions and exhibits relating to the field of information processing.
+
+
+== References ==
+
+
+== External links ==
+American Federation of Information Processing Societies (AFIPS) Records, 1960-1990, Charles Babbage Institute, University of Minnesota.
+Walter M. Carlson Papers, 1960-1990, Charles Babbage Institute, University of Minnesota. Documents, photographs, and audiovisuals related to AFIPS and its History of Computing Committee.
+Claude A. R. Kagan Papers, 1951-1981, Charles Babbage Institute, University of Minnesota. correspondence, conference proceedings, meeting minutes, memoranda, newsletters, and policy manuals on origin and organization of AFIPS.
+Oral history interview with Margaret R. Fox, Charles Babbage Institute, University of Minnesota. Among other topics Fox recounts her involvement in the National Joint Computer Committee which led to her work in the American Federation of Information Processing Societies (AFIPS) and describes the role of AFIPS in the International Information Processing Conference in Paris in 1959.
+Oral history interview with Willis Ware, Charles Babbage Institute, University of Minnesota. Among many topics, Ware discusses his work for ACM and AFIPS.

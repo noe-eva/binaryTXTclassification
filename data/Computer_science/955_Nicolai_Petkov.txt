@@ -1,0 +1,39 @@
+Nicolai Petkov (born 1965) is Dutch computer scientist, and professor of Intelligent Systems and Computer Science at the University of Groningen, known for his contributions in the fields of brain-inspired computing, pattern recognition, machine learning, and parallel computing.
+
+
+== Life and work ==
+Petkov received his doctoral degree at the Dresden University of Technology in Germany. After graduation he worked at several universities and in 1991 he was appointed Professor of Computer Science (chair of Intelligent Systems and Parallel Computing) at the University of Groningen. He was PhD thesis director (promotor) of Michael Wilkinson (1995), Henk Bekker (1996), Marc Lankhorst (1996), Frank Schnorrenberg (1998), Thomas A. Lippert (1998), Peter Kruizinga (1999), Michel Westenberg (2001), Simona E. Grigorescu (2003), Cosmin Grigorescu (2004), Anarta Ghosh (2007), Gisela Klette (2007), Lidia Sanchez Gonzalez (2007), Erik Urbach (2008), Easwar Subramanian (2008), Giuseppe Papari (2009), Georgeos Ouzounis (2009), Florence Tushabe (2010), Panchalee Sukjit (2011), George Azzopardi (2013), Ioannis E. Giotis (2013), Fred N. Kiwanuka (2013), Ando C. Emerencia (2014), Ugo Moschini (2016), Nicola Strisciuglio (2016), Andreas Neocleous (2016). At the University of Groningen he was scientific director of the Institute for Mathematics and Computer Science (now Johann Bernoulli Institute) from 1998 to 2009, and he is member of the University Council and chairman of the Science Faction since 2011.
+Petkov is associate editor of several scientific journals (e.g. J. Image and Vision Computing). He co-organised and co-chaired the 10th International Conference of Computer Analysis of Images and Patterns CAIP 2003 in Groningen, the 13th CAIP 2009 in Münster, Germany, the 16th CAIP 2015 in Valletta, Malta, and the Workshops Braincomp 2013 and 2015 on Brain-Inspired Computing in Cetraro, Italy.
+Petkov's initial research in the late 1980s was in the field of systolic parallel algorithms. His current research interests are in the field of development of pattern recognition and machine learning algorithms that he applies to various types of big data: image, video, audio, text, genetic, phenotype, medical, sensor, financial, web, and heterogeneous. He develops methods for the generation of intelligent programs that are automatically configured using training examples of events and patterns of interest.
+
+
+== Selected publications ==
+Petkov is author and editor of several books and more than 150 other scientific publications.
+Books:
+N. Petkov. Systolische Algorithmen und Arrays. Berlin: Akademie-Verlag, 1989.
+N. Petkov. Systolic Parallel Processing. Amsterdam: North-Holland, Elsevier Sci. Publ., 1993
+Edited books:
+G. Azzopardi and N. Petkov (Eds.). Computer Analysis of Images and Patterns: 16th International Conference, CAIP 2015, Valletta, Malta, September 2–4, 2015, Proceedings. Parts I and II, LNCS 9256 and 9257, Springer.
+L. Grandinetti, T. A. Lippert and N. Petkov (Eds.). Brain-Inspired Computing (International Workshop, BrainComp 2013, Cetraro, Italy, July 8–11, 2013, Revised Selected Papers), LNCS 8603, Springer.
+X. Jiang, Nicolai Petkov (Eds.). Computer Analysis of Images and Patterns: 13th International Conference, CAIP 2009, Münster, Germany, September 2–4, 2009, Proceedings. LNCS 5702, Springer.
+N. Petkov, and M. A. Westenberg (Eds.). Computer Analysis of Images and Patterns: 10th International Conference, CAIP 2003, Groningen, The Netherlands, August 25–27, 2003, Proceedings. LNCS 2756, Springer.
+Articles, a selection:
+G Azzopardi, N Strisciuglio, M Vento, N Petkov: Trainable COSFIRE filters for vessel delineation with application to retinal images. Medical image analysis 19 (1), 2015: 46-57
+G. Azzopardi, N. Petkov: Trainable COSFIRE filters for keypoint detection and pattern recognition. IEEE Trans. on Pattern Analysis and Machine Intelligence, 35 (2), 2013: 490–503.
+G. Papari and N. Petkov. Edge and line oriented contour detection: State of the art. Image and Vision Computing, 29 (2-3), 2011: 79-103.
+N Petkov, E Subramanian: Motion detection, noise reduction, texture suppression, and contour enhancement by spatiotemporal Gabor filters with surround inhibition. Biological Cybernetics 97 (5-6), 2007: 423-439
+A Ghosh, N Petkov: Robustness of shape descriptors to incomplete contour representations. IEEE transactions on pattern analysis and machine intelligence 27 (11), 2005: 1793 -1804
+C Grigorescu, N Petkov, MA Westenberg: Contour and boundary detection improved by surround suppression of texture edges. Image and Vision Computing 22 (8), 2004: 609-622
+C. Grigorescu, N. Petkov, and M. A. Westenberg. Contour detection based on nonclassical receptive field inhibition. IEEE Transactions on Image Processing, 12 (7), 2003: 729-739.
+C Grigorescu, N Petkov: Distance sets for shape filters and shape recognition. IEEE Transactions on Image Processing 12 (10), 2003: 1274-1286
+N Petkov, MA Westenberg: Suppression of contour perception by band-limited noise and its relation to nonclassical receptive field inhibition. Biological Cybernetics 88 (3), 2003: 236-246
+S.E. Grigorescu, N. Petkov, and P. Kruizinga. Comparison of texture features based on Gabor filters. IEEE Transactions on Image Processing, 11 (10), 2002: 1160-1167.
+P Kruizinga and N Petkov: Non-linear operator for oriented texture. IEEE Trans. on Image Processing 8 (10), 1999: 1395-1407
+N. Petkov and P. Kruizinga: Computational models of visual neurons specialised in the detection of periodic and aperiodic oriented visual stimuli: bar and grating cells, Biological Cybernetics, 76 (2), 1997: 83-96.
+
+
+== References ==
+
+
+== External links ==
+Nicolai Petkov homepage at rug.nl

@@ -1,0 +1,5 @@
+Pantelides algorithm gives a systematic method for reducing high-index systems of differential-algebraic equations to lower index, by selectively adding differentiated forms of the equations already present in the system. It is possible for the algorithm to fail in some instances.
+Pantelides algorithm is implemented in several significant equation-based simulation programs such as gPROMS, Modelica and EMSO.
+
+
+== References ==

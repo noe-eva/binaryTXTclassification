@@ -1,0 +1,18 @@
+In computer programming, an Iliffe vector, also known as a display, is a data structure used to implement multi-dimensional arrays. An Iliffe vector for an n-dimensional array (where n ≥ 2) consists of a vector (or 1-dimensional array) of pointers to an (n − 1)-dimensional array. They are often used to avoid the need for expensive multiplication operations when performing address calculation on an array element. They can also be used to implement jagged arrays, such as triangular arrays, triangular matrices and other kinds of irregularly shaped arrays. The data structure is named after John K. Iliffe.
+Their disadvantages include the need for multiple chained pointer indirections to access an element, and the extra work required to determine the next row in an n-dimensional array to allow an optimising compiler to prefetch it. Both of these are a source of delays on systems where the CPU is significantly faster than main memory.
+The Iliffe vector for a 2-dimensional array is simply a vector of pointers to vectors of data, i.e., the Iliffe vector represents the columns of an array where each column element is a pointer to a row vector.
+Multidimensional arrays in languages such as Java, Python (multidimensional lists), Ruby, Visual Basic .NET, Perl, PHP, JavaScript, Objective-C (when using NSArray, not a row-major C-style array), Swift, and Atlas Autocode are implemented as Iliffe vectors.
+Iliffe vectors are contrasted with dope vectors in languages such as Fortran, which contain the stride factors and offset values for the subscripts in each dimension.
+
+
+== References ==
+
+John K. Iliffe (1961). "The Use of The Genie System in Numerical Calculations". Annual Review in Automatic Programming. 2: 25. doi:10.1016/S0066-4138(61)80002-5. 
+
+
+== See also ==
+Dope vector
+
+
+== Further reading ==
+"Chapter 3: Data Structure Mappings". Compiling Techniques. Associates Technology Literature Applications Society. Retrieved 5 May 2015.

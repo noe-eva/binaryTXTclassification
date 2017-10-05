@@ -1,0 +1,77 @@
+In the analysis of algorithms, several authors have studied the computation of the volume of high-dimensional convex bodies, a problem that can also be used to model many other problems in combinatorial enumeration. Often these works use a black box model of computation in which the input is given by a subroutine for testing whether a point is inside or outside of the convex body, rather than by an explicit listing of the vertices or faces of a convex polytope. It is known that, in this model, no deterministic algorithm can achieve an accurate approximation, and even for an explicit listing of faces or vertices the problem is #P-hard. However, a joint work by Martin Dyer, Alan M. Frieze and Ravindran Kannan provided a randomized polynomial time approximation scheme for the problem, providing a sharp contrast between the capabilities of randomized and deterministic algorithms.
+The main result of the paper is a randomized algorithm for finding an 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+   approximation to the volume of a convex body 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   in 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -dimensional Euclidean space by assuming the existence of a membership oracle. The algorithm takes time bounded by a polynomial in 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , the dimension of 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   and 
+  
+    
+      
+        1
+        
+          /
+        
+        ε
+      
+    
+    {\displaystyle 1/\varepsilon }
+  . The algorithm combines two ideas:
+By using a Markov chain Monte Carlo (MCMC) method, it is possible to generate points that are nearly uniformly randomly distributed within a given convex body. The basic scheme of the algorithm is a nearly uniform sampling from within 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   by placing a grid consisting 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -dimensional cubes and doing a random walk over these cubes. By using the theory of rapidly mixing Markov chains, they show that it takes a polynomial time for the random walk to settle down to being a nearly uniform distribution.
+By using rejection sampling, it is possible to compare the volumes of two convex bodies, one nested within another, when their volumes are within a small factor of each other. The basic idea is to generate random points within the outer of the two bodies, and to count how often those points are also within the inner body.
+The given convex body can be approximated by a sequence of nested bodies, eventually reaching one of known volume (a hypersphere), with this approach used to estimate the factor by which the volume changes at each step of this sequence. Multiplying these factors gives the approximate volume of the original body.
+This work earned its authors the 1991 Fulkerson Prize. Although the time for this algorithm is polynomial, it has a high exponent. Subsequent authors improved the running time of this method by providing more quickly mixing Markov chains for the same problem.
+
+
+== References ==

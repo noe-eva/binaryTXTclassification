@@ -1,0 +1,2 @@
+Macintosh Manager started as a replacement for Apple Computer's At Ease workstation software. It originally ran on Mac OS 9 with AppleShare IP, and came with OS X Server up to version 10.3 Panther. In version 10.4 Tiger, Macintosh Manager was removed.
+Macintosh Manager was used to manage classic Mac OS clients. It allows users to arrange into groups and different levels of access to certain features in the Finder. Similar functionality is found in Workgroup Manager for OS X.

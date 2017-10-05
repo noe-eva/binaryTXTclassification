@@ -1,0 +1,11 @@
+A subfield of Knowledge Acquisition within Artificial Intelligence, Knowledge Collection from Volunteer Contributors (KCVC) attempts to drive down the cost of acquiring the knowledge required to support automated reasoning by having the public enter knowledge in computer processable form over the internet. KCVC might be regarded as similar in spirit to Wikipedia, although the intended audience, Artificial Intelligence systems, differs.
+What may have been the first research meeting on this topic was The 2005 AAAI Spring Symposium on Knowledge Collection from Volunteer Contributors (KCVC05).
+The first large-scale KCVC project was probably the Open Mind Common Sense (OMCS) project, initiated by Push Singh and Marvin Minsky at the MIT Media Lab. In this project, volunteers enter words or simple sentences in English in response to prompts or images. Although the resulting knowledge is not formally represented, it is provided to researchers with parses and other meta-information intended to increase its utility. Later, this group released ConceptNet, which embedded the knowledge contained in the OMCS database as a semantic network.
+In late 2005, Cycorp released a KCVC system called FACTory that attempts to acquire knowledge in a form directly usable for automated reasoning. It automatically generates questions in English from an underlying predicate calculus representation of candidate assertions produced by automated reading of web pages, by reviewing information previously entered directly in logical form, and by analogy and abduction.
+
+
+== External links ==
+Open Mind Project
+Open Mind Common Sense
+ISI's Learner
+Cycorp's FACTory

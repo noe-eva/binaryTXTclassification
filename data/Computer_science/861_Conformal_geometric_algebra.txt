@@ -1,0 +1,979 @@
+In mathematics, with application in computational geometry, conformal geometric algebra (CGA) is the geometric algebra constructed over the resultant space of a projective map from an n-dimensional pseudo-Euclidean (including Euclidean) base space Ep,q into ℝp+1,q+1. This allows operations on the n-dimensional space, including rotations, translations and reflections to be represented using versors of the geometric algebra; and it is found that points, lines, planes, circles and spheres gain particularly natural and computationally amenable representations.
+The effect of the mapping is that generalized (i.e. including zero curvature) k-spheres in the base space map onto (k + 2)-blades, and so that the effect of a translation (or any conformal mapping) of the base space corresponds to a rotation in the higher-dimensional space. In the algebra of this space, based on the geometric product of vectors, such transformations correspond to the algebra's characteristic sandwich operations, similar to the use of quaternions for spatial rotation in 3D, which combine very efficiently. A consequence of rotors representing transformations is that the representations of spheres, planes, circles and other geometrical objects, and equations connecting them, all transform covariantly. A geometric object (a k-sphere) can be synthesized as the wedge product of k + 2 linearly independent vectors representing points on the object; conversely, the object can be decomposed as the repeated wedge product of vectors representing k + 2 distinct points in its surface. Some intersection operations also acquire a tidy algebraic form: for example, for the Euclidean base space E3, applying the wedge product to the dual of the tetravectors representing two spheres produces the dual of the trivector representation of their circle of intersection.
+As this algebraic structure lends itself directly to effective computation, it facilitates exploration of the classical methods of projective geometry and inversive geometry in a concrete, easy-to-manipulate setting. It has also been used as an efficient structure to represent and facilitate calculations in screw theory. CGA has particularly been applied in connection with the projective mapping of the everyday Euclidean space E3 into a five-dimensional vector space ℝ4,1, which has been investigated for applications in robotics and computer vision. It can be applied generally to any pseudo-Euclidean space, and the mapping of Minkowski space E3,1 to the space ℝ4,2 is being investigated for applications to relativistic physics.
+
+
+== Construction of CGA ==
+
+
+=== Notation and terminology ===
+The Euclidean space containing the objects being modelled is referred to here as the base space, and the algebraic space used to projectively model these objects is referred to here as the representation space. A homogeneous subspace refers to a linear subspace of the algebraic space.
+The terms for objects: point, line, circle, sphere, quasi-sphere etc. are used to mean either the geometric object in the base space, or the homogeneous subspace of the representation space that represents that object, with the latter generally being intended unless indicated otherwise. Algebraically, any nonzero null element of the homogeneous subspace will be used, with one element being referred to as normalized by some criterion.
+Boldface lowercase Latin letters are used to represent position vectors from the origin to a point in the base space. Italic symbols are used for other elements of the representation space.
+
+
+=== Base and representation spaces ===
+The base space Ep,q is represented by extending a basis for the displacements from a chosen origin and adding two basis vectors e− and e+ orthogonal to the base space and to each other, with e−2 = −1 and e+2 = +1, creating the representation space ℝp+1,q+1.
+It is convenient to use two null vectors no and n∞ as basis vectors in place of e+ and e−, where no = (e− − e+)/2, and n∞ = e− + e+. It can be verified, where x is in the base space, that:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      n
+                      
+                        o
+                      
+                    
+                  
+                  
+                    2
+                  
+                
+              
+              
+                =
+                0
+                
+                
+                  n
+                  
+                    o
+                  
+                
+                ⋅
+                
+                  n
+                  
+                    ∞
+                  
+                
+              
+              
+                =
+                −
+                1
+                
+              
+              
+                
+                  n
+                  
+                    o
+                  
+                
+                ⋅
+                
+                  x
+                
+              
+              
+                =
+                0
+              
+            
+            
+              
+                
+                  
+                    
+                      n
+                      
+                        ∞
+                      
+                    
+                  
+                  
+                    2
+                  
+                
+              
+              
+                =
+                0
+                
+                
+                  n
+                  
+                    o
+                  
+                
+                ∧
+                
+                  n
+                  
+                    ∞
+                  
+                
+              
+              
+                =
+                
+                  e
+                  
+                    −
+                  
+                
+                
+                  e
+                  
+                    +
+                  
+                
+                
+              
+              
+                
+                  n
+                  
+                    ∞
+                  
+                
+                ⋅
+                
+                  x
+                
+              
+              
+                =
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{lllll}{n_{\text{o}}}^{2}&=0\qquad n_{\text{o}}\cdot n_{\infty }&=-1\qquad &n_{\text{o}}\cdot \mathbf {x} &=0\\{n_{\infty }}^{2}&=0\qquad n_{\text{o}}\wedge n_{\infty }&=e_{-}e_{+}\qquad &n_{\infty }\cdot \mathbf {x} &=0\end{array}}}
+  
+These properties lead to the following formulas for the basis vector coefficients of a general vector r in the representation space for a basis with elements ei orthogonal to every other basis element:
+The coefficient of no for r is −n∞ ⋅ r
+The coefficient of n∞ for r is −no ⋅ r
+The coefficient of ei for r is ei−1 ⋅ r.
+
+
+=== Mapping between the base space and the representation space ===
+The mapping from a vector in the base space (being from the origin to a point in the affine space represented) is given by the formula:
+
+  
+    
+      
+        F
+        :
+        
+          x
+        
+        ↦
+        
+          n
+          
+            o
+          
+        
+        +
+        
+          x
+        
+        +
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          
+            x
+          
+          
+            2
+          
+        
+        
+          n
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle F:\mathbf {x} \mapsto n_{\text{o}}+\mathbf {x} +{\tfrac {1}{2}}\mathbf {x} ^{2}n_{\infty }}
+  
+Points and other objects that differ only by a nonzero scalar factor all map to the same object in the base space. When normalisation is desired, as for generating a simple reverse map of a point from the representation space to the base space or determining distances, the condition F(x) ⋅ n∞ = −1 may be used.
+
+The forward mapping is equivalent to:
+first conformally projecting x from e123 onto a unit 3-sphere in the space e+ ∧ e123 (in 5-D this is in the subspace r ⋅ (−no − 1/2n∞) = 0);
+then lift this into a projective space, by adjoining e– = 1, and identifying all points on the same ray from the origin (in 5-D this is in the subspace r ⋅ (−no − 1/2n∞) = 1);
+then change the normalisation, so the plane for the homogeneous projection is given by the no co-ordinate having a value 1, i.e. r ⋅ n∞ = −1.
+
+
+=== Inverse mapping ===
+An inverse mapping for X on the null cone is given (Perwass eqn 4.37) by
+
+  
+    
+      
+        X
+        ↦
+        
+          
+            
+              P
+            
+          
+          
+            
+              n
+              
+                ∞
+              
+            
+            ∧
+            
+              n
+              
+                o
+              
+            
+          
+          
+            ⊥
+          
+        
+        
+          (
+          
+            
+              X
+              
+                −
+                X
+                ⋅
+                
+                  n
+                  
+                    ∞
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle X\mapsto {\mathcal {P}}_{n_{\infty }\wedge n_{\text{o}}}^{\perp }\left({\frac {X}{-X\cdot n_{\infty }}}\right)}
+  
+This first gives a stereographic projection from the light-cone onto the plane r ⋅ n∞ = −1, and then throws away the no and n∞ parts, so that the overall result is to map all of the equivalent points αX = α(no + x + 1/2x2n∞) to x.
+
+
+=== Origin and point at infinity ===
+The point x = 0 in ℝp,q maps to no in ℝp+1,q+1, so no is identified as the (representation) vector of the point at the origin.
+A vector in ℝp+1,q+1 with a nonzero n∞ coefficient, but a zero no coefficient, must (considering the inverse map) be the image of an infinite vector in ℝp,q. The direction n∞ therefore represents the (conformal) point at infinity. This motivates the subscripts o and ∞ for identifying the null basis vectors.
+The choice of the origin is arbitrary: any other point may be chosen, as the representation is of an affine space. The origin merely represents a reference point, and is algebraically equivalent to any other point. Changing the origin corresponds to a rotation in the representation space.
+
+
+== Geometrical objects ==
+
+
+=== As the solution of a pair of equations ===
+Given any nonzero blade A of the representing space, the set of vectors that are solutions to a pair of homogeneous equations of the form
+
+  
+    
+      
+        
+          X
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle X^{2}=0}
+  
+
+  
+    
+      
+        X
+        ∧
+        A
+        =
+        0
+      
+    
+    {\displaystyle X\wedge A=0}
+  
+is the union of homogeneous 1-d subspaces of null vectors, and is thus a representation of a set of points in the base space. This leads to the choice of a blade A as being a useful way to represent a particular class of geometric object. Specific cases for the blade A (independent of the number of dimensions of the space) when the base space is Euclidean space are:
+a scalar: the empty set
+a vector: a single point
+a bivector: a pair of points
+a trivector: a generalized circle
+a 4-vector: a generalized sphere
+etc.
+These each may split into three cases according to whether A2 is positive, zero or negative, corresponding (in reversed order in some cases) to the object as listed, a degenerate case of a single point, or no points (where the nonzero solutions of X ∧ A exclude null vectors).
+The listed geometric objects (generalized n-spheres) become quasi-spheres in the more general case of the base space being pseudo-Euclidean.
+Flat objects may be identified by the point at infinity being included in the solutions. Thus, if n∞ ∧ A = 0, the object will be a line, plane, etc., for the blade A respectively being of grade 3, 4, etc.
+
+
+=== As derived from points of the object ===
+A blade A representing of one of this class of object may be found as the outer product of linearly independent vectors representing points on the object. In the base space, this linear independence manifests as each point lying outside the object defined by the other points. So, for example, a fourth point lying on the generalized circle defined by three distinct points cannot be used as a fourth point to define a sphere.
+
+
+=== odds ===
+Points in e123 map onto the null cone—the null parabola if we set r . n∞ = -1.
+We can consider the locus of points in e123 s.t. in conformal space g(x) . A = 0, for various types of geometrical object A.
+We start by observing that 
+  
+    
+      
+        g
+        (
+        
+          a
+        
+        )
+        .
+        g
+        (
+        
+          b
+        
+        )
+        =
+        −
+        
+          
+            1
+            2
+          
+        
+        ∥
+        
+          a
+        
+        −
+        
+          b
+        
+        
+          ∥
+          
+            2
+          
+        
+      
+    
+    {\displaystyle g(\mathbf {a} ).g(\mathbf {b} )=-{\frac {1}{2}}\|\mathbf {a} -\mathbf {b} \|^{2}}
+  
+compare:
+x. a = 0 => x perp a; x.(a∧b) = 0 => x perp a and x perp b
+x∧a = 0 => x parallel to a; x∧(a∧b) = 0 => x parallel to a or to b (or to some linear combination)
+the inner product and outer product representations are related by dualisation
+x∧A = 0 <=> x . A* = 0 (check—works if x is 1-dim, A is n-1 dim)
+
+
+==== g(x) . A = 0 ====
+
+A point: the locus of x in R3 is a point if A in R4,1 is a vector on the null cone.
+
+(N.B. that because it's a homogeneous projective space, vectors of any length on a ray through the origin are equivalent, so g(x).A =0 is equivalent to g(x).g(a) = 0).
+*** warning: apparently wrong codimension—go to the sphere as the general case, then restrict to a sphere of size zero. Is the dual of the equation affected by being on the null cone?
+
+A sphere: the locus of x is a sphere if A = S, a vector off the null cone.
+
+If
+
+  
+    
+      
+        
+          S
+        
+        =
+        g
+        (
+        
+          a
+        
+        )
+        −
+        
+          
+            1
+            2
+          
+        
+        
+          ρ
+          
+            2
+          
+        
+        
+          
+            e
+          
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle \mathbf {S} =g(\mathbf {a} )-{\frac {1}{2}}\rho ^{2}\mathbf {e} _{\infty }}
+  
+
+then S.X = 0 => 
+  
+    
+      
+        −
+        
+          
+            1
+            2
+          
+        
+        (
+        
+          a
+        
+        −
+        
+          x
+        
+        
+          )
+          
+            2
+          
+        
+        +
+        
+          
+            1
+            2
+          
+        
+        
+          ρ
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle -{\frac {1}{2}}(\mathbf {a} -\mathbf {x} )^{2}+{\frac {1}{2}}\rho ^{2}=0}
+  
+these are the points corresponding to a sphere
+
+make pic to show hyperbolic orthogonality --> for a vector S off the null-cone, which directions are hyperbolically orthogonal? (cf Lorentz transformation pix)
+in 2+1 D, if S is (1,a,b), (using co-ords e-, {e+, ei}), the points hyperbolically orthogonal to S are those euclideanly orthogonal to (-1,a,b)—i.e., a plane; or in n dimensions, a hyperplane through the origin. This would cut another plane not through the origin in a line (a hypersurface in an n-2 surface), and then the cone in two points (resp. some sort of n-3 conic surface). So it's going to probably look like some kind of conic. This is the surface that is the image of a sphere under g.
+
+A plane: the locus of x is a plane if A = P, a vector with a zero no component. In a homogeneous projective space such a vector P represents a vector on the plane no=1 that would be infinitely far from the origin (ie infinitely far outside the null cone) , so g(x).P =0 corresponds to x on a sphere of infinite radius, a plane.
+In particular:
+
+  
+    
+      
+        
+          P
+        
+        =
+        
+          
+            
+              
+                a
+              
+              ^
+            
+          
+        
+        +
+        α
+        
+          
+            e
+          
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle \mathbf {P} ={\hat {\mathbf {a} }}+\alpha \mathbf {e} _{\infty }}
+   corresponds to x on a plane with normal 
+  
+    
+      
+        
+          
+            
+              
+                a
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\mathbf {a} }}}
+   an orthogonal distance α from the origin.
+
+  
+    
+      
+        
+          P
+        
+        =
+        g
+        (
+        
+          a
+        
+        )
+        −
+        g
+        (
+        
+          b
+        
+        )
+      
+    
+    {\displaystyle \mathbf {P} =g(\mathbf {a} )-g(\mathbf {b} )}
+   corresponds to a plane half way between a and b, with normal a - b
+
+circles
+tangent planes
+lines
+lines at infinity
+point pairs
+
+
+== Transformations ==
+
+reflections
+It can be verified that forming P g(x) P gives a new direction on the null-cone, g(x' ), where x' corresponds to a reflection in the plane of points p in R3 that satisfy g(p) . P = 0.
+g(x) . A = 0 => P g(x) . A P = 0 => P g(x) P . P A P (and similarly for the wedge product), so the effect of applying P sandwich-fashion to any the quantities A in the section above is similarly to reflect the corresponding locus of points x, so the corresponding circles, spheres, lines and planes corresponding to particular types of A are reflected in exactly the same way that applying P to g(x) reflects a point x.
+
+This reflection operation can be used to build up general translations and rotations:
+
+translations
+Reflection in two parallel planes gives a translation,
+
+  
+    
+      
+        g
+        (
+        
+          
+            x
+          
+          
+            ′
+          
+        
+        )
+        =
+        
+          
+            P
+          
+          
+            β
+          
+        
+        
+          
+            P
+          
+          
+            α
+          
+        
+        
+        g
+        (
+        
+          x
+        
+        )
+        
+        
+          
+            P
+          
+          
+            α
+          
+        
+        
+          
+            P
+          
+          
+            β
+          
+        
+      
+    
+    {\displaystyle g(\mathbf {x} ^{\prime })=\mathbf {P} _{\beta }\mathbf {P} _{\alpha }\;g(\mathbf {x} )\;\mathbf {P} _{\alpha }\mathbf {P} _{\beta }}
+  
+If 
+  
+    
+      
+        
+          
+            P
+          
+          
+            α
+          
+        
+        =
+        
+          
+            
+              
+                a
+              
+              ^
+            
+          
+        
+        +
+        α
+        
+          
+            e
+          
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle \mathbf {P} _{\alpha }={\hat {\mathbf {a} }}+\alpha \mathbf {e} _{\infty }}
+   and 
+  
+    
+      
+        
+          
+            P
+          
+          
+            β
+          
+        
+        =
+        
+          
+            
+              
+                a
+              
+              ^
+            
+          
+        
+        +
+        β
+        
+          
+            e
+          
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle \mathbf {P} _{\beta }={\hat {\mathbf {a} }}+\beta \mathbf {e} _{\infty }}
+   then 
+  
+    
+      
+        
+          
+            x
+          
+          
+            ′
+          
+        
+        =
+        
+          x
+        
+        +
+        2
+        (
+        β
+        −
+        α
+        )
+        
+          
+            
+              
+                a
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {x} ^{\prime }=\mathbf {x} +2(\beta -\alpha ){\hat {\mathbf {a} }}}
+  
+
+rotations
+
+  
+    
+      
+        g
+        (
+        
+          
+            x
+          
+          
+            ′
+          
+        
+        )
+        =
+        
+          
+            
+              
+                b
+              
+              ^
+            
+          
+        
+        
+          
+            
+              
+                a
+              
+              ^
+            
+          
+        
+        
+        g
+        (
+        
+          x
+        
+        )
+        
+        
+          
+            
+              
+                a
+              
+              ^
+            
+          
+        
+        
+          
+            
+              
+                b
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle g(\mathbf {x} ^{\prime })={\hat {\mathbf {b} }}{\hat {\mathbf {a} }}\;g(\mathbf {x} )\;{\hat {\mathbf {a} }}{\hat {\mathbf {b} }}}
+   corresponds to an x' that is rotated about the origin by an angle 2 θ where θ is the angle between a and b -- the same effect that this rotor would have if applied directly to x.
+
+general rotations
+rotations about a general point can be achieved by first translating the point to the origin, then rotating around the origin, then translating the point back to its original position, i.e. a sandwiching by the operator 
+  
+    
+      
+        
+          T
+          R
+          
+            
+              
+                T
+                ~
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {TR{\tilde {T}}} }
+   so
+
+  
+    
+      
+        g
+        (
+        
+          
+            G
+          
+        
+        x
+        )
+        =
+        
+          T
+          R
+          
+            
+              
+                T
+                ~
+              
+            
+          
+        
+        
+        g
+        (
+        
+          x
+        
+        )
+        
+        
+          T
+          
+            
+              
+                R
+                ~
+              
+            
+          
+          
+            
+              
+                T
+                ~
+              
+            
+          
+        
+      
+    
+    {\displaystyle g({\mathcal {G}}x)=\mathbf {TR{\tilde {T}}} \;g(\mathbf {x} )\;\mathbf {T{\tilde {R}}{\tilde {T}}} }
+  
+
+screws
+the effect a screw, or motor, (a rotation about a general point, followed by a translation parallel to the axis of rotation) can be achieved by sandwiching g(x) by the operator 
+  
+    
+      
+        
+          M
+        
+        =
+        
+          
+            T
+            
+              2
+            
+          
+          
+            T
+            
+              1
+            
+          
+          R
+          
+            
+              
+                
+                  T
+                  
+                    1
+                  
+                
+                ~
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {M} =\mathbf {T_{2}T_{1}R{\tilde {T_{1}}}} }
+  .
+M can also be parametrised 
+  
+    
+      
+        
+          M
+        
+        =
+        
+          
+            T
+            
+              ′
+            
+          
+          
+            R
+            
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {M} =\mathbf {T^{\prime }R^{\prime }} }
+   (Chasles' theorem)
+
+inversions
+an inversion is a reflection in a sphere – various operations that can be achieved using such inversions are discussed at inversive geometry. In particular, the combination of inversion together with the Euclidean transformations translation and rotation is sufficient to express any conformal mapping – i.e. any mapping that universally preserves angles. (Liouville's theorem).
+
+dilations
+two inversions with the same centre produce a dilation.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==

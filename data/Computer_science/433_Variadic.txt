@@ -1,0 +1,6 @@
+In computer science, an operator or function is variadic if it can take a varying number of arguments; that is, if its arity is not fixed.
+For specific articles, see:
+Variadic function
+Variadic macro in the C preprocessor
+Variadic templates
+Variadic templates in C++11

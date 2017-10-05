@@ -1,0 +1,16 @@
+The Canterbury corpus is a collection of files intended for use as a benchmark for testing lossless data compression algorithms. It was created in 1997 at the University of Canterbury, New Zealand and designed to replace the Calgary corpus. The files were selected based on their ability to provide representative performance results.
+
+
+== Contents ==
+In its most commonly used form, the corpus consists of 11 files, selected as "average" documents from 11 classes of documents, totaling 2,810,784 bytes as follows.
+
+
+== See also ==
+Data compression
+
+
+== References ==
+
+
+== External links ==
+The Canterbury Corpus

@@ -1,0 +1,25 @@
+Radhika Nagpal is a computer scientist. She studies self-organising computer systems. She is currently the Fred Kavli Professor of Computer Science at Harvard University and Harvard School of Engineering and Applied Sciences. She is also a core faculty member of the Harvard Wyss Institute for Biologically Inspired Engineering. Recently, Nagpal co-founded a robotics company under the name of Root Robotics. This educational company works to create many different opportunities for those unable to code to learn how. 
+
+
+== Academia ==
+Her research group focuses on Biologically-inspired multi-agent systems: collective algorithms, programming paradigms, modular and swarm robotics, and on Biological multi-agent systems: models of multicellular morphogenesis, collective insect behavior. This work lies at the intersection of computer science (AI/robotics) and biology. It studies bio-inspired algorithms, programming paradigms, and hardware designs for swarm/modular robotic systems and smart materials, drawing inspiration mainly from social insects and multicellular biology. It also investigates models of self-organization in biology, specifically how cells cooperate during the development of multicellular organisms.
+
+
+=== Programming paradigms for robust collective behavior ===
+Her primary research interest is developing programming paradigms for robust collective behavior, inspired by biology. Ultimately, the goal is to create a framework for the design and analysis of self-organising multi-agent systems. Her group's approach is to formalize these strategies as algorithms, analysis, theoretical models, and programming languages. They are especially interested in global-to-local compilation, the ability to specify user goals at the high level and automatically derive provable strategies at the agent level.
+
+
+=== Understanding robust collective behavior in biological systems ===
+Another of her research interests is in understanding robust collective behavior in biological systems. Building artificial systems can give us insights into how complex global properties can arise from identically-programmed parts --- for example, how cells can form scale-independent patterns, how large morphological variations can arise from small genetic changes, and how complex cascades of decisions can tolerate variations in timing. She is interested in mathematical and computational models of multi-cellular behavior, that capture hypotheses of cell behavior and cell-cell interactions as multi-agent systems, and can be used to provide insights into systems level behavior that should emerge. Her group work in close collaboration with biologists, and currently study growth and pattern formation in the fruit fly wing.
+
+
+== Awards and honors ==
+Microsoft New Faculty Fellowship (2005)
+NSF Career Award (2007)
+Anita Borg Early Career Award (2010)
+Radcliffe Fellowship (2012)
+named one of Nature's 10 "people who mattered" of 2014.
+During her time as Radcliffe Fellow, she worked with experimental biologists to develop a better understanding of collective intelligence in social insects through the application of computer science.
+
+
+== References ==

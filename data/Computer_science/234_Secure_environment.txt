@@ -1,0 +1,10 @@
+In computing, a secure environment is any system which implements the controlled storage and use of information. In the event of computing data loss, a secure environment is used to protect personal and/or confidential data.
+Often, secure environments employ cryptography as a means to protect information.
+Some secure environments employ cryptographic hashing, simply to verify that the information has not been altered since it was last modified.
+
+
+== See also ==
+Data recovery
+Cleanroom
+Mandatory access control (MAC)
+Trusted computing

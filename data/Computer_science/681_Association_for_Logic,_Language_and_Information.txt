@@ -1,0 +1,24 @@
+The Association for Logic, Language and Information (FoLLI) is an international, especially European, learned society administered from Nancy-Université in France. It was founded in 1991 "to advance the practicing of research and education on the interfaces between Logic, Linguistics, Computer Science and Cognitive Science and related disciplines." It publishes the academic journal Journal of Logic, Language and Information (JoLLI), holds an annual academic conference called the European Summer School in Logic, Language and Information (ESSLLI) and awards the E. W. Beth Dissertation Prize to outstanding dissertations in the fields of Logic, Language, and Information. "Very broadly, FoLLI's basic natural focus is on the phenomenon of information."
+
+
+== See also ==
+Dynamic semantics
+Generalized quantifier
+Information theory
+Type theory
+
+
+== References ==
+
+
+== Bibliography ==
+Program for ESSLLI 2012: Opole
+Program for ESSLLI 2009: Bordeaux
+Program for ESSLLI 2008: Hamburg
+Program for ESSLLI 2007: Dublin
+Program for ESSLLI 2006: Málaga
+Program for ESSLLI 2005: Edinburgh
+
+
+== External links ==
+Association for Logic, Language and Information — FoLLI official home page

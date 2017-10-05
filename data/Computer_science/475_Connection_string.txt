@@ -1,0 +1,21 @@
+In computing, a connection string is a string that specifies information about a data source and the means of connecting to it. It is passed in code to an underlying driver or provider in order to initiate the connection. Whilst commonly used for a database connection, the data source could also be a spreadsheet or text file.
+The connection string may include attributes such as the name of the driver, server and database, as well as security information such as user name and password.
+
+
+== Examples ==
+This example shows a Postgres connection string for connecting to wikipedia.com with SSL and a connection timeout of 180 seconds:
+
+DRIVER={PostgreSQL Unicode};SERVER=www.wikipedia.com;SSL=true;SSLMode=require;DATABASE=wiki;UID=wikiuser;Connect Timeout=180;PWD=ashiknoor
+
+Users of Oracle databases can specify connection strings:
+on the command-line (as in: sqlplus scott/tiger@connection_string )
+via environment variables ($TWO_TASK in Unix-like environments; %LOCAL% in Microsoft Windows environments)
+in local configuration files (such as the default $ORACLE_HOME/network/admin.tnsnames.ora)
+in LDAP-capable directory services
+
+
+== External links ==
+ConnectionStrings.com
+
+
+== References ==

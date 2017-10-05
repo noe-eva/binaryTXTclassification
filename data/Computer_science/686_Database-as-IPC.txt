@@ -1,0 +1,4 @@
+In computer programming, Database-as-IPC is an anti-pattern where a database is used as the message queue for routine interprocess communication in a situation where a lightweight IPC mechanism such as sockets would be more suitable. Using a database for this kind of message passing is extremely inefficient compared to other IPC methods and often introduces serious long-term maintenance issues, but this method enjoys a measure of popularity because the database operations are more widely understood than "proper" IPC mechanisms.
+
+
+== References ==

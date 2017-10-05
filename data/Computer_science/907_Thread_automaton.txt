@@ -1,0 +1,34 @@
+In automata theory, the thread automaton (plural: automata) is an extended type of finite-state automata that recognizes a mildly context-sensitive language class above the tree-adjoining languages.
+
+
+== Formal definition ==
+A thread automaton consists of
+a set N of states,
+a set Σ of terminal symbols,
+a start state AS ∈ N,
+a final state AF ∈ N,
+a set U of path components,
+a partial function δ: N → U⊥, where U⊥ = U ∪ {⊥} for ⊥ ∉ U,
+a finite set Θ of transitions.
+A path u1...un ∈ U* is a string of path components ui ∈ U; n may be 0, with the empty path denoted by ε. A thread has the form u1...un:A, where u1...un ∈ U* is a path, and A ∈ N is a state. A thread store S is a finite set of threads, viewed as a partial function from U* to N, such that dom(S) is closed by prefix.
+A thread automaton configuration is a triple ‹l,p,S›, where l denotes the current position in the input string, p is the active thread, and S is a thread store containing p. The initial configuration is ‹0,ε,{ε:AS}›. The final configuration is ‹n,u,{ε:AS,u:AF}›, where n is the length of the input string and u abbreviates δ(AS). A transition in the set Θ may have one of the following forms, and changes the current automaton configuration in the following way:
+SWAP B →a C:   consumes the input symbol a, and changes the state of the active thread:
+changes the configuration from   ‹l,p,S∪{p:B}›   to   ‹l+1,p,S∪{p:C}›
+SWAP B →ε C:   similar, but consumes no input:
+changes   ‹l,p,S∪{p:B}›   to   ‹l,p,S∪{p:C}›
+PUSH C:   creates a new subthread, and suspends its parent thread:
+changes   ‹l,p,S∪{p:B}›   to   ‹l,pu,S∪{p:B,pu:C}›   where u=δ(B) and pu∉dom(S)
+POP [B]C:   ends the active thread, returning control to its parent:
+changes   ‹l,pu,S∪{p:B,pu:C}›   to   ‹l,p,S∪{p:C}›   where δ(C)=⊥ and pu∉dom(S)
+SPUSH [C] D:   resumes a suspended subthread of the active thread:
+changes   ‹l,p,S∪{p:B,pu:C}›   to   ‹l,pu,S∪{p:B,pu:D}›   where u=δ(B)
+SPOP [B] D:   resumes the parent of the active thread:
+changes   ‹l,pu,S∪{p:B,pu:C}›   to   ‹l,p,S∪{p:D,pu:C}›   where δ(C)=⊥
+One may prove that δ(B)=u for POP and SPOP transitions, and δ(C)=⊥ for SPUSH transitions.
+An input string is accepted by the automaton if there is a sequence of transitions changing the initial into the final configuration.
+
+
+== Notes ==
+
+
+== References ==

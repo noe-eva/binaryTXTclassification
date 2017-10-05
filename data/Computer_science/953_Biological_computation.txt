@@ -1,0 +1,13 @@
+The term "biological computation" refers, variously, to any of the following:
+- the study of the computations performed by natural biota, including the subject matter of systems biology.
+- the design of algorithms inspired by the computational methods of biota 
+- the design and engineering of manufactured computational devices using synthetic biology components
+- computer methods for the analysis of biological data, elsewhere called computational biology
+When biological computation refers to using biology to build computers, it is a subfield of computer science and is distinct from the interdisciplinary science of bioinformatics which simply uses computers to better understand biology.
+
+
+== Books ==
+Biological computation (2011) by Ehud Lamm and Ron Unger, CRC Press, ISBN 978-1-4200-8796-3.
+
+
+== References ==

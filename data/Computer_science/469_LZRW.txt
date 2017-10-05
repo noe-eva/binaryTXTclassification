@@ -1,0 +1,13 @@
+Lempel–Ziv Ross Williams (LZRW) refers to variants of the LZ77 lossless data compression algorithms with an emphasis on improving compression speed through the use of hash tables and other techniques. This family was explored by Ross Williams, who published a series of algorithms beginning with LZRW1 in 1991.
+The variants are:
+LZRW1
+LZRW1-A
+LZRW2
+LZRW3
+LZRW3-A
+LZRW4
+LZRW5
+The LZJB algorithm used in ZFS is derived from LZRW1.
+
+
+== Notes ==

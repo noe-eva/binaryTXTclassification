@@ -1,0 +1,21 @@
+The Australian Partnership for Advanced Computing was an Australian organisation established in 1998 to provide advanced computing and grid infrastructure for Australian research communities. In 2007 APAC was replaced with the National Computational Infrastructure.
+
+
+== APAC Partners ==
+AC3 - Australian Centre for Advanced Computing and Communications in NSW
+ANU - The Australian National University
+CSIRO
+iVEC - Organisation for advanced computing in Western Australia
+QCIF - Queensland Cyber Infrastructure Foundation
+SAPAC - South Australian Partnership for Advanced Computing
+TPAC - University of Tasmania acting as host for the Tasmanian Partnership for Advanced Computing
+VPAC - Victorian Partnership for Advanced Computing
+
+
+== See also ==
+Backing Australia's Ability
+Systemic Infrastructure Initiative
+
+
+== External links ==
+{{official website|https://web.archive.org/web/20090120211513/http://www.apac.edu.au/%7D%7D; Archive

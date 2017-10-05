@@ -1,0 +1,442 @@
+In quantum computing, a graph state is a special type of multi-qubit state that can be represented by a graph. Each qubit is represented by a vertex of the graph, and there is an edge between every interacting pair of qubits. In particular, they are a convenient way of representing certain types of entangled states.
+Graph states are useful in quantum error-correcting codes, entanglement measurement and purification and for characterization of computational resources in measurement based quantum computing models.
+
+
+== Formal definition ==
+Given a graph G = (V, E), with the set of vertices V and the set of edges E, the corresponding graph state is defined as
+
+  
+    
+      
+        
+          
+            |
+            G
+            ⟩
+          
+        
+        =
+        
+          ∏
+          
+            (
+            a
+            ,
+            b
+            )
+            ∈
+            E
+          
+        
+        
+          U
+          
+            {
+            a
+            ,
+            b
+            }
+          
+        
+        
+          
+            
+              |
+              +
+              ⟩
+            
+          
+          
+            ⊗
+            V
+          
+        
+      
+    
+    {\displaystyle {\left|G\right\rangle }=\prod _{(a,b)\in E}U^{\{a,b\}}{\left|+\right\rangle }^{\otimes V}}
+  
+where the operator 
+  
+    
+      
+        
+          U
+          
+            {
+            a
+            ,
+            b
+            }
+          
+        
+      
+    
+    {\displaystyle U^{\{a,b\}}}
+   is the controlled-Z interaction between the two vertices (qubits) a, b
+
+  
+    
+      
+        
+          U
+          
+            {
+            a
+            ,
+            b
+            }
+          
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  
+                    1
+                  
+                
+                
+                  
+                    0
+                  
+                
+                
+                  
+                    0
+                  
+                
+                
+                  
+                    0
+                  
+                
+              
+              
+                
+                  
+                    0
+                  
+                
+                
+                  
+                    1
+                  
+                
+                
+                  
+                    0
+                  
+                
+                
+                  
+                    0
+                  
+                
+              
+              
+                
+                  
+                    0
+                  
+                
+                
+                  
+                    0
+                  
+                
+                
+                  
+                    1
+                  
+                
+                
+                  
+                    0
+                  
+                
+              
+              
+                
+                  
+                    0
+                  
+                
+                
+                  
+                    0
+                  
+                
+                
+                  
+                    0
+                  
+                
+                
+                  
+                    −
+                    1
+                  
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle U^{\{a,b\}}=\left[{\begin{array}{cccc}{1}&{0}&{0}&{0}\\{0}&{1}&{0}&{0}\\{0}&{0}&{1}&{0}\\{0}&{0}&{0}&{-1}\end{array}}\right]}
+  
+And
+
+  
+    
+      
+        
+          
+            |
+            +
+            ⟩
+          
+        
+        =
+        
+          
+            
+              
+                
+                  |
+                  0
+                  ⟩
+                
+              
+              +
+              
+                
+                  |
+                  1
+                  ⟩
+                
+              
+            
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\left|+\right\rangle }={\frac {{\left|0\right\rangle }+{\left|1\right\rangle }}{\sqrt {2}}}}
+  
+
+
+=== Alternative definition ===
+An alternative and equivalent definition is the following.
+Define an operator 
+  
+    
+      
+        
+          K
+          
+            G
+          
+          
+            (
+            a
+            )
+          
+        
+      
+    
+    {\displaystyle K_{G}^{(a)}}
+   for each vertex a of G:
+
+  
+    
+      
+        
+          K
+          
+            G
+          
+          
+            (
+            a
+            )
+          
+        
+        =
+        
+          σ
+          
+            x
+          
+          
+            (
+            a
+            )
+          
+        
+        
+          ∏
+          
+            b
+            ∈
+            N
+            (
+            a
+            )
+          
+        
+        
+          σ
+          
+            z
+          
+          
+            (
+            b
+            )
+          
+        
+      
+    
+    {\displaystyle K_{G}^{(a)}=\sigma _{x}^{(a)}\prod _{b\in N(a)}\sigma _{z}^{(b)}}
+  
+where N(a) is the neighborhood of a (that is, the set of all b such that 
+  
+    
+      
+        (
+        a
+        ,
+        b
+        )
+        ∈
+        E
+      
+    
+    {\displaystyle (a,b)\in E}
+  ) and 
+  
+    
+      
+        
+          σ
+          
+            x
+            ,
+            y
+            ,
+            z
+          
+        
+      
+    
+    {\displaystyle \sigma _{x,y,z}}
+   are the pauli matrices. The graph state 
+  
+    
+      
+        
+          
+            |
+            G
+            ⟩
+          
+        
+      
+    
+    {\displaystyle {\left|G\right\rangle }}
+   is then defined as the simultaneous eigenstate of the 
+  
+    
+      
+        N
+        =
+        
+          |
+          V
+          |
+        
+      
+    
+    {\displaystyle N=\left|V\right|}
+   operators 
+  
+    
+      
+        
+          
+            {
+            
+              K
+              
+                G
+              
+              
+                (
+                a
+                )
+              
+            
+            }
+          
+          
+            a
+            ∈
+            V
+          
+        
+      
+    
+    {\displaystyle \left\{K_{G}^{(a)}\right\}_{a\in V}}
+   with eigenvalue 1:
+
+  
+    
+      
+        
+          K
+          
+            G
+          
+          
+            (
+            a
+            )
+          
+        
+        
+          
+            |
+            G
+            ⟩
+          
+        
+        =
+        
+          
+            |
+            G
+            ⟩
+          
+        
+      
+    
+    {\displaystyle K_{G}^{(a)}{\left|G\right\rangle }={\left|G\right\rangle }}
+  
+
+
+== See also ==
+Entanglement
+Cluster state
+
+
+== References ==
+M. Hein; J. Eisert; H. J. Briegel (2004). "Multiparty entanglement in graph states". Physical Review A. 69: 062311. doi:10.1103/PhysRevA.69.062311. 
+S. Anders; H. J. Briegel (2006). "Fast simulation of stabilizer circuits using a graph-state representation". Physical Review A. 73: 022334. doi:10.1103/PhysRevA.73.022334. 
+Graph states on arxiv.org

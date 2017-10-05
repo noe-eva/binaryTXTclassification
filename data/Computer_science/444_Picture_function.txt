@@ -1,0 +1,5 @@
+A picture function is a mathematical representation of a two-dimensional image as a function of two spatial variables. The function f(x,y) describes the intensity of the point at coordinates (x,y).
+
+
+== References ==
+Forsyth, David; Ponce, Jean (2002). Computer Vision: A Modern Approach. Prentice-Hall. ISBN 978-0-13-085198-7.

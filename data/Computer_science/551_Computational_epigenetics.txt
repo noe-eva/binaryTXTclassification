@@ -1,0 +1,52 @@
+Computational epigenetics  uses bioinformatic methods to complement experimental research in epigenetics. Due to the recent explosion of epigenome datasets, computational methods play an increasing role in all areas of epigenetic research.
+
+
+== Definition ==
+Research in computational epigenetics comprises the development and application of bioinformatics methods for solving epigenetic questions, as well as computational data analysis and theoretical modeling in the context of epigenetics. This includes modelling of the effects of histone and DNA CpG island methylation.
+
+
+== Current research areas ==
+
+
+=== Epigenetic data processing and analysis ===
+
+Various experimental techniques have been developed for genome-wide mapping of epigenetic information, the most widely used being ChIP-on-chip, ChIP-seq and bisulfite sequencing. All of these methods generate large amounts of data and require efficient ways of data processing and quality control by bioinformatic methods.
+
+
+=== Epigenome prediction ===
+A substantial amount of bioinformatic research has been devoted to the prediction of epigenetic information from characteristics of the genome sequence. Such predictions serve a dual purpose. First, accurate epigenome predictions can substitute for experimental data, to some degree, which is particularly relevant for newly discovered epigenetic mechanisms and for species other than human and mouse. Second, prediction algorithms build statistical models of epigenetic information from training data and can therefore act as a first step toward quantitative modeling of an epigenetic mechanism. Successful computational prediction of DNA and lysine methylation and acetylation has been achieved by combinations of various features. 
+
+
+=== Applications in cancer epigenetics ===
+The important role of epigenetic defects for cancer opens up new opportunities for improved diagnosis and therapy. These active areas of research give rise to two questions that are particularly amenable to bioinformatic analysis. First, given a list of genomic regions exhibiting epigenetic differences between tumor cells and controls (or between different disease subtypes), can we detect common patterns or find evidence of a functional relationship of these regions to cancer? Second, can we use bioinformatic methods in order to improve diagnosis and therapy by detecting and classifying important disease subtypes?
+
+
+== Emerging topics ==
+The first wave of research in the field of computational epigenetics was driven by rapid progress of experimental methods for data generation, which required adequate computational methods for data processing and quality control, prompted epigenome prediction studies as a means of understanding the genomic distribution of epigenetic information, and provided the foundation for initial projects on cancer epigenetics. While these topics will continue to be major areas of research and the mere quantity of epigenetic data arising from epigenome projects poses a significant bioinformatic challenge, several additional topics are currently emerging.
+Epigenetic regulatory circuitry: Reverse engineering the regulatory networks that read, write and execute epigenetic codes.
+Population epigenetics: Distilling regulatory mechanisms from the integration of epigenome data with gene expression profiles and haplotype maps for a large sample from a heterogeneous population.
+Evolutionary epigenetics: Learning about epigenome regulation in human (and its medical consequences) by cross-species comparisons.
+Theoretical modeling: Testing our mechanistic and quantitative understanding of epigenetic mechanisms by in silico simulation.
+Genome browsers: Developing a new blend of web services that enable biologists to perform sophisticated genome and epigenome analysis within an easy-to-use genome browser environment.
+Medical epigenetics: Searching for epigenetic mechanisms that play a role in diseases other than cancer, as there is strong circumstantial evidence for epigenetic regulation being involved in mental disorders, autoimmune diseases and other complex diseases.
+
+
+== Epigenetics Databases ==
+MethDB Contains information on 19,905 DNA methylation content data and 5,382 methylation patterns for 48 species, 1,511 individuals, 198 tissues and cell lines and 79 phenotypes.
+PubMeth Contains over 5,000 records on methylated genes in various cancer types.
+REBASE Contains over 22,000 DNA methyltransferases genes derived from GenBank.
+MeInfoText Contains gene methylation information across 205 human cancer types.
+MethPrimerDB Contains 259 primer sets from human, mouse and rat for DNA methylation analysis.
+The Histone Database Contains 254 sequences from histone H1, 383 from histone H2, 311 from histone H2B, 1043 from histone H3 and 198 from histone H4, altogether representing at least 857 species.
+ChromDB Contains 9,341 chromatin-associated proteins, including RNAi-associated proteins, for a broad range of organisms.
+CREMOFAC Contains 1725 redundant and 720 non-redundant chromatin-remodeling factor sequences in eukaryotes.
+The Krembil Family Epigenetics Laboratory Contains DNA methylation data of human chromosomes 21, 22, male germ cells and DNA methylation profiles in monozygotic and dizygotic twins.
+MethyLogiX DNA methylation database Contains DNA methylation data of human chromosomes 21 and 22, male germ cells and late-onset Alzheimer's disease.
+
+
+== Sources and further reading ==
+The original version of this article was based on a review paper on computational epigenetics that appeared in the January 2008 issue of the Bioinformatics journal: "Computational epigenetics". Bioinformatics. 24: 1–10. January 2008. PMID 18024971. doi:10.1093/bioinformatics/btm546. . This review paper provides >100 references to scientific papers and extensive background information. 
+Additional data has been updated and added, based on a review paper on computational epigenetics that appeared in the January 2010 issue of the Bioinformation journal: Lim S.J., Tan T.W. and Tong, J.C. (2010) Computational epigenetics: the new scientific paradigm. Bioinformation, 4(7): 331-337. This review paper provides >129 references to scientific papers. It is published as open access and can be downloaded freely from the publisher’s web page: http://bioinformation.net/004/007000042010.pdf.
+
+
+== References ==

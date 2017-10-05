@@ -1,0 +1,9 @@
+ISBL (Information Systems Base Language) is the relational algebra notation that was invented for PRTV, one of the earliest database management systems to implement E.F. Codd's relational model of data.
+
+
+== See also ==
+IBM Business System 12 - An IBM industrial strength relational DBMS influenced by ISBL. It was developed for use by customers of IBM's time-sharing service bureaux in various countries the early 1980s.
+
+
+== External links ==
+Sample ISBL usage

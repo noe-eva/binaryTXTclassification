@@ -1,0 +1,9 @@
+In metadata, an identification scheme is used to identify unique records in a set.
+If a data element is used to identify a record within a data set, the data element uses the Identifier representation term.
+An identification scheme should be contrasted with a classification scheme. Classification schemes are used to classify individual records into categories. Many records in a data set may be in a single category.
+
+
+== See also ==
+Classification scheme
+Metadata
+Representation term

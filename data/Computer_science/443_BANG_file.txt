@@ -1,0 +1,13 @@
+A BANG file (balanced and nested grid file) is a point access method which divides space into a nonperiodic grid. Each spatial dimension is divided by a linear hash. Cells may intersect, and points may be distributed between them.
+
+
+== Another meaning ==
+In some early ICL mainframe computers, a bang file was a temporary data storage file whose name began with a ! character (which is sometimes nicknamed "bang") and automatically deleted when the run or user session ended.
+
+
+== See also ==
+twin grid file.
+
+
+== External links ==
+http://ce.sharif.edu/~dic-ads/d.php?ref=1&origin=Euler+tour&r=bangfile.1.7

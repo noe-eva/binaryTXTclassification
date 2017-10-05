@@ -1,0 +1,13 @@
+The Symposium on Operating Systems Principles (SOSP), organized by the Association for Computing Machinery (ACM), is one of the most prestigious single-track academic conferences on operating systems.
+SOSP is held every other year, alternating with the conference on Operating Systems Design and Implementation (OSDI). The first SOSP was held in 1967. It is sponsored by the ACM's Special Interest Group on Operating Systems (SIGOPS).
+
+
+== See also ==
+List of computer science conferences
+
+
+== References ==
+
+
+== External links ==
+http://sosp.org/

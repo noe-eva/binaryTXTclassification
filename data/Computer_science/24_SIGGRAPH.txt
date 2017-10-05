@@ -1,0 +1,65 @@
+SIGGRAPH (short for Special Interest Group on Computer GRAPHics and Interactive Techniques) is the name of the annual conference on computer graphics (CG) convened by the ACM SIGGRAPH organization. The first SIGGRAPH conference was in 1974. The conference is attended by tens of thousands of computer professionals. Past SIGGRAPH conferences have been held in Los Angeles, Dallas, New Orleans, Boston, Vancouver, and elsewhere in North America.
+
+
+== Overview ==
+Some highlights of the conference are its Animation Theater and Electronic Theater presentations, where recently created CG films are played. There is a large exhibition floor, where several hundred companies set up elaborate booths and compete for attention and recruits. Most of the companies are in the engineering, graphics, motion picture, or video game industries. There are also many booths for schools which specialize in computer graphics or interactivity.
+Dozens of research papers are presented each year, and SIGGRAPH is widely considered the most prestigious forum for the publication of computer graphics research. The recent paper acceptance rate for SIGGRAPH has been less than 26%. The submitted papers are peer-reviewed in a single-blind process. There has been some criticism about the preference of SIGGRAPH paper reviewers for novel results rather than useful incremental progress. The papers accepted for presentation at SIGGRAPH are printed since 2003 in a special issue of the ACM Transactions on Graphics journal. Prior to 1992, SIGGRAPH papers were printed as part of the Computer Graphics publication; between 1993 and 2001, there was a dedicated SIGGRAPH Conference Proceedings series of publications.
+In addition to the papers, there are numerous panels of industry experts set up to discuss a wide variety of topics, from computer graphics to machine interactivity to education. SIGGRAPH also offers many full- and half-day courses in state-of-the-art computer graphics topics, as well as shorter "sketch" presentations where artists and researchers discuss their latest work.
+In 1984, under LucasFilm Computer Group, John Lasseter's first computer animated short, The Adventures of André & Wally B., premiered at SIGGRAPH. Pixar's first computer animated short, Luxo, Jr. debuted in 1986. Pixar has debuted numerous shorts at the conference since.
+SIGGRAPH has several awards programs to recognize outstanding contributions to computer graphics. The most prestigious is the Steven Anson Coons Award for Outstanding Creative Contributions to Computer Graphics. It has been awarded every two years since 1983 to recognize an individual's lifetime achievement in computer graphics.
+
+
+== Conference areas ==
+The following conference areas are the areas scheduled for SIGGRAPH 2012, as some conference areas vary annually.
+ACM Student Research Competition
+Art Gallery : presents digital and technologically mediated artworks
+Art Papers : features the artists and artwork, and processes and theoretical frameworks for making art and contextualizing its place in society.
+Birds of a Feather : Informal presentations, discussions, and demonstrations
+Computer Animation Festival : an annual festival for the world's most innovative, accomplished, and amazing digital film and video creators.
+Courses : attendees learn from the experts in the field and gain inside knowledge that is critical to career advancement.
+Emerging Technologies : presents innovative technologies and applications in several fields, from displays and input devices to collaborative environments and robotics, and technologies that apply to film and game production.
+Exhibition : presents the newest hardware systems, software tools, and creative services from hundreds of companies.
+International Resources : focusing on the state of computer graphics in different regions of the world, it offers bilingual tours of conference programs, informal translation services, and space for meetings, talks, and demonstrations.
+Job Fair : a place at the conference for employers to meet with thousands of job seekers
+Keynote Speakers : stories from the most influential practitioners in computer graphics, interactive techniques, and related fields
+Panels : moderated discussions on important topics, with expert panelists chosen by the organizers to provide a wide range of perspectives.
+Posters : presenting student, in-progress, and late-breaking work.
+Real-Time Live! : showcase for the latest trends and techniques for pushing the boundaries of interactive visuals.
+Sandbox : provides an opportunity to get hands-on with the latest, most innovative real-time projects produced over the last 12 months.
+SIGkids : engages local youngsters with outreach and on-site programs to excite and cultivate the next-next-generation.
+SIGGRAPH Business Symposium
+SIGGRAPH Dailies : Each presenter has one minute to present an animation and describe the work.
+Studio : a place for making and creating at SIGGRAPH.
+Talks : presentations on recent achievements in all areas of computer graphics and interactive techniques, including art, design, animation, visual effects, interactivity, research, and engineering.
+Technical Papers : the premier international forum for disseminating new scholarly work in computer graphics and interactive techniques.
+Technical Papers Fast Forward : summary of Technical Papers.
+SIGGRAPH Mobile  : focusing on mobile computer graphics and its applications such as augmented reality, games and interactive apps. At SIGGRAPH ASIA this track is called Symposium of Apps.
+
+
+== SIGGRAPH events around the world ==
+
+
+=== SIGGRAPH Asia ===
+Since 2008, a second yearly SIGGRAPH conference has been held in Asia. The first SIGGRAPH Asia conference was held in Singapore from the tenth to the thirteenth of December 2008 at the Suntec Singapore International Convention and Exhibition Centre; the second one in Yokohama, Japan in the period from 16 December to 19 December 2009 at Pacifico Yokohama; and the third in Seoul, Korea in the time period from 15 December to 18 December 2010 at Coex Convention & Exhibition Center Seoul.
+
+
+== Specific conferences ==
+
+
+== See also ==
+Association for Computing Machinery
+ACM SIGGRAPH
+ACM Transactions on Graphics
+Computer Graphics, a publication of ACM SIGGRAPH
+The list of computer science conferences contains other academic conferences in computer science.
+
+
+== References ==
+
+
+== External links ==
+ACM SIGGRAPH website
+ACM SIGGRAPH conference publications (ACM Digital Library)
+ACM SIGGRAPH YouTube
+SIGGRAPH 2017 Conference, Los Angeles, CA
+SIGGRAPH Asia 2017 Conference, Bangkok, Thailand

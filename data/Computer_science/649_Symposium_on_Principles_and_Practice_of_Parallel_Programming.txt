@@ -1,0 +1,23 @@
+PPoPP, the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, is an academic conference in the field of parallel programming. PPoPP is sponsored by the Association for Computing Machinery special interest group SIGPLAN.
+
+
+== History ==
+The conference was first organised in 1988 in New Haven, Connecticut, United States; the first conference was called ACM/SIGPLAN Conference on Parallel Programming: Experience with Applications, Languages and Systems (PPEALS). The name changed to the present one when the conference was organised for the second time in 1990.
+The conference has been organised biennially in 1991–2005 and annually in 2006–2009. PPoPP was part of the Federated Computing Research Conference (FCRC) in 1993, 1999, and 2003.
+
+
+== Artifact Evaluation ==
+Since 2015 PPoPP features artifact evaluation to validate experiments from accepted papers and improve reproducibility of computer systems research
+
+
+== See also ==
+List of distributed computing conferences.
+List of computer science conferences.
+
+
+== References ==
+PPoPP web site.
+PPoPP'18 Artifact Evaluation web site.
+PPEALS 1988 proceedings in ACM digital library.
+PPoPP 1990– proceedings in ACM digital library.
+PPoPP proceedings information in DBLP.

@@ -1,0 +1,42 @@
+Exertion is the use of physical or perceived energy. It normally connotes a strenuous or costly effort related to physical, muscular, philosophical actions and work.
+
+
+== Physical ==
+In physics exertion is use of energy against, or for, inertia as described by Isaac Newton's third law of motion. In mechanics it describes use of force against a body in direction of its motion (see vector).
+
+
+== Medical ==
+In medical terms exertion is the expenditure of energy by skeletal muscles, which usually happens during manual labour or physical exercise. The intensity of this action can be measured by the rate of which oxygen is expended, heat is produced and heart rate.
+A rating of perceived exertion, as measured by the RPE-scale, or Borg scale, is a quantitative measure of physical exertion.
+
+
+== Cybernetics ==
+Exertion can be proxied or extended when applied to various human-machine interfaces, like prosthesis, remote control - even for games.
+
+
+== See also ==
+Exercise
+Energy
+Cost
+Inertia
+Volition (psychology)
+Decision theory
+Ferdinand Tönnies [as in will (sociology)]
+Friedrich Nietzsche [as in strong-willed, drive and will (philosophy)]
+Leonhard Euler
+Isaac Newton
+Cybernetics
+Bionics
+Machine
+
+
+== References ==
+First Person Physics, First Person Physics:Wooing the Second Tier, (essay part of) project proposal to National Science Foundation, 2004
+Principle of least action, Euler, 1748, Reflexions sur quelques loix generales de la nature
+
+
+== External links ==
+Measuring Physical Activity Intensity: Perceived Exertion (Borg Rating of Perceived Exertion Scale)
+RPE-scale (2nd)
+First principle of mechanics
+Exertion interfaces allowing exertion by proxy in sporting games.

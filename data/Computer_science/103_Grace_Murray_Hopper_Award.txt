@@ -1,0 +1,58 @@
+The Grace Murray Hopper Awards (named for computer pioneer RADM Grace Hopper) has been awarded by the Association for Computing Machinery (ACM) since 1971. The award goes to a computer professional who makes a single, significant technical or service contribution at or before age 35.
+
+
+== Recipients ==
+1971 Donald E. Knuth
+1972 Paul H. Dirksen
+1972 Paul H. Cress
+1973 Lawrence M. Breed
+1973 Richard H. Lathwell
+1973 Roger Moore
+1974 George N. Baird
+1975 Allan L. Scherr
+1976 Edward H. Shortliffe
+1977 no award
+1978 Raymond Kurzweil
+1979 Steve Wozniak
+1980 Robert M. Metcalfe
+1981 Daniel S. Bricklin
+1982 Brian K. Reid
+1983 no award
+1984 Daniel Henry Holmes Ingalls, Jr.
+1985 Cordell Green
+1986 William Nelson "Bill" Joy
+1987 John Ousterhout
+1988 Guy L. Steele
+1989 W. Daniel Hillis
+1990 Richard Stallman
+1991 Feng-hsiung Hsu
+1992 no award
+1993 Bjarne Stroustrup
+1994–1995 no award
+1996 Shafrira Goldwasser
+1997-1998 no award
+1999 Wen-mei Hwu
+2000 Lydia Kavraki
+2001 George Necula
+2002 Ramakrishnan Srikant
+2003 Stephen W. Keckler
+2004 Jennifer Rexford
+2005 Omer Reingold
+2006 Dan Klein
+2007 Vern Paxson
+2008 Dawson Engler
+2009 Tim Roughgarden
+2010 Craig Gentry
+2011 Luis von Ahn
+2012 Martin Casado and Dina Katabi
+2013 Pedro Felipe Felzenszwalb
+2014 Sylvia Ratnasamy
+2015 Brent Waters
+2016 Jeffrey Heer
+
+
+== References ==
+
+
+== External links ==
+The ACM homepage for the Grace Murray Hopper Awards

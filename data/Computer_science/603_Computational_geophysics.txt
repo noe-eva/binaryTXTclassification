@@ -1,0 +1,11 @@
+Computational geophysics entails rapid numerical computations that help analyses of geophysical data and observations. High-performance computing is involved, due to the size and complexity of the geophysical data to be processed. The main computing demanding tasks are 3D and 4D images building of the earth sub-surface, Modeling and Migration of complex media, Tomography and inverse problems.
+In Canada, Computational geophysics is offered as a university major in the form of a BSc (Hon.) with Co-op at Carleton University. Elsewhere, Rice University has a Center for Computational Geophysics, while Princeton University, the University of Texas and Albert-Ludwigs-Universität have similar programs. Seoul National University has offered postdoctoral positions in the field, while experts, laboratories, projects, internships, undergrad/graduate programs and/or facilities in the program exist at the University of Queensland, Wyoming University, Boston University, Stanford University, Uppsala University, Kansas State University, Kingston University, Australian National University, University of California, San Diego, University of Washington, ETH Zurich, University of Sydney, Appalachian State University, University of Minnesota, University of Tasmania, Bahria University, Boise State University, University of Michigan, University of Oulu, University of Utah, and others.
+
+
+== References ==
+
+
+== See also ==
+Exploration geophysics
+Geochemistry
+Numerical weather prediction

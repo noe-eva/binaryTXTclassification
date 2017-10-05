@@ -1,0 +1,6493 @@
+In mathematics, matrix multiplication or the matrix product is a binary operation that produces a matrix from two matrices. The definition is motivated by linear equations and linear transformations on vectors, which have numerous applications in applied mathematics, physics, and engineering. In more detail, if A is an n × m matrix and B is an m × p matrix, their matrix product AB is an n × p matrix, in which the m entries across a row of A are multiplied with the m entries down a column of B and summed to produce an entry of AB. When two linear transformations are represented by matrices, then the matrix product represents the composition of the two transformations.
+The matrix product is not commutative in general, although it is associative and is distributive over matrix addition. The identity element of the matrix product is the identity matrix (analogous to multiplying numbers by 1), and a square matrix may have an inverse matrix (analogous to the multiplicative inverse of a number). Determinant multiplicativity applies to the matrix product. The matrix product is also important for matrix groups, and the theory of group representations and irreps.
+Computing matrix products is both a central operation in many numerical algorithms and potentially time consuming, making it one of the most well-studied problems in numerical computing. Various algorithms have been devised for computing C = AB, especially for large matrices.
+
+
+== Notation ==
+This article will use the following notational conventions: matrices are represented by capital letters in bold, e.g. A, vectors in lowercase bold, e.g. a, and entries of vectors and matrices are italic (since they are numbers from a field), e.g. A and a. Index notation is often the clearest way to express definitions, and is used as standard in the literature. The i, j entry of matrix A is indicated by (A)ij or Aij, whereas a numerical label (not matrix entries) on a collection of matrices is subscripted only, e.g. A1, A2, etc.
+
+
+== Matrix product (two matrices) ==
+Assume two matrices are to be multiplied (the generalization to any number is discussed below).
+
+
+=== General definition of the matrix product ===
+
+If A is an n × m matrix and B is an m × p matrix,
+
+  
+    
+      
+        
+          A
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    A
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    A
+                    
+                      12
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    A
+                    
+                      1
+                      m
+                    
+                  
+                
+              
+              
+                
+                  
+                    A
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    A
+                    
+                      22
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    A
+                    
+                      2
+                      m
+                    
+                  
+                
+              
+              
+                
+                  ⋮
+                
+                
+                  ⋮
+                
+                
+                  ⋱
+                
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    A
+                    
+                      n
+                      1
+                    
+                  
+                
+                
+                  
+                    A
+                    
+                      n
+                      2
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    A
+                    
+                      n
+                      m
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        ,
+        
+        
+          B
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    B
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    B
+                    
+                      12
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    B
+                    
+                      1
+                      p
+                    
+                  
+                
+              
+              
+                
+                  
+                    B
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    B
+                    
+                      22
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    B
+                    
+                      2
+                      p
+                    
+                  
+                
+              
+              
+                
+                  ⋮
+                
+                
+                  ⋮
+                
+                
+                  ⋱
+                
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    B
+                    
+                      m
+                      1
+                    
+                  
+                
+                
+                  
+                    B
+                    
+                      m
+                      2
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    B
+                    
+                      m
+                      p
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \mathbf {A} ={\begin{pmatrix}A_{11}&A_{12}&\cdots &A_{1m}\\A_{21}&A_{22}&\cdots &A_{2m}\\\vdots &\vdots &\ddots &\vdots \\A_{n1}&A_{n2}&\cdots &A_{nm}\\\end{pmatrix}},\quad \mathbf {B} ={\begin{pmatrix}B_{11}&B_{12}&\cdots &B_{1p}\\B_{21}&B_{22}&\cdots &B_{2p}\\\vdots &\vdots &\ddots &\vdots \\B_{m1}&B_{m2}&\cdots &B_{mp}\\\end{pmatrix}}}
+  
+the matrix product AB (denoted without multiplication signs or dots) is defined to be the n × p matrix
+
+  
+    
+      
+        
+          A
+        
+        
+          B
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    
+                      (
+                      
+                        A
+                        B
+                      
+                      )
+                    
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    
+                      (
+                      
+                        A
+                        B
+                      
+                      )
+                    
+                    
+                      12
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    
+                      (
+                      
+                        A
+                        B
+                      
+                      )
+                    
+                    
+                      1
+                      p
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      (
+                      
+                        A
+                        B
+                      
+                      )
+                    
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    
+                      (
+                      
+                        A
+                        B
+                      
+                      )
+                    
+                    
+                      22
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    
+                      (
+                      
+                        A
+                        B
+                      
+                      )
+                    
+                    
+                      2
+                      p
+                    
+                  
+                
+              
+              
+                
+                  ⋮
+                
+                
+                  ⋮
+                
+                
+                  ⋱
+                
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    
+                      (
+                      
+                        A
+                        B
+                      
+                      )
+                    
+                    
+                      n
+                      1
+                    
+                  
+                
+                
+                  
+                    
+                      (
+                      
+                        A
+                        B
+                      
+                      )
+                    
+                    
+                      n
+                      2
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    
+                      (
+                      
+                        A
+                        B
+                      
+                      )
+                    
+                    
+                      n
+                      p
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \mathbf {A} \mathbf {B} ={\begin{pmatrix}\left(\mathbf {AB} \right)_{11}&\left(\mathbf {AB} \right)_{12}&\cdots &\left(\mathbf {AB} \right)_{1p}\\\left(\mathbf {AB} \right)_{21}&\left(\mathbf {AB} \right)_{22}&\cdots &\left(\mathbf {AB} \right)_{2p}\\\vdots &\vdots &\ddots &\vdots \\\left(\mathbf {AB} \right)_{n1}&\left(\mathbf {AB} \right)_{n2}&\cdots &\left(\mathbf {AB} \right)_{np}\\\end{pmatrix}}}
+  
+where each i, j entry is given by multiplying the entries Aik (across row i of A) by the entries Bkj (down column j of B), for k = 1, 2, ..., m, and summing the results over k:
+
+  
+    
+      
+        (
+        
+          A
+        
+        
+          B
+        
+        
+          )
+          
+            i
+            j
+          
+        
+        =
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            m
+          
+        
+        
+          A
+          
+            i
+            k
+          
+        
+        
+          B
+          
+            k
+            j
+          
+        
+        
+        .
+      
+    
+    {\displaystyle (\mathbf {A} \mathbf {B} )_{ij}=\sum _{k=1}^{m}A_{ik}B_{kj}\,.}
+  
+Thus the product AB is defined only if the number of columns in A is equal to the number of rows in B, in this case m. Each entry may be computed one at a time. Sometimes, the summation convention is used as it is understood to sum over the repeated index k. To prevent any ambiguity, this convention will not be used in the article.
+Usually the entries are numbers or expressions, but can even be matrices themselves (see block matrix). The matrix product can still be calculated exactly the same way. See below for details on how the matrix product can be calculated in terms of blocks taking the forms of rows and columns.
+
+
+=== Illustration ===
+
+The figure to the right illustrates diagrammatically the product of two matrices A and B, showing how each intersection in the product matrix corresponds to a row of A and a column of B.
+
+  
+    
+      
+        
+          
+            
+              [
+              
+                
+                  
+                    
+                      
+                        a
+                        
+                          11
+                        
+                      
+                    
+                  
+                  
+                    
+                      
+                        a
+                        
+                          12
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    ⋅
+                  
+                  
+                    ⋅
+                  
+                
+                
+                  
+                    
+                      
+                        a
+                        
+                          31
+                        
+                      
+                    
+                  
+                  
+                    
+                      
+                        a
+                        
+                          32
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    ⋅
+                  
+                  
+                    ⋅
+                  
+                
+              
+              ]
+            
+            
+              4
+              ×
+              2
+              
+                 matrix
+              
+            
+          
+        
+        
+          
+            
+              [
+              
+                
+                  
+                    ⋅
+                  
+                  
+                    
+                      
+                        b
+                        
+                          12
+                        
+                      
+                    
+                  
+                  
+                    
+                      
+                        b
+                        
+                          13
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    ⋅
+                  
+                  
+                    
+                      
+                        b
+                        
+                          22
+                        
+                      
+                    
+                  
+                  
+                    
+                      
+                        b
+                        
+                          23
+                        
+                      
+                    
+                  
+                
+              
+              ]
+            
+            
+              2
+              ×
+              3
+              
+                 matrix
+              
+            
+          
+        
+        =
+        
+          
+            
+              [
+              
+                
+                  
+                    ⋅
+                  
+                  
+                    
+                      x
+                      
+                        12
+                      
+                    
+                  
+                  
+                    
+                      x
+                      
+                        13
+                      
+                    
+                  
+                
+                
+                  
+                    ⋅
+                  
+                  
+                    ⋅
+                  
+                  
+                    ⋅
+                  
+                
+                
+                  
+                    ⋅
+                  
+                  
+                    
+                      x
+                      
+                        32
+                      
+                    
+                  
+                  
+                    
+                      x
+                      
+                        33
+                      
+                    
+                  
+                
+                
+                  
+                    ⋅
+                  
+                  
+                    ⋅
+                  
+                  
+                    ⋅
+                  
+                
+              
+              ]
+            
+            
+              4
+              ×
+              3
+              
+                 matrix
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\overset {4\times 2{\text{ matrix}}}{\begin{bmatrix}{a_{11}}&{a_{12}}\\\cdot &\cdot \\{a_{31}}&{a_{32}}\\\cdot &\cdot \\\end{bmatrix}}}{\overset {2\times 3{\text{ matrix}}}{\begin{bmatrix}\cdot &{b_{12}}&{b_{13}}\\\cdot &{b_{22}}&{b_{23}}\\\end{bmatrix}}}={\overset {4\times 3{\text{ matrix}}}{\begin{bmatrix}\cdot &x_{12}&x_{13}\\\cdot &\cdot &\cdot \\\cdot &x_{32}&x_{33}\\\cdot &\cdot &\cdot \\\end{bmatrix}}}}
+  
+The values at the intersections marked with circles are:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  x
+                  
+                    12
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    a
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    b
+                    
+                      12
+                    
+                  
+                
+                +
+                
+                  
+                    a
+                    
+                      12
+                    
+                  
+                
+                
+                  
+                    b
+                    
+                      22
+                    
+                  
+                
+              
+            
+            
+              
+                
+                  x
+                  
+                    33
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    a
+                    
+                      31
+                    
+                  
+                
+                
+                  
+                    b
+                    
+                      13
+                    
+                  
+                
+                +
+                
+                  
+                    a
+                    
+                      32
+                    
+                  
+                
+                
+                  
+                    b
+                    
+                      23
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}x_{12}&={a_{11}}{b_{12}}+{a_{12}}{b_{22}}\\x_{33}&={a_{31}}{b_{13}}+{a_{32}}{b_{23}}\end{aligned}}}
+  
+
+
+=== Examples of matrix products ===
+
+
+==== Row vector and column vector ====
+If
+
+  
+    
+      
+        
+          A
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  a
+                
+                
+                  b
+                
+                
+                  c
+                
+              
+            
+            )
+          
+        
+        
+        ,
+        
+        
+          B
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  x
+                
+              
+              
+                
+                  y
+                
+              
+              
+                
+                  z
+                
+              
+            
+            )
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {A} ={\begin{pmatrix}a&b&c\end{pmatrix}}\,,\quad \mathbf {B} ={\begin{pmatrix}x\\y\\z\end{pmatrix}}\,,}
+  
+their matrix products are:
+
+  
+    
+      
+        
+          A
+          B
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  a
+                
+                
+                  b
+                
+                
+                  c
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  x
+                
+              
+              
+                
+                  y
+                
+              
+              
+                
+                  z
+                
+              
+            
+            )
+          
+        
+        =
+        a
+        x
+        +
+        b
+        y
+        +
+        c
+        z
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {AB} ={\begin{pmatrix}a&b&c\end{pmatrix}}{\begin{pmatrix}x\\y\\z\end{pmatrix}}=ax+by+cz\,,}
+  
+and
+
+  
+    
+      
+        
+          B
+          A
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  x
+                
+              
+              
+                
+                  y
+                
+              
+              
+                
+                  z
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  a
+                
+                
+                  b
+                
+                
+                  c
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  x
+                  a
+                
+                
+                  x
+                  b
+                
+                
+                  x
+                  c
+                
+              
+              
+                
+                  y
+                  a
+                
+                
+                  y
+                  b
+                
+                
+                  y
+                  c
+                
+              
+              
+                
+                  z
+                  a
+                
+                
+                  z
+                  b
+                
+                
+                  z
+                  c
+                
+              
+            
+            )
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \mathbf {BA} ={\begin{pmatrix}x\\y\\z\end{pmatrix}}{\begin{pmatrix}a&b&c\end{pmatrix}}={\begin{pmatrix}xa&xb&xc\\ya&yb&yc\\za&zb&zc\end{pmatrix}}\,.}
+  
+Note AB and BA are two different matrices: the first is a 1 × 1 matrix while the second is a 3 × 3 matrix. Such expressions occur for real-valued Euclidean vectors in Cartesian coordinates, displayed as row and column matrices, in which case AB is the matrix form of their dot product, while BA the matrix form of their dyadic or tensor product.
+
+
+==== Square matrix and column vector ====
+If
+
+  
+    
+      
+        
+          A
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  a
+                
+                
+                  b
+                
+                
+                  c
+                
+              
+              
+                
+                  p
+                
+                
+                  q
+                
+                
+                  r
+                
+              
+              
+                
+                  u
+                
+                
+                  v
+                
+                
+                  w
+                
+              
+            
+            )
+          
+        
+        ,
+        
+        
+          B
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  x
+                
+              
+              
+                
+                  y
+                
+              
+              
+                
+                  z
+                
+              
+            
+            )
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {A} ={\begin{pmatrix}a&b&c\\p&q&r\\u&v&w\end{pmatrix}},\quad \mathbf {B} ={\begin{pmatrix}x\\y\\z\end{pmatrix}}\,,}
+  
+their matrix product is:
+
+  
+    
+      
+        
+          A
+          B
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  a
+                
+                
+                  b
+                
+                
+                  c
+                
+              
+              
+                
+                  p
+                
+                
+                  q
+                
+                
+                  r
+                
+              
+              
+                
+                  u
+                
+                
+                  v
+                
+                
+                  w
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  x
+                
+              
+              
+                
+                  y
+                
+              
+              
+                
+                  z
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  a
+                  x
+                  +
+                  b
+                  y
+                  +
+                  c
+                  z
+                
+              
+              
+                
+                  p
+                  x
+                  +
+                  q
+                  y
+                  +
+                  r
+                  z
+                
+              
+              
+                
+                  u
+                  x
+                  +
+                  v
+                  y
+                  +
+                  w
+                  z
+                
+              
+            
+            )
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {AB} ={\begin{pmatrix}a&b&c\\p&q&r\\u&v&w\end{pmatrix}}{\begin{pmatrix}x\\y\\z\end{pmatrix}}={\begin{pmatrix}ax+by+cz\\px+qy+rz\\ux+vy+wz\end{pmatrix}}\,,}
+  
+however BA is not defined.
+The product of a square matrix multiplied by a column matrix arises naturally in linear algebra; for solving linear equations and representing linear transformations. By choosing a, b, c, p, q, r, u, v, w in A appropriately, A can represent a variety of transformations such as rotations, scaling and reflections, shears, of a geometric shape in space.
+
+
+==== Square matrices ====
+If
+
+  
+    
+      
+        
+          A
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  a
+                
+                
+                  b
+                
+                
+                  c
+                
+              
+              
+                
+                  p
+                
+                
+                  q
+                
+                
+                  r
+                
+              
+              
+                
+                  u
+                
+                
+                  v
+                
+                
+                  w
+                
+              
+            
+            )
+          
+        
+        ,
+        
+        
+          B
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  α
+                
+                
+                  β
+                
+                
+                  γ
+                
+              
+              
+                
+                  λ
+                
+                
+                  μ
+                
+                
+                  ν
+                
+              
+              
+                
+                  ρ
+                
+                
+                  σ
+                
+                
+                  τ
+                
+              
+            
+            )
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {A} ={\begin{pmatrix}a&b&c\\p&q&r\\u&v&w\end{pmatrix}},\quad \mathbf {B} ={\begin{pmatrix}\alpha &\beta &\gamma \\\lambda &\mu &\nu \\\rho &\sigma &\tau \\\end{pmatrix}}\,,}
+  
+their matrix products are:
+
+  
+    
+      
+        
+          A
+          B
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  a
+                
+                
+                  b
+                
+                
+                  c
+                
+              
+              
+                
+                  p
+                
+                
+                  q
+                
+                
+                  r
+                
+              
+              
+                
+                  u
+                
+                
+                  v
+                
+                
+                  w
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  α
+                
+                
+                  β
+                
+                
+                  γ
+                
+              
+              
+                
+                  λ
+                
+                
+                  μ
+                
+                
+                  ν
+                
+              
+              
+                
+                  ρ
+                
+                
+                  σ
+                
+                
+                  τ
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  a
+                  α
+                  +
+                  b
+                  λ
+                  +
+                  c
+                  ρ
+                
+                
+                  a
+                  β
+                  +
+                  b
+                  μ
+                  +
+                  c
+                  σ
+                
+                
+                  a
+                  γ
+                  +
+                  b
+                  ν
+                  +
+                  c
+                  τ
+                
+              
+              
+                
+                  p
+                  α
+                  +
+                  q
+                  λ
+                  +
+                  r
+                  ρ
+                
+                
+                  p
+                  β
+                  +
+                  q
+                  μ
+                  +
+                  r
+                  σ
+                
+                
+                  p
+                  γ
+                  +
+                  q
+                  ν
+                  +
+                  r
+                  τ
+                
+              
+              
+                
+                  u
+                  α
+                  +
+                  v
+                  λ
+                  +
+                  w
+                  ρ
+                
+                
+                  u
+                  β
+                  +
+                  v
+                  μ
+                  +
+                  w
+                  σ
+                
+                
+                  u
+                  γ
+                  +
+                  v
+                  ν
+                  +
+                  w
+                  τ
+                
+              
+            
+            )
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {AB} ={\begin{pmatrix}a&b&c\\p&q&r\\u&v&w\end{pmatrix}}{\begin{pmatrix}\alpha &\beta &\gamma \\\lambda &\mu &\nu \\\rho &\sigma &\tau \\\end{pmatrix}}={\begin{pmatrix}a\alpha +b\lambda +c\rho &a\beta +b\mu +c\sigma &a\gamma +b\nu +c\tau \\p\alpha +q\lambda +r\rho &p\beta +q\mu +r\sigma &p\gamma +q\nu +r\tau \\u\alpha +v\lambda +w\rho &u\beta +v\mu +w\sigma &u\gamma +v\nu +w\tau \end{pmatrix}}\,,}
+  
+and
+
+  
+    
+      
+        
+          B
+          A
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  α
+                
+                
+                  β
+                
+                
+                  γ
+                
+              
+              
+                
+                  λ
+                
+                
+                  μ
+                
+                
+                  ν
+                
+              
+              
+                
+                  ρ
+                
+                
+                  σ
+                
+                
+                  τ
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  a
+                
+                
+                  b
+                
+                
+                  c
+                
+              
+              
+                
+                  p
+                
+                
+                  q
+                
+                
+                  r
+                
+              
+              
+                
+                  u
+                
+                
+                  v
+                
+                
+                  w
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  α
+                  a
+                  +
+                  β
+                  p
+                  +
+                  γ
+                  u
+                
+                
+                  α
+                  b
+                  +
+                  β
+                  q
+                  +
+                  γ
+                  v
+                
+                
+                  α
+                  c
+                  +
+                  β
+                  r
+                  +
+                  γ
+                  w
+                
+              
+              
+                
+                  λ
+                  a
+                  +
+                  μ
+                  p
+                  +
+                  ν
+                  u
+                
+                
+                  λ
+                  b
+                  +
+                  μ
+                  q
+                  +
+                  ν
+                  v
+                
+                
+                  λ
+                  c
+                  +
+                  μ
+                  r
+                  +
+                  ν
+                  w
+                
+              
+              
+                
+                  ρ
+                  a
+                  +
+                  σ
+                  p
+                  +
+                  τ
+                  u
+                
+                
+                  ρ
+                  b
+                  +
+                  σ
+                  q
+                  +
+                  τ
+                  v
+                
+                
+                  ρ
+                  c
+                  +
+                  σ
+                  r
+                  +
+                  τ
+                  w
+                
+              
+            
+            )
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \mathbf {BA} ={\begin{pmatrix}\alpha &\beta &\gamma \\\lambda &\mu &\nu \\\rho &\sigma &\tau \\\end{pmatrix}}{\begin{pmatrix}a&b&c\\p&q&r\\u&v&w\end{pmatrix}}={\begin{pmatrix}\alpha a+\beta p+\gamma u&\alpha b+\beta q+\gamma v&\alpha c+\beta r+\gamma w\\\lambda a+\mu p+\nu u&\lambda b+\mu q+\nu v&\lambda c+\mu r+\nu w\\\rho a+\sigma p+\tau u&\rho b+\sigma q+\tau v&\rho c+\sigma r+\tau w\end{pmatrix}}\,.}
+  
+In this case, both products AB and BA are defined, and the entries show that AB and BA are not equal in general. Multiplying square matrices which represent linear transformations corresponds to the composite transformation (see below for details).
+
+
+==== Row vector, square matrix, and column vector ====
+If
+
+  
+    
+      
+        
+          A
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  a
+                
+                
+                  b
+                
+                
+                  c
+                
+              
+            
+            )
+          
+        
+        
+        ,
+        
+        
+          B
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  α
+                
+                
+                  β
+                
+                
+                  γ
+                
+              
+              
+                
+                  λ
+                
+                
+                  μ
+                
+                
+                  ν
+                
+              
+              
+                
+                  ρ
+                
+                
+                  σ
+                
+                
+                  τ
+                
+              
+            
+            )
+          
+        
+        
+        ,
+        
+        
+          C
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  x
+                
+              
+              
+                
+                  y
+                
+              
+              
+                
+                  z
+                
+              
+            
+            )
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {A} ={\begin{pmatrix}a&b&c\end{pmatrix}}\,,\quad \mathbf {B} ={\begin{pmatrix}\alpha &\beta &\gamma \\\lambda &\mu &\nu \\\rho &\sigma &\tau \\\end{pmatrix}}\,,\quad \mathbf {C} ={\begin{pmatrix}x\\y\\z\end{pmatrix}}\,,}
+  
+their matrix product is:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  A
+                  B
+                  C
+                
+              
+              
+                
+                =
+                
+                  
+                    (
+                    
+                      
+                        
+                          a
+                        
+                        
+                          b
+                        
+                        
+                          c
+                        
+                      
+                    
+                    )
+                  
+                
+                
+                  [
+                  
+                    
+                      (
+                      
+                        
+                          
+                            α
+                          
+                          
+                            β
+                          
+                          
+                            γ
+                          
+                        
+                        
+                          
+                            λ
+                          
+                          
+                            μ
+                          
+                          
+                            ν
+                          
+                        
+                        
+                          
+                            ρ
+                          
+                          
+                            σ
+                          
+                          
+                            τ
+                          
+                        
+                      
+                      )
+                    
+                  
+                  
+                    
+                      (
+                      
+                        
+                          
+                            x
+                          
+                        
+                        
+                          
+                            y
+                          
+                        
+                        
+                          
+                            z
+                          
+                        
+                      
+                      )
+                    
+                  
+                  ]
+                
+                =
+                
+                  [
+                  
+                    
+                      (
+                      
+                        
+                          
+                            a
+                          
+                          
+                            b
+                          
+                          
+                            c
+                          
+                        
+                      
+                      )
+                    
+                  
+                  
+                    
+                      (
+                      
+                        
+                          
+                            α
+                          
+                          
+                            β
+                          
+                          
+                            γ
+                          
+                        
+                        
+                          
+                            λ
+                          
+                          
+                            μ
+                          
+                          
+                            ν
+                          
+                        
+                        
+                          
+                            ρ
+                          
+                          
+                            σ
+                          
+                          
+                            τ
+                          
+                        
+                      
+                      )
+                    
+                  
+                  ]
+                
+                
+                  
+                    (
+                    
+                      
+                        
+                          x
+                        
+                      
+                      
+                        
+                          y
+                        
+                      
+                      
+                        
+                          z
+                        
+                      
+                    
+                    )
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    (
+                    
+                      
+                        
+                          a
+                        
+                        
+                          b
+                        
+                        
+                          c
+                        
+                      
+                    
+                    )
+                  
+                
+                
+                  
+                    (
+                    
+                      
+                        
+                          α
+                          x
+                          +
+                          β
+                          y
+                          +
+                          γ
+                          z
+                        
+                      
+                      
+                        
+                          λ
+                          x
+                          +
+                          μ
+                          y
+                          +
+                          ν
+                          z
+                        
+                      
+                      
+                        
+                          ρ
+                          x
+                          +
+                          σ
+                          y
+                          +
+                          τ
+                          z
+                        
+                      
+                    
+                    )
+                  
+                
+                =
+                
+                  
+                    (
+                    
+                      
+                        
+                          a
+                          α
+                          +
+                          b
+                          λ
+                          +
+                          c
+                          ρ
+                        
+                        
+                          a
+                          β
+                          +
+                          b
+                          μ
+                          +
+                          c
+                          σ
+                        
+                        
+                          a
+                          γ
+                          +
+                          b
+                          ν
+                          +
+                          c
+                          τ
+                        
+                      
+                    
+                    )
+                  
+                
+                
+                  
+                    (
+                    
+                      
+                        
+                          x
+                        
+                      
+                      
+                        
+                          y
+                        
+                      
+                      
+                        
+                          z
+                        
+                      
+                    
+                    )
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                a
+                α
+                x
+                +
+                b
+                λ
+                x
+                +
+                c
+                ρ
+                x
+                +
+                a
+                β
+                y
+                +
+                b
+                μ
+                y
+                +
+                c
+                σ
+                y
+                +
+                a
+                γ
+                z
+                +
+                b
+                ν
+                z
+                +
+                c
+                τ
+                z
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mathbf {ABC} &={\begin{pmatrix}a&b&c\end{pmatrix}}\left[{\begin{pmatrix}\alpha &\beta &\gamma \\\lambda &\mu &\nu \\\rho &\sigma &\tau \\\end{pmatrix}}{\begin{pmatrix}x\\y\\z\end{pmatrix}}\right]=\left[{\begin{pmatrix}a&b&c\end{pmatrix}}{\begin{pmatrix}\alpha &\beta &\gamma \\\lambda &\mu &\nu \\\rho &\sigma &\tau \\\end{pmatrix}}\right]{\begin{pmatrix}x\\y\\z\end{pmatrix}}\\&={\begin{pmatrix}a&b&c\end{pmatrix}}{\begin{pmatrix}\alpha x+\beta y+\gamma z\\\lambda x+\mu y+\nu z\\\rho x+\sigma y+\tau z\\\end{pmatrix}}={\begin{pmatrix}a\alpha +b\lambda +c\rho &a\beta +b\mu +c\sigma &a\gamma +b\nu +c\tau \end{pmatrix}}{\begin{pmatrix}x\\y\\z\end{pmatrix}}\\&=a\alpha x+b\lambda x+c\rho x+a\beta y+b\mu y+c\sigma y+a\gamma z+b\nu z+c\tau z\,,\end{aligned}}}
+  
+however CBA is not defined. Note that A(BC) = (AB)C, this is one of many general properties listed below. Expressions of the form ABC occur when calculating the inner product of two vectors displayed as row and column vectors in an arbitrary coordinate system, and the metric tensor in these coordinates written as the square matrix.
+
+
+==== Rectangular matrices ====
+If
+
+  
+    
+      
+        
+          A
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  a
+                
+                
+                  b
+                
+                
+                  c
+                
+              
+              
+                
+                  x
+                
+                
+                  y
+                
+                
+                  z
+                
+              
+            
+            )
+          
+        
+        
+        ,
+        
+        
+          B
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  α
+                
+                
+                  ρ
+                
+              
+              
+                
+                  β
+                
+                
+                  σ
+                
+              
+              
+                
+                  γ
+                
+                
+                  τ
+                
+              
+            
+            )
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {A} ={\begin{pmatrix}a&b&c\\x&y&z\end{pmatrix}}\,,\quad \mathbf {B} ={\begin{pmatrix}\alpha &\rho \\\beta &\sigma \\\gamma &\tau \\\end{pmatrix}}\,,}
+  
+their matrix products are:
+
+  
+    
+      
+        
+          A
+        
+        
+          B
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  a
+                
+                
+                  b
+                
+                
+                  c
+                
+              
+              
+                
+                  x
+                
+                
+                  y
+                
+                
+                  z
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  α
+                
+                
+                  ρ
+                
+              
+              
+                
+                  β
+                
+                
+                  σ
+                
+              
+              
+                
+                  γ
+                
+                
+                  τ
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  a
+                  α
+                  +
+                  b
+                  β
+                  +
+                  c
+                  γ
+                
+                
+                  a
+                  ρ
+                  +
+                  b
+                  σ
+                  +
+                  c
+                  τ
+                
+              
+              
+                
+                  x
+                  α
+                  +
+                  y
+                  β
+                  +
+                  z
+                  γ
+                
+                
+                  x
+                  ρ
+                  +
+                  y
+                  σ
+                  +
+                  z
+                  τ
+                
+              
+            
+            )
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {A} \mathbf {B} ={\begin{pmatrix}a&b&c\\x&y&z\end{pmatrix}}{\begin{pmatrix}\alpha &\rho \\\beta &\sigma \\\gamma &\tau \\\end{pmatrix}}={\begin{pmatrix}a\alpha +b\beta +c\gamma &a\rho +b\sigma +c\tau \\x\alpha +y\beta +z\gamma &x\rho +y\sigma +z\tau \\\end{pmatrix}}\,,}
+  
+and
+
+  
+    
+      
+        
+          B
+        
+        
+          A
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  α
+                
+                
+                  ρ
+                
+              
+              
+                
+                  β
+                
+                
+                  σ
+                
+              
+              
+                
+                  γ
+                
+                
+                  τ
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  a
+                
+                
+                  b
+                
+                
+                  c
+                
+              
+              
+                
+                  x
+                
+                
+                  y
+                
+                
+                  z
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  α
+                  a
+                  +
+                  ρ
+                  x
+                
+                
+                  α
+                  b
+                  +
+                  ρ
+                  y
+                
+                
+                  α
+                  c
+                  +
+                  ρ
+                  z
+                
+              
+              
+                
+                  β
+                  a
+                  +
+                  σ
+                  x
+                
+                
+                  β
+                  b
+                  +
+                  σ
+                  y
+                
+                
+                  β
+                  c
+                  +
+                  σ
+                  z
+                
+              
+              
+                
+                  γ
+                  a
+                  +
+                  τ
+                  x
+                
+                
+                  γ
+                  b
+                  +
+                  τ
+                  y
+                
+                
+                  γ
+                  c
+                  +
+                  τ
+                  z
+                
+              
+            
+            )
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \mathbf {B} \mathbf {A} ={\begin{pmatrix}\alpha &\rho \\\beta &\sigma \\\gamma &\tau \\\end{pmatrix}}{\begin{pmatrix}a&b&c\\x&y&z\end{pmatrix}}={\begin{pmatrix}\alpha a+\rho x&\alpha b+\rho y&\alpha c+\rho z\\\beta a+\sigma x&\beta b+\sigma y&\beta c+\sigma z\\\gamma a+\tau x&\gamma b+\tau y&\gamma c+\tau z\end{pmatrix}}\,.}
+  
+
+
+=== Properties of the matrix product (two matrices) ===
+Analogous to numbers (elements of a field), matrices satisfy the following general properties, although there is one subtlety, due to the nature of matrix multiplication.
+
+
+==== All matrices ====
+
+
+==== Square matrices only ====
+
+
+== Matrix product (any number of matrices in the product) ==
+
+Matrix multiplication can be extended to the case of more than two matrices, provided that for each sequential pair, their dimensions match.
+The product of n matrices A1, A2, ..., An with sizes s0 × s1, s1 × s2, ..., sn − 1 × sn (where s0, s1, s2, ..., sn are all simply positive integers and the subscripts are labels corresponding to the matrices, nothing more), is the s0 × sn matrix:
+
+  
+    
+      
+        
+          ∏
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          
+            A
+          
+          
+            i
+          
+        
+        =
+        
+          
+            A
+          
+          
+            1
+          
+        
+        
+          
+            A
+          
+          
+            2
+          
+        
+        ⋯
+        
+          
+            A
+          
+          
+            n
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \prod _{i=1}^{n}\mathbf {A} _{i}=\mathbf {A} _{1}\mathbf {A} _{2}\cdots \mathbf {A} _{n}\,.}
+  
+In index notation:
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                A
+              
+              
+                1
+              
+            
+            
+              
+                A
+              
+              
+                2
+              
+            
+            ⋯
+            
+              
+                A
+              
+              
+                n
+              
+            
+            )
+          
+          
+            
+              i
+              
+                0
+              
+            
+            
+              i
+              
+                n
+              
+            
+          
+        
+        =
+        
+          ∑
+          
+            
+              i
+              
+                1
+              
+            
+            =
+            1
+          
+          
+            
+              s
+              
+                1
+              
+            
+          
+        
+        
+          ∑
+          
+            
+              i
+              
+                2
+              
+            
+            =
+            1
+          
+          
+            
+              s
+              
+                2
+              
+            
+          
+        
+        ⋯
+        
+          ∑
+          
+            
+              i
+              
+                n
+                −
+                1
+              
+            
+            =
+            1
+          
+          
+            
+              s
+              
+                n
+                −
+                1
+              
+            
+          
+        
+        
+          
+            (
+            
+              
+                A
+              
+              
+                1
+              
+            
+            )
+          
+          
+            
+              i
+              
+                0
+              
+            
+            
+              i
+              
+                1
+              
+            
+          
+        
+        
+          
+            (
+            
+              
+                A
+              
+              
+                2
+              
+            
+            )
+          
+          
+            
+              i
+              
+                1
+              
+            
+            
+              i
+              
+                2
+              
+            
+          
+        
+        
+          
+            (
+            
+              
+                A
+              
+              
+                3
+              
+            
+            )
+          
+          
+            
+              i
+              
+                2
+              
+            
+            
+              i
+              
+                3
+              
+            
+          
+        
+        ⋯
+        
+          
+            (
+            
+              
+                A
+              
+              
+                n
+                −
+                1
+              
+            
+            )
+          
+          
+            
+              i
+              
+                n
+                −
+                2
+              
+            
+            
+              i
+              
+                n
+                −
+                1
+              
+            
+          
+        
+        
+          
+            (
+            
+              
+                A
+              
+              
+                n
+              
+            
+            )
+          
+          
+            
+              i
+              
+                n
+                −
+                1
+              
+            
+            
+              i
+              
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle \left(\mathbf {A} _{1}\mathbf {A} _{2}\cdots \mathbf {A} _{n}\right)_{i_{0}i_{n}}=\sum _{i_{1}=1}^{s_{1}}\sum _{i_{2}=1}^{s_{2}}\cdots \sum _{i_{n-1}=1}^{s_{n-1}}\left(\mathbf {A} _{1}\right)_{i_{0}i_{1}}\left(\mathbf {A} _{2}\right)_{i_{1}i_{2}}\left(\mathbf {A} _{3}\right)_{i_{2}i_{3}}\cdots \left(\mathbf {A} _{n-1}\right)_{i_{n-2}i_{n-1}}\left(\mathbf {A} _{n}\right)_{i_{n-1}i_{n}}}
+  
+
+
+=== Properties of the matrix product (any number of matrices in the product) ===
+The same properties will hold, as long as the ordering of matrices is not changed. Some of the previous properties for more than two matrices generalize as follows.
+
+
+=== Examples of chain multiplication ===
+Similarity transformations involving similar matrices are matrix products of the three square matrices, in the form:
+
+  
+    
+      
+        
+          B
+        
+        =
+        
+          
+            P
+          
+          
+            −
+            1
+          
+        
+        
+          A
+        
+        
+          P
+        
+      
+    
+    {\displaystyle \mathbf {B} =\mathbf {P} ^{-1}\mathbf {A} \mathbf {P} }
+  
+where P is the similarity matrix and A and B are said to be similar if this relation holds. This product appears frequently in linear algebra and applications, such as diagonalizing square matrices and the equivalence between different matrix representations of the same linear operator.
+
+
+== Operations derived from the matrix product ==
+More operations on square matrices can be defined using the matrix product, such as powers and nth roots by repeated matrix products, the matrix exponential can be defined by a power series, the matrix logarithm is the inverse of matrix exponentiation, and so on.
+
+
+=== Powers of matrices ===
+Square matrices can be multiplied by themselves repeatedly in the same way as ordinary numbers, because they always have the same number of rows and columns. This repeated multiplication can be described as a power of the matrix, a special case of the ordinary matrix product. On the contrary, rectangular matrices do not have the same number of rows and columns so they can never be raised to a power. An n × n matrix A raised to a positive integer k is defined as
+
+  
+    
+      
+        
+          
+            A
+          
+          
+            k
+          
+        
+        =
+        
+          
+            
+              
+                A
+              
+              
+                A
+              
+              ⋯
+              
+                A
+              
+            
+            
+              k
+              
+                
+                t
+                i
+                m
+                e
+                s
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {A} ^{k}={\underset {k\mathrm {\,times} }{\mathbf {A} \mathbf {A} \cdots \mathbf {A} }}}
+  
+and the following identities hold, where λ is a scalar:
+
+The naive computation of matrix powers is to multiply k times the matrix A to the result, starting with the identity matrix just like the scalar case. This can be improved using exponentiation by squaring, a method commonly used for scalars. For diagonalizable matrices, an even better method is to use the eigenvalue decomposition of A. Another method based on the Cayley–Hamilton theorem finds an identity using the matrices' characteristic polynomial, producing a more effective equation for Ak in which a scalar is raised to the required power, rather than an entire matrix.
+A special case is the power of a diagonal matrix. Since the product of diagonal matrices amounts to simply multiplying corresponding diagonal elements together, the power k of a diagonal matrix A will have entries raised to the power. Explicitly;
+
+  
+    
+      
+        
+          
+            A
+          
+          
+            k
+          
+        
+        =
+        
+          
+            
+              (
+              
+                
+                  
+                    
+                      A
+                      
+                        11
+                      
+                    
+                  
+                  
+                    0
+                  
+                  
+                    ⋯
+                  
+                  
+                    0
+                  
+                
+                
+                  
+                    0
+                  
+                  
+                    
+                      A
+                      
+                        22
+                      
+                    
+                  
+                  
+                    ⋯
+                  
+                  
+                    0
+                  
+                
+                
+                  
+                    ⋮
+                  
+                  
+                    ⋮
+                  
+                  
+                    ⋱
+                  
+                  
+                    ⋮
+                  
+                
+                
+                  
+                    0
+                  
+                  
+                    0
+                  
+                  
+                    ⋯
+                  
+                  
+                    
+                      A
+                      
+                        n
+                        n
+                      
+                    
+                  
+                
+              
+              )
+            
+          
+          
+            k
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    A
+                    
+                      11
+                    
+                    
+                      k
+                    
+                  
+                
+                
+                  0
+                
+                
+                  ⋯
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  
+                    A
+                    
+                      22
+                    
+                    
+                      k
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  0
+                
+              
+              
+                
+                  ⋮
+                
+                
+                  ⋮
+                
+                
+                  ⋱
+                
+                
+                  ⋮
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  ⋯
+                
+                
+                  
+                    A
+                    
+                      n
+                      n
+                    
+                    
+                      k
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \mathbf {A} ^{k}={\begin{pmatrix}A_{11}&0&\cdots &0\\0&A_{22}&\cdots &0\\\vdots &\vdots &\ddots &\vdots \\0&0&\cdots &A_{nn}\end{pmatrix}}^{k}={\begin{pmatrix}A_{11}^{k}&0&\cdots &0\\0&A_{22}^{k}&\cdots &0\\\vdots &\vdots &\ddots &\vdots \\0&0&\cdots &A_{nn}^{k}\end{pmatrix}}}
+  
+meaning it is easy to raise a diagonal matrix to a power. When raising an arbitrary matrix (not necessarily a diagonal matrix) to a power, it is often helpful to exploit this property by diagonalizing the matrix first.
+
+
+== Applications of the matrix product ==
+
+
+=== Linear transformations ===
+
+Matrices offer a concise way of representing linear transformations between vector spaces, and matrix multiplication corresponds to the composition of linear transformations. The matrix product of two matrices can be defined when their entries belong to the same ring, and hence can be added and multiplied.
+Let U, V, and W be vector spaces over the same field with given bases, S: V → W and T: U → V be linear transformations and ST: U → W be their composition.
+Suppose that A, B, and C are the matrices representing the transformations S, T, and ST with respect to the given bases.
+Then AB = C, that is, the matrix of the composition (or the product) of linear transformations is the product of their matrices with respect to the given bases.
+
+
+=== Linear systems of equations ===
+A system of linear equations with the same number of equations as variables can be solved by collecting the coefficients of the equations into a square matrix, then inverting the matrix equation.
+A similar procedure can be used to solve a system of linear differential equations, see also phase plane.
+
+
+=== Group theory and representation theory ===
+
+
+== The inner and outer products ==
+Given two column vectors a and b, the Euclidean inner product and outer product are the simplest special cases of the matrix product.
+
+
+=== Inner product ===
+The inner product of two vectors in matrix form is equivalent to a column vector multiplied on its left by a row vector:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  a
+                
+                ⋅
+                
+                  b
+                
+              
+              
+                
+                =
+                
+                  
+                    a
+                  
+                  
+                    
+                      T
+                    
+                  
+                
+                
+                  b
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            a
+                            
+                              1
+                            
+                          
+                        
+                        
+                          
+                            a
+                            
+                              2
+                            
+                          
+                        
+                        
+                          ⋯
+                        
+                        
+                          
+                            a
+                            
+                              n
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            b
+                            
+                              1
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            b
+                            
+                              2
+                            
+                          
+                        
+                      
+                      
+                        
+                          ⋮
+                        
+                      
+                      
+                        
+                          
+                            b
+                            
+                              n
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  a
+                  
+                    1
+                  
+                
+                
+                  b
+                  
+                    1
+                  
+                
+                +
+                
+                  a
+                  
+                    2
+                  
+                
+                
+                  b
+                  
+                    2
+                  
+                
+                +
+                ⋯
+                +
+                
+                  a
+                  
+                    n
+                  
+                
+                
+                  b
+                  
+                    n
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    n
+                  
+                
+                
+                  a
+                  
+                    i
+                  
+                
+                
+                  b
+                  
+                    i
+                  
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mathbf {a} \cdot \mathbf {b} &=\mathbf {a} ^{\mathrm {T} }\mathbf {b} \\&={\begin{pmatrix}a_{1}&a_{2}&\cdots &a_{n}\end{pmatrix}}{\begin{pmatrix}b_{1}\\b_{2}\\\vdots \\b_{n}\end{pmatrix}}\\&=a_{1}b_{1}+a_{2}b_{2}+\cdots +a_{n}b_{n}\\&=\sum _{i=1}^{n}a_{i}b_{i},\end{aligned}}}
+  
+where aT denotes the transpose of a.
+The matrix product itself can be expressed in terms of inner product. Suppose that the first n × m matrix A is decomposed into its row vectors ai, and the second m × p matrix B into its column vectors bi:
+
+  
+    
+      
+        
+          A
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    A
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    A
+                    
+                      12
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    A
+                    
+                      1
+                      m
+                    
+                  
+                
+              
+              
+                
+                  
+                    A
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    A
+                    
+                      22
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    A
+                    
+                      2
+                      m
+                    
+                  
+                
+              
+              
+                
+                  ⋮
+                
+                
+                  ⋮
+                
+                
+                  ⋱
+                
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    A
+                    
+                      n
+                      1
+                    
+                  
+                
+                
+                  
+                    A
+                    
+                      n
+                      2
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    A
+                    
+                      n
+                      m
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    
+                      a
+                    
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      a
+                    
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    
+                      a
+                    
+                    
+                      n
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {A} ={\begin{pmatrix}A_{11}&A_{12}&\cdots &A_{1m}\\A_{21}&A_{22}&\cdots &A_{2m}\\\vdots &\vdots &\ddots &\vdots \\A_{n1}&A_{n2}&\cdots &A_{nm}\end{pmatrix}}={\begin{pmatrix}\mathbf {a} _{1}\\\mathbf {a} _{2}\\\vdots \\\mathbf {a} _{n}\end{pmatrix}},}
+  
+
+  
+    
+      
+        
+          B
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    B
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    B
+                    
+                      12
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    B
+                    
+                      1
+                      p
+                    
+                  
+                
+              
+              
+                
+                  
+                    B
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    B
+                    
+                      22
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    B
+                    
+                      2
+                      p
+                    
+                  
+                
+              
+              
+                
+                  ⋮
+                
+                
+                  ⋮
+                
+                
+                  ⋱
+                
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    B
+                    
+                      m
+                      1
+                    
+                  
+                
+                
+                  
+                    B
+                    
+                      m
+                      2
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    B
+                    
+                      m
+                      p
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    
+                      b
+                    
+                    
+                      1
+                    
+                  
+                
+                
+                  
+                    
+                      b
+                    
+                    
+                      2
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    
+                      b
+                    
+                    
+                      p
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \mathbf {B} ={\begin{pmatrix}B_{11}&B_{12}&\cdots &B_{1p}\\B_{21}&B_{22}&\cdots &B_{2p}\\\vdots &\vdots &\ddots &\vdots \\B_{m1}&B_{m2}&\cdots &B_{mp}\end{pmatrix}}={\begin{pmatrix}\mathbf {b} _{1}&\mathbf {b} _{2}&\cdots &\mathbf {b} _{p}\end{pmatrix}}}
+  
+where
+
+  
+    
+      
+        
+          
+            a
+          
+          
+            i
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    A
+                    
+                      i
+                      1
+                    
+                  
+                
+                
+                  
+                    A
+                    
+                      i
+                      2
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    A
+                    
+                      i
+                      m
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        
+        ,
+        
+        
+          
+            b
+          
+          
+            i
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    B
+                    
+                      1
+                      i
+                    
+                  
+                
+              
+              
+                
+                  
+                    B
+                    
+                      2
+                      i
+                    
+                  
+                
+              
+              
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    B
+                    
+                      m
+                      i
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \mathbf {a} _{i}={\begin{pmatrix}A_{i1}&A_{i2}&\cdots &A_{im}\end{pmatrix}}\,,\quad \mathbf {b} _{i}={\begin{pmatrix}B_{1i}\\B_{2i}\\\vdots \\B_{mi}\end{pmatrix}}}
+  
+Then:
+
+  
+    
+      
+        
+          A
+          B
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    
+                      a
+                    
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      a
+                    
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    
+                      a
+                    
+                    
+                      n
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  
+                    
+                      b
+                    
+                    
+                      1
+                    
+                  
+                
+                
+                  
+                    
+                      b
+                    
+                    
+                      2
+                    
+                  
+                
+                
+                  …
+                
+                
+                  
+                    
+                      b
+                    
+                    
+                      p
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  (
+                  
+                    
+                      a
+                    
+                    
+                      1
+                    
+                  
+                  ⋅
+                  
+                    
+                      b
+                    
+                    
+                      1
+                    
+                  
+                  )
+                
+                
+                  (
+                  
+                    
+                      a
+                    
+                    
+                      1
+                    
+                  
+                  ⋅
+                  
+                    
+                      b
+                    
+                    
+                      2
+                    
+                  
+                  )
+                
+                
+                  …
+                
+                
+                  (
+                  
+                    
+                      a
+                    
+                    
+                      1
+                    
+                  
+                  ⋅
+                  
+                    
+                      b
+                    
+                    
+                      p
+                    
+                  
+                  )
+                
+              
+              
+                
+                  (
+                  
+                    
+                      a
+                    
+                    
+                      2
+                    
+                  
+                  ⋅
+                  
+                    
+                      b
+                    
+                    
+                      1
+                    
+                  
+                  )
+                
+                
+                  (
+                  
+                    
+                      a
+                    
+                    
+                      2
+                    
+                  
+                  ⋅
+                  
+                    
+                      b
+                    
+                    
+                      2
+                    
+                  
+                  )
+                
+                
+                  …
+                
+                
+                  (
+                  
+                    
+                      a
+                    
+                    
+                      2
+                    
+                  
+                  ⋅
+                  
+                    
+                      b
+                    
+                    
+                      p
+                    
+                  
+                  )
+                
+              
+              
+                
+                  ⋮
+                
+                
+                  ⋮
+                
+                
+                  ⋱
+                
+                
+                  ⋮
+                
+              
+              
+                
+                  (
+                  
+                    
+                      a
+                    
+                    
+                      n
+                    
+                  
+                  ⋅
+                  
+                    
+                      b
+                    
+                    
+                      1
+                    
+                  
+                  )
+                
+                
+                  (
+                  
+                    
+                      a
+                    
+                    
+                      n
+                    
+                  
+                  ⋅
+                  
+                    
+                      b
+                    
+                    
+                      2
+                    
+                  
+                  )
+                
+                
+                  …
+                
+                
+                  (
+                  
+                    
+                      a
+                    
+                    
+                      n
+                    
+                  
+                  ⋅
+                  
+                    
+                      b
+                    
+                    
+                      p
+                    
+                  
+                  )
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \mathbf {AB} ={\begin{pmatrix}\mathbf {a} _{1}\\\mathbf {a} _{2}\\\vdots \\\mathbf {a} _{n}\end{pmatrix}}{\begin{pmatrix}\mathbf {b} _{1}&\mathbf {b} _{2}&\dots &\mathbf {b} _{p}\end{pmatrix}}={\begin{pmatrix}(\mathbf {a} _{1}\cdot \mathbf {b} _{1})&(\mathbf {a} _{1}\cdot \mathbf {b} _{2})&\dots &(\mathbf {a} _{1}\cdot \mathbf {b} _{p})\\(\mathbf {a} _{2}\cdot \mathbf {b} _{1})&(\mathbf {a} _{2}\cdot \mathbf {b} _{2})&\dots &(\mathbf {a} _{2}\cdot \mathbf {b} _{p})\\\vdots &\vdots &\ddots &\vdots \\(\mathbf {a} _{n}\cdot \mathbf {b} _{1})&(\mathbf {a} _{n}\cdot \mathbf {b} _{2})&\dots &(\mathbf {a} _{n}\cdot \mathbf {b} _{p})\end{pmatrix}}}
+  
+It is also possible to express a matrix product in terms of concatenations of products of matrices and row or column vectors:
+
+  
+    
+      
+        
+          A
+          B
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    A
+                  
+                  
+                    
+                      b
+                    
+                    
+                      1
+                    
+                  
+                
+                
+                  
+                    A
+                  
+                  
+                    
+                      b
+                    
+                    
+                      2
+                    
+                  
+                
+                
+                  …
+                
+                
+                  
+                    A
+                  
+                  
+                    
+                      b
+                    
+                    
+                      p
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    
+                      a
+                    
+                    
+                      1
+                    
+                  
+                  
+                    B
+                  
+                
+              
+              
+                
+                  
+                    
+                      a
+                    
+                    
+                      2
+                    
+                  
+                  
+                    B
+                  
+                
+              
+              
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    
+                      a
+                    
+                    
+                      n
+                    
+                  
+                  
+                    B
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \mathbf {AB} ={\begin{pmatrix}\mathbf {A} \mathbf {b} _{1}&\mathbf {A} \mathbf {b} _{2}&\dots &\mathbf {A} \mathbf {b} _{p}\end{pmatrix}}={\begin{pmatrix}\mathbf {a} _{1}\mathbf {B} \\\mathbf {a} _{2}\mathbf {B} \\\vdots \\\mathbf {a} _{n}\mathbf {B} \end{pmatrix}}}
+  
+These decompositions are particularly useful for matrices that are envisioned as concatenations of particular types of row vectors or column vectors, e.g. orthogonal matrices (whose rows and columns are unit vectors orthogonal to each other) and Markov matrices (whose rows or columns sum to 1).
+
+
+=== Outer product ===
+The outer product (also known as the dyadic product or tensor product) of two vectors in matrix form is equivalent to a row vector multiplied on the left by a column vector:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  a
+                
+                ⊗
+                
+                  b
+                
+              
+              
+                
+                =
+                
+                  a
+                
+                
+                  
+                    b
+                  
+                  
+                    
+                      T
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            a
+                            
+                              1
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            a
+                            
+                              2
+                            
+                          
+                        
+                      
+                      
+                        
+                          ⋮
+                        
+                      
+                      
+                        
+                          
+                            a
+                            
+                              n
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            b
+                            
+                              1
+                            
+                          
+                        
+                        
+                          
+                            b
+                            
+                              2
+                            
+                          
+                        
+                        
+                          ⋯
+                        
+                        
+                          
+                            b
+                            
+                              n
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            a
+                            
+                              1
+                            
+                          
+                          
+                            b
+                            
+                              1
+                            
+                          
+                        
+                        
+                          
+                            a
+                            
+                              1
+                            
+                          
+                          
+                            b
+                            
+                              2
+                            
+                          
+                        
+                        
+                          ⋯
+                        
+                        
+                          
+                            a
+                            
+                              1
+                            
+                          
+                          
+                            b
+                            
+                              n
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            a
+                            
+                              2
+                            
+                          
+                          
+                            b
+                            
+                              1
+                            
+                          
+                        
+                        
+                          
+                            a
+                            
+                              2
+                            
+                          
+                          
+                            b
+                            
+                              2
+                            
+                          
+                        
+                        
+                          ⋯
+                        
+                        
+                          
+                            a
+                            
+                              2
+                            
+                          
+                          
+                            b
+                            
+                              n
+                            
+                          
+                        
+                      
+                      
+                        
+                          ⋮
+                        
+                        
+                          ⋮
+                        
+                        
+                          ⋱
+                        
+                        
+                          ⋮
+                        
+                      
+                      
+                        
+                          
+                            a
+                            
+                              n
+                            
+                          
+                          
+                            b
+                            
+                              1
+                            
+                          
+                        
+                        
+                          
+                            a
+                            
+                              n
+                            
+                          
+                          
+                            b
+                            
+                              2
+                            
+                          
+                        
+                        
+                          ⋯
+                        
+                        
+                          
+                            a
+                            
+                              n
+                            
+                          
+                          
+                            b
+                            
+                              n
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mathbf {a} \otimes \mathbf {b} &=\mathbf {a} \mathbf {b} ^{\mathrm {T} }\\&={\begin{pmatrix}a_{1}\\a_{2}\\\vdots \\a_{n}\end{pmatrix}}{\begin{pmatrix}b_{1}&b_{2}&\cdots &b_{n}\end{pmatrix}}\\&={\begin{pmatrix}a_{1}b_{1}&a_{1}b_{2}&\cdots &a_{1}b_{n}\\a_{2}b_{1}&a_{2}b_{2}&\cdots &a_{2}b_{n}\\\vdots &\vdots &\ddots &\vdots \\a_{n}b_{1}&a_{n}b_{2}&\cdots &a_{n}b_{n}\\\end{pmatrix}}.\end{aligned}}}
+  
+An alternative method is to express the matrix product in terms of the outer product. The decomposition is done the other way around, the first matrix A is decomposed into column vectors ai and the second matrix B into row vectors bi:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  A
+                  B
+                
+              
+              
+                
+                =
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            
+                              
+                                
+                                  a
+                                  ¯
+                                
+                              
+                            
+                            
+                              1
+                            
+                          
+                        
+                        
+                          
+                            
+                              
+                                
+                                  a
+                                  ¯
+                                
+                              
+                            
+                            
+                              2
+                            
+                          
+                        
+                        
+                          ⋯
+                        
+                        
+                          
+                            
+                              
+                                
+                                  a
+                                  ¯
+                                
+                              
+                            
+                            
+                              m
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            
+                              
+                                
+                                  b
+                                  ¯
+                                
+                              
+                            
+                            
+                              1
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              
+                                
+                                  b
+                                  ¯
+                                
+                              
+                            
+                            
+                              2
+                            
+                          
+                        
+                      
+                      
+                        
+                          ⋮
+                        
+                      
+                      
+                        
+                          
+                            
+                              
+                                
+                                  b
+                                  ¯
+                                
+                              
+                            
+                            
+                              m
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        a
+                        ¯
+                      
+                    
+                  
+                  
+                    1
+                  
+                
+                ⊗
+                
+                  
+                    
+                      
+                        b
+                        ¯
+                      
+                    
+                  
+                  
+                    1
+                  
+                
+                +
+                
+                  
+                    
+                      
+                        a
+                        ¯
+                      
+                    
+                  
+                  
+                    2
+                  
+                
+                ⊗
+                
+                  
+                    
+                      
+                        b
+                        ¯
+                      
+                    
+                  
+                  
+                    2
+                  
+                
+                +
+                ⋯
+                +
+                
+                  
+                    
+                      
+                        a
+                        ¯
+                      
+                    
+                  
+                  
+                    m
+                  
+                
+                ⊗
+                
+                  
+                    
+                      
+                        b
+                        ¯
+                      
+                    
+                  
+                  
+                    m
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    m
+                  
+                
+                
+                  
+                    
+                      
+                        a
+                        ¯
+                      
+                    
+                  
+                  
+                    i
+                  
+                
+                ⊗
+                
+                  
+                    
+                      
+                        b
+                        ¯
+                      
+                    
+                  
+                  
+                    i
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mathbf {AB} &={\begin{pmatrix}\mathbf {\bar {a}} _{1}&\mathbf {\bar {a}} _{2}&\cdots &\mathbf {\bar {a}} _{m}\end{pmatrix}}{\begin{pmatrix}\mathbf {\bar {b}} _{1}\\\mathbf {\bar {b}} _{2}\\\vdots \\\mathbf {\bar {b}} _{m}\end{pmatrix}}\\&=\mathbf {\bar {a}} _{1}\otimes \mathbf {\bar {b}} _{1}+\mathbf {\bar {a}} _{2}\otimes \mathbf {\bar {b}} _{2}+\cdots +\mathbf {\bar {a}} _{m}\otimes \mathbf {\bar {b}} _{m}\\&=\sum _{i=1}^{m}\mathbf {\bar {a}} _{i}\otimes \mathbf {\bar {b}} _{i}\end{aligned}}}
+  
+where this time
+
+  
+    
+      
+        
+          
+            
+              
+                a
+                ¯
+              
+            
+          
+          
+            i
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    A
+                    
+                      1
+                      i
+                    
+                  
+                
+              
+              
+                
+                  
+                    A
+                    
+                      2
+                      i
+                    
+                  
+                
+              
+              
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    A
+                    
+                      n
+                      i
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        
+        ,
+        
+        
+          
+            
+              
+                b
+                ¯
+              
+            
+          
+          
+            i
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    B
+                    
+                      i
+                      1
+                    
+                  
+                
+                
+                  
+                    B
+                    
+                      i
+                      2
+                    
+                  
+                
+                
+                  ⋯
+                
+                
+                  
+                    B
+                    
+                      i
+                      p
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \mathbf {\bar {a}} _{i}={\begin{pmatrix}A_{1i}\\A_{2i}\\\vdots \\A_{ni}\end{pmatrix}}\,,\quad \mathbf {\bar {b}} _{i}={\begin{pmatrix}B_{i1}&B_{i2}&\cdots &B_{ip}\end{pmatrix}}\,.}
+  
+This method emphasizes the effect of individual column/row pairs on the result, which is a useful point of view with e.g. covariance matrices, where each such pair corresponds to the effect of a single sample point.
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            
+                              1
+                            
+                          
+                        
+                        
+                          
+                            
+                              2
+                            
+                          
+                        
+                        
+                          
+                            
+                              3
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              4
+                            
+                          
+                        
+                        
+                          
+                            
+                              5
+                            
+                          
+                        
+                        
+                          
+                            
+                              6
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              7
+                            
+                          
+                        
+                        
+                          
+                            
+                              8
+                            
+                          
+                        
+                        
+                          
+                            
+                              9
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            
+                              a
+                            
+                          
+                        
+                        
+                          
+                            
+                              d
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              b
+                            
+                          
+                        
+                        
+                          
+                            
+                              e
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              c
+                            
+                          
+                        
+                        
+                          
+                            
+                              f
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            
+                              1
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              4
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              7
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                ⊗
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            
+                              
+                                a
+                              
+                            
+                          
+                        
+                        
+                          
+                            
+                              
+                                d
+                              
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                +
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            
+                              2
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              5
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              8
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                ⊗
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            
+                              
+                                b
+                              
+                            
+                          
+                        
+                        
+                          
+                            
+                              
+                                e
+                              
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                +
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            
+                              3
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              6
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              9
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                ⊗
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            
+                              c
+                            
+                          
+                        
+                        
+                          
+                            
+                              f
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            
+                              
+                                1
+                                a
+                              
+                            
+                          
+                        
+                        
+                          
+                            
+                              
+                                1
+                                d
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              
+                                4
+                                a
+                              
+                            
+                          
+                        
+                        
+                          
+                            
+                              
+                                4
+                                d
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              
+                                7
+                                a
+                              
+                            
+                          
+                        
+                        
+                          
+                            
+                              
+                                7
+                                d
+                              
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                +
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            
+                              
+                                2
+                                b
+                              
+                            
+                          
+                        
+                        
+                          
+                            
+                              
+                                2
+                                e
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              
+                                5
+                                b
+                              
+                            
+                          
+                        
+                        
+                          
+                            
+                              
+                                5
+                                e
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              
+                                8
+                                b
+                              
+                            
+                          
+                        
+                        
+                          
+                            
+                              
+                                8
+                                e
+                              
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                +
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            
+                              
+                                3
+                                c
+                              
+                            
+                          
+                        
+                        
+                          
+                            
+                              
+                                3
+                                f
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              
+                                6
+                                c
+                              
+                            
+                          
+                        
+                        
+                          
+                            
+                              
+                                6
+                                f
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              
+                                9
+                                c
+                              
+                            
+                          
+                        
+                        
+                          
+                            
+                              
+                                9
+                                f
+                              
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            
+                              
+                                1
+                                a
+                              
+                            
+                          
+                          +
+                          
+                            
+                              
+                                2
+                                b
+                              
+                            
+                          
+                          +
+                          
+                            
+                              
+                                3
+                                c
+                              
+                            
+                          
+                        
+                        
+                          
+                            
+                              
+                                1
+                                d
+                              
+                            
+                          
+                          +
+                          
+                            
+                              
+                                2
+                                e
+                              
+                            
+                          
+                          +
+                          
+                            
+                              
+                                3
+                                f
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              
+                                4
+                                a
+                              
+                            
+                          
+                          +
+                          
+                            
+                              
+                                5
+                                b
+                              
+                            
+                          
+                          +
+                          
+                            
+                              
+                                6
+                                c
+                              
+                            
+                          
+                        
+                        
+                          
+                            
+                              
+                                4
+                                d
+                              
+                            
+                          
+                          +
+                          
+                            
+                              
+                                5
+                                e
+                              
+                            
+                          
+                          +
+                          
+                            
+                              
+                                6
+                                f
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                              
+                                7
+                                a
+                              
+                            
+                          
+                          +
+                          
+                            
+                              
+                                8
+                                b
+                              
+                            
+                          
+                          +
+                          
+                            
+                              
+                                9
+                                c
+                              
+                            
+                          
+                        
+                        
+                          
+                            
+                              
+                                7
+                                d
+                              
+                            
+                          
+                          +
+                          
+                            
+                              
+                                8
+                                e
+                              
+                            
+                          
+                          +
+                          
+                            
+                              
+                                9
+                                f
+                              
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\begin{pmatrix}{\color {Brown}1}&{\color {Orange}2}&{\color {Violet}3}\\{\color {Brown}4}&{\color {Orange}5}&{\color {Violet}6}\\{\color {Brown}7}&{\color {Orange}8}&{\color {Violet}9}\\\end{pmatrix}}{\begin{pmatrix}{\color {Brown}a}&{\color {Brown}d}\\{\color {Orange}b}&{\color {Orange}e}\\{\color {Violet}c}&{\color {Violet}f}\\\end{pmatrix}}&={\begin{pmatrix}{\color {Brown}1}\\{\color {Brown}4}\\{\color {Brown}7}\\\end{pmatrix}}\otimes {\begin{pmatrix}{\color {Brown}{a}}&{\color {Brown}{d}}\\\end{pmatrix}}+{\begin{pmatrix}{\color {Orange}2}\\{\color {Orange}5}\\{\color {Orange}8}\\\end{pmatrix}}\otimes {\begin{pmatrix}{\color {Orange}{b}}&{\color {Orange}{e}}\\\end{pmatrix}}+{\begin{pmatrix}{\color {Violet}3}\\{\color {Violet}6}\\{\color {Violet}9}\\\end{pmatrix}}\otimes {\begin{pmatrix}{\color {Violet}c}&{\color {Violet}f}\\\end{pmatrix}}\\&={\begin{pmatrix}{\color {Brown}{1a}}&{\color {Brown}{1d}}\\{\color {Brown}{4a}}&{\color {Brown}{4d}}\\{\color {Brown}{7a}}&{\color {Brown}{7d}}\\\end{pmatrix}}+{\begin{pmatrix}{\color {Orange}{2b}}&{\color {Orange}{2e}}\\{\color {Orange}{5b}}&{\color {Orange}{5e}}\\{\color {Orange}{8b}}&{\color {Orange}{8e}}\\\end{pmatrix}}+{\begin{pmatrix}{\color {Violet}{3c}}&{\color {Violet}{3f}}\\{\color {Violet}{6c}}&{\color {Violet}{6f}}\\{\color {Violet}{9c}}&{\color {Violet}{9f}}\\\end{pmatrix}}\\&={\begin{pmatrix}{\color {Brown}{1a}}+{\color {Orange}{2b}}+{\color {Violet}{3c}}&{\color {Brown}{1d}}+{\color {Orange}{2e}}+{\color {Violet}{3f}}\\{\color {Brown}{4a}}+{\color {Orange}{5b}}+{\color {Violet}{6c}}&{\color {Brown}{4d}}+{\color {Orange}{5e}}+{\color {Violet}{6f}}\\{\color {Brown}{7a}}+{\color {Orange}{8b}}+{\color {Violet}{9c}}&{\color {Brown}{7d}}+{\color {Orange}{8e}}+{\color {Violet}{9f}}\\\end{pmatrix}}.\end{aligned}}}
+  
+
+
+== Algorithms for efficient matrix multiplication ==
+
+The running time of square matrix multiplication, if carried out naïvely, is O(n3). The running time for multiplying rectangular matrices (one m × p-matrix with one p × n-matrix) is O(mnp), however, more efficient algorithms exist, such as Strassen's algorithm, devised by Volker Strassen in 1969 and often referred to as "fast matrix multiplication". It is based on a way of multiplying two 2 × 2-matrices which requires only 7 multiplications (instead of the usual 8), at the expense of several additional addition and subtraction operations. Applying this recursively gives an algorithm with a multiplicative cost of 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            
+              log
+              
+                2
+              
+            
+            ⁡
+            7
+          
+        
+        )
+        ≈
+        O
+        (
+        
+          n
+          
+            2.807
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{\log _{2}7})\approx O(n^{2.807})}
+  . Strassen's algorithm is more complex, and the numerical stability is reduced compared to the naïve algorithm. Nevertheless, it appears in several libraries, such as BLAS, where it is significantly more efficient for matrices with dimensions n > 100, and is very useful for large matrices over exact domains such as finite fields, where numerical stability is not an issue.
+The current O(nk) algorithm with the lowest known exponent k is a generalization of the Coppersmith–Winograd algorithm that has an asymptotic complexity of O(n2.3728639), by François Le Gall. This algorithm, and the Coppersmith–Winograd algorithm on which it is based, are similar to Strassen's algorithm: a way is devised for multiplying two k × k-matrices with fewer than k3 multiplications, and this technique is applied recursively. However, the constant coefficient hidden by the Big O notation is so large that these algorithms are only worthwhile for matrices that are too large to handle on present-day computers.
+Since any algorithm for multiplying two n × n-matrices has to process all 2 × n2-entries, there is an asymptotic lower bound of Ω(n2) operations. Raz (2002) proves a lower bound of Ω(n2 log(n)) for bounded coefficient arithmetic circuits over the real or complex numbers.
+Cohn et al. (2003, 2005) put methods such as the Strassen and Coppersmith–Winograd algorithms in an entirely different group-theoretic context, by utilising triples of subsets of finite groups which satisfy a disjointness property called the triple product property (TPP). They show that if families of wreath products of Abelian groups with symmetric groups realise families of subset triples with a simultaneous version of the TPP, then there are matrix multiplication algorithms with essentially quadratic complexity. Most researchers initially believed that this was indeed the case. However, Blasiak, Church, Cohn, Grochow, Naslund, Sawin and Umans have recently shown using the Slice Rank method that such an approach using wreath products of abelian groups with small exponent, cannot yield a matrix multiplication exponent of 2. 
+Freivalds' algorithm is a simple Monte Carlo algorithm that given matrices A, B, C verifies in Θ(n2) time if AB = C.
+
+
+=== Parallel matrix multiplication ===
+Because of the nature of matrix operations and the layout of matrices in memory, it is typically possible to gain substantial performance gains through use of parallelization and vectorization. Several algorithms are possible, among which divide and conquer algorithms based on the block matrix decomposition
+
+  
+    
+      
+        
+          C
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    
+                      C
+                    
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    
+                      C
+                    
+                    
+                      12
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      C
+                    
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    
+                      C
+                    
+                    
+                      22
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    
+                      A
+                    
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    
+                      A
+                    
+                    
+                      12
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      A
+                    
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    
+                      A
+                    
+                    
+                      22
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  
+                    
+                      B
+                    
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    
+                      B
+                    
+                    
+                      12
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      B
+                    
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    
+                      B
+                    
+                    
+                      22
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        =
+        
+          A
+        
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {C} ={\begin{pmatrix}\mathbf {C} _{11}&\mathbf {C} _{12}\\\mathbf {C} _{21}&\mathbf {C} _{22}\\\end{pmatrix}}={\begin{pmatrix}\mathbf {A} _{11}&\mathbf {A} _{12}\\\mathbf {A} _{21}&\mathbf {A} _{22}\\\end{pmatrix}}{\begin{pmatrix}\mathbf {B} _{11}&\mathbf {B} _{12}\\\mathbf {B} _{21}&\mathbf {B} _{22}\\\end{pmatrix}}=\mathbf {A} \mathbf {B} }
+  
+that also underlies Strassen's algorithm. Here, A, B and C are presumed to be n by n (square) matrices, and C11 etc. are n/2 by n/2 submatrices. From this decomposition, one derives
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  
+                    
+                      A
+                    
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    
+                      A
+                    
+                    
+                      12
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      A
+                    
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    
+                      A
+                    
+                    
+                      22
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  
+                    
+                      B
+                    
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    
+                      B
+                    
+                    
+                      12
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      B
+                    
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    
+                      B
+                    
+                    
+                      22
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    
+                      A
+                    
+                    
+                      11
+                    
+                  
+                  
+                    
+                      B
+                    
+                    
+                      11
+                    
+                  
+                  +
+                  
+                    
+                      A
+                    
+                    
+                      12
+                    
+                  
+                  
+                    
+                      B
+                    
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    
+                      A
+                    
+                    
+                      11
+                    
+                  
+                  
+                    
+                      B
+                    
+                    
+                      12
+                    
+                  
+                  +
+                  
+                    
+                      A
+                    
+                    
+                      12
+                    
+                  
+                  
+                    
+                      B
+                    
+                    
+                      22
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      A
+                    
+                    
+                      21
+                    
+                  
+                  
+                    
+                      B
+                    
+                    
+                      11
+                    
+                  
+                  +
+                  
+                    
+                      A
+                    
+                    
+                      22
+                    
+                  
+                  
+                    
+                      B
+                    
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    
+                      A
+                    
+                    
+                      21
+                    
+                  
+                  
+                    
+                      B
+                    
+                    
+                      12
+                    
+                  
+                  +
+                  
+                    
+                      A
+                    
+                    
+                      22
+                    
+                  
+                  
+                    
+                      B
+                    
+                    
+                      22
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle {\begin{pmatrix}\mathbf {A} _{11}&\mathbf {A} _{12}\\\mathbf {A} _{21}&\mathbf {A} _{22}\\\end{pmatrix}}{\begin{pmatrix}\mathbf {B} _{11}&\mathbf {B} _{12}\\\mathbf {B} _{21}&\mathbf {B} _{22}\\\end{pmatrix}}={\begin{pmatrix}\mathbf {A} _{11}\mathbf {B} _{11}+\mathbf {A} _{12}\mathbf {B} _{21}&\mathbf {A} _{11}\mathbf {B} _{12}+\mathbf {A} _{12}\mathbf {B} _{22}\\\mathbf {A} _{21}\mathbf {B} _{11}+\mathbf {A} _{22}\mathbf {B} _{21}&\mathbf {A} _{21}\mathbf {B} _{12}+\mathbf {A} _{22}\mathbf {B} _{22}\\\end{pmatrix}}}
+  
+which consists of eight multiplications of pairs of submatrices, which can all be performed in parallel, followed by an addition step. Applying this recursively, and performing the additions in parallel as well, one obtains an algorithm that runs in Θ(log2 n) time on an ideal machine with an infinite number of processors, and has a maximum possible speedup of Θ(n3/(log2 n)) on any real computer (although the algorithm isn't practical, a more practical variant achieves Θ(n2) speedup).
+It should be noted that some lower time-complexity algorithms on paper may have indirect time complexity costs on real machines.
+
+
+=== Communication-avoiding and distributed algorithms ===
+On modern architectures with hierarchical memory, the cost of loading and storing input matrix elements tends to dominate the cost of arithmetic. On a single machine this is the amount of data transferred between RAM and cache, while on a distributed memory multi-node machine it is the amount transferred between nodes; in either case it is called the communication bandwidth. The naïve algorithm using three nested loops uses Ω(n3) communication bandwidth.
+Cannon's algorithm, also known as the 2D algorithm, partitions each input matrix into a block matrix whose elements are submatrices of size √M/3 by √M/3, where M is the size of fast memory. The naïve algorithm is then used over the block matrices, computing products of submatrices entirely in fast memory. This reduces communication bandwidth to O(n3/√M), which is asymptotically optimal (for algorithms performing Ω(n3) computation).
+In a distributed setting with p processors arranged in a √p by √p 2D mesh, one submatrix of the result can be assigned to each processor, and the product can be computed with each processor transmitting O(n2/√p) words, which is asymptotically optimal assuming that each node stores the minimum O(n2/p) elements. This can be improved by the 3D algorithm, which arranges the processors in a 3D cube mesh, assigning every product of two input submatrices to a single processor. The result submatrices are then generated by performing a reduction over each row. This algorithm transmits O(n2/p2/3) words per processor, which is asymptotically optimal. However, this requires replicating each input matrix element p1/3 times, and so requires a factor of p1/3 more memory than is needed to store the inputs. This algorithm can be combined with Strassen to further reduce runtime. "2.5D" algorithms provide a continuous tradeoff between memory usage and communication bandwidth. On modern distributed computing environments such as MapReduce, specialized multiplication algorithms have been developed.
+
+
+== Other forms of multiplication ==
+The term "matrix multiplication" is most commonly reserved for the definition given in this article. It could be more loosely applied to other definitions.
+Hadamard product (matrices)
+Frobenius inner product
+Kronecker product
+Cracovian product
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Matrix Multiplication
+How to Multiply Matrices
+Matrix Multiplication Calculator Online
+The Simultaneous Triple Product Property and Group-theoretic Results for the Exponent of Matrix Multiplication
+WIMS Online Matrix Multiplier
+Wijesuriya, Viraj B., Daniweb: Sample Code for Matrix Multiplication using MPI Parallel Programming Approach, retrieved 2010-12-29 
+Linear algebra: matrix operations Multiply or add matrices of a type and with coefficients you choose and see how the result was computed.
+Matrix Multiplication in Java – Dr. P. Viry
+"Matrix multiplication as composition". Essence of linear algebra. August 8, 2016 – via YouTube.

@@ -1,0 +1,16 @@
+OOPSLA (Object-Oriented Programming, Systems, Languages & Applications) is an annual ACM research conference. OOPSLA mainly takes place in the United States, while the sister conference of OOPSLA, ECOOP, is typically held in Europe. It is operated by the Special Interest Group for Programming Languages (SIGPLAN) group of the Association for Computing Machinery (ACM).
+OOPSLA is an annual conference covering topics related to object-oriented programming systems, languages and applications. Like other conferences, OOPSLA offers various tracks and many simultaneous sessions, and thus has a different meaning to different people. It is an academic conference, and draws doctoral students who present peer-reviewed papers. It also draws a number of non-academic attendees, many of whom present experience reports and conduct panels, workshops and tutorials.
+OOPSLA has been instrumental in helping object-oriented programming develop into a mainstream programming paradigm. It has also helped incubate a number of related topics, including design patterns, refactoring, aspect-oriented programming, model-driven engineering, agile software development, and domain specific languages.
+The first OOPSLA conference was held in Portland, Oregon in 1986. As of 2010, OOPSLA became a part of the SPLASH conference. The website states that "SPLASH isn't just a new name for our favorite conference—SPLASH has a new charter and mission: To bring together practitioners and researchers who are passionate about software, programming, design, and software engineering to explore the frontiers of software and software practice." SPLASH stands for Systems, Programming, Languages, and Applications: Software for Humanity. OOPSLA will be a premiere research conference for technical papers and presentations within SPLASH. This change was intended to serve as a framework for organizing and streamlining the efforts so that topics that would traditionally be presented at OOPSLA maintain their focus while allowing other conferences (within SPLASH) to highlight new trends and challenges in the world of software.
+
+
+== Locations and organizers ==
+
+
+== References ==
+
+
+== External links ==
+Official SPLASH website
+Official website
+Official OOPSLA history page

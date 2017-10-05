@@ -1,0 +1,17 @@
+In computer science, a jagged array, also known as a ragged array, is an array of arrays of which the member arrays can be of different sizes and  producing rows of jagged edges when visualized as output. In contrast, C-styled arrays are always rectangular.
+Arrays of arrays in languages such as Java, PHP, Python (multidimensional lists), Ruby, C#.Net, Visual Basic.NET, Perl, JavaScript, Objective-C, Swift, and Atlas Autocode are implemented as Iliffe vectors.
+
+
+== Examples ==
+In C#, jagged arrays can be created with the following code:
+
+In C++/CLI, jagged array can be created with the code:
+
+In Python, jagged arrays are not native but one can use list comprehensions to create a multi-dimensional list which supports any dimensional matrix: 
+
+
+== See also ==
+Variable-length array
+
+
+== References ==

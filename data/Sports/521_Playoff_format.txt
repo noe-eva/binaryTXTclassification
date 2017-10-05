@@ -1,0 +1,316 @@
+There are a number of formats used in various levels of competition in sports and games to determine an overall champion. Some of the most common are the single elimination, the best-of- series, the total points series, and the round-robin tournament.
+
+
+== Single elimination ==
+
+A Single elimination ("knockout") playoff pits the participants in one-game matches, with the loser being dropped from the competition. Single elimination tournaments are much more common in individual sports like tennis. In most tennis tournaments, the players are seeded against each other, and the winner of each match continues to the next round, all the way to the final.
+Of the big four American sports leagues, only the National Football League uses this system for all rounds of its postseason. This works for the NFL because its regular seasons are much shorter (16 games) than those in the other sports (from 82 to 162 games), and the difference in quality between teams is believed to be more quickly discernible. The rigors of individual games, held only once per week, also preclude the possibility of longer playoff series. Since the 1990 season six teams are seeded from each conference, with the top two getting a first-round "bye". The remaining teams pair off, with the higher-seeded team hosting. The winners of those games then play the higher-seeded teams that received byes in elimination playoffs, and then the winners of those matches face each in another in elimination playoffs to determine who will represent each conference in the Super Bowl. The winner of that game wins the championship.
+Until the late 1960s, the only regular post-season fixtures in U.S. professional football were the league Championship Games. Divisional playoffs were only held in the event of a tie in the division standings. Divisional playoffs as a regularly scheduled event were not introduced in the NFL and rival American Football League until the seasons immediately preceding the AFL-NFL merger in 1970.
+Like the NFL, the Canadian Football League also uses one game playoffs, and has used them almost exclusively since the 1973 season. In the CFL, six teams qualify for the playoffs, divided into two divisional brackets of three teams each. The second place teams in each division host the Division Semi-Final, while the division winners each receive a bye to the Division Final. The Division Final winners play in the Grey Cup. Unlike the NFL, divisional playoffs have been a regular fixture in professional Canadian football since the 1930s. The main rationale for their introduction was that Canadian football clubs were (and, to a considerable extent, still are) more heavily dependent on a steady stream of gate receipts compared to their NFL counterparts, largely due to their playing in relatively small markets and smaller stadiums compared to NFL teams. A more inclusive playoff structure was therefore seen as necessary to ensure as many games as possible up to the end of the season were "meaningful" so as to encourage fans to attend games.
+The only exception to a strict single-elimination format since the early 1970s was in 1986 when the league amended its playoff format to allow a fourth place team in one division to qualify in place of a third place team with a worse record. That year, when only two East Division teams qualified compared to four Western teams, the rules mandated the two Eastern teams play a two-game total points series over two weekends while the four Western teams played a single elimination playoff over the same time frame. The CFL eventually amended this format into the present "crossover rule" so as to allow a qualifying fourth place team to compete as the third place team in the other divisional bracket, thereby preserving the first place byes. Prior to 1973, the CFL used two game and three game playoffs in its divisional rounds, as discussed below.
+Beginning in 2012, Major League Baseball expanded its playoffs from 8 teams to 10, adding a second wild card in each league. The wild card teams now play a one-game playoff to determine which club advances to the best-of-five division series to meet the team with the best overall record in that particular league.
+In both the men's and women's NCAA college basketball tournaments, 64 teams are seeded into four brackets of 16 teams each. (From 2011, the men's tournament will feature a "First Four", with the four lowest-ranked conference champions and the four lowest-seeded at-large teams playing single games to enter the 64-team draw.) The #1 team plays the #16 team in each bracket, the #2 plays the #15, and so on. Theoretically, if a higher-ranked team always beats a lower-ranked team, the second game will be arranged #1 vs. #8, #2 vs. #7, etc.; the third will be arranged #1 vs. #4, #2 vs. #3; the fourth will be arranged #1 vs. #2. If for instance #9 beats #8 in the first game, the #9 will simply take the theoretical spot of #8 and play #1. Winners advance through each round, changing cities after every two rounds. The Final Four teams, one from each bracket, play each other in the last weekend, with the winner of the final two being awarded the championship.
+National association football competitions usually don't have playoffs, but when employed, use single-elimination formats to determine finalists and winners. The Major League Soccer playoffs use such a format; since 2012, the first round in each conference and the championship final, known as the MLS Cup, are conducted as single games, while the conference semifinals and conference finals are two-legged matches determined on total goals scored. Liga MX in Mexico, which splits its season into two phases, uses playoffs known as the Liguilla to determine the champions of each phase. Unlike the MLS system, all Liguilla matches are two-legged ties. Australia's A-League introduced a six-team knockout playoff, known locally as a "finals series", in the 2012–13 season. Unlike the MLS playoffs or Liga MX Liguilla, the A-League finals series uses one-off matches throughout, culminating in the A-League Grand Final. This format is a departure from norms in football codes in Australia; previously, the A-League used a hybrid elimination system that allowed top teams in the regular season to lose one finals match but still win the tournament. The FIFA World Cup tournament also uses knockout rounds after a group stage of 32 teams divided into 8 groups of 4 determines who advances to them.
+Some knockout tournaments may also include a third place playoff, a single match to decide which competitor or team will be credited with finishing third and fourth place. The teams that compete in such third place games are usually the two losing semifinalists in a particular tournament. Although these semifinalists are still in effect "eliminated" from contending for the championship, they either may be competing for a bronze medal like some tournaments in the Olympic Games or basically just to salvage some pride in a consolation match, like in the FIFA World Cup or Rugby World Cup.
+When a playoff of this type involves the top four teams, it is sometimes known as the Shaughnessy playoff system, after Frank Shaughnessy, who first developed it for the International League of minor league baseball. Variations of the Shaughnessy system also exist, such as in the promotion playoffs held by France's Rugby Pro D2 (union) and League 1 of British rugby league. In the two aforementioned cases, the playoff involves four teams, but not the top four. The Pro D2 playoffs involve the second- through fifth-place teams at the end of the league season, as the champion earns immediate promotion to the Top 14. In League 1, the top two teams at the end of the league season contest a one-off match for promotion to the second-tier Championship; the loser of that match joins the third- through fifth-place teams from the league season in a playoff for the second promotion place.
+
+
+=== Example ===
+As it was used in the 2007 AFC Asian Cup knockout stage:
+
+
+== Stepladder ==
+The "stepladder", named so as the bracket resembles a step ladder is a variation of the single-elimination tournament; instead of, in a 16-team tournament, the #1 seed facing the #16 seed in the first round, the bracket is constructed as to give the higher seeded teams byes, where the #1 seed has bye up to the third round, playing the winner of game between the #8 seed the #9 vs. #16 winner. This setup is seldom used best-of-x series as this may yield long waiting times for the teams afforded the bye, while the teams that played in the earlier rounds would be spent when they reach the latter rounds.
+The Big East Men's Basketball Tournament used this format in a 16-team, 5-round format. The PBA Tour uses the 4-player, 3-round format (sometimes a 5-player, 4 round format). The University Athletic Association of the Philippines Basketball Championship uses this format (4-teams, 3-rounds) only if there's an undefeated team, otherwise it uses a single-elimination format.
+While Nippon Professional Baseball's Climax Series has been called a "stepladder" playoff with only three participating teams (2 rounds), it functions mostly as a single-elimination tournament with 3 teams, and is structurally the same with a 6-team, 3-round playoff. The KBO League's Korean Series, on the other hand, is considered a stepladder system - the teams that finish third and fourth place play a best-of-3 series (with the third place team automatically a 1-0 series lead), whose winner then plays the second-place team in a best-of-5, whose winner in turn plays the first-place team in a best-of-7 for the title.
+WNBA has their playoffs done this way: the 5-8 and 6-7 seeds play in the first round. The top two seeds get double byes and the next two seeds 1st-round byes. The first two rounds are single-elimination; all others are best-of-5.
+
+
+=== Example ===
+As it was used in the 2012 Big East Men's Basketball Tournament:
+
+
+== Double elimination ==
+
+A double elimination format is used in most NCAA and high school baseball and softball tournaments in the United States. Starting in 2010, the Little League World Series in baseball also adopted this format. Teams are eliminated from contention after incurring two losses in each round of play.
+The format changes depending on the number of teams per bracket, but most major collegiate baseball conferences with the format send only the top eight teams, or a mix of top teams plus the winners of a single elimination qualifier tournament, to their conference tournament.
+The NCAA baseball and softball tournaments have used the format since its inception for regional and College World Series play.
+In the current NCAA tournament format for four teams, the #1 seed plays the #4 seed ("Game 1"), and the #2 seed plays the #3 seed ("Game 2") on the first day of regional tournaments, and the first and second days of the College World Series (where the second bracket games are known as "Game 3" and "Game 4", respectively).
+On the second day or series (third and fourth days at the College World Series), the losers play in the morning to determine who is eliminated ("Game 3" in regional, "Games 5" and "Game 7" in College World Series play), and who advances to the third game of the day. The winners ("Game 4" in regional, "Game 6" and "Game 8" in College World Series) play to determine who advances to the final on the third day.
+In NCAA regional games, the loser of this game plays the winner of the morning game that evening ("Game 5") to determine who plays in the final.
+In College World Series play, because the bracket teams play on alternating days, these games ("Game 9" and "Game 10") are played on the fifth day.
+In NCAA regional games, the third day will feature the regional championship ("Game 6"). If the winner of Game 4 defeats the winner of Game 5, the winner advances to the Super Regional. Until the 2005 tournament, if the winner of Game 5 defeats the winner of Game 4, the two teams would meet again in Game 7 thirty minutes later to determine which team advances to the Super Regional.
+However, with a concern that some teams were playing four games in two days, the NCAA made a rule change in 2005 to equalize the disadvantage of the winner of Game 5 by stating should the winner of Game 5 win Game 6, Game 7 would be played on a fourth day.
+In the College World Series, on the sixth day, the winner of Game 9 plays the winner of Game 7 ("Game 11"), and the winner of Game 10 plays the winner of Game 8 ("Game 12"). If the winner in Game 7 wins Game 11, and/or the winner of Game 8 wins Game 12, such winners advance to the best-of-three final. If the winner of Game 9 defeats the winner of Game 7, and/or the winner of Game 10 defeats the winner of Game 8 the two teams would play again on the seventh day in Games 13 and 14, respectively, if they are needed, to determine who advances to the final.
+Starting with the 2010 edition, the Little League World Series adopted a new format that involves four double-elimination brackets. In 2010, the U.S. and International divisions were split into two four-team pools, with each pool conducting a double-elimination tournament to determine its winner. After the end of double-elimination play, the U.S. pool winners play one another in single games, as do the International pool winners, with the losers playing a third-place game and the winners playing a championship game. This was altered in 2011 so that all eight US team and all eight international teams played in one large bracket each, with each bracket's winner playing each other for the championship and each bracket's runner-up playing each other for third-place. In another new feature, all teams are guaranteed at least three games; the first team eliminated from each pool plays a "crossover game" that matches an eliminated U.S. team with an eliminated International team.
+
+
+=== Example ===
+As it was used in the Mideast regional of the 1975 NCAA Division I Baseball Tournament:
+For an example of the Little League variation, see 2010 Little League World Series.
+
+
+== Hybrid elimination systems ==
+
+Some playoff systems combine the features of single- and double-elimination tournaments. In these systems, one or more higher-ranked teams have an opportunity to skip a round of the playoffs by winning their first match. Even if they lose that match, they can still advance to the championship final. Lower-ranked teams receive no such break.
+These are variations of systems developed by Australian lawyer Ken McIntyre for the Victorian Football League (VFL), the historic predecessor to today's Australian Football League (AFL), starting in 1931.
+
+
+=== Page–McIntyre system ===
+
+This system, also bearing the name of its promoter Percy Page, is a four-team playoff first developed for Australian rules football. It has been used in many competitions in that sport and in rugby league, but is most prominent in softball and curling (which use the name "Page playoff system"). The Indian Premier League in Twenty20 cricket uses this system as well.
+In this system, the first round (sometimes called the "quarterfinals") matches #1 against #2 and #3 against #4. The winner of the 1–2 match advances directly to the final. The next round, known as the semifinal, pits the loser of the 1–2 match against the winner of the 3–4 match.
+
+
+==== Example ====
+As used in the 2006 Tim Hortons Brier, Canada's national men's curling championship:
+
+
+=== Top five system ===
+
+McIntyre's first modification was an expansion to five teams. In this format, the first round matches #2 v #3 and #4 v #5, with the #1 seed receiving a bye into the second round. The 4–5 match is played to eliminate one team, while the 2–3 match is played to determine which match they will play in the second round.
+In the second round, the loser of the 2–3 match plays the winner of the 4–5 match, while the winner of the 2–3 match plays the #1 seed. From this point forward, the tournament is identical to the Page playoff system.
+While no major league uses this system today, it has been used in the past by the VFL and several rugby league competitions, most notably the short-lived Super League of Australia and the present-day European Super League. Many lower-level leagues in both Australian rules and rugby league still use the system.
+
+
+==== Example ====
+As used in the 2006 Bartercard Cup, the championship of New Zealand rugby league:
+
+
+=== Top six system ===
+
+McIntyre next developed two slightly different systems for six-team playoffs. In each system, the #1 and #2 seeds played to determine the specific semifinal match in which they would compete, while the other four teams played knockout matches in the first week to eliminate two teams and determine the other two semifinal participants. The semifinal in which the winner of the 1–2 match competes directly determines one place in the championship final (often called a "Grand Final", especially in Australia). The other semifinal is an elimination match, with the winner advancing into a "Preliminary Final" to determine the other Grand Final place.
+This system was further tweaked into the top-six system used by the Championship and League 1 of European rugby league until being abandoned from the 2015 season forward. A slightly modified version of this system was used in the A-League of Australian soccer starting in 2010 before a pure knockout format was adopted beginning in 2013.
+In the modern top-six system, the first round consists of knockout matches involving #3 vs #6 and #4 vs #5, with the #1 and #2 teams receiving a bye into the next round. After those matches, the format is identical to the Page playoff system.
+The A-League's former system had the top two teams participating in a two-legged match instead of the single-elimination matches that the other four teams faced. It did not affect the teams' eventual playoff paths.
+
+
+==== Example ====
+As used in the 2010–11 A-League:
+
+
+=== Top eight system ===
+
+McIntyre's final development expanded the concept to an eight-team playoff. This expansion meant that no team received a "second chance" after the first week of the playoffs.
+
+
+==== McIntyre Final Eight ====
+The original McIntyre Final Eight system is notable in that it uses the regular-season league table to eliminate two teams in the first week of the playoffs. The procedure is:
+Week 1
+1st Qualifying Final: 4th seed vs 5th seed
+2nd Qualifying Final: 3rd seed vs 6th seed
+3rd Qualifying Final: 2nd seed vs 7th seed
+4th Qualifying Final: 1st seed vs 8th seed
+The fates of the teams in this round depend on whether they won or lost their Qualifying Final, and on their regular-season position. The four winners and the two losers that finished highest on the regular-season table advance to later rounds, with the two other losers eliminated.
+Week 2
+1st Semi-final: 4th highest-ranked winner vs 2nd highest-ranked loser
+2nd Semi-final: 3rd highest-ranked winner vs 1st highest-ranked loser
+The two losing teams are eliminated, and the two winning teams progress to Week 3.
+Week 3
+1st Preliminary Final: Highest-seeded Qualifying Final winner vs winner of 1st Semi-final
+2nd Preliminary Final: Second-highest-seeded Qualifying Final winner vs winner of 2nd Semi-final
+The two losing teams are eliminated, and the two winning teams progress to the Grand Final.
+Week 4
+Grand Final: winner of 1st Preliminary Final vs winner of 2nd Preliminary Final
+Due to perceived weaknesses of this system, the AFL adopted a modified top-eight playoff in 2000. The National Rugby League (NRL), Australia's top rugby league competition (also with a team in New Zealand), used this system from 1999 through 2011, after which it changed to the AFL system.
+
+
+==== AFL system ====
+The current AFL finals system breaks up the eight participants into four groups of two teams, ranked by their league position after regular-season play. Each group receives an advantage over the teams directly below it on the league table. These advantages are the so-called "double-chance", where a loss in the first week will not eliminate a team from the finals, and home ground finals. Note, however, that "home" designations are often irrelevant if a finals match involves two teams from the same state. The finals format operates as follows:
+Week 1
+1st Qualifying Final: 1st seed hosts 4th seed
+2nd Qualifying Final: 2nd seed hosts 3rd seed
+1st Elimination Final: 5th seed hosts 8th seed
+2nd Elimination Final: 6th seed hosts 7th seed
+The top four teams play the two Qualifying Finals. The winners get a bye through to Week 3 of the tournament to play home Preliminary Finals, while the losers play home Semi-Finals in Week 2. The bottom four teams play the two Elimination Finals, where the winners advance to Week 2 away games and the losers' seasons are over.
+Week 2
+1st Semi-final: Loser of 1st QF hosts winner of 1st EF
+2nd Semi-final: Loser of 2nd QF hosts winner of 2nd EF
+Week 3
+1st Preliminary Final: Winner of 1st QF hosts winner of 2nd SF
+2nd Preliminary Final: Winner of 2nd QF hosts winner of 1st SF
+Week 4
+AFL Grand Final: Winners of the two Preliminary Finals meet at the MCG.
+The specific advantages gained by finishing in higher positions on the league table are as follows:
+First and second — These teams receive the double-chance, and play their first two finals matches at home—their Qualifying Final, and then either a Semi-final (should they lose the QF) or Preliminary Final (should they win the QF). They must win two finals matches to reach the Grand Final.
+Third and fourth — Like the top two teams, they receive the double-chance, and must win two finals matches to reach the Grand Final. However, they only get to play one finals match at home—a Semi-final if they lose their QF, or Preliminary Final if they win the QF.
+Fifth and sixth — These teams do not receive a double-chance. They must win three matches to reach the Grand Final—an Elimination Final, Semi-final, and Preliminary Final. They do get to host their EF.
+Seventh and eighth — These teams receive neither a double-chance nor a home finals match, and must also win three finals matches to reach the Grand Final.
+The National Rugby League and Victorian Football League operate the same finals system.
+
+
+==== Super League system ====
+From 2009 through to 2014, the Super League used a top-eight playoff system. The expansion to an eight-team bracket coincided with the league's expansion from 12 to 14 teams. Like the AFL system, the Super League system eliminated two teams in each week leading up to the Grand Final. However, it had a number of differences from the AFL system, most notably the feature known as "Club Call" (explained below).
+As in the AFL, the participants were ranked by league position in the regular season. Unlike in the AFL, the team receiving home advantage in each match leading up to the Grand Final was guaranteed the right to host the match at a ground of its choosing, either its regular home stadium or (rarely) a larger nearby alternative.
+Week 1
+Qualifying Play-Offs:
+1st vs 4th
+2nd vs 3rd
+
+The winners of these matches advanced directly to Week 3, in which they received home advantage. The higher-seeded winner received Club Call immediately after Week 2. The losers had another chance in Week 2, when they were at home to the winners of the Week 1 Elimination Play-Offs.
+Elimination Play-Offs
+5th v 8th
+6th v 7th
+
+The winners of these matches advanced to Week 2, with the losers being eliminated.
+Week 2
+Preliminary Semi-Final 1: Highest-seeded QPO loser (1, 2, or 3) vs lowest-seeded EPO winner (6, 7, or 8)
+Preliminary Semi-Final 2: Lowest-seeded QPO loser (2, 3, or 4) vs highest-seeded EPO winner (5, 6, or 7)
+The winners of these matches advanced to Week 3 and Club Call, with the losers being eliminated.
+Club Call
+Club Call, a unique feature of the Super League system, took place on the second weekend of the playoffs, shortly after the winners of the two PSFs were known. The highest-seeded winning club from Week 1 was required to choose which of the two PSF winners they would play in Week 3.
+Week 3
+Qualifying Semi-Final 1: Highest-seeded QPO Winner v Club Call selected PSF winner
+Qualifying Semi-Final 2: Second-seeded QPO Winner v Club Call non-selected PSF winner
+The winners advanced to the Grand Final the following week.
+Week 4
+Super League Grand Final at Old Trafford, Manchester
+Super League XX in 2015 introduced a radical change to the league system, under which the 24 clubs in Super League and the second-tier Championship are split into three groups of eight after each club has played 22 matches. The top eight clubs in Super League at that point will enter a new play-off structure, beginning with a single round-robin mini-league followed by a Shaughnessy play-off involving the top four teams.
+
+
+== Best-of formats ==
+The "best-of" formats refers to a head-to-head competition where the two competitors compete to first win the majority of the games allotted to win the "series". If a competitor wins a majority of the games, the remaining games may be discarded. This is a modification of the single-elimination tournament to allow more matches to be held. Moreover, if it can be said that if one competitor has a higher probability of winning a single game (and game results are i.i.d.), the likelihood that this competitor wins the series increases when more games are played. For example, if team A has a seventy percent chance of defeating team B in a single game, its probability of winning a best-of-three series against B is 78.4 percent, and its probability of winning a best-of-seven series is about 87.4 percent.
+
+
+=== Best-of-three playoff ===
+
+A best-of-three playoff is a head-to-head competition between two teams in which one team must win two games to win the series. Two is chosen as it would constitute a majority of the games played; if one team wins both of the first two games, the third game is not played.
+Often, when a best-of-series tied with each team having won an even number of games, the bracket is said to be a "best-of-(number of games left)." This is because for all practical purposes the teams are starting over. If a best-of-7 series is deadlocked at 2-2, the bracket is then referred to as a "best-of-3", since the reality is that the first team to win 2 games advances.
+In tennis, matches are usually decided with a best-of-3-sets format. Some major tournaments are played in a best-of-5-sets format, most notably the Grand Slam men's singles and doubles. Also, the 35 and over Gentlemen's Invitation Doubles and the 35 and over Ladies' Invitation Doubles of the Wimbledon are both round-robin tournaments.
+
+
+==== In North American competitions ====
+The first use of the best-of-three playoff was in Major League Baseball; the National League authorised such a playoff to be held if two teams ended the season in a tie for first place; the American League used a single game in this situation. Since 1969 both leagues have used only a one-game playoff for all playoff positions which are tied if only one team can advance to the playoffs. Since 1995, a tie-breaker based on season performance can be used only to seed teams.
+Both the NBA and NHL once used best-of-three playoffs (often referred to as "mini-series"), but today neither league does: Pro basketball first adopted the best-of-three playoff for first-round play starting with its inception as the Basketball Association of America in 1946 (changing its name to the NBA three years later) and retaining it through the 1959–60 season; the league resumed its use of the best-of-three first-round series in 1974–75, but abolished it again in 1983–84 when the number of teams qualifying for its postseason tournament was increased to 16 (ten teams had qualified during the first two years of the aforementioned period, this number being expanded to twelve in 1976–77; in both instances some of the highest-ranking teams did not participate in the best-of-three round, drawing byes and automatically advancing to the second round, which was best-of-seven, as were all subsequent rounds).
+In ice hockey, the best-of-three format was one of two possible types of series that could be held to determine the winner of the Stanley Cup (the other being a two-legged playoff series), and it was used in lower rounds in the National Hockey League up until the Original Six era. The best-of-three series in the modern era was first used in the first-round of the Stanley Cup playoffs beginning with the 1974–75 season; at that time, the number of NHL playoff teams had been increased to twelve from the previous eight. The format which then took effect called for the first three finishers in each of the league's four divisions to enter the postseason, but the first-place teams drew byes and did not play any best-of-three series; the postseason then proceeded as the NBA's did, with the second and all later rounds being best-of-seven. This remained the case until the 1979–80 season, when the NHL expanded its playoff field to 16 after absorbing four teams from the defunct World Hockey Association in a semi-merger, whereupon the byes were abolished and all 16 qualifying teams participated in the first round, which was lengthened to best-of-five. In both the NBA and NHL, the team with the higher finish during the regular season played the first and (if necessary) the third games of the series at home, with the lower-ranked team hosting the second game.
+The World Cup of Hockey, organized by the NHL, used a best-of-three format in the final round in 1996 and 2016, as did the Canada Cup.
+Until 2009, the WNBA forced the team with the higher record to travel to the lower seed's home court for game 1, then played the final game(s) at home. Because of this perceived inequity, in 2010, the league switched to a more traditional 1-1-1 format, where the higher seed would play the first and (if needed) third games at home. Also, in 2005, the league switched the WNBA Finals to a best-of-five playoff format. By 2016 the league semifinals matched this format.
+NCAA Division I baseball uses the best-of-three format in the second round and the final round of its 64-team championship tournament. Starting in 1999, when the tournament expanded from 48 teams (eight regionals of six teams each) to 64 teams (sixteen regionals of four teams each), the NCAA introduced the "super regional", in which the 16 regional winners play in 8 best-of-three series, with the 8 series winners advancing to the College World Series. If a regional winner is also a national seed (top eight seeds of the 64 first-round teams), it is guaranteed to host the super regional; if no national seed makes a particular super regional, the NCAA puts hosting rights up for bidding between the competing schools. In 2003, the College World Series changed from a one-game final to a best-of-three series.
+From approximately the founding of the Western Interprovincial Football Union in 1936 until the early 1970s, multi-game playoffs series were a regular fixture of professional Canadian football playoffs. Over the years, both the WIFU (later the Western Football Conference) and the Interprovincial Rugby Football Union (later the Eastern Football Conference) used a combination of best-of-three series, three game total points series and two game total points series to determine both conference final participants and conference champions. The Grey Cup itself has always consisted of a single game.
+The last best-of-three playoff series in what by then had evolved into a Canadian Football League consisting of two autonomous conferences was the 1971 Western Conference Final. Since 1972, the West has used one game playoffs. The Eastern Conference (which by that time had abolished the best-of-three format in favour of two game total points series) adopted one game playoffs for the 1973 season.
+The National Football League has always used one-game playoffs.
+
+
+==== Competitions held outside North America ====
+The Euroleague, the primary Europe-wide club competition in basketball, introduced a quarterfinal round for the 2004–05 season which originally employed a best-of-three format; starting with the 2008–09 season, the quarterfinal round became best-of-five. This is the only point in the Euroleague where a playoff series is used; all earlier rounds are conducted in a league format, and the quarterfinal winners advance to the Final Four, where all games are one-off knockout matches.
+In the FIBA Oceania Championship, the best-of-three series is used if only both Australia and New Zealand play in the tournament. If a team wins the first two games, the last game may still be played. If other teams participate, a regular round-robin or multi-stage tournament is used. In 2009, a two-legged tie was used, but it was reverted to a best-of-3 series in 2011.
+The best-of-3 playoff system was also used in the Brazilian Football League for the 1998 and 1999 seasons quarterfinals, semifinals and finals. The Brazilian model was unique in that extra time was not used (meaning matches could end in a draw) therefore, this system had a few modifications. If no team could win two games, the team with most victories would qualify. If the two teams had one victory, the team with the best goal difference would qualify. If the goal difference was the same, the team with the best regular season campaign would qualify. An interesting fact is that during the 1998 season, all the rounds were decided in three games.
+
+
+===== Twice to beat advantage =====
+In a modification of the best-of-3 format, the leagues in the Philippines awards a twice to beat advantage to the top seeds; in this case, the team with the twice to beat advantage needs to be beaten twice by its opponent, while it only has to win once, in a de facto 1–0 lead in a best-of-3 series. First applied in the semifinals of the scholastic UAAP Basketball Championship, it has been adopted by the other scholastic competitions. The professional Philippine Basketball Association has adopted the format in the early rounds of its playoffs.
+An amendment to the rules in 2008 gave the undefeated team of the season in the UAAP (the team that won all elimination round games) a bye up to the finals possessing an automatic 1–0 lead in a best-of-5 series, or the thrice to beat advantage. This has since been adopted by the NCAA in 2009 and abolished in 2016, when the undefeated team has a final berth, but played in a common best-of-three format
+
+
+=== Best-of-five playoff ===
+A best-of-five playoff is a competition between two teams head-to-head which must win three games to win the series. Three is chosen as it would constitute a majority of games played; whoever has won three games before all five games have been played, all other games are omitted.
+At present, only one American men's professional sports body - Major League Baseball - makes use of the best-of-five playoff, doing so in its second round, known as the Division Series. At one time, however, the League Championship Series was best-of-five, from its birth with both leagues' realignment into two divisions in 1969, and continuing until this round was lengthened to best-of-seven in 1985. (This change would have immediate ramifications: In the American League, in each of the first two years where the LCS used the best-of-seven format, the Kansas City Royals in 1985 and the Boston Red Sox in 1986 fell behind 3-1 - which previously would have eliminated them - before coming back to win the series.) When the wild card was first used in 1995 (it was created for the 1994 season, but that year's entire postseason was canceled due to a players' strike), the best-of-five format was authorized for the new Division Series, in which eight teams participated.
+During the time that the League Championship Series was best-of-five, a "2-3" format was used, with one team hosting the first two games, the other the last three (these respective roles alternating between the Eastern and Western Division champions regardless of which one finished with the better regular-season record). This procedure was repeated at first when the best-of-five Division Series was added in 1995 (except that two of each league's now three division winners hosted three games and the wild card could never do so), but starting in 1998 the home-field advantage was awarded to the two division winners in each league that had the best records; also in 1998, the "2-2-1" format was instituted, the team with the home-field advantage being given the first, second and fifth games at home instead of the third, fourth and fifth. For the 2012 postseason, the Division Series reverted to "2-3". With the addition of a second Wild Card team and subsequent play-in game, a decision not made until well after the season schedule had been created, this was done to minimize the disruption of the schedule by giving the Division Series one off day instead of two. With the Wild Card playoff now established and schedules adjusted accordingly, the "2-2-1" format was restored since 2013.
+The National Basketball Association and National Hockey League both formerly used best-of-five series, the NBA in its second round prior to the 1957–58 season, and in the first round from 1960–61 through 1966–67, and again from 1983–84 until lengthening it to best-of-seven starting in 2002–03, and the NHL for its first-round series beginning with the 1979–80 season and lasting until that league increased its first round to best-of-seven in 1986–87. Unlike in baseball, in both NBA and NHL best-of-five series the higher regular-season finisher always hosted the first, second, and (if necessary) fifth games.
+As of 2005, the Women's National Basketball Association now uses a best-of-five format for its championship series. The league semifinals matched this format starting in 2016.
+Historically, most European domestic basketball leagues have used a best-of-five format in their championship series. The main long-standing exceptions are the Israeli and French leagues, which have historically used one-off finals; the Adriatic League (former Yugoslavia), which has changed from a one-off final to a best-of-three final back to a one-off final in recent years; and the Lithuanian, Polish and Turkish leagues, which use a best-of-seven format. Italy has gone to a best-of-seven final effective with its 2008–09 season. The Euroleague quarterfinal round expanded to best-of-five from best-of-three starting in the 2008-09 season. France changed its final from a one-off match to a best-of-5 series in 2012–13.
+
+
+=== Best-of-seven playoff ===
+A best-of-seven playoff is a competition between two teams head-to-head which must win four games to win the series. Four is chosen as it would constitute a majority of games played; whoever has won four games before all seven games have been played, all other games are omitted.
+It is not necessary for the four games to be consecutively won. Draws are not permitted, even in sports where they usually would be - play continues until there is a clear winner (except in Japanese professional baseball, where a standard (12-inning) draw is permitted at the stepladder league playoff (higher seed wins if series tied after the five or seven game series ends), and a 15-inning draw is permitted in the Japan Series in all but the eighth game, played only if the series is tied, 3-3-1, after seven games). This ensures that a series will never require more than seven games to conclude. Before the advent of lighting in ballparks ballgames often ended tied because it was too dark to play, a much less common way of ending a ballgame is going past the curfews. Tied games can result in series lasting eight games, which has happened, as in the 1912 World Series and the 1986 Japan Series. This format is currently used in the National Basketball Association and the National Hockey League for all their playoff series. Major League Baseball uses this format only for the League Championship Series since 1985 and the World Series from 1905 to 1918 and since 1922, using the "2-3-2" format, with two games at the home stadium of one team, the next three games (the fifth, if necessary) at the home stadium of the other team, and the final two games (if necessary) at the home stadium of the first. (The first round Wild Card Game is a single game; the second round Division Series use a five-game series format.)
+The National Hockey League uses this format for its league championship Stanley Cup playoffs, but uses the "2-2-1-1-1" format, alternating the first two games at the home-ice team's home rink, the next two at the second team, and then alternating venues for the fifth, sixth and seventh games (if necessary).
+The National Basketball Association has this format, too, with "2-2-1-1-1" for all playoff rounds, and also the Finals; originally the championship round was "2-2-1-1-1" as well (except 1971, 1975, 1978-1979), but was changed to "2-3-2" from 1985-2013 to cut down on travel expenses, as the league's "East-West" divisional alignment means the two teams are usually separated by great distances - indeed, the cities represented in the Finals' most frequent matchup, Los Angeles and Boston, are almost 3,000 miles apart.
+The "2-3-2" format, the "2-2-1-1-1" format, and the "1-1-1-1-1-1-1" format are situated such that if a team "sweeps" the series (wins 4-0), it will win two games at home, and two games away. They are also set up such that the team with home advantage for the series plays at home for the first game and the seventh game if necessary. As previously stated, the "2-3-2" format reduces travel between the two venues, but it then gives the team "without" home advantage three consecutive home games. The "1-1-1-1-1-1-1" format is mainly used in the postseason tournaments of the Liiga in Finland and the Swedish Hockey League.
+The AHL and the ECHL do not use a set playoff format for their league championship playoff tournaments due to scheduling conflicts. For example, in the 2016 Calder Cup playoffs, due to scheduling conflicts in both arenas, the Pacific Division finals between the Ontario Reign and the San Diego Gulls used the "1-1-1-1-1-1-1" playoff format, with Ontario hosting the first, third, fifth, and seventh game.
+As noted earlier, the Chinese, Italian, Lithuanian, Polish and Turkish basketball leagues use a best-of-seven format in their championship series. The Turkish playoff has one unique feature. If one team in the championship series (or, for that matter, in any playoff series) defeated its final opponent in both of their regular-season games, the winning team is granted a 1-0 lead in the series, and the series starts with Game 2. The Philippine Basketball Association (PBA), aside from using the best-of-7 series in its finals series, has also used it on most its semifinals since 2005.
+On February 3, 2016, the San Miguel Beermen of the Philippine Basketball Association became the first ever professional basketball team in the world to win a best-of-seven series after being down by 0-3 against the Alaska Aces in the 2015–16 Philippine Cup. Down by 0-3, the Beermen appeared doomed from outset of the series without its reigning back-to-back MVP and that conference's Best Player June Mar Fajardo, who was sidelined up until Game 4 with a knee injury. This historic comeback happened at the Mall of Asia Arena wherein the fans who never stopped believing in the Beermen’s capability despite being in the edge of losing the championship, named it as Beeracle.
+Occasionally, WWE uses this format in some of their matches, like the feud between Chris Benoit and Booker T in 2005, for the WWE United States Championship, or Cesaro's rivalry against Sheamus, with their first match at August pay-per-view Summerslam 2016.
+
+
+=== Best-of-nine playoff ===
+A best-of-nine playoff pits two teams head-to-head which must win five games to win the series. Five is chosen as it would constitute a majority of the games played. Whoever has won five games before all nine games have been played, all other games are omitted.
+In Major League Baseball, the World Series was conducted as a best-of-nine playoff in its first year of existence in 1903, then again for three years beginning in 1919, the year of the "Black Sox scandal."
+The Western Hockey League used the best-of-nine playoff series for the Western Division playoffs from the 1983-84 season through the 1990-91 season because of the unequal division alignment of the league at this time. The Eastern division had eight teams: six of which qualified for the playoffs. The Western division only had six teams: four of which made the playoffs. Because of this, Eastern division had 3 rounds of playoffs (two teams receive a first round bye), while the Western division only had two rounds of playoffs. The east played a best-of-five, best-of-seven, best-of-seven format for the three rounds while both rounds in the Western division playoffs were best-of-nine. This was used so that both divisions would finish their playoffs at approximately the same time. The WHL Championship Series was a best-of-seven. These best-of-nine series went the full nine games on two occasions, with Portland defeating New Westminster in 1984 and Spokane in 1986.
+The Quebec Major Junior Hockey League used the best-of-nine playoff series for the 1986 playoffs.
+The 1972 Summit Series between Canada and the Soviet Union used a best-of-nine format as did the subsequent 1974 Summit Series.
+
+
+=== Higher number of games ===
+In snooker, a player must win a certain number of frames to win a match, often nine (best-of-17) or more. Again, if one player wins nine frames before all 17 are played, the rest are omitted. The world championship final is currently decided in a best-of-35 match.
+In 9-ball, a player must win a certain number of racks to win a match. In the WPA World Nine-ball Championship, nine racks are needed to win in the early stages, ten to eleven in the latter stages, and 17 in the final. As with snooker, if one player wins nine frames before all 17 are played, the rest are omitted.
+
+
+== Total points series (aggregate) ==
+
+Various playoff formats, including two-legged ties and total points series pair off participants in a number of games (often two), with the winner being determined by aggregate score: the winner being the one who scores the most points/goals etc. over the series of games. Two-legged ties are common in association football, and were used in NHL playoff series until 1937.
+In 2004, NASCAR adopted a total points playoff of a different stripe, creating a "Chase for the Cup" that allowed a golf-style cut of the high ten or 400 points of the leader, whichever is greater, to compete for the championship in the last ten races. The Chase format has changed several times since its creation:
+In the 2007 season, the Chase was expanded to include the top 12 drivers after 26 races. The points of the drivers in the cut are elevated far beyond those of the pack. From 2007 to 2010, each Chase driver received 5,000 points, with a 10-point bonus for each race won prior to the Chase.
+Starting in 2011, the points system and Chase qualification criteria were significantly changed. Through the 2013 season, the top 10 drivers after 26 races automatically qualified for the Chase, joined by the two drivers with the most race wins among those ranked between 11th and 20th in points after 26 races. Reflecting a major change to the points system, in which the race winner can now earn a maximum of 48 points as opposed to 195 in the former system, driver points were reset to a base of 2,000. After the reset, automatic qualifiers received 3 bonus points for each race win, while the wild card qualifiers did not receive a bonus for wins. In the 2013 season, a 13th driver (Jeff Gordon) was added to the Chase following a major scandal in the final pre-Chase race in which two teams were found to have extensively manipulated the race results in the final laps.
+The 2014 season introduced a radically different format, although the basic points system remains identical to that in the 2011–2013 period. Under the current system, the Monster Energy field, now officially called the "Monster Energy Grid", consists of 16 drivers. These drivers are chosen primarily on the basis of race wins during the first 26 races, provided that said drivers are in the top 30 in series points and have attempted to qualify for each race (barring injuries). The points leader is assured of a place on the Grid, but only if he does not have a race win. Any remaining spots on the Grid are filled in order of driver points. The format from this point is radically different—the Chase is now divided into four rounds, with three races in each of the first three rounds and a one-race finale.
+As in the 2011–2013 format, initial driver points are reset to 2,000 with a 3-point bonus for each win. All 16 Grid drivers compete to remain in the Chase for the first three Chase races, known as the "Challenger Round". After these races, the four lowest-placed drivers on the Grid are eliminated; they retain their points from the previous races and accumulate points in the remaining races based on the regular-season scoring system (this also applies to drivers eliminated at later stages). The winner of each of the first three races automatically advances to the next round of the Chase.
+The next round, the "Contender Round", starts with 12 drivers, each with 3,000 points but with no win bonus. As in the Challenger Round, the winner of each race in this round advances to the next round. As in the previous round, the four drivers with the lowest points total after this round are eliminated.
+The third round, the "Eliminator Round", starts with eight drivers, each with 4,000 points, again with no win bonus. As in the previous rounds, the winner of each race in this round advances to the next round. Again, the four drivers with the lowest points total after this round are eliminated.
+The last race of the season starts with four drivers still in contention for the championship; each starts the race with 5,000 points. The highest finisher of the four becomes Monster Energy Cup champion.
+
+Regardless of the exact format, the driver in the Chase group with the most points after the final ten races wins the Monster Energy Cup.
+In November 2005, the PGA Tour announced that a similar total points playoff would be used to lead up to the PGA Championship, starting in 2007. The player with the most points at the end of the year would take home the FedEx Cup.
+Prior to the 1986 Playoffs, the Canadian Hockey League (especially the Ontario Hockey League) used the point series, to determine, which team would advance. In those situation, where the higher seeded host in odd number of game (game #1, 3, 5, 7), while the other team host the even number (game #2, 4, 6, 8). There would be no overtime, except for the deciding game, because a tie in the last game, of the series would not declare a series winner, so should that happens, there would be a sudden-death overtime, with the winner getting 2 points, and the losing team get nothing.
+The game shows Jeopardy!, Wheel of Fortune, and The Challengers have used two-game series in the final rounds of most of the tournaments that they held during their history. Each game is played separately (i.e., money from day one cannot be wagered on day two), and the money is added together to determine the winner. The only exception to this was in the Jeopardy! Ultimate Tournament of Champions, when the two semifinal matches were both two-game series, and the final was a three-game series. If any ties remain, sudden death was played to determine the champion.
+
+
+=== Example ===
+As it was used in the 2006–07 UEFA Champions League knockout stage:
+
+Bayern Munich 4–4 Real Madrid on aggregate. Bayern Munich won on away goals (BM 2–1 RM).
+
+
+== Round robin ==
+
+In a round-robin tournament, all playoff contenders play each other an equal number of times, usually once or twice (often called a "double round-robin"). This is a common format for football. In the FIFA World Cup, teams are organized into eight pools of four teams, playing each other once and ranked by points earned through wins (3 points) and draws (1 point). The top two teams advance out of each pool to the knockout phase where the top team from each pool face a second-placed team from a different pool.
+Continental club football tournaments have included round robin formats, such as the Copa Libertadores from the 1966 season, UEFA Champions League from the 1992/93 season, UEFA Cup from 2004/05, and the Asian and African Champions Leagues. Teams are seeded such that strongest teams should not meet until the end. In the UEFA Champions League, 32 teams are divided into eight groups of four. The group winners and runners-up advance to a two-game, total goals round, the eight third-placed teams move into the UEFA Cup third round, and the eight fourth-placed teams are eliminated.
+In basketball, the Olympics also uses a round robin of the same nature, going to single elimination after the first round. The Euroleague has two double round-robin phases. The first is a "Regular Season" in which the 24 teams are divided into four groups of six (as of the 2008-09 season). The four top teams in each group advance to a "Top 16" phase in which the teams are divided into four groups of four each. The top two teams from each Top 16 group are then paired in four best-of-five quarterfinal series, with the winners advancing to the single-elimination Final Four.
+Round-robin tournaments are also used in rugby union, curling, and many amateur or lower-division basketball, football, and hockey tournaments.
+In 1992, the Little League World Series in youth baseball went to a round-robin tournament in the first round instead of single-elimination. In 2001, the tournament expanded to 16 teams and stayed with a round-robin for the first round, but cross-bracketed single elimination for the second round before the two winners of those games advanced to the region final. Little League used this format through 2009.
+In Major League Baseball, the term "round robin" was used with regard to the possibility of a 3-way tie for the National League pennant in 1964. The Philadelphia Phillies had had a 6½ game lead with 12 games left in their regular schedule, but then lost 10 games in a row, so that the season went into its last day with 3 teams still having a chance for the NL pennant. As it turns out, the St. Louis Cardinals defeated the New York Mets on that day to take the NL pennant with no playoff; the reverse of that outcome would have left the Cardinals, the Phillies, and the Cincinnati Reds in a 3-way tie.
+
+
+=== Example ===
+As it was used in the "Super Six" round of the 1999 Cricket World Cup:
+Teams in shaded in blue advance to the knockout stage.
+
+
+== Associated concepts ==
+As discussed above, leagues also offer innovations in order to give advantage to teams that performed better in the regular season, such as reseeding and home advantage.
+
+
+=== Reseeding ===
+In tournaments where participants are seeded, in order to ensure that the strongest remaining team faces the weakest team, the participants are "reseeded" at each round; the tournament bracket is not fixed, where potential matchups can be readily determined up to the final. For example, in a regular 8-team bracket, the teams that will meet at the second round will be the winner of the #1 vs. #8 going up against the winner of #4 and #5, and the winner of #2 and #7 going up against the winner of #3 and #6. If the #5 and the #7 teams won in the first round, the second round matchups will be #1 vs. #7 and #3 vs. #5, instead of #1 vs. #5 and #3 vs. #7.
+The only notable tournaments that employ this rule are the NFL Playoffs, WNBA Playoffs and the MLS Cup Playoffs. The Stanley Cup Playoffs had used that rule from 1994-2013. Note that reseeding does not come into play if there are only 2 rounds of competition.
+
+
+==== Example ====
+As it was used in the 1994 Stanley Cup playoffs (scores in the bracket shown indicate the number of games won in each seven-game series):
+During the first three rounds home ice is determined by seeding number, not position on the bracket. In the Finals the team with the better regular season record has home ice.
+
+
+=== Home advantage ===
+In team sports, the "hometown advantage" refers to the phenomenon when certain teams (usually the higher-seeded teams) are afforded more games that can be played at their home arena/stadium than their opponent's. This is predominant in the best-of series where there are more games played in a team's arena/stadium than the other, and in single-elimination tournaments where the single game is disputed in a team's stadium. In a best-of series, a team can "lose" their home advantage if the visiting team wins the first game. Home advantage can be regained or lost in the course of the series.
+As discussed above, a team can clinch the "home advantage" in a variety of ways:
+Clinching the higher seed (MLB, NHL and NFL)
+Winning more games than the opponent, but not necessarily clinching the higher seed (NBA)
+In best-of series, the order of arenas/stadiums in which the games are played at also affects the home advantage. In the NBA and the NHL, all rounds are done in a 2-2-1-1-1 format, that is, the team with home advantage plays games 1-2, 5 and 7 (latter two games if needed). This ensures that the team with home advantage never trails assuming every game is won by the home team. From 1985 to 2013 the NBA Finals had utilised the 2-3-2 format (the team with the home court advantage plays games 1-2 and 6-7 in their home court), which can theoretically allow the team with the home court advantage to trail in the series (although that will require the team with the home court advantage to lose the middle three games, which has only happened thrice).
+In NHL's Stanley Cup Finals, NBA Finals, and MLB's World Series, the teams with the higher regular season record receives the home advantage. The NFL's Super Bowl is held at a predetermined site regardless of which teams reach the game, which usually means there is no home advantage but it is still possible for the host city's team to play in the Super Bowl. Until 2016, In MLB's World Series, the team that came from the league that won the All-Star Game is awarded with the home field advantage.
+In two-legged ties such as the UEFA Champions League, although it is said that the two teams play an equal number of games in their home stadium, the team playing the second game in their home stadium has a distinct advantage, such as the resolution of ties will be at their stadium.
+In games done on neutral venues, a team may still be afforded the privileges of the "home team" such as selecting which side to play first or choosing the side of the coin in coin flips. In most instances, this privilege is determined either by a drawing of lots (UEFA Champions League) or by rotation among the groupings of the different teams (NFL).
+In the Nippon Professional Baseball's postseason games (excluding Japan Series) since 2004, the team having a better position in regular position will be hosting all the games. In addition, since 2008, the League Champion will have a 1-win advantage in the 2nd stage of Climax Series (best-of-7 which actually played for 6 games).
+
+
+== See also ==
+Playoff
+Tournament
+Shaughnessy playoff system
+McIntyre System
+McIntyre Final Eight System
+Top five play-offs
+Top six play-offs
+Page playoff system
+Season (sport)
+
+
+== Notes ==

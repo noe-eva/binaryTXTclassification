@@ -1,0 +1,20 @@
+Captology or behavior design is the study of computers as persuasive technologies. This area of inquiry explores the overlapping space between persuasion in general (influence, motivation, behavior change, etc.) and computing technology. This includes the design, research, and program analysis of interactive computing products (such as the Web, desktop software, specialized devices, etc.) created for the purpose of changing people's attitudes or behaviors.
+B. J. Fogg in 1996 derived the term captology from an acronym: Computers As Persuasive Technologies. In 2003, he published the first book on captology, entitled Persuasive Technology: Using Computers to Change What We Think and Do.
+
+
+== See also ==
+Is Google Making Us Stupid?
+Persuasive technology
+
+
+== References ==
+
+
+== Further reading ==
+Fogg, B.J. (2002). Persuasive Technology: Using Computers to Change What We Think and Do. Morgan Kaufmann Publishers. ISBN 1-558-60643-2. 
+Teti, A. (2011). PsychoTech, il punto di non ritorno. La tecnologia che controlla la mente (in Italian). Springer-Verlag Italia. ISBN 978-8-847-01814-3. 
+
+
+== External links ==
+The Stanford University Persuasive Technology Lab
+The Web Credibility Project

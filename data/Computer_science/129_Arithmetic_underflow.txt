@@ -1,0 +1,22 @@
+The term arithmetic underflow (or "floating point underflow", or just "underflow") is a condition in a computer program where the result of a calculation is a number of smaller absolute value than the computer can actually store in memory on its CPU.
+Arithmetic underflow can occur when the true result of a floating point operation is smaller in magnitude (that is, closer to zero) than the smallest value representable as a normal floating point number in the target datatype. Underflow can in part be regarded as negative overflow of the exponent of the floating point value. For example, if the exponent part can represent values from −128 to 127, then a result with a value less than −128 may cause underflow.
+
+
+== Underflow gap ==
+The interval between −fminN and fminN, where fminN is the smallest positive normal floating point value, is called the underflow gap. This is because the size of this interval is many orders of magnitude larger than the distance between adjacent normal floating point values just outside the gap. For instance, if the floating point datatype can represent 20 binary digits, the underflow gap is 221 times larger than the absolute distance between adjacent floating point values just outside the gap.
+In older designs, the underflow gap had just one usable value, zero. When an underflow occurred, the true result was replaced by zero (either directly by the hardware, or by system software handling the primary underflow condition). This replacement is called flush to zero.
+The 1984 edition of IEEE 754 introduced subnormal numbers. The subnormal numbers (including zero) fill the underflow gap with values where the absolute distance between adjacent values is the same as for adjacent values just outside the underflow gap. This enables gradual underflow where a nearest subnormal value is used, just as a nearest normal value is used when possible. Even when using gradual underflow, the nearest value may be zero.
+
+
+== Handling of underflow ==
+The occurrence of an underflow may set a ('sticky') status bit, raise an exception, at the hardware level generate an interrupt, or may cause some combination of these effects.
+As specified in IEEE 754, the underflow condition is only signaled if there is also a loss of precision. Typically this is determined as the final result being inexact. However if the user is trapping on underflow, this may happen regardless of consideration for loss of precision. The default handling in IEEE 754 for underflow (as well as other exceptions) is to record as a floating point status that underflow has occurred. This is specified for the application programming level, but often also interpreted as how to handle it at the hardware level.
+
+
+== See also ==
+IEEE 754
+−0 (number)
+Subnormal numbers
+Normal number (computing)
+Integer overflow
+Logarithmic number system

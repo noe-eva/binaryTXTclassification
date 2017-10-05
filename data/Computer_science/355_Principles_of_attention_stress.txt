@@ -1,0 +1,13 @@
+The principles of attention stress is a user interface design theory to measure the amount of attention that is required to perform certain tasks in a web application. It is developed by Antradar Software in an attempt to benchmark the ease of use of open source CMS products and to monitor the trend of UI designs.
+The attention stress theory is based on many psychological observations, of which the two most important ones are:
+attention shift
+selection threshold
+Attention shift addresses the issue of "getting lost", or the experience of a "broken flow". It is usually measured by the number of page refreshes or the amount of hand–eye coordination required to complete a task. According to attention shift, new pages cause more stress than pop-ups, and pop-ups are more "expensive" than things like inline-editing.
+Selection threshold deals with the matter of "being overwhelmed". It is observed that when the users are presented more than 4 choices at a time, their decisions tend to base on random guess instead of reasoning. This is especially true with users who suffer minor dyslexic symptoms. A well-known solution to this problem is the "personal menu" in Microsoft Office products where rarely used menu items are hidden from the users.
+Although the emergence of AJAX provides many ways to reduce attention shift, the paradox between attention shift and selection threshold still cannot be resolved. Because of the nature of some application logic, the overall attention stress bears a lower bound. This limit is termed "UI capacity" in the principles of attention stress.
+
+
+== See also ==
+Attention management
+Attentive user interface
+Cognitive load

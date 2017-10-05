@@ -1,0 +1,193 @@
+In computing, a compiler is a computer program that transforms source code written in a programming language or computer language (the source language), into another computer language (the target language, often having a binary form known as object code or machine code). The most common reason for transforming source code is to create an executable program.
+Any program written in a high level programming language must be translated to object code before it can be executed, so all programmers using such a language use a compiler or an interpreter. Thus, compilers are very important to programmers. Improvements to a compiler may lead to a large number of improved executable programs.
+Compilers are large and complex programs, but systematic analysis and research by computer scientists has led to a clearer understanding of compiler construction and a large body of theory has been developed around them. Research into compiler construction has led to tools that make it much easier to create compilers, so that today computer science students can create their own small language and develop a simple compiler for it in a few weeks.
+
+
+== First compilers ==
+Software for early computers was primarily written in assembly language. It is usually more productive for a programmer to use a high-level language, and programs written in a high-level language can be reused on different kinds of computers. Even so, it took a while for compilers to become established, because they generated code that did not perform as well as hand-written assembler, they were daunting development projects in their own right, and the very limited memory capacity of early computers created many technical problems for practical compiler implementations.
+The first compiler was written by Grace Hopper, in 1952, for the A-0 System language. The term compiler was coined by Hopper. The A-0 functioned more as a loader or linker than the modern notion of a compiler. The first autocode and its compiler were developed by Alick Glennie in 1952 for the Mark 1 computer at the University of Manchester and is considered by some to be the first compiled programming language. The FORTRAN team led by John W. Backus at IBM is generally credited as having introduced the first complete compiler, in 1957. The first FORTRAN compiler took 18 person-years to create.
+The first ALGOL 58 compiler was completed by the end of 1958 by Friedrich L. Bauer, Hermann Bottenbruch, Heinz Rutishauser, and Klaus Samelson for the Z22 computer. Bauer et al. had been working on compiler technology for the Sequentielle Formelübersetzung (i.e. sequential formula translation) in the previous years.
+By 1960, an extended Fortran compiler, ALTAC, was available on the Philco 2000, so it is probable that a Fortran program was compiled for both IBM and Philco computer architectures in mid-1960. The first known demonstrated cross-platform high-level language was COBOL. In a demonstration in December 1960, a COBOL program was compiled and executed on both the UNIVAC II and the RCA 501.
+The COBOL compiler for the UNIVAC II was probably the first to be written in a high-level language, namely FLOW-MATIC, by a team led by Grace Hopper.
+
+
+== Self-hosting compilers ==
+
+Like any other software, there are benefits from implementing a compiler in a high-level language. In particular, a compiler can be self-hosted – that is, written in the programming language it compiles. Building a self-hosting compiler is a bootstrapping problem, i.e. the first such compiler for a language must be either hand written machine code or compiled by a compiler written in another language, or compiled by running the compiler in an interpreter.
+
+
+=== NELIAC ===
+The Navy Electronics Laboratory International ALGOL Compiler or NELIAC was a dialect and compiler implementation of the ALGOL 58 programming language developed by the Naval Electronics Laboratory in 1958.
+NELIAC was the brainchild of Harry Huskey — then Chairman of the ACM and a well known computer scientist (and later academic supervisor of Niklaus Wirth), and supported by Maury Halstead, the head of the computational center at NEL. The earliest version was implemented on the prototype USQ-17 computer (called the Countess) at the laboratory. It was the world's first self-compiling compiler - the compiler was first coded in simplified form in assembly language (the bootstrap), then re-written in its own language and compiled by the bootstrap, and finally re-compiled by itself, making the bootstrap obsolete.
+
+
+=== Lisp ===
+Another early self-hosting compiler was written for Lisp by Tim Hart and Mike Levin at MIT in 1962. They wrote a Lisp compiler in Lisp, testing it inside an existing Lisp interpreter. Once they had improved the compiler to the point where it could compile its own source code, it was self-hosting.
+The compiler as it exists on the standard compiler tape is a machine language program that was obtained by having the S-expression definition of the compiler work on itself through the interpreter. (AI Memo 39)
+This technique is only possible when an interpreter already exists for the very same language that is to be compiled. It borrows directly from the notion of running a program on itself as input, which is also used in various proofs in theoretical computer science, such as the proof that the halting problem is undecidable.
+
+
+=== Forth ===
+Forth is an example of a self-hosting compiler. The self compilation and cross compilation features of Forth are commonly confused with metacompilation and metacompilers. Like Lisp, Forth is an extensible programming language. It is the extensible programming language features of Forth and Lisp that enable them to generate new versions of themselves or port themselves to new environments.
+
+
+== Context-free grammars and parsers ==
+A parser is an important component of a compiler. It parses the source code of a computer programming language to create some form of internal representation. Programming languages tend to be specified in terms of a context-free grammar because fast and efficient parsers can be written for them. Parsers can be written by hand or generated by a parser generator. A context-free grammar provides a simple and precise mechanism for describing how programming language constructs are built from smaller blocks. The formalism of context-free grammars was developed in the mid-1950s by Noam Chomsky.
+Block structure was introduced into computer programming languages by the ALGOL project (1957–1960), which, as a consequence, also featured a context-free grammar to describe the resulting ALGOL syntax.
+Context-free grammars are simple enough to allow the construction of efficient parsing algorithms which, for a given string, determine whether and how it can be generated from the grammar. If a programming language designer is willing to work within some limited subsets of context-free grammars, more efficient parsers are possible.
+
+
+=== LR parsing ===
+
+The LR parser (left to right) was invented by Donald Knuth in 1965 in a paper, "On the Translation of Languages from Left to Right". An LR parser is a parser that reads input from Left to right (as it would appear if visually displayed) and produces a Rightmost derivation. The term LR(k) parser is also used, where k refers to the number of unconsumed lookahead input symbols that are used in making parsing decisions.
+Knuth proved that LR(k) grammars can be parsed with an execution time essentially proportional to the length of the program, and that every LR(k) grammar for k > 1 can be mechanically transformed into an LR(1) grammar for the same language. In other words, it is only necessary to have one symbol lookahead to parse any deterministic context-free grammar(DCFG).
+Korenjak (1969) was the first to show parsers for programming languages could be produced using these techniques. Frank DeRemer devised the more practical Simple LR (SLR) and Look-ahead LR (LALR) techniques, published in his PhD dissertation at MIT in 1969. This was an important breakthrough, because LR(k) translators, as defined by Donald Knuth, were much too large for implementation on computer systems in the 1960s and 1970s.
+In practice, LALR offers a good solution; the added power of LALR(1) parsers over SLR(1) parsers (that is, LALR(1) can parse more complex grammars than SLR(1)) is useful, and, though LALR(1) is not comparable with LL(1) (LALR(1) cannot parse all LL(1) grammars), most LL(1) grammars encountered in practice can be parsed by LALR(1). LR(1) grammars are more powerful again than LALR(1); however, an LR(1) grammar requires a canonical LR parser which would be extremely large in size and is not considered practical. The syntax of many programming languages are defined by grammars that can be parsed with an LALR(1) parser, and for this reason LALR parsers are often used by compilers to perform syntax analysis of source code.
+A recursive ascent parser implements an LALR parser using mutually-recursive functions rather than tables. Thus, the parser is directly encoded in the host language similar to recursive descent. Direct encoding usually yields a parser which is faster than its table-driven equivalent for the same reason that compilation is faster than interpretation. It is also (in principle) possible to hand edit a recursive ascent parser, whereas a tabular implementation is nigh unreadable to the average human.
+Recursive ascent was first described by Thomas Pennello in his article "Very fast LR parsing" in 1986. The technique was later expounded upon by G.H. Roberts in 1988 as well as in an article by Leermakers, Augusteijn, Kruseman Aretz in 1992 in the journal Theoretical Computer Science.
+
+
+=== LL parsing ===
+
+An LL parser parses the input from Left to right, and constructs a Leftmost derivation of the sentence (hence LL, as opposed to LR). The class of grammars which are parsable in this way is known as the LL grammars. LL grammars are an even more restricted class of context-free grammars than LR grammars. Nevertheless, they are of great interest to compiler writers, because such a parser is simple and efficient to implement.
+LL(k) grammars can be parsed by a recursive descent parser which is usually coded by hand, although a notation such as META II might alternatively be used.
+The design of ALGOL sparked investigation of recursive descent, since the ALGOL language itself is recursive. The concept of recursive descent parsing was discussed in the January 1961 issue of CACM in separate papers by A.A. Grau and Edgar T. "Ned" Irons.   Richard Waychoff and colleagues also implemented recursive descent in the Burroughs ALGOL compiler in March 1961, the two groups used different approaches but were in at least informal contact.
+The idea of LL(1) grammars was introduced by Lewis and Stearns (1968).
+Recursive descent was popularised by Niklaus Wirth with PL/0, an educational programming language used to teach compiler construction in the 1970s.
+LR parsing can handle a larger range of languages than LL parsing, and is also better at error reporting, i.e. it detects syntactic errors when the input does not conform to the grammar as soon as possible.
+
+
+=== Earley parser ===
+In 1970, Jay Earley invented what came to be known as the Earley parser. Earley parsers are appealing because they can parse all context-free languages reasonably efficiently.
+
+
+== Grammar description languages ==
+John Backus proposed "metalinguistic formulas" to describe the syntax of the new programming language IAL, known today as ALGOL 58 (1959). Backus's work was based on the Post canonical system devised by Emil Post.
+Further development of ALGOL led to ALGOL 60; in its report (1963), Peter Naur named Backus's notation Backus normal form (BNF), and simplified it to minimize the character set used. However, Donald Knuth argued that BNF should rather be read as Backus–Naur form, and that has become the commonly accepted usage.
+Niklaus Wirth defined extended Backus–Naur form (EBNF), a refined version of BNF, in the early 1970s for PL/0. Augmented Backus–Naur form (ABNF) is another variant. Both EBNF and ABNF are widely used to specify the grammar of programming languages, as the inputs to parser generators, and in other fields such as defining communication protocols.
+
+
+== Parser generators ==
+
+A parser generator generates the lexical-analyser portion of a compiler. It is a program that takes a description of a formal grammar of a specific programming language and produces a parser for that language. That parser can be used in a compiler for that specific language. The parser detects and identifies the reserved words and symbols of the specific language from a stream of text and returns these as tokens to the code which implements the syntactic validation and translation into object code. This second part of the compiler can also be created by a compiler-compiler using a formal rules-of-precedence syntax-description as input.
+The first compiler-compiler to use that name was written by Tony Brooker in 1960 and was used to create compilers for the Atlas computer at the University of Manchester, including the Atlas Autocode compiler. However it was rather different from modern compiler-compilers, and today would probably be described as being somewhere between a highly customisable generic compiler and an extensible-syntax language. The name 'compiler-compiler' was far more appropriate for Brooker's system than it is for most modern compiler-compilers, which are more accurately described as parser generators. It is almost certain that the "Compiler Compiler" name has entered common use due to Yacc rather than Brooker's work being remembered.
+In the early 1960s, Robert McClure at Texas Instruments invented a compiler-compiler called TMG, the name taken from "transmogrification". In the following years TMG was ported to several UNIVAC and IBM mainframe computers.
+The Multics project, a joint venture between MIT and Bell Labs, was one of the first to develop an operating system in a high level language. PL/I was chosen as the language, but an external supplier could not supply a working compiler. The Multics team developed their own subset dialect of PL/I known as Early PL/I (EPL) as their implementation language in 1964. TMG was ported to GE-600 series and used to develop EPL by Douglas McIlroy, Robert Morris, and others.
+Not long after Ken Thompson wrote the first version of Unix for the PDP-7 in 1969, Doug McIlroy created the new system's first higher-level language: an implementation of McClure's TMG. TMG was also the compiler definition tool used by Ken Thompson to write the compiler for the B language on his PDP-7 in 1970. B was the immediate ancestor of C.
+An early LALR parser generator was called "TWS", created by Frank DeRemer and Tom Pennello.
+
+
+=== XPL ===
+XPL is a dialect of the PL/I programming language, developed in 1967, used for the development of compilers for computer languages. It was designed and implemented by a team with William McKeeman, James J. Horning, and David B. Wortman at Stanford University and the University of California, Santa Cruz. It was first announced at the 1968 Fall Joint Computer Conference in San Francisco.
+It is the name of both the programming language and the LALR parser generator system (or TWS: translator writing system) based on the language.
+XPL featured a relatively simple bottom-up compiler system dubbed MSP (mixed strategy precedence) by its authors. It was bootstrapped through Burroughs Algol onto the IBM System/360 computer. Subsequent implementations of XPL featured an SLR(1) parser.
+
+
+=== Yacc ===
+Yacc is a parser generator (loosely, compiler-compiler), not to be confused with lex, which is a lexical analyzer frequently used as a first stage by Yacc. Yacc was developed by Stephen C. Johnson at AT&T for the Unix operating system. The name is an acronym for "Yet Another Compiler Compiler." It generates an LALR(1) compiler based on a grammar written in a notation similar to Backus–Naur form.
+Johnson worked on Yacc in the early 1970s at Bell Labs. He was familiar with TMG and its influence can be seen in Yacc and the design of the C programming language. Because Yacc was the default compiler generator on most Unix systems, it was widely distributed and used. Derivatives such as GNU Bison are still in use.
+The compiler generated by Yacc requires a lexical analyzer. Lexical analyzer generators, such as lex or flex are widely available. The IEEE POSIX P1003.2 standard defines the functionality and requirements for both Lex and Yacc.
+
+
+== Metacompilers ==
+
+Metacompilers differ from parser generators, taking as input a program written a metalanguage. Their input consists grammar analyzing formula and code production transforms that output executable code. Many can be programmed in their own metalanguage enabling them to compile themselves, making them self-hosting extensible language compilers.
+Many metacompilers build on the work of Dewey Val Schorre. His META II compiler, first released in 1964, was the first documented metacompiler. Able to define its own language and others, META II accepted syntax formula having imbedded output (code production)s. It also translated to one of the earliest instances of a virtual machine. Lexical analysis was performed by built token recognizing functions: .ID, .STRING, and .NUMBER. Quoted strings in syntax formula recognize lexemes that are not kept.
+TREE-META, a second generation Schorre metacompiler, appeared around 1968. It extended the capabilities of META II, adding unparse rules separating code production from the grammar analysis. Tree transform operations in the syntax formula produce abstract syntax trees that the unparse rules operate on. The unparse tree pattern matching provided peephole optimization ability.
+CWIC, described in a 1970 ACM publication is a third generation Schorre metacompiler that added lexical rules and backtracking operators to the grammar analysis. LISP 2 was married with the unparse rules of TREEMETA. With LISP 2 processing, CWIC can generate fully optimized code. CWIC also provided binary code generation into named code sections. Single and multipass compiles could be implemented using CWIC. CWIC compiled to IBM System/360 machine code.
+Later generations are not publicly documented. One important feature would be the abstraction of the target processor instruction set, generating to a pseudo instruction set that could be separately defined or mapped to a real machine's instructions.
+
+
+== Cross compilation ==
+A cross compiler runs in one environment but produces object code for another. Cross compilers are used for embedded development, where the target computer has limited capabilities.
+An early example of cross compilation was AIMICO, where a FLOW-MATIC program on a UNIVAC II was used to generate assembly language for the IBM 705, which was then assembled on the IBM computer.
+The ALGOL 68C compiler generated ZCODE output, that could then be either compiled into the local machine code by a ZCODE translator or run interpreted. ZCODE is a register-based intermediate language. This ability to interpret or compile ZCODE encouraged the porting of ALGOL 68C to numerous different computer platforms.
+
+
+== Optimizing compilers ==
+Compiler optimization is the process of improving the quality of object code without changing the results it produces.
+The developers of the first FORTRAN compiler aimed to generate code that was better than the average hand-coded assembler, so that customers would actually use their product. In one of the first real compilers, they often succeeded.
+Later compilers, like IBM's Fortran IV compiler, placed more priority on good diagnostics and executing more quickly, at the expense of object code optimization. It wasn't until the IBM System/360 series that IBM provided two separate compilers: a fast executing code checker, and a slower optimizing one.
+Frances E. Allen, working alone and jointly with John Cocke, introduced many of the concepts for optimization. Allen's 1966 paper, Program Optimization, introduced the use of graph data structures to encode program content for optimization. Her 1970 papers, Control Flow Analysis and A Basis for Program Optimization established intervals as the context for efficient and effective data flow analysis and optimization. Her 1971 paper with Cocke, A Catalogue of Optimizing Transformations, provided the first description and systematization of optimizing transformations. Her 1973 and 1974 papers on interprocedural data flow analysis extended the analysis to whole programs. Her 1976 paper with Cocke describes one of the two main analysis strategies used in optimizing compilers today.
+Allen developed and implemented her methods as part of compilers for the IBM 7030 Stretch-Harvest and the experimental Advanced Computing System. This work established the feasibility and structure of modern machine- and language-independent optimizers. She went on to establish and lead the PTRAN project on the automatic parallel execution of FORTRAN programs. Her PTRAN team developed new parallelism detection schemes and created the concept of the program dependence graph, the primary structuring method used by most parallelizing compilers.
+Programming Languages and their Compilers by John Cocke and Jacob T. Schwartz, published early in 1970, devoted more than 200 pages to optimization algorithms. It included many of the now familiar techniques such as redundant code elimination and strength reduction.
+
+
+=== Peephole Optimization ===
+Peephole optimization is a very simple but effective optimization technique. It was invented by William McKeeman and published in 1965 in CACM. It was used in the XPL compiler that McKeeman helped develop.
+
+
+=== Capex COBOL Optimizer ===
+Capex Corporation developed the "COBOL Optimizer" in the mid 1970s for COBOL. This type of optimizer depended, in this case, upon knowledge of 'weaknesses' in the standard IBM COBOL compiler, and actually replaced (or patched) sections of the object code with more efficient code. The replacement code might replace a linear table lookup with a binary search for example or sometimes simply replace a relatively 'slow' instruction with a known faster one that was otherwise functionally equivalent within its context. This technique is now known as "Strength reduction". For example, on the IBM System/360 hardware the CLI instruction was, depending on the particular model, between twice and 5 times as fast as a CLC instruction for single byte comparisons.
+Modern compilers typically provide optimization options, so programmers can choose whether or not to execute an optimization pass.
+
+
+== Diagnostics ==
+When a compiler is given a syntactically incorrect program, a good, clear error message is helpful. From the perspective of the compiler writer, it is often difficult to achieve.
+The WATFIV Fortran compiler was developed at the University of Waterloo, Canada in the late 1960s. It was designed to give better error messages than IBM's Fortran compilers of the time. In addition, WATFIV was far more usable, because it combined compiling, linking and execution into one step, whereas IBM's compilers had three separate components to run.
+
+
+=== PL/C ===
+PL/C was a computer programming language developed at Cornell University in the early 1970s. While PL/C was a subset of IBM's PL/I language, it was designed with the specific goal of being used for teaching programming. The two researchers and academic teachers who designed PL/C were Richard W. Conway and Thomas R. Wilcox. They submitted the famous article "Design and implementation of a diagnostic compiler for PL/I" published in the Communications of ACM in March 1973.
+PL/C eliminated some of the more complex features of PL/I, and added extensive debugging and error recovery facilities. The PL/C compiler had the unusual capability of never failing to compile any program, through the use of extensive automatic correction of many syntax errors and by converting any remaining syntax errors to output statements.
+
+
+== Just in Time compilation ==
+
+Just in time compilation (JIT) is the generation of executable code on-the-fly or as close as possible to its actual execution, to take advantage of run time metrics or other performance enhancing options.
+
+
+== Intermediate representation ==
+
+Most modern compilers have a lexer and parser that produce an intermediate representation of the program. The intermediate representation is a simple sequence of operations which can be used by an optimizer and a code generator which produces instructions in the machine language of the target processor. Because the code generator uses an intermediate representation, the same code generator can be used for many different high level languages.
+There are many possibilities for the intermediate representation. Three-address code, also known as a quadruple or quad is a common form, where there is an operator, two operands, and a result. Two-address code or triples have a stack to which results are written, in contrast to the explicit variables of three-address code.
+Static Single Assignment (SSA) was developed by Ron Cytron, Jeanne Ferrante, Barry K. Rosen, Mark N. Wegman, and F. Kenneth Zadeck, researchers at IBM in the 1980s. In SSA, a variable is given a value only once. A new variable is created rather than modifying an existing one. SSA simplifies optimization and code generation.
+
+
+== Code Generation ==
+
+A code generator generates machine language instructions for the target processor.
+
+
+=== Register Allocation ===
+Sethi–Ullman algorithm or Sethi-Ullman numbering is a method to minimise the number of registers needed to hold variables.
+
+
+== Notable compilers ==
+
+Amsterdam Compiler Kit by Andrew Tanenbaum and Ceriel Jacobs
+Berkeley Pascal, created by Ken Thompson in 1975. Bill Joy and others at University of California, Berkeley added improvements
+GNU Compiler Collection, formerly the GNU C Compiler. First created by Richard Stallman in 1987, GCC is the major compiler used to build Linux.
+LLVM, formerly known as the Low Level Virtual Machine
+Small-C by Ron Cain and James E Hendrix
+Turbo Pascal, created by Anders Hejlsberg, first released in 1983.
+WATFOR, created at the University of Waterloo. One of the first popular educational compilers, although now largely obsolete.
+
+
+== See also ==
+History of programming languages
+Lex (and Flex lexical analyser), the token parser commonly used in conjunction with yacc (and Bison).
+BNF, a metasyntax used to express context-free grammar: that is, a formal way to describe formal languages.
+Self-interpreter, an interpreter written in a language it can interpret.
+
+
+== References ==
+
+
+== Further reading ==
+Backus, John, et al., "The FORTRAN Automatic Coding System", Proceedings of the Western Joint Computer Conference, Los Angeles, California, February 1957. Describes the design and implementation of the first FORTRAN compiler by the IBM team.
+Knuth, D. E., RUNCIBLE-algebraic translation on a limited computer, Communications of the ACM, Vol. 2, p. 18, (Nov. 1959).
+Irons, Edgar T., A syntax directed compiler for ALGOL 60, Communications of the ACM, Vol. 4, p. 51. (Jan. 1961)
+Dijkstra, Edsger W. (1961). "ALGOL 60 Translation: An ALGOL 60 Translator for the X1 and Making a Translator for ALGOL 60 (PDF) (Technical report). Amsterdam: Mathematisch Centrum. 35. 
+Conway, Melvin E., Design of a separable transition-diagram compiler, Communications of the ACM, Volume 6, Issue 7 (July 1963)
+Floyd, R. W., Syntactic analysis and operator precedence, Journal of the ACM, Vol. 10, p. 316. (July 1963).
+Cheatham, T. E., and Sattley, K., Syntax directed compilation, SJCC p. 31. (1964).
+Randell, Brian; Russell, Lawford John, ALGOL 60 Implementation: The Translation and Use of ALGOL 60 Programs on a Computer, Academic Press, 1964
+Knuth, D. E. (July 1965). "On the translation of languages from left to right" (PDF). Information and Control. 8 (6): 607–639. doi:10.1016/S0019-9958(65)90426-2. Retrieved 29 May 2011. 
+Cocke, John; Schwartz, Jacob T., Programming Languages and their Compilers: Preliminary Notes, Courant Institute of Mathematical Sciences technical report, New York University, 1969.
+Bauer, Friedrich L.; Eickel, Jürgen (Eds.), Compiler Construction, An Advanced Course, 2nd ed. Lecture Notes in Computer Science 21, Springer 1976, ISBN 3-540-07542-9
+Gries, David, Compiler Construction for Digital Computers, New York : Wiley, 1971. ISBN 0-471-32776-X
+
+
+== External links ==
+Compiler Construction before 1980 — Annotated literature list by Dick Grune

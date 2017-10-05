@@ -1,0 +1,9 @@
+Open Architecture Computing Environment (OACE) was a specification that aimed to provide a standards-based computing environment in order to decouple computing environment from software applications. It was proposed for the United States Department of Defense in 2004.
+
+
+== See also ==
+
+Open architecture
+
+
+== References ==

@@ -1,0 +1,10 @@
+Surfel is an abbreviation of "surface element". In 3D computer graphics, the use of surfels is an alternative to polygonal modeling. An object is represented by a dense set of points or viewer-facing discs holding lighting information. Surfels are well suited to modeling dynamic geometry, because there is no need to compute topology information such as adjacency lists. Common applications are medical scanner data representation, real time rendering of particle systems, and more generally, rendering surfaces of volumetric data by first extracting the isosurface.
+
+
+== Notes ==
+
+
+== See also ==
+Volume rendering
+Isosurface
+Point splatting

@@ -1,0 +1,21 @@
+Docking@Home was a distributed computing project hosted by the University of Delaware and running on the Berkeley Open Infrastructure for Network Computing (BOINC) software platform. It models protein-ligand docking using the CHARMM program. The ultimate aim was the development of new pharmaceutical drugs.
+The project was retired on May 23, 2014.
+
+
+== See also ==
+List of distributed computing projects
+
+
+== References ==
+
+
+== Further reading ==
+"Computer Idle? Now You Can Donate Its Time to Find a Cure for Major Diseases". Newswise. June 16, 2009. Retrieved 2009-07-27. 
+
+
+== External links ==
+Docking@home website
+Dynamically Adaptive Protein-Ligand Docking System
+Video from Docking@home
+Berkeley Open Infrastructure for Network Computing (BOINC)
+Volunteer@Home.com — All about volunteer computing

@@ -1,0 +1,19 @@
+General-purpose modelling (GPM) is the systematic use of a general-purpose modelling language to represent the various facets of an object or a system. Examples of GPM languages are:
+The Unified Modelling Language (UML), an industry standard for modelling software-intensive systems
+EXPRESS (ISO 10303-11), an international standard for the specification of data models
+IDEF, a group of languages from the 1970s that aimed to be neutral, generic and reusable
+Gellish, an industry standard natural language oriented modeling language for storage and exchange of data and knowledge, published in 2005
+Lisp, a functional programming language designed for symbol processing, later extended with imperative abilities
+XML, a data modelling language now beginning to be used to model code (MetaL, Microsoft .Net[1])
+Contrast GPM languages with dedicated domain-specific modelling (DSM) languages, which like domain-specific languages (DSLs), are maturing and becoming a viable alternative to GPM languages.
+
+
+== See also ==
+Domain-specific modeling (DSM)
+Model-driven engineering (MDE)
+Unified Modelling Language (UML)
+ISO 10303-11 EXPRESS
+IDEF
+LISP
+Southbeach Notation
+XML

@@ -1,0 +1,608 @@
+In computational geometry, the Theta graph, or 
+  
+    
+      
+        Θ
+      
+    
+    {\displaystyle \Theta }
+  -graph, is a type of geometric spanner similar to a Yao graph. The basic method of construction involves partitioning the space around each vertex into a set of cones, which themselves partition the remaining vertices of the graph. Like Yao Graphs, a 
+  
+    
+      
+        Θ
+      
+    
+    {\displaystyle \Theta }
+  -graph contains at most one edge per cone; where they differ is how that edge is selected. Whereas Yao Graphs will select the nearest vertex according to the metric space of the graph, the 
+  
+    
+      
+        Θ
+      
+    
+    {\displaystyle \Theta }
+  -graph defines a fixed ray contained within each cone (conventionally the bisector of the cone) and selects the nearest neighbour with respect to orthogonal projections to that ray. The resulting graph exhibits several good spanner properties .
+
+  
+    
+      
+        Θ
+      
+    
+    {\displaystyle \Theta }
+  -graphs were first described by Clarkson in 1987 and independently by Keil in 1988.
+
+
+== Construction ==
+
+  
+    
+      
+        Θ
+      
+    
+    {\displaystyle \Theta }
+  -graphs are specified with a few parameters which determine their construction. The most obvious parameter is 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  , which corresponds to the number of equal angle cones that partition the space around each vertex. In particular, for a vertex 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  , a cone about 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   can be imagined as two infinite rays emanating from it with angle 
+  
+    
+      
+        θ
+        =
+        2
+        π
+        
+          /
+        
+        k
+      
+    
+    {\displaystyle \theta =2\pi /k}
+   between them. With respect to 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  , we can label these cones as 
+  
+    
+      
+        
+          C
+          
+            1
+          
+        
+      
+    
+    {\displaystyle C_{1}}
+   through 
+  
+    
+      
+        
+          C
+          
+            k
+          
+        
+      
+    
+    {\displaystyle C_{k}}
+   in an counterclockwise pattern from 
+  
+    
+      
+        
+          C
+          
+            1
+          
+        
+      
+    
+    {\displaystyle C_{1}}
+  , which conventionally opens so that its bisector has angle 0 with respect to the plane. As these cones partition the plane, they also partition the remaining vertex set of the graph (assuming general position) into the sets 
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+      
+    
+    {\displaystyle V_{1}}
+   through 
+  
+    
+      
+        
+          V
+          
+            k
+          
+        
+      
+    
+    {\displaystyle V_{k}}
+  , again with respect to 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  . Every vertex in the graph gets the same number of cones in the same orientation, and we can consider the set of vertices that fall into each.
+Considering a single cone, we need to specify another ray emanating from 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  , which we will label 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+  . For every vertex in 
+  
+    
+      
+        
+          V
+          
+            i
+          
+        
+      
+    
+    {\displaystyle V_{i}}
+  , we consider the orthogonal projection of each 
+  
+    
+      
+        v
+        ∈
+        
+          V
+          
+            i
+          
+        
+      
+    
+    {\displaystyle v\in V_{i}}
+   onto 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+  . Suppose that 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   is the vertex with the closest such projection, then the edge 
+  
+    
+      
+        {
+        p
+        ,
+        r
+        }
+      
+    
+    {\displaystyle \{p,r\}}
+   is added to the graph. This is the primary difference from Yao Graphs which always select the nearest vertex; in the example image, a Yao Graph would include the edge 
+  
+    
+      
+        {
+        p
+        ,
+        q
+        }
+      
+    
+    {\displaystyle \{p,q\}}
+   instead.
+Construction of a 
+  
+    
+      
+        Θ
+      
+    
+    {\displaystyle \Theta }
+  -graph is possible with a sweepline algorithm in 
+  
+    
+      
+        O
+        (
+        n
+        log
+        ⁡
+        
+          n
+        
+        )
+      
+    
+    {\displaystyle O(n\log {n})}
+   time.
+
+
+== Properties ==
+
+  
+    
+      
+        Θ
+      
+    
+    {\displaystyle \Theta }
+  -graphs exhibit several good geometric spanner properties.
+When the parameter 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   is a constant, the 
+  
+    
+      
+        Θ
+      
+    
+    {\displaystyle \Theta }
+  -graph is a sparse spanner. As each cone generates at most one edge per cone, most vertices will have small degree, and the overall graph will have at most 
+  
+    
+      
+        k
+        ⋅
+        n
+        =
+        O
+        (
+        n
+        )
+      
+    
+    {\displaystyle k\cdot n=O(n)}
+   edges.
+The stretch factor between any pair of points in a spanner is defined as the ratio between their metric space distance, and their distance within the spanner (i.e. from following edges of the spanner). The stretch factor of the entire spanner is the maximum stretch factor over all pairs of points within it. Recall from above that 
+  
+    
+      
+        θ
+        =
+        2
+        π
+        
+          /
+        
+        k
+      
+    
+    {\displaystyle \theta =2\pi /k}
+  , then when 
+  
+    
+      
+        k
+        ≥
+        9
+      
+    
+    {\displaystyle k\geq 9}
+  , the 
+  
+    
+      
+        Θ
+      
+    
+    {\displaystyle \Theta }
+  -graph has a stretch factor of at most 
+  
+    
+      
+        1
+        
+          /
+        
+        (
+        cos
+        ⁡
+        θ
+        −
+        sin
+        ⁡
+        θ
+        )
+      
+    
+    {\displaystyle 1/(\cos \theta -\sin \theta )}
+  . If the orthogonal projection line 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+   in each cone is chosen to be the bisector, then for 
+  
+    
+      
+        k
+        ≥
+        7
+      
+    
+    {\displaystyle k\geq 7}
+  , the spanning ratio is at most 
+  
+    
+      
+        1
+        
+          /
+        
+        (
+        1
+        −
+        2
+        sin
+        ⁡
+        (
+        π
+        
+          /
+        
+        k
+        )
+        )
+      
+    
+    {\displaystyle 1/(1-2\sin(\pi /k))}
+  .
+For 
+  
+    
+      
+        k
+        =
+        1
+      
+    
+    {\displaystyle k=1}
+  , the 
+  
+    
+      
+        Θ
+      
+    
+    {\displaystyle \Theta }
+  -graph forms a nearest neighbour graph. For 
+  
+    
+      
+        k
+        =
+        2
+      
+    
+    {\displaystyle k=2}
+  , it is easy to see that the graph is connected, as each vertex will connect to something to its left, and something to its right, if they exist. For 
+  
+    
+      
+        k
+        =
+        4
+      
+    
+    {\displaystyle k=4}
+  , 
+  
+    
+      
+        5
+      
+    
+    {\displaystyle 5}
+  , 
+  
+    
+      
+        6
+      
+    
+    {\displaystyle 6}
+  , and 
+  
+    
+      
+        ≥
+        7
+      
+    
+    {\displaystyle \geq 7}
+  , the 
+  
+    
+      
+        Θ
+      
+    
+    {\displaystyle \Theta }
+  -graph is known to be connected. As yet unpublished results indicate that 
+  
+    
+      
+        Θ
+      
+    
+    {\displaystyle \Theta }
+  -graphs are connected for 
+  
+    
+      
+        k
+        =
+        3
+      
+    
+    {\displaystyle k=3}
+  , as well. Many of these results also give upper and/or lower bounds on their spanning ratios.
+When 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   is an even number, we can create a variant of the 
+  
+    
+      
+        
+          Θ
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \Theta _{k}}
+  -graph known as the half-
+  
+    
+      
+        
+          Θ
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \Theta _{k}}
+  -graph, where the cones themselves are partitioned into even and odd sets in an alternating fashion, and edges are only considered in the even cones (or, only the odd cones). Half-
+  
+    
+      
+        
+          Θ
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \Theta _{k}}
+  -graphs are known to have some very nice properties of their own. For example, the half-
+  
+    
+      
+        
+          Θ
+          
+            6
+          
+        
+      
+    
+    {\displaystyle \Theta _{6}}
+  -graph (and, consequently, the 
+  
+    
+      
+        
+          Θ
+          
+            6
+          
+        
+      
+    
+    {\displaystyle \Theta _{6}}
+  -graph, which is just the union of two complimentary half-
+  
+    
+      
+        
+          Θ
+          
+            6
+          
+        
+      
+    
+    {\displaystyle \Theta _{6}}
+  -graphs) is known to be a 2-spanner.
+
+
+== Software for drawing Theta graphs ==
+A tool written in Java
+Cone-based Spanners in Computational Geometry Algorithms Library (CGAL)
+
+
+== See also ==
+Yao graph
+Semi-Yao graph
+geometric spanner
+
+
+== References ==

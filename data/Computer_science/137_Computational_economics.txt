@@ -1,0 +1,18 @@
+Computational economics is a research discipline at the interface of computer science, economics, and management science. This subject encompasses computational modeling of economic systems, whether agent-based, general-equilibrium, macroeconomic, or rational-expectations, computational econometrics and statistics, computational finance, computational tools for the design of automated internet markets, programming tools specifically designed for computational economics, and pedagogical tools for the teaching of computational economics. Some of these areas are unique to computational economics, while others extend traditional areas of economics by solving problems that are difficult to study without the use of computers and associated numerical methods.
+Computational economics uses computer-based economic modeling for the solution of analytically and statistically formulated economic problems. A research program, to that end, is agent-based computational economics (ACE), the computational study of economic processes, including whole economies, as dynamic systems of interacting agents. As such, it is an economic adaptation of the complex adaptive systems paradigm. Here the "agent" refers to "computational objects modeled as interacting according to rules," not real people. Agents can represent social, biological, and/or physical entities. The theoretical assumption of mathematical optimization by agents in equilibrium is replaced by the less restrictive postulate of agents with bounded rationality adapting to market forces, including game-theoretical contexts. Starting from initial conditions determined by the modeler, an ACE model develops forward through time driven solely by agent interactions. The ultimate scientific objective of the method is "to ... test theoretical ﬁndings against real-world data in ways that permit empirically supported theories to cumulate over time, with each researcher’s work building appropriately on the work that has gone before."
+Computational solution tools include for example software for carrying out various matrix operations (e.g. matrix inversion) and for solving systems of linear and nonlinear equations. For a repository of public-domain computational solution tools, visit here.
+The following journals specialize in computational economics: ACM Transactions on Economics and Computation,  Computational Economics, Journal of Applied Econometrics, Journal of Economic Dynamics and Control, and the Journal of Economic Interaction and Coordination.
+
+
+== References ==
+
+
+== External links ==
+Society for Computational Economics
+Journal of Economic Dynamics and Control - publishes articles on computational economics
+Agent-Based Computational Economics - maintained by Leigh Tesfatsion
+The Use of Agent-Based Models in Regional Science - a study on agent-based models to simulate urban agglomeration
+Computational Economics with Python - a series of lectures
+Computational Finance and Economic Agents
+Journal of Economic Interaction and Coordination - official journal of the Association of Economic Science with Heterogeneous Interacting Agents
+Chair of Economic Policy, University of Bamberg (Germany)

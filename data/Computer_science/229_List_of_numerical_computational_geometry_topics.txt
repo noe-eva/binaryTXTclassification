@@ -1,0 +1,28 @@
+List of numerical computational geometry topics enumerates the topics of computational geometry that deals with geometric objects as continuous entities and applies methods and algorithms of nature characteristic to numerical analysis. This area is also called "machine geometry", computer-aided geometric design, and geometric modelling.
+See List of combinatorial computational geometry topics for another flavor of computational geometry that states problems in terms of geometric objects as discrete entities and hence the methods of their solution are mostly theories and algorithms of combinatorial character.
+
+
+== Curves ==
+In the list of curves topics, the following ones are fundamental to geometric modelling.
+Parametric curve
+Bézier curve
+Spline
+Hermite spline
+Beta spline
+B-spline
+
+Higher-order spline
+NURBS
+
+Contour line
+
+
+== Surfaces ==
+Bézier surface
+Isosurface
+Parametric surface
+
+
+== Other ==
+Level set method
+Computational topology

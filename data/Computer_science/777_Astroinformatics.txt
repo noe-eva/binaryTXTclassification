@@ -1,0 +1,39 @@
+Astroinformatics is an interdisciplinary field of study involving the combination of astronomy, data science, informatics, and information/communications technologies.
+
+
+== Background ==
+Astroinformatics is primarily focused on developing the tools, methods, and applications of computational science, data science, and statistics for research and education in data-oriented astronomy. Early efforts in this direction included data discovery, metadata standards development, data modeling, astronomical data dictionary development, data access, information retrieval, data integration, and data mining in the astronomical Virtual Observatory initiatives. Further development of the field, along with astronomy community endorsement, was presented to the National Research Council (United States) in 2009 in the Astroinformatics "State of the Profession" Position Paper for the 2010 Astronomy and Astrophysics Decadal Survey. That position paper provided the basis for the subsequent more detailed exposition of the field in the Informatics Journal paper Astroinformatics: Data-Oriented Astronomy Research and Education.
+Astroinformatics as a distinct field of research was inspired by work in the fields of Bioinformatics and Geoinformatics, and through the eScience work of Jim Gray (computer scientist) at Microsoft Research, whose legacy was remembered and continued through the Jim Gray eScience Awards.
+Though the primary focus of Astroinformatics is on the large worldwide distributed collection of digital astronomical databases, image archives, and research tools, the field recognizes the importance of legacy data sets as well—using modern technologies to preserve and analyze historical astronomical observations. Some Astroinformatics practitioners help to digitize historical and recent astronomical observations and images in a large database for efficient retrieval through web-based interfaces. Another aim is to help develop new methods and software for astronomers, as well as to help facilitate the process and analysis of the rapidly growing amount of data in the field of astronomy.
+Astroinformatics is described as the Fourth Paradigm of astronomical research. There are many research areas involved with astroinformatics, such as data mining, machine learning, statistics, visualization, scientific data management, and semantic science. Data mining and machine learning play significant roles in Astroinformatics as a scientific research discipline due to their focus on "knowledge discovery from data" (KDD) and "learning from data".
+The amount of data collected from astronomical sky surveys has grown from gigabytes to terabytes throughout the past decade and is predicted to grow in the next decade into hundreds of petabytes with the Large Synoptic Survey Telescope and into the exabytes with the Square Kilometre Array. This plethora of new data both enables and challenges effective astronomical research. Therefore, new approaches are required. In part due to this, data-driven science is becoming a recognized academic discipline. Consequently, astronomy (and other scientific disciplines) are developing information-intensive and data-intensive sub-disciplines to an extent that these sub-disciplines are now becoming (or have already become) standalone research disciplines and full-fledged academic programs. While many institutes of education do not boast an astroinformatics program, such programs most likely will be developed in the near future.
+Informatics has been recently defined as "the use of digital data, information, and related services for research and knowledge generation". However the usual, or commonly used definition is "informatics is the discipline of organizing, accessing, integrating, and mining data from multiple sources for discovery and decision support." Therefore, the discipline of astroinformatics includes many naturally-related specialties including data modeling, data organization, etc. It may also include transformation and normalization methods for data integration and information visualization, as well as knowledge extraction, indexing techniques, information retrieval and data mining methods. Classification schemes (e.g., taxonomies, ontologies, folksonomies, and/or collaborative tagging) plus Astrostatistics will also be heavily involved. Citizen science projects (such as Galaxy Zoo) also contribute highly valued novelty discovery, feature meta-tagging, and object characterization within large astronomy data sets. All of these specialties enable scientific discovery across varied massive data collections, collaborative research, and data re-use, in both research and learning environments.
+In 2012, two position papers were presented to the Council of the American Astronomical Society that led to the establishment of formal working groups in Astroinformatics and Astrostatistics for the profession of astronomy within the USA and elsewhere.
+Astroinformatics provides a natural context for the integration of education and research. The experience of research can now be implemented within the classroom to establish and grow Data Literacy through the easy re-use of data. It also has many other uses, such as repurposing archival data for new projects, literature-data links, intelligent retrieval of information, and many others.
+
+
+== Conferences ==
+
+
+== See also ==
+Astronomy and Computing
+Astrophysics Data System
+Astrophysics Source Code Library
+Astrostatistics
+Galaxy Zoo
+International Astrostatistics Association
+International Virtual Observatory Alliance (IVOA)
+MilkyWay@home
+Virtual Observatory
+WorldWide Telescope
+Zooniverse
+
+
+== External links ==
+Astronomical Data Analysis Software and Systems (ADASS)
+Astrostatistics and Astroinformatics Portal
+Cosmostatistics Initiative (COIN)
+Astroinformatics and Astrostatistics Commission of the International Astronomical Union
+
+
+== References ==

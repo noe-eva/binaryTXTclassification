@@ -1,0 +1,22 @@
+Tanel Tammet is an Estonian computer scientist, professor and software engineer. He was also one of the founding members of the Estonian Greens party and helped found the IT College in Tallinn.
+
+
+== Life and career ==
+Born in 1965, Tammet had early access to the University of Tartu's computers through his father's work at the physics department. As a result, he eventually graduated the university's maths department in applied mathematics, specializing in information technology. He took interest in automated theorem proving and graduated the Gothenburg Chalmers University of Technology in with a Ph.D. in 1992. He lived in Sweden for the most part of that decade, then returned to Tallinn.
+Tammet received international renown for his automated theorem proving program Gandalf, which won different categories of the CADE CASC competition six times between 1997 and 2003. He has been the Estonian delegate to the Information Systems Technology Panel of the NATO Research and Technology Organisation and written about cyber security. He often teaches or speaks about artificial intelligence and has asserted that it already exists, albeit in a primitive and distributed form.
+From 2006, Tammet was a founding member and member of the board of the Estonian Greens. The party was elected into the Riigikogu the following year with 7.1% of the nationwide vote, which granted them six seats. In 2010, amid growing tensions following their failed runs in the European Parliament and local elections in 2009, Tammet along with 19 other members was thrown out of the party. It subsequently failed to reach the minimum 5% of the vote needed in the 2011 parliamentary elections and faded.
+Tammet is a professor at the Tallinn University of Technology and is the faculty manager of its computer science institute. Previously he had helped found the Tallinn IT College and was on its board of advisors from its inception in 2003. Tammet has also worked in the Institute of Cybernetics in Tallinn. In 2012, he received attention for the creation of Sightsmap, a website which visualizes the popularity of places around the world based on data from Panoramio, Wikipedia and Foursquare.
+Tammet is married and has two sons. In 2002, he was issued the fifth class of the Order of the White Star.
+
+
+== Books ==
+Tammet, Tanel; Teejuht võrgumaailma, Tartu : Ilmamaa, 1997. ISBN 9985821874
+Tamme, Tõnu; Tammet, Tanel; Prank, Rein; Loogika: Mõtlemisest tõestamiseni, Tartu : Tartu Ülikooli Kirjastus, 1997. ISBN 9985562313
+
+
+== References ==
+
+
+== External links ==
+Personal page on Google Sites
+Sightsmap

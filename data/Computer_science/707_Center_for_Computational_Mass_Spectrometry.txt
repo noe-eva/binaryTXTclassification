@@ -1,0 +1,6 @@
+The Center for Computational Mass Spectrometry (CCMS) is a proteomics center at the University of California, San Diego.
+CCMS is the author of mass spectrometry software tools such as InsPecT search engine or PepNovo.
+
+
+== External links ==
+http://proteomics.ucsd.edu/index.html

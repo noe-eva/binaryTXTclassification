@@ -1,0 +1,31 @@
+The International Conference on Bioinformatics (InCoB) is a scientific conference on bioinformatics aimed at scientists in the Asia Pacific region. It has been held annually since 2002. Originally organised by coordination between the Asia Pacific Bioinformatics Network and the BIOTEC of Thailand in 2002, the meeting has since been the flagship conference of the APBioNet, where APBioNet's Annual General Meeting is held.
+
+
+== Scientific publications ==
+Since 2006, InCoB has been partnering with BMC Bioinformatics to publish an InCoB Special Conference Issue of top papers presented at the conference. In 2007, an additional tie-up with the Bioinformation journal was established in addition to the BMC Bioinformatics issue.
+
+
+== Technological placeshifting ==
+Since 2007, InCoB held in Hong Kong University of Science and Technology, has been placeshifted in an additional location in a developing country venue, namely the VNU, VietNam through the advanced videoconferencing project of APAN and TEIN2.
+
+
+== Satellite training workshops ==
+Since 2007, at the VNU site coordinated by the Institute of Biotechnology Hanoi (IBT), InCoB coordinated with the International Union for Biochemists and Molecular Biologists - IUBMB and the Federation of Asian Oceanian Biochemists and Molecular Biologists - FAOBMB and APBioNet to hold a two-week bioinformatics training course with course faculty from Karolinska Institutet, NCBI and National University of Singapore, supported by the S* Alliance for Bioinformatics Education and BioSlax, a software development project hosted at NUS as part of an ASEAN SubCommittee on Biotechnology (SCB) project. This collaboration with IUBMB and FAOBMB continues in 2008 with a bioinformatics education workshop in Taipei, Taiwan, where the main meeting of InCoB 2008 will be situated.
+
+
+== Past and present conferences ==
+10th InCoB-ISCB Asia Joint Conference 2011: 30 Nov - 3 Dec 2011, Kuala Lumpur, Malaysia (InCoB2011 Website)
+9th InCoB 2010: 26 - 28 Sept 2010, Tokyo, Japan. (InCoB2010 Website)
+8th InCoB 2009: 7 - 11 Sept 2009, Singapore. (InCoB2009 Website)
+7th InCoB 2008: Oct 2008, Taiwan in conjunction with the FAOBMB/IUBMB
+6th InCoB 2007: Aug 27 - 30, 2007, Hong Kong, People's Republic of China, Nansha and Hanoi, VietNam (by teleconferencing)
+5th InCoB 2006: Dec 18 - 20, 2006, Delhi, India, in conjunction with the Dept of Biotechnology, India (InCoB2006 Website)
+4th InCoB 2005: Sep 22 - 24, 2005, Busan, Korea, in conjunction with KISBI (InCoB2005 Website)
+3rd InCoB 2004: Sep 05 - 08, 2004, Auckland, New Zealand (InCoB2004 Website)
+2nd InCoB 2003: Sep 08 - 10, 2003, Penang, Malaysia (InCoB2003 Website)
+1st InCoB 2002: Feb 05 - 08, 2002, Bangkok, Thailand (InCoB2002 Website)
+
+
+== External links ==
+APBioNet Website
+InCoB Website

@@ -1,0 +1,36 @@
+In programming language theory, the POPLmark challenge (from "Principles of Programming Languages benchmark", formerly Mechanized Metatheory for the Masses!) (Aydemir, 2005) is a set of benchmarks designed to evaluate the state of automated reasoning (or mechanization) in the metatheory of programming languages, and to stimulate discussion and collaboration among a diverse cross section of the formal methods community. Very loosely speaking, the challenge is about measurement of how well programs may be proven to match a specification of how they are intended to behave (and the many complex issues that this involves). The challenge was initially proposed by the members of the PL club at the University of Pennsylvania, in association with collaborators around the world. The Workshop on Mechanized Metatheory is the main meeting of researchers participating in the challenge.
+The design of the POPLmark benchmark is guided by features common to reasoning about programming languages. The challenge problems do not require the formalisation of large programming languages, but they do require sophistication in reasoning about:
+Binding 
+Most programming languages have some form of binding, ranging in complexity from the simple binders of simply typed lambda calculus to complex, potentially infinite binders needed in the treatment of record patterns.
+Induction 
+Properties such as subject reduction and strong normalisation often require complex induction arguments.
+Reuse 
+Furthering collaboration being a key aim of the challenge, the solutions are expected to contain reusable components that would allow researchers to share language features and designs without requiring them to start from scratch every time.
+
+
+== The problems ==
+As of 2007, the POPLmark challenge is composed of three parts. Part 1 concerns solely the types of System F<: (System F with subtyping), and has problems such as:
+Checking that the type system admits transitivity of subtyping.
+Checking the transitivity of subtyping in the presence of records
+Part 2 concerns the syntax and semantics of System F<:. It concerns proofs of
+Type safety for the pure fragment
+Type safety in the presence of pattern matching
+Part 3 concerns the usability of the formalisation of System F<:. In particular, the challenge asks for:
+Simulating and animating the operational semantics
+Extracting useful algorithms from the formalisations
+Several solutions have been proposed for parts of the POPLmark challenge, using following tools: Isabelle/HOL, Twelf, Coq, αProlog, ATS, Abella and Matita.
+
+
+== See also ==
+Expression problem
+QED manifesto
+POPL conference
+
+
+== References ==
+Brian E. Aydemir, Aaron Bohannon, Matthew Fairbairn, J. Nathan Foster, Benjamin C. Pierce, Peter Sewell, Dimitrios Vytiniotis, Geoffrey Washburn, Stephanie C. Weirich, and Stephan A. Zdancewic. Mechanized metatheory for the masses: The POPLmark challenge. In Theorem Proving in Higher Order Logics, 18th International Conference, TPHOLs 2005, volume 3603 of Lecture Notes in Computer Science, pages 50–65. Springer, Berlin/ Heidelberg/ New York, 2005.
+Benjamin C. Pierce, Peter Sewell, Stephanie Weirich, Steve Zdancewic, It Is Time to Mechanize Programming Language Metatheory, In Bertrand Meyer, Jim Woodcock (Eds.) Verified Software: Theories, Tools, Experiments, LNCS 4171, Springer Berlin / Heidelberg, 2008, pp. 26–30, ISBN 978-3-540-69147-1
+
+
+== External links ==
+The POPLmark wiki

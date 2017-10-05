@@ -1,0 +1,57 @@
+The history of the Scheme programming language begins with the development of earlier members of the Lisp family of languages during second half of the twentieth century, the process of design and development during which language designers Guy L. Steele and Gerald Jay Sussman released an influential series of MIT AI Memos known as the Lambda Papers (1975–1980), the growth in popularity of the language, and the era of standardization (1990 onwards). Much of the history of Scheme has been documented by the developers themselves.
+
+
+== Prehistory ==
+The development of Scheme was heavily influenced by two predecessors that were quite different from one another: Lisp provided its general semantics and syntax, and ALGOL provided its lexical scope and block structure. Scheme is a dialect of Lisp but Lisp has evolved; the Lisp dialects from which Scheme evolved—although they were in the mainstream at the time—are quite different from any modern Lisp.
+
+
+=== Lisp ===
+
+Lisp was invented by John McCarthy in 1958 while he was at the Massachusetts Institute of Technology (MIT). McCarthy published its design in a paper in Communications of the ACM in 1960, entitled "Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I" ("Part II" was never published). He showed that with a few simple operators and a notation for functions, one can build a Turing-complete language for algorithms.
+The use of S-expressions which characterize the syntax of Lisp was initially intended to be an interim measure pending the development of a language employing what McCarthy called "M-expressions". As an example, the M-expression car[cons[A,B]] is equivalent to the S-expression (car (cons A B)). S-expressions proved popular, however, and the many attempts to implement M-expressions failed to catch on.
+The first implementation of Lisp was on an IBM 704 by Steve Russell, who read McCarthy's paper and coded the eval function he described in machine code. The familiar (but puzzling to newcomers) names CAR and CDR used in Lisp to describe the head element of a list and its tail, evolved from two IBM 704 assembly language commands: Contents of Address Register and Contents of Decrement Register, each of which returned the contents of a 15-bit register corresponding to segments of a 36-bit IBM 704 instruction word.
+The first complete Lisp compiler, written in Lisp, was implemented in 1962 by Tim Hart and Mike Levin at MIT. This compiler introduced the Lisp model of incremental compilation, in which compiled and interpreted functions can intermix freely.
+The two variants of Lisp most significant in the development of Scheme were both developed at MIT: LISP 1.5 developed by McCarthy and others, and MACLISP – developed for MIT's Project MAC, a direct descendant of LISP 1.5. which ran on the PDP-10 and Multics systems.
+Since its inception, Lisp was closely connected with the artificial intelligence research community, especially on PDP-10 systems.
+
+
+=== ALGOL ===
+
+ALGOL 58, originally to be called IAL for "International Algorithmic Language", was developed jointly by a committee of European and American computer scientists in a meeting in 1958 at ETH Zurich. ALGOL 60, a later revision developed at the ALGOL 60 meeting in Paris and now commonly known as ALGOL, became the standard for the publication of algorithms and had a profound effect on future language development, despite the language's lack of commercial success and its limitations. C. A. R. Hoare has remarked: "Here is a language so far ahead of its time that it was not only an improvement on its predecessors but also on nearly all its successors."
+ALGOL introduced the use of block structure and lexical scope. It was also notorious for its difficult call by name default parameter passing mechanism, which was defined so as to require textual substitution of the expression representing the actual parameter in place of the formal parameter during execution of a procedure or function, causing it to be re-evaluated each time it is referenced during execution. ALGOL implementors developed a mechanism they called a thunk, which captured the context of the actual parameter, enabling it to be evaluated during execution of the procedure or function.
+
+
+== Carl Hewitt, the Actor model, and the birth of Scheme ==
+
+In 1971 Sussman, Drew McDermott, and Eugene Charniak had developed a system called Micro-Planner which was a partial and somewhat unsatisfactory implementation of Carl Hewitt's ambitious Planner project. Sussman and Hewitt worked together along with others on Muddle (later MDL), an extended Lisp which formed a component of Hewitt's project. Drew McDermott, and Sussman in 1972 developed the Lisp-based language Conniver, which revised the use of automatic backtracking in Planner which they thought was unproductive. Hewitt was dubious that the "hairy control structure" in Conniver was a solution to the problems with Planner. Pat Hayes remarked: "Their [Sussman and McDermott] solution, to give the user access to the implementation primitives of Planner, is however, something of a retrograde step (what are Conniver's semantics?)"
+In November 1972, Hewitt and his students invented the Actor model of computation as a solution to the problems with Planner. A partial implementation of Actors was developed called Planner-73 (later called PLASMA). Steele, then a graduate student at MIT, had been following these developments, and he and Sussman decided to implement a version of the Actor model in their own "tiny Lisp" developed on top of MacLisp, in order to understand the model better. Using this basis they then began to develop mechanisms for creating actors and sending messages.
+PLASMA's use of lexical scope was similar to the lambda calculus. Sussman and Steele decided to try to model Actors in the lambda calculus. They called their modeling system Schemer, eventually changing it to Scheme to fit the six-character limit on the ITS file system on their DEC PDP-10. They soon concluded Actors were essentially closures that never return but instead invoke a continuation, and thus they decided that the closure and the Actor were, for the purposes of their investigation, essentially identical concepts. They eliminated what they regarded as redundant code and, at that point, discovered that they had written a very small and capable dialect of Lisp. Hewitt remained critical of the "hairy control structure" in Scheme and considered primitives (e.g., START!PROCESS, STOP!PROCESS and EVALUATE!UNINTERRUPTIBLY) used in the Scheme implementation to be a backward step.
+25 years later, in 1998, Sussman and Steele reflected that the minimalism of Scheme was not a conscious design goal, but rather the unintended outcome of the design process. "We were actually trying to build something complicated and discovered, serendipitously, that we had accidentally designed something that met all our goals but was much simpler than we had intended... we realized that the lambda calculus—a small, simple formalism—could serve as the core of a powerful and expressive programming language." 
+On the other hand, Hewitt remained critical of the lambda calculus as a foundation for computation writing "The actual situation is that the λ-calculus is capable of expressing some kinds of sequential and parallel control structures but, in general, not the concurrency expressed in the Actor model. On the other hand, the Actor model is capable of expressing everything in the λ-calculus and more." He has also been critical of aspects of Scheme that derive from the lambda calculus such as reliance on continuation functions and the lack of exceptions.
+
+
+== The Lambda Papers ==
+Between 1975 and 1980 Sussman and Steele worked on developing their ideas about using the lambda calculus, continuations and other advanced programming concepts such as optimization of tail recursion, and published them in a series of AI Memos which have become known collectively as the "Lambda Papers".
+
+
+=== List of papers ===
+1975: Scheme: An Interpreter for Extended Lambda Calculus
+1976: Lambda: The Ultimate Imperative
+1976: Lambda: The Ultimate Declarative
+1977: Debunking the 'Expensive Procedure Call' Myth, or, Procedure Call Implementations Considered Harmful, or, Lambda: The Ultimate GOTO
+1978: The Art of the Interpreter or, the Modularity Complex (Parts Zero, One, and Two)
+1978: RABBIT: A Compiler for SCHEME
+1979: Design of LISP-based Processors, or SCHEME: A Dialect of LISP, or Finite Memories Considered Harmful, or LAMBDA: The Ultimate Opcode
+1980: Compiler Optimization Based on Viewing LAMBDA as RENAME + GOTO
+1980: Design of a Lisp-based Processor
+
+
+== Influence ==
+Scheme was the first dialect of Lisp to choose lexical scope. It was also one of the first programming languages after Reynold's Definitional Language  to support first-class continuations. It had a large impact on the effort that led to the development of its sister-language, Common Lisp, to which Guy Steele was a contributor.
+
+
+== Standardization ==
+The Scheme language is standardized in the official IEEE standard, and a de facto standard called the Revisedn Report on the Algorithmic Language Scheme (RnRS). The most widely implemented standard is R5RS (1998), and a new standard, R6RS, was ratified in 2007.
+
+
+== References ==

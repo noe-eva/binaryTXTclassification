@@ -1,0 +1,1 @@
+The International Symposium on Microarchitecture (MICRO) is generally viewed as the top-tier academic conference on computer architecture. It is not to be confused with a micro-conference.

@@ -1,0 +1,10 @@
+ChaSen is a morphological parser for the Japanese language. This tool for analyzing morphemes was developed at the Matsumoto laboratory, Nara Institute of Science and Technology.
+
+
+== See also ==
+MeCab
+
+
+== External links ==
+ChaSen home page
+Nara Institute of Science and Technology Matsumoto Laboratory

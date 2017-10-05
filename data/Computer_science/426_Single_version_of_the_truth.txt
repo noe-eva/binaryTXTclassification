@@ -1,0 +1,30 @@
+In computerized business management, single version of the truth (SVOT), is a technical concept describing the data warehousing ideal of having either a single centralised database, or at least a distributed synchronised database, which stores all of an organisation's data in a consistent and non-redundant form. This contrasts with the related concept of single source of truth (SSOT), which refers to a data storage principle to always source a particular piece of information from one place.
+
+
+== Applied to message sequencing ==
+In some systems and in the context of message processing systems (often realtime systems), this term also refers to the goal of establishing a single agreed sequence of messages within a database formed by a particular but arbitrary sequencing of records. The key concept is that data combined in a certain sequence is a "truth" which may be analyzed and processed giving particular results, and that although the sequence is arbitrary (and thus another correct but equally arbitrary sequencing would ultimately provide different results in any analysis), it is desirable to agree that the sequence enshrined in the "single version of the truth" is the version that will be considered "the truth", and that any conclusions drawn from analysis of the database are valid and unarguable, and (in a technical context) the database may be duplicated to a backup environment to ensure a persistent record is kept of the "single version of the truth".
+The key point is when the database is created using an external data source (such as a sequence of trading messages from a stock exchange) an arbitrary selection is made of one possibility from two or more equally valid representations of the input data, but henceforth the decision sets "in stone" one and only one version of the truth.
+
+
+== As applied to message sequencing ==
+Critics of SVOT as applied to message sequencing argue that this concept is not scalable. As the world moves towards systems spread over many processing nodes, the effort involved in negotiating a single agreed-upon sequence becomes prohibitive.
+But as pointed out by Owen Rubel at his API World talk 'The New API Pattern', the SVOT is always going to be the service layer in a distributed architecture where Input/Output meet; This also is where the actual endpoint binding belongs to allow for modularization and better abstraction of the I/O data across the architecture to avoid the architectural cross cutting concern.
+
+
+== See also ==
+Closed world assumption
+Open world assumption
+
+
+== References ==
+
+
+== Bibliography ==
+King, Julia (2003-12-22). "Business Intelligence: One Version of the Truth". ComputerWorld. 
+Lamport, Leslie (July 1978). "Time, Clocks, and the Ordering of Events in a Distributed System" (PDF). Communications of the ACM. 21 (7): 558–565. doi:10.1145/359545.359563. 
+Inmon, Bill (2004-09-09). "The Single Version Of The Truth". Business Intelligence Network. Powell Media. 
+http://www.industryweek.com/EventDetail.aspx?EventID=179
+Chisholm, Malcolm (December 2006), "There is No Single Version of the Truth", Information Management Magazine, retrieved 2010-03-15 
+
+
+== External links ==

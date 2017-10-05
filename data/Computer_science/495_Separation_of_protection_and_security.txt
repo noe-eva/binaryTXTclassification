@@ -1,0 +1,24 @@
+In computer sciences the separation of protection and security is a design choice. Wulf et al. identified protection as a mechanism and security as a policy, therefore making the protection-security distinction a particular case of the separation of mechanism and policy principle.
+
+
+== Overview ==
+The adoption of this distinction in a computer architecture, usually means that protection is provided as a fault tolerance mechanism by hardware/firmware and kernel, whereas the operating system and applications implement their security policies. In this design, security policies rely therefore on the protection mechanisms and on additional cryptography techniques.
+The major hardware approach for security or protection is the use of hierarchical protection domains. Prominent example of this approach is ring architecture with "supervisor mode" and "user mode"). Such approach adopts a policy already at the lower levels (hardware/firmware/kernel), restricting the rest of the system to rely on it. Therefore, the choice to distinguish between protection and security in the overall architecture design implies rejection of the hierarchical approach in favour of another one, the capability-based addressing.
+Examples of models with protection and security separation include: access matrix, UCLA Data Secure Unix, take-grant and filter. Such separation is not found in models like: high-water mark, Bell–LaPadula (original and revisited), information flow, strong dependency and constraints.
+
+
+== See also ==
+Capability-based addressing
+Computer security policy
+
+
+== Notes ==
+
+
+== References ==
+Houdek, M. E., Soltis, F. G., and Hoffman, R. L. 1981. IBM System/38 support for capability-based addressing. In Proceedings of the 8th ACM International Symposium on Computer Architecture. ACM/IEEE, pp. 341–348.
+Intel Corporation (2002) The IA-32 Architecture Software Developer’s Manual, Volume 1: Basic Architecture
+Carl E. Landwehr Formal Models for Computer Security [1] Volume 13, Issue 3 (September 1981) pp. 247 – 278
+Swift, Michael M; Brian N. Bershad, Henry M. Levy, Improving the reliability of commodity operating systems, [2] ACM Transactions on Computer Systems (TOCS), v.23 n.1, p. 77-110, February 2005
+Wulf, W.; E. Cohen; W. Corwin; A. Jones; R. Levin; C. Pierson; F. Pollack (June 1974). "HYDRA: the kernel of a multiprocessor operating system". Communications of the ACM. 17 (6): 337–345. ISSN 0001-0782. doi:10.1145/355616.364017.  [3]
+Feltus, Christophe (2008). "Preliminary Literature Review of Policy Engineering Methods - Toward Responsibility Concept". Proceeding of 3rd international conference on information and communication technologies : from theory to applications (ICTTA 08), Damascus, Syria; Preliminary Literature Review of Policy Engineering Methods - Toward Responsibility Concept.

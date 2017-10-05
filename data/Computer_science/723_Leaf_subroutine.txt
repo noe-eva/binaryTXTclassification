@@ -1,0 +1,2 @@
+A leaf subroutine is a subroutine which cannot in turn call another subroutine. Some compilers can apply special program optimizations to leaf subroutines, such as the use of link registers to avoid having to push the return address on the stack.
+The term "leaf" refers to their position as leaf nodes in the call graph of the program.

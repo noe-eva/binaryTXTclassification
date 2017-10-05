@@ -1,0 +1,5 @@
+The HABU equivalent is a unit of measurement used by United States Department of Defense's High Performance Computing Modernization Program to evaluate the performance of large computers systems.
+"The [HPCMP method for measuring system performance] is as follows: the ratio of time [for a given benchmark application] at a target processor count provides a relative measure of the system's performance on that application test case compared with the DoD standard system, stated in Habu-equivalents. Habu, the first DoD standard system, is an IBM POWER3 formerly located at the US Naval Oceanographic Office (NAVO) Major Shared Resource Center. One Habu-equivalent is the performance of 1,024 system-under-study processors compared with 1,024 Habu processors.
+
+
+== References ==

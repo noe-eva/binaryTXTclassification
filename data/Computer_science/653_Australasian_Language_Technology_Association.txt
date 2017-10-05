@@ -1,0 +1,27 @@
+The Australasian Language Technology Association (ALTA) promotes language technology research and development in Australia and New Zealand. ALTA organises regular events for the exchange of research results and for academic and industrial training, and co-ordinates activities with other professional societies. ALTA is a founding regional organization of the Asian Federation of Natural Language Processing (AFNLP).
+Every year early December ALTA organises a research workshop (commonly known as ALTW) gathering together the growing language technology community in Australia and New Zealand, both from the academic and industrial world. The workshop welcomes original work on any aspect of natural language processing, including both speech and text. Accepted papers are published in the ALTA proceedings, which are also included as part of the ACL Anthology.
+Since 2008 ALTA has been involved in organising the Australian Computational and Linguistics Olympiad (OzCLO), which is a contest for high school students in the area of linguistics and computational linguistics.
+
+
+== Conferences ==
+ALTW2003, 10 December 2003, Melbourne.
+ALTW2004, 8 December 2004, Sydney.
+ALTW2005, 10–11 December 2005, Sydney.
+ALTW2006, 30 November - 1 December 2006, Sydney, as part of the HCSNet SummerFest.
+ALTA2007, 10–11 December 2007, Melbourne, in conjunction with ADCS.
+ALTA2008, 8–10 December 2008, Hobart, in conjunction with ADCS.
+ALTA2009, 3–4 December 2009, Sydney, as part of the HCSNet Summerfest.
+ALTA2010, 9–10 December 2010, Melbourne, in conjunction with ADCS.
+ALTA2011, 1–2 December 2011, Canberra, in conjunction with ADCS and langfest 2011, which includes the 2nd combined conference of the Applied Linguistics Association of Australia (ALAA) and the Applied Linguistics Association of New Zealand (ALANZ), as well as the 42nd Annual Conference of the Australian Linguistics Society (ALS)
+ALTW2012, 6–5 December 2012, Dunedin in conjunction with ADCS.
+ALTW2013, 4–6 December 2013, Brisbane in conjunction with ADCS.
+ALTW2014, 26–28 November 2014, Melbourne, in conjunction with ADCS.
+
+
+== Notes ==
+
+
+== External links ==
+ALTA home page
+AFNLP home page
+OzCLO home page

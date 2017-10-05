@@ -1,0 +1,8 @@
+VLDB is an annual conference held by the non-profit Very Large Data Base Endowment Inc. The mission of VLDB is to promote and exchange scholarly work in databases and related fields throughout the world. The VLDB conference began in 1975 and is now closely associated with SIGMOD and SIGKDD.
+
+
+== Venues ==
+
+
+== External links ==
+VLDB Endowment Inc.

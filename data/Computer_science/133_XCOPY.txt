@@ -1,0 +1,46 @@
+In computing, XCOPY is a command used on PC DOS, MS-DOS, OS/2, Microsoft Windows, and related operating systems for copying multiple files or entire directory trees from one directory to another and for copying files across a network. XCOPY stands for extended copy, and was created as a more functional file copying utility than the copy command found in these operating systems. XCOPY first appeared in DOS 3.2.
+
+
+== ExampleEdit ==
+Create a new directory by copying all contents of the existing directory, including any files or subdirectories having the "hidden" or "system" attributes and empty directories.
+
+If the directory names include blank signs (spaces), the names can be put in quotation marks.
+
+Copy entire drive in to a mapped network drive while ignoring any errors in network restartable mode.
+
+Copy a single file without prompt if it is a file or a directory
+
+
+== DeprecationEdit ==
+While still included in Windows Vista, Xcopy has been deprecated in favor of Robocopy, a more powerful copy tool, which is now built into the Microsoft Windows Server and Desktop operating systems.
+
+
+== LimitationEdit ==
+Experience has shown that Xcopy fails with an "insufficient memory" error when the path plus filename is longer than 254 characters.
+Moving large files without the "/j" option (available only after Server 2008R2) can consume all available RAM on a system.
+
+
+=== No open filesEdit ===
+Xcopy will not copy open files. Any process may open files for exclusive read access by withholding the FILE_SHARE_READ https://msdn.microsoft.com/en-us/library/aa363858.aspx
+The Windows Volume Shadow Copy service is used for such situations, but Xcopy does not use it. Therefore, Xcopy is not useful for backing up live operating system volumes. However, one can use another utility, such as GSCopyPro.
+
+
+== See alsoEdit ==
+List of file copying software
+List of MS-DOS commands
+Robocopy
+XCOPY deployment
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Switches That You Can Use with Xcopy and Xcopy32 Commands, Windows 95, Windows 98, Windows Me
+Xcopy, Microsoft Windows XP
+Xcopy, Technet
+Microsoft TechNet Xcopy article
+VariableGHz article depicting CRC errors and XCOPY as a solution
+XCOPY Command in a post build event does not execute
+XP_CMDSHELL Does Not Work with XCOPY
+See also Microsoft Product Documentation

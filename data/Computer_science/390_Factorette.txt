@@ -1,0 +1,7 @@
+A factorette is a unit of composability of a larger Software factory that extends another software factory.
+A factorette typically (but not exclusively) presents a single view point (called 'A Single View-Point Factory'). That is, a factory that addresses at least one concern/technology/pattern/aspect of a larger solution/architecture etc.
+Factorettes enables modularization or Composability of a Software factory.
+
+
+== References ==
+The EFx Architectural-Guidance Software Factory

@@ -1,0 +1,72 @@
+Information and Computer Science (ICS) or Computer and Information Science (CIS) (plural forms, i.e. Sciences, may also be used) is a field that emphasizes both computing and informatics, upholding the strong association between the fields of information sciences and computer sciences and treating computers as a tool rather than a field.
+Information science is one with a long history, unlike the – relatively – very young field of computer science, and is primarily concerned with gathering, storing, disseminating, sharing and protecting any and all forms of information. It is a broad field, covering a myriad of different areas but is often referenced alongside computer science because of the incredibly useful nature of computers and computer programs in helping those studying and doing research in the field – particularly in helping to analyse data and in spotting patterns too broad for a human to intuitively perceive. While information science is sometimes confused with information theory the two have vastly different subject matter. Information theory focuses on one particular mathematical concept of information while information science is focused on all aspects of the processes and techniques of information.
+Computer science, on the other hand, is less focused on information and its different states, but more, in a very broad sense, on the use of computers – both in theory and practice – to design and implement algorithms in order to aid the processing of information during the different states described above. It has strong foundations in the field of mathematics, as the very first recognised practitioners of the field were renowned mathematicians such as Alan Turing.
+Information Science and computing began to converge in the 1950s and 1960s, as information scientists started to realize the many ways computers would improve information storage and retrieval.
+
+
+== Terminology ==
+Due to the distinction between computers and computing, some research groups refer to "computing" or "Datalogy". The French refer to computer science as informatique. The term "information and communications technology", or ICT, refers to how humans communicate with using machines and computers, making a distinction from "information and computer science", which is how computers use and gain information.
+Informatics is also distinct from "computer science," which encompasses the study of logic and low-level computing issues.
+
+
+== Education ==
+Universities may confer degrees of ICS and CIS, not to be confused with a more specific Bachelor of Computer Science or respective graduate Computer Science degrees.
+The QS World University Rankings is one of the most widely recognised and distinguished university comparisons. They ranked the top 10 universities for Computer Science and Information Systems in 2015.
+They are:
+Massachusetts Institute of Technology(MIT)
+Stanford University
+University of Oxford
+Carnegie Mellon University
+Harvard University
+University of California, Berkeley(UCB)
+University of Cambridge
+The Hong Kong University of Science and Technology
+ETH Zurich – Swiss Federal Institute of Technology
+Princeton University
+A Computer Information Science degree gives students both network and computing knowledge which is needed to design, develop, and assist information systems which helps to solve business problems and to support business problems and to support business operations and decision making at a managerial level also.
+
+
+== Areas of information and computer science ==
+Due the nature of this field, many topics are also shared with computer science and information systems.
+The discipline of Information and Computer Science spans a vast range of areas from basic Computer Science theory (Algorithms and Computational Logic) to in depth analysis of data manipulation and use within technology.
+
+
+=== Programming theory ===
+The process of taking a given algorithm and encoding it into a language that can be understood and executed by a computer. There are many different types of programming languages and various different types of computers, however, they all have the same goal: to turn algorithms into machine code.
+Popular programming languages used within the academic study of CIS include, but are not limited to;
+Java
+Python
+C#
+C++
+Perl
+Ruby
+Pascal
+Swift
+Visual Basic
+
+
+=== Information and information systems ===
+The academic study of software and hardware systems that process large quantities and data, support large scale data management and how data can be used. This is where the field is unique from the standard study of Computer Science. The area of information systems focuses on the networks of hardware and software that are required to process, manipulate and distribute such data.
+
+
+=== Computer systems and organisations ===
+The process of analysing computer architecture and various logic circuits. This involves looking at low level computer processes at bit level computation. This is an in-depth look into the hardware processing of a computational system, involving looking at the basic structure of a computer and designing such systems. This can also involve evaluating complex circuit diagrams, and being able to construct these to solve a main problem.
+The main purpose behind this area of study is to achieve an understanding of how computers function on a basic level, often through tracing machine operations.
+
+
+=== Machines, languages and computation ===
+This is the study into fundamental computer algorithms, which are the basis to computer programs. Without algorithms, there would be no computer programs. This also involves the process of looking into various mathematical functions behind computational algorithms, basic theory and functional (low level) programming.
+In an academic setting this area would introduce the fundamental mathematical theorems and functions behind theoretical computer science which are the building blocks for other areas in the field. Complex topics such as; proofs, algebraic functions and sets will be introduced during studies of CIS.
+
+
+== Developments ==
+Information and Computer Science is a field that is rapidly developing with job prospects for students being extremely promising with 75.7% of graduates gaining employment. Also the IT industry employs one in twenty of the workforce with it predicted to increase nearly five times faster than the average of the UK and between 2012 and 2017 more than half a million people will be needed within the industry and the fact that nine out of ten tech firms are suffering from candidate shortages which is having a negative impact on their companies as it delays the development of new products being created and it’s predicted in the US that in the next decade there will be more than one million jobs in the technology sector than computer science graduates to actually fill them. Because of this programming is now being taught at an earlier age with an aim to interest students from a young age into Computer and Information Science hopefully leading more children to study this at a higher level. For example, children in England will now be exposed to computer programming at the age of 5 due to an updated national curriculum.
+
+
+== Employment ==
+Due to the wide variety of jobs that now involve computer and information science related tasks it is difficult to provide a comprehensive list of possible jobs in this area, but some of the key areas are artificial intelligence, software engineering and computer networking/communication. Work in this area also tends to require sufficient understanding of mathematics and science. Moreover, jobs that having a CIS degree can lead to, include- systems analyst, network administrator, system architect, information systems developer, web programmer, or software developer.
+The earning potential for CIS graduates is quite promising. A 2013 survey from the National Association of Colleges and Employers (NACE) found that the average starting salary for graduates who earned a degree in a computer related field was $59,977, up 4.3% from the previous year. This is higher than other popular degrees such as Business ($54,234), education ($40,480) and Math and Sciences ($42,724). Furthermore, Payscale ranked 129 college degrees based on their graduates earning potential with engineering, math, science, and technology fields dominating the ranking. With eight computer related degrees appearing among the top 30. With the lowest starting salary for these jobs being $49,900. A Rasmussen College article describes various jobs CIS graduates may obtain with software applications developers at the top making a median income of $98,260.
+According to the National Careers Service an Information Scientist can expect to earn £24,000+ per year as a starting salary.
+
+
+== References ==

@@ -1,0 +1,104 @@
+The UK Large-Scale Complex IT Systems (LSCITS) Initiative is a research and graduate education programme focusing on the problems of developing large-scale, complex IT systems (also referred to as Ultra-large-scale systems or ULSS). The initiative is funded by the EPSRC, with more than ten million pounds of funding awarded between 2006 and 2013.
+
+
+== Background ==
+The initial motivation for the establishment of a research programme in large-scale complex IT systems was the publication of a 2004 report by the Royal Academy of Engineering and the British Computer Society. This report examined the causes of failure of a number of large software projects and made several recommendations for research to address some of these problems.
+A second report, authored by Seth Bullock & Dave Cliff and also published in 2004, was commissioned by the UK Government's Department of Trade and Industry (DTI) Office of Science and Technology and carried the title Complexity and Emergent Behaviour in ICT Systems The main conclusions of this report were that the primary challenges needing to be addressed in the UK are institutional and cultural obstacles to appropriate interdisciplinary research and that there was an urgent need to address omissions in UK undergraduate computer science education.
+In October 2005, Dave Cliff was appointed Director of the LSCITS initiative by the EPSRC and was asked to consult extensively with industry on their problems in this area and, on the basis of this consultation, to form a consortium to tackle these problems. The results of the consultation were that the key concerns of industry were socio-technical issues arising from the interactions between organisations, people and systems and in high-integrity systems engineering. On the basis of this, a consortium was formed with two partners (York, Oxford) focusing on formal methods and high-integrity systems and two partners (Leeds, St Andrews) focusing on socio-technical systems. Subsequently, a further project focusing on cloud computing was approved with Bristol, St Andrews and Aston Universities as partners.
+The five-year research project started in October 2007 with the associated EngD program starting in October 2009.
+
+
+== Partners ==
+University of Bristol. Department of Computer Science (Prof Dave Cliff)
+University of Leeds. Institute of Health Sciences (Prof Justin Keen). Dr Andreas Hild and Mr Kanwar Adeel Waheed Khan also worked on the LSCITS team along from 2008-2011, examining complexity in organisations aspects.
+University of Oxford. Department of Computer Science (Prof Marta Kwiatkowska)
+University of St Andrews. School of Computer Science (Prof Ian Sommerville)
+University of York. Department of Computer Science (Prof John McDermid, Prof Tim Kelly, Prof Richard Paige, Dr Radu Calinescu)
+
+
+== Research ==
+The aim of the LSCITS research project is:
+"to improve existing technical approaches to complex systems engineering and to develop new socio-technical approaches that help us understand the complex interactions between organisations, processes and systems".
+The LSCITS stack (Figure 1) shows the research areas that are particularly relevant to LSCITS.
+
+The focus of the work of the project was initially in the following areas:
+Complexity in organisations (led by University of Leeds)
+Socio-technical systems engineering (led by University of St Andrews).
+Predictable software systems(led by University of Oxford)
+High-integrity systems (led by University of York)
+Work on mathematical foundations was not included as these were funded in a separate research programme by the EPSRC with complexity science research centres at the University of Bristol and the University of Warwick. A further centre on complex systems simulation was funded later at the University of Southampton.
+The work on novel computational approaches was superseded by work on cloud computing as the significance of this area emerged during the project.
+The Key Publications below describe the work of the project in more detail.
+
+
+== The LSCITS EngD programme ==
+The LSCITS EngD programme  is an Engineering Doctorate scheme, coordinated by the University of York that focuses on training and research in complex IT systems. Students on the programme take a range of core and optional taught modules and carry out research in conjunction with an industrial sponsor. The key difference between this programme and a conventional PhD is that students spend the majority of their time working with the industrial sponsor and may submit a portfolio thesis, describing several related research projects on a common theme, rather than a single topic.
+Core modules on the scheme include
+Empirical Methods for LSCITS
+High-Integrity Systems Engineering
+Predictable Software Systems
+Socio-Technical Systems
+Systems Engineering for LSCITS
+Technology Innovation
+Students take a number of optional modules in addition to these core topics from computer science, mathematics and management. Overall, the core and optional modules are intended to provide EngD students with breadth as well as depth in LSCITS topics.
+In parallel with the taught part of the programme, students carry out research; research projects span LSCITS topics, including socio-technical systems, high-performance computing, cloud computing, systems and software engineering, safety critical systems, interactive and accessible systems, and advanced decision making. EngD industrial sponsors include leading multi-national corporations, through to small-to-medium-sized enterprises who wish to build research capability and capacity.
+
+
+== Management and governance ==
+Operational management of the entire LSCITS Initiative is the responsibility of the Director (Dave Cliff), and the two Initiative Co-Directors (Ian Sommerville and John McDermid). Ian Sommerville manages integration across the various LSCITS work-packages and activities. John McDermid works with Richard Paige, the LSCITS EngD Centre Director, to manage the York-based LSCITS Engineering Doctorate programme.
+The Director reports to the chair of the LSCITS International Scientific Advisory Board, and to the chair of the LSCITS National Stakeholder Board. These two boards provide their guidance and advice on the LSCITS research and training programmes.
+
+
+== Key publications ==
+The papers below, organised according to the LSCITS stack shown in Figure 1, describe the work of the project. A full list of publications is available on the LSCITS web site.
+
+
+=== LSCITS in general ===
+R. Calinescu & M. Kwiatkowska (2010). Software Engineering Techniques for the Development of Systems of Systems. In C. Choppy & O. Sokolski (editors), Foundations of Computer Software. Future Trends and Techniques for Development, vol. 6026 of LNCS, pp. 59–82, Springer. Preprint available online.
+D. Cliff & L. Northrop (2011). The Global Financial Markets: An Ultra-Large Scale Systems Perspective. Briefing paper for UK Government Office for Science Foresight project on The Future of Computer Trading in the Financial Markets. September 2011.
+I. Sommerville, D. Cliff, R. Calinescu, J. Keen, T. Kelly, M. Kwiatkowska, J. McDermid, and R. Paige. (2011) Large Scale Complex IT Systems.
+
+
+=== Complexity in organisations ===
+J. Rooksby and I. Sommerville. (2012) The Management and Use of Social Network Sites in a Government Department. Computer-supported Cooperative Work - The Journal of Collaborative Computing.
+J. Keen. (2011) The Governance of Privacy and Confidentiality. Paper prepared for IRSPM XV, Dublin, 11–13 April 2011.
+J. Keen. (2009) Integration At Any Price: The Case of the NHS National Programme for IT. In: H Margetts, C Hood and 6 P (eds) Paradoxes of Modernization. Oxford, Oxford University Press.
+
+
+=== Socio-technical systems engineering ===
+Baxter, G.; Sommerville, I. (2010). "Socio-Technical Systems: From Design Methods to Systems Engineering". Interacting With Computers. 23: 4–17. doi:10.1016/j.intcom.2010.07.003. 
+I. Sommerville (editor). The Socio-technical Systems Engineering Handbook. (2011). University of St Andrews.
+
+
+=== High-integrity systems ===
+X. Ge, R.F. Paige, J. McDermid: Probabilistic Failure Propagation and Transformation Analysis. SAFECOMP 2009: 215-228.
+Paige, R.F.; Galloway, A.; Charalambous, R.; Ge, X.; Brooke, P.J. (2011). "High-integrity agile processes for the development of safety critical software". IJCCBS. 2 (2): 181–216. doi:10.1504/IJCCBS.2011.041259. 
+Williams, J.R.; Poulding, S.M.; Rose, L.M.; Paige, R.F.; Polack, F.A. C. "Identifying Desirable Game Character Behaviours through the Application of Evolutionary Algorithms to Model-Driven Engineering Metamodels". SSBSE. 2011: 112–126. doi:10.1007/978-3-642-23716-4_13. 
+
+
+=== Predictable software systems ===
+R. Calinescu, L. Grunske, M. Kwiatkowska, R. Mirandola, G. Tamburrelli (2011). Dynamic QoS Management and Optimisation in Service-Based Systems. In: IEEE Transactions on Software Engineering.
+L. Feng, M. Kwiatkowska and D. Parker. (2011) Automated Learning of Probabilistic Assumptions for Compositional Reasoning. Proc. 14th International Conference on Fundamental Approaches to Software Engineering (FASE'11), volume 6603 of LNCS, pages 2–17, Springer.
+M. Kwiatkowska. (2007) Quantitative Verification: Models, Techniques and Tools. Proc. 6th joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE), pages 449-458, ACM Press.
+M. Kwiatkowska, G. Norman and D. Parker. (2009) PRISM: Probabilistic Model Checking for Performance and Reliability Analysis. ACM SIGMETRICS Performance Evaluation Review, 36(4), pages 40–45, ACM.
+
+
+=== Cloud computing ===
+John Cartlidge and Ilango Sriram (2011). Modelling resilience in cloud-scale data centres. Proceedings of 23rd European Modeling and Simulation Symposium, Rome. September 2011
+A. Khajeh-Hosseini, D. Greenwood, J. W. Smith & I. Sommerville (2011). The Cloud Adoption Toolkit: Supporting Cloud Adoption Decisions in the Enterprise. Software: Practice and Experience - Special Issue on Software Architectures and Application Development Environments for Cloud Computing.
+
+
+== Publications by similar groups ==
+Ultra-large scale systems: Overview. Software Engineering Institute, Carnegie Mellon University.
+Goth, G. (2008). "Ultralarge Systems: Redefining Software Engineering?". IEEE Software. 25 (3): 91–94. doi:10.1109/MS.2008.82. 
+H. Sillitto, (2010) "Design Principles for Ultra-Large-Scale Systems". Proc. 20th Annual International Council on Systems Engineering (INCOSE) International Symposium, July, 2010, Chicago, IL, USA.
+Northrop, L. et al. (2006). Ultra-Large-Scale Systems: The Software Challenge of the Future. Software Engineering Institute, Carnegie Mellon University. (6.5MB download)
+
+
+== See also ==
+Cloud computing
+Sociotechnical systems
+System of systems
+
+
+== References ==

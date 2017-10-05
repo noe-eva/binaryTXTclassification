@@ -1,0 +1,2 @@
+A linear octree is an octree that is represented by a linear array instead of a tree data structure.
+To simplify implementation, a linear octree is usually complete (that is, every internal node has exactly 8 child nodes) and where the maximum permissible depth is fixed a priori (making it sufficient to store the complete list of leaf nodes). That is, all the nodes of the octree can be generated from the list of its leaf nodes. Space filling curves are often used to represent linear octrees.

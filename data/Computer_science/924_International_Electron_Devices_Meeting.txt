@@ -1,0 +1,61 @@
+The IEEE International Electron Devices Meeting (IEDM) is an annual micro- and nanoelectronics conference held each December that serves as a forum for reporting technological breakthroughs in the areas of semiconductor and related device technologies, design, manufacturing, physics, modeling and circuit-device interaction.
+The IEDM is the conference where semiconductor industry pioneer Gordon Moore first updated and explained the prediction he made 10 years earlier which has come to be known as “Moore’s Law.” Moore’s Law states that the complexity of integrated circuits would double approximately every two years.
+IEDM brings together managers, engineers, and scientists from industry, academia, and government around the world to discuss nanometer-scale CMOS transistor technology, advanced memory, displays, sensors, MEMS devices, novel quantum and nanoscale devices using emerging phenomena, optoelectronics, power, energy harvesting, and ultra-high-speed devices, as well as process technology and device modeling and simulation. The conference also encompasses discussions and presentations on devices in silicon, compound and organic semiconductors, and emerging material systems. In addition to technical paper presentations, IEDM includes multiple plenary presentations, panel sessions, tutorials, short courses, and invited talks and an entrepreneurship panel session conducted by experts in the field from around the globe.
+The 63rd annual IEDM will be held at the Hilton San Francisco Union Square hotel December 2-6, 2017. The conference has issued a Call for Papers with a paper-submission deadline of August 2, 2017.
+
+
+== Sponsor ==
+The International Electron Devices Meeting is sponsored by the Electron Devices Society of the Institute of Electrical and Electronics Engineers (IEEE).
+
+
+== History ==
+The First Annual Technical Meeting on Electron Devices (renamed the International Electron Devices Meeting in the mid-1960s) took place on October 24–25, 1955 at the Shoreham Hotel in Washington D.C. with approximately 700 scientists and engineers in attendance. At that time, the seven-year-old transistor and the electron tube reigned as the predominant electron-device technology. Fifty-four papers were presented on the then state-of-the-art in electron device technology, the majority of them from four U.S. companies -- Bell Telephone Laboratories, RCA Corporation, Hughes Aircraft Co. and Sylvania Electric Products. The need for an electron devices meeting was driven by two factors: commercial opportunities in the fast-growing new "solid-state" branch of electronics, and the U.S. government's desire for solid-state components and better microwave tubes for aerospace and defense.
+
+
+== IEDM 2015 ==
+The 2015 International Electron Devices Meeting took place at the Washington Hilton Hotel from December 5–9, 2015. The major topics  included:
+ultra-small transistors 
+advanced memories 
+low-power devices for mobile & Internet of Things (IoT) applications 
+alternatives to silicon transistors 
+3D integrated circuit (IC) technology 
+a broad range of papers addressing some of the fastest-growing specialized areas in micro/nanoelectronics, including silicon photonics, physically flexible circuits  and brain-inspired computing 
+
+
+== IEDM 2014 ==
+The 2014 International Electron Devices Meeting took place at the Hilton San Francisco Union Square from December 15–17, 2014. The 2014 edition of the IEDM emphasized:
+14 nm FinFET transistor processes 
+power electronics 
+bio-sensors and MEMS/NEMS technologies for medical applications 
+new memory devices 
+display and sensor technologies 
+3D device architectures 
+
+
+== IEDM 2013 ==
+The 2013 International Electron Devices Meeting took place at the Hilton Washington Hotel from December 9–11, 2013 and focused on:
+Non-planar FinFETs on bulk silicon and fully depleted planar silicon-on-insulator (FD-SOI) devices, as the two mainstream advanced technology approach for continued scaling 
+Non-silicon devices such as tunneling FETs (TFETs), which hold promise as a way to control transistor off-state leakage by getting around the sub-60 mV/decade steep subthreshold slope barrier.
+3D integrated circuit for stacking of heterogeneous chips for future system on chip (SOC)
+Various non-volatile memory technologies such as resistive memories (ReRAM or RRAM), which are attracting interest because of their potential to deliver faster write times and greater endurance than flash.
+Biomedical electronics, which are attracting widespread interest because of the potential for low-cost DNA-sequencing on a chip
+Power electronic devices for automotive and smart grid applications
+
+
+== References ==
+
+
+== Additional Information ==
+IEDM
+IEDM on Facebook
+IEDM on Twitter: @ieee_iedm
+Electron Device Society of the IEEE
+IEEE
+IEEE Xplore Digital Library
+
+
+== Related Conferences ==
+Symposia on VLSI Technology and Circuits
+International Solid-State Circuits Conference
+Device Research Conference
+Hot Chips: A Symposium of High Performance Chips

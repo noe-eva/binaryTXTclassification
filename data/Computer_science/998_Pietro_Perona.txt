@@ -1,0 +1,21 @@
+Pietro Perona is the Allan E. Puckett Professor of Electrical Engineering and Computation and Neural Systems at the California Institute of Technology and director of the National Science Foundation Engineering Research Center in Neuromorphic Systems Engineering. He is known for his research in computer vision and is the director of the Caltech Computational Vision Group.
+
+
+== Academic biography ==
+Perona obtained his D.Eng. in electrical engineering cum laude from the University of Padua in 1985 and completed his Ph.D. at the University of California, Berkeley in 1990.  His dissertation was titled Finding Texture and Brightness Boundaries in Images, and his adviser was Jitendra Malik. In 1990, he was a postdoctoral fellow at the International Computer Science Institute at Berkeley. From 1990 to 1991, he was a postdoctoral fellow at the Massachusetts Institute of Technology in the Laboratory for Information and Decision Systems. He has been on the faculty of the California Institute of Technology since 1991, and he was named Allan E. Puckett Professor in 2008.
+
+
+== Research ==
+Perona’s research focuses on the computational aspects of vision and learning. He developed the anisotropic diffusion equation, a partial differential equation that reduces noise in images while enhancing region boundaries. He is currently interested in visual recognition and in visual analysis of behavior.    Perona and Serge Belongie lead the Visipedia project, which facilitates research on visual knowledge representation, visual search, and human-in-the-loop machine learning systems.  
+Perona pioneered the study of visual categorization (including the publication of the Caltech 101 dataset) for which he was awarded the Longuet-Higgins Prize in 2013.  He is also the recipient of the 2010 Koenderink Prize for Fundamental Contributions in Computer Vision, the 2003 Conference on Computer Vision and Pattern Recognition best paper award, and a 1996 NSF Presidential Young Investigator Award.
+
+
+== Media Coverage ==
+Perona has been quoted or had his research featured in various national media outlets, including the New York Times, Science Friday, The New Yorker, and the Los Angeles Times. In 2003, Perona and Stephen Nowlin organized the NEURO art exhibition, which brought together contemporary artists and scientists to explore neuromorphic engineering. 
+
+
+== References ==
+
+
+== External links ==
+Pietro Perona professional home page

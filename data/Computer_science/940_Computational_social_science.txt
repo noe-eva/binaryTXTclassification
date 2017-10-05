@@ -1,0 +1,37 @@
+Computational social science refers to the academic sub-disciplines concerned with computational approaches to the social sciences. This means that computers are used to model, simulate, and analyze social phenomena. Fields include computational economics, computational sociology, cliodynamics, culturomics, and the automated analysis of contents, in social and traditional media. It focuses on investigating social and behavioral relationships and interactions through social simulation, modeling, network analysis, and media analysis.
+Computational social science revolutionizes both fundamental legs of the scientific method: empirical research, especially through big data, by analyzing the digital footprint left behind through social online activities; and scientific theory, especially through computer simulation model building through social simulation. It is a multi-disciplinary and integrated approach to social survey focusing on information processing by means of advanced information technology. The computational tasks include the analysis of social networks, social geographic systems, social media content and traditional media content.
+Computational social science work increasingly relies on the greater availability of large databases, currently constructed and maintained by a number of interdisciplinary projects, including:
+The Seshat: Global History Databank, which systematically collects state-of-the-art accounts of the political and social organization of human groups and how societies have evolved through time into an authoritative databank. Seshat is affiliated also with the Evolution Institute, a non-profit think-tank that "uses evolutionary science to solve real-world problems."
+D-PLACE: the Database of Places, Languages, Culture and Environment, which provides data on over 1,400 human social formations
+The Atlas of Cultural Evolution, an archaeological database created by Peter N. Peregrine
+CHIA: The Collaborative Information for Historical Analysis, a multidisciplinary collaborative endeavor hosted by the University of Pittsburgh with the goal of archiving historical information and linking data as well as academic/research institutions around the globe
+International Institute of Social History, which collects data on the global social history of labour relations, workers, and labour
+Human Relations Area Files eHRAF Archaeology
+Human Relations Area Files eHRAF World Cultures
+Clio-Infra a database of measures of economic performance and other aspects of societal well-being on a global sample of societies from 1800 CE to the present
+The Google Ngram Viewer, an online search engine that charts frequencies of sets of comma-delimited search strings using a yearly count of n-grams as found in the largest online body of human knowledge, the Google Books corpus.
+The analysis of vast quantities of historical newspaper content has been pioneered in, while other studies on similar data showed how periodic structures can be automatically discovered in historical newspapers. A similar analysis was performed on social media, again revealing strongly periodic structures.
+
+
+== See also ==
+Cliodynamics
+Seshat (project)
+Computational cognition
+Digital sociology
+Social web
+Social network analysis
+
+Online content analysis
+Predictive analytics
+
+
+== References ==
+
+
+== External links ==
+ESSA: European Social Simulation Association portal
+PAAA: Pan-Asian Association for Agent-based Approach in Social Systems Sciences
+CSSSA: Computational Social Science Society of the Americas
+International Conference on Computational Social Science 2015
+"Life in the network: the coming age of computational social science". Retrieved June 10, 2015.
+Seshat

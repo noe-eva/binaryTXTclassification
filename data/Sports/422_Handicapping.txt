@@ -1,0 +1,100 @@
+Handicapping, in sport and games, is the practice of assigning advantage through scoring compensation or other advantage given to different contestants to equalize the chances of winning. The word also applies to the various methods by which the advantage is calculated. In principle, a more experienced participant is disadvantaged, or a less experienced or capable participant is advantaged, in order to make it possible for the less experienced participant to win whilst maintaining fairness. Handicapping is used in scoring many games and competitive sports, including go, shogi, chess, croquet, golf, bowling, polo, basketball, and track and field events. Handicap races are common in clubs which encourage all levels of participants, such as swimming or in cycling clubs and sailing clubs, or which allow participants with a variety of standards of equipment. Often races, contests or tournaments where this practice is competitively employed are known as Handicaps.
+Handicapping also refers to the various methods by which spectators can predict and quantify the results of a sporting match. The term is applied to the practice of predicting the result of a competition, such as for purposes of betting against the point spread. A favored team that wins by less than the point spread still wins the game, but bets on that team lose.
+In either case the handicapper is the person who sets the handicaps for the activity.
+
+
+== Etymology ==
+The term handicap derives from hand-in-cap, referring to a system wherein players placed bets or money into the cap of a neutral arbiter to reach an agreement as to the relative values of items sought to be traded.
+
+
+== Competition handicapping ==
+In a 'result adjustment' style handicap event, the outcome may be adjusted by some factor determined by the handicap. Some forms of car or yacht racing. In this case, the winner, on elapsed time, may differ from the fastest competitor when the times have been adjusted for the different competitors' handicaps.
+In a 'pursuit' style handicap race, all participants are clocked in a time trial before the race. When this takes place at the same event as the main race, it is known as the handicap. In the race itself, the participants do not all start at the same "Go"; the starts are staggered, based on the handicaps. The slowest swimmer, or cyclist, for example, starts first and the fastest starts last, making the end of the race (hopefully) close. An ideal handicap race is one in which all participants finish at the same time. The winner is the person who beats his or her own time.
+Similarly, phyisically staggered starting positions can be used, for example, in greyhound racing a handicap race is where greyhounds (based on their ability) start from different starting traps set at different measurements from the finish line, and in human foot racing, for example, the Stawell Gift.
+Some motorsport events, especially in sports car racing, demand teams to stop the vehicle in the pitbox a fixed period of time depending on the drivers' classification, thus giving advantage to less skilled drivers. An example of a championship using this system is the International GT Open. The advantage of this system over ballast weight systems is that vehicles have the normal performance on track, so better drivers will be able to recover time and overtake slower drivers.
+Contrarily, horse race handicaping is implemented using extra weight.
+
+
+=== Horse racing ===
+
+A handicap race in horse racing is a race in which horses carry different weights, allocated by the handicapper. A better horse will carry a heavier weight, to give him or her a disadvantage when racing against slower horses. The handicapper's goal in assigning handicap weights is to enable all the horses to finish together (in a dead heat).
+The skill in betting on a handicap horse race is in determining which horse can overcome its handicap.
+
+
+=== Golf ===
+
+Handicapping in the game of golf is by manipulating the golfer's score (number of strokes).
+
+
+=== Chess ===
+
+Types of chess handicaps include:
+the stronger player surrenders a certain piece or pieces
+the weaker player has extra moves at the beginning of the game
+the weaker player has extra time on the chess clock
+the odds-giver to deliver checkmate with a specified piece
+
+
+=== Go ===
+
+Handicapping in go includes the weaker player being given an advantage by placing a number of stones before the stronger player commences, and by final points adjustment.
+
+
+=== Shogi ===
+
+Handicapping in shogi is achieved by removing one or more pieces from the stronger player's side. Shogi (Japanese chess) and many of its variants have handicaps.
+
+
+=== Gliding ===
+
+
+=== Polo ===
+
+The polo handicap is an estimation of the player's worth to his or her team. It is an overall rating of a player's horsemanship, team play, knowledge of the game, strategy and horses. The difference between the total of the polo handicaps for the players on each team is then used to determine the minimum score difference for the better team to score to enable them to win.
+
+
+=== Sailing ===
+
+Handicaps for sailing vessels in sailing races have varied throughout history, and they also vary by country, and by sailing organisation. Sailing handicap standards exist internationally, nationally, and within individual sailing clubs.
+Sailing race handicaps may be based on vessel capability and-or crew experience, and today typically adjust the time a vessel takes to reach the finish point of the race.
+
+
+=== Tennis ===
+
+
+=== Motor cycle speedway ===
+Calculated Match Average is a handicap calculated for every motorcycle speedway rider.
+
+
+== Outcome prediction ==
+
+
+=== Middle and arbitrage bets ===
+There are strategies that involve differences in the lines on the same event at different books. One bet is called a "middle", which when a player finds two books that offer different point spreads for the same event. They will bet the more favorable spread at both books, and if the final score falls between the two, the bettor will win both bets. On the other hand, if the total falls outside the range of the "middle" the bettor only loses a small percentage of a bet (the "juice" or "vig" taken by the house).
+For example, Book 1 has Team A as a 3-point favorite, and Book 2 has team B as a 3-point favorite. If a player bets Team B at Book 1, and Team A at Book 2, he will win both bets if either side wins by 2 or less points, and will win one bet and lose the other (known as a "side") if either team wins by 3 points.
+Another strategy, known as arbitrage, or an "arb" or "scalp", involves finding different moneylines for the same event. In this case, the bettor will bet the more favorable line at both books, and have a guaranteed profit. For example, if Book 1 considers Team A to be worth +200 (2 to 1 underdog), and Book 2 considers Team B to be worth +200, a bettor can bet Team A at Book 1, and Team B at Book 2, and guarantee a 100% profit. This is a no-risk bet, as the player is guaranteed a profit no matter the result of the game.
+
+
+=== Famous handicappers ===
+The first very well known sports handicapper in American culture was Jimmy "The Greek" Snyder. During his career he worked for CBS on their Sunday morning show, The NFL Today. Because sports betting had a social taboo at the time, Snyder was not allowed to mention betting on games specifically. Instead, he would predict the score. Over the years the attitude towards sports betting, and handicapping in general, has changed. Billy Walters was profiled by 60 Minutes because of his handicapping abilities. Billy Walters, and other unknown members of the Computer Group, developed a system for handicapping games and beating Las Vegas sportsbooks. The Huffington Post covered Jon Price a reclusive sports bettor that hires Ph.D's and works off of algorithmic information for his predictions. ESPN wrote an article on Haralabos Voulgaris naming him as the one of the premier NBA handicappers in the world. He claims to have developed a system that uses advanced statistical analysis to predict the outcomes of games. In the past, very few people did any mathematical calculations when handicapping sporting events. Predictions were usually made from hunches or information not readily available to the public. However, with the advancement of technology computers powerful enough to run advanced simulation models now frequent homes and offices. Advanced statistics such as DVOA, Win Shares and Points per Possession are talked about in mainstream media. Brian Burke, author of The Fifth Down blog featured in the New York Times, wrote a formula using advanced statistical techniques that has shown consistency correctly predicting NFL winners. Handicapping, as a profession, is very similar to being a stock analyst. Like Wall Street did in the 1970s, the sports handicapping industry is undergoing a quantitative revolution. Many successful handicappers also use money management systems similar to financial investment professionals. The most popular, and mathematically superior, system is the Kelly criterion. It is a formula for maximizing profits and minimizing losses based on payout odds and win probability of the underlying asset.
+
+
+== See also ==
+Political handicapping
+Bookmaker
+Handicap race (disambiguation)
+Match fixing
+Point shaving
+Sports betting
+Tipster
+Handicap principle
+
+
+== References ==
+
+Beyer, Andrew (May 6, 1994). Picking Winners : A Horseplayer's Guide (Reissue ed.). Houghton Mifflin. ISBN 0-395-70132-5. 
+
+
+== External links ==
+United States Golf Association Handicap Manual
+An Online Kelly Calculator

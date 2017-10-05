@@ -1,0 +1,82 @@
+A tennis court is the venue where the sport of tennis is played. It is a firm rectangular surface with a low net stretched across the center. The same surface can be used to play both doubles and singles matches. A variety of surfaces can be used to create a tennis court, each with its own characteristics which affect the playing style of the game.
+
+
+== Dimensions ==
+
+Tennis is played on a rectangular flat surface, usually of grass, clay or hard material. The dimensions of a tennis court are defined and regulated by the International Tennis Federation (ITF) governing body and are written down in the annual 'Rules of Tennis' document. The court is 78 feet (23.77 metres) long. Its width is 27 feet (8.23 metres) for singles matches and 36 feet (10.97 metres) for doubles matches. The service line is 21 feet (6.40 metres) from the net. Additional clear space around the court is needed in order for players to reach overrun balls for a total of 60 feet (18 metres) wide and 120 feet (37 metres) long. A net is stretched across the full width of the court, parallel with the baselines, dividing it into two equal ends. The net is 3 feet 6 inches (1.07 metres) high at the posts, and 3 feet (0.91 metres) high in the center. The net posts are 3 feet (0.91 metres) outside the doubles court on each side or, for a singles net, 3 feet (0.91 metres) outside the singles court on each side.
+
+
+== Surfaces ==
+Tennis is played on a variety of surfaces and each surface has its own characteristics which affect the playing style of the game. There are four main types of courts depending on the materials used for the court surface: clay courts, hard courts, grass courts and carpet courts. The International Tennis Federation (ITF) lists different surfaces and properties and classifies surfaces into one of five pace settings:
+Category 1 (slow)
+Category 2 (medium-slow)
+Category 3 (medium)
+Category 4 (medium-fast)
+Category 5 (fast)
+Of the current four Grand Slam tournaments, the Australian and US Open use hard courts, French Open is played on clay, and Wimbledon, the only Grand Slam to have always been played on the same surface, is played on grass. The Australian Open switched to hard courts in 1988 and in its early years the French championship alternated between clay and sand/rubble courts. The US Open is the only major to have been played on three surfaces; it was played on grass from its inception until 1974, clay from 1975 until 1977 and hard courts since it moved from the West Side Tennis Club to the National Tennis Center in 1978.
+ITF uses the following classification for tennis court surface types:
+
+
+=== Clay courts ===
+
+Clay courts are made of crushed shale, stone or brick. The French Open is the only Grand Slam tournament to use clay courts.
+Clay courts slow down the ball and produce a high bounce in comparison to grass or hard courts. For this reason, the clay court takes away many of the advantages of big serves, which makes it hard for serve-based players to dominate on the surface. Clay courts are cheaper to construct than other types of tennis courts, but a clay surface costs more to maintain. Clay courts need to be rolled to preserve flatness. The clay's water content must be balanced; green clay courts generally require the courts to be sloped to allow water run-off.
+Clay courts are more common in Europe and Latin America than in North America, and tend to heavily favour baseline players.
+Historically for the Grand Slams clay courts have been used at the US Open from 1975 to 1977 and the French Open since 1891.
+
+
+=== Grass courts ===
+
+Grass courts are the fastest type of courts in common use. They consist of grass grown on very hard-packed soil, which adds additional variables: bounces depend on how healthy the grass is, how recent it has been mowed, and the wear and tear of recent play. Points are usually very quick where fast, low bounces keep rallies short, and the serve plays a more important role than on other surfaces. Grass courts tend to favour serve-and-volley tennis players.
+Grass courts were once among the most common tennis surfaces, but are now rare due to high maintenance costs as they must be watered and mown often, and take a longer time to dry after rain than hard courts. The grass surface, however, is the most physically forgiving to the human body because of its softness.
+Historically for the Grand Slams grass courts have been used at the Australian Open from 1905 to 1987, the US Open from 1881 to 1974, and Wimbledon since 1877.
+
+
+=== Hard courts ===
+
+Hard courts are made of uniform rigid material, often covered with an acrylic surface layer to offer greater consistency of bounce than other outdoor surfaces. Hard courts can vary in speed, though they are faster than clay but not as fast as grass courts. The quantity of sand added to the paint can greatly affect the rate at which the ball slows down.
+The US Open is played on DecoTurf while the Australian Open is played on Plexicushion, both acrylic-topped hard court surfaces.
+Historically for the Grand Slams hard courts have been used at the Australian Open since 1988 and the US Open since 1978.
+
+
+=== Carpet courts ===
+
+"Carpet" in tennis means any removable court covering. Indoor arenas store rolls of rubber-backed court surfacing and install it temporarily for tennis events, but they are not in use anymore for professional events. A short piled form of artificial turf infilled with sand is used for some outdoor courts, particularly in Asia. Carpet is generally a fast surface, faster than hardcourt, with low bounce.
+Notable tennis tournaments previously held on carpet courts were the WCT Finals, Paris Masters, U.S. Pro Indoor and Kremlin Cup. Since 2009, their use has been discontinued on both the ATP and WTA tours.
+
+
+== Indoor courts ==
+Any court surface may be used indoors. Hard courts are most common indoors, as they are made with the most versatile materials and surface finishes. Clay courts are installed indoors with underground watering systems, and used mostly for Davis Cup matches. The conclusion of the Wimbledon Championships, in 2012, was played on the lawn of Centre Court under the roof and artificial lights. Carpet surfaces have been used both on the ATP World Tour and World Championship Tennis circuit, though no events currently use them. Historically, other surfaces have been used indoors such as hardwood at the defunct World Covered Court Championships and London Indoor Professional Championships. Currently, the ATP World Tour Finals event is the most important indoor tennis tournament.
+
+
+== Smaller courts ==
+The ITF campaign Play and Stay aims to increase tennis participation worldwide by improving the way children are introduced to the game. The campaign promotes playing on smaller courts with slower red, orange and green balls. This gives children more time and control so they can serve, rally, and score from the first lesson on courts that are sized to fit their bodies. The ITF has mandated that official competition for children under 10 years of age should be played on so-called "Orange" courts 18 m (59 ft) long by 6.4 m (21 ft) wide. Competition for children under 8 years is played on "Red" courts that are 11 m (36 ft) long and 5.5 m (18 ft) wide. The net is always 0.8 m high in the center.
+
+
+== Terminology ==
+
+Common tennis court terms:
+Advantage service box or ad court: The receiver's left side service box, or the opponent's right for the server; significant as the receiving side for an advantage point.
+Alley or Tramlines: The lanes on each side of the singles court. These are only used when playing doubles.
+Back court: The area between the baseline and the service line.
+Baseline: The rearmost line of the court, furthest from and parallel to the net.
+Center service line: The line dividing the two service boxes on each side.
+Center mark: The 12-inch mark at the halfway point of the baseline used to distinguish the two halves (and service boxes) of a tennis court.
+Deuce service box or deuce court: The receiver's right side service box, or the opponent's left for the server, significant as the receiving side for a deuce point.
+Service box: The area on each side bounded by the singles sideline, the service line, and the net. There are left and right service boxes, separated by the center service line.
+Service line: The line that is parallel to the net and is located between the baseline and the net. It marks the end of the service boxes.
+Side T: The T shape formed by the service line and the singles sideline. There are four such side Ts, two on each side of the net.
+T or Middle T: The T shape formed by the service line and the center service line.
+
+
+== See also ==
+
+List of tennis stadiums by capacity
+No-line court
+
+
+== References ==
+
+
+== External links ==
+International Tennis Federation (ITF) – Tennis court construction guidelines

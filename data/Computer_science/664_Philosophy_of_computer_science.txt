@@ -1,0 +1,36 @@
+The philosophy of computer science is concerned with the philosophical questions that arise with the study of computer science, which is understood to mean not just programming but the whole study of concepts and methods that assist in the development and maintenance of computer systems. There is still no common understanding of the content, aim, focus, or topic of the philosophy of computer science, despite some attempts to develop a philosophy of computer science like the philosophy of physics or the philosophy of mathematics.
+The philosophy of computer science as such deals with the meta-activity that is associated with the development of the concepts and methodologies that implement and analyze the computational systems.
+
+
+== See also ==
+Computer-assisted proof: Philosophical objections
+Philosophy of artificial intelligence
+Philosophy of information
+Philosophy of mathematics
+Philosophy of science
+Philosophy of technology
+
+
+== References ==
+
+
+== Further reading ==
+Scott Aaronson. "Why Philosophers Should Care About Computational Complexity". In Computability: Gödel, Turing, Church, and beyond.
+Timothy Colburn. Philosophy and Computer Science. Explorations in Philosophy. M.E. Sharpe, 1999. ISBN 1-56324-991-X.
+A.K. Dewdney. New Turing Omnibus: 66 Excursions in Computer Science
+Luciano Floridi (editor). The Blackwell Guide to the Philosophy of Computing and Information, 2004.
+Luciano Floridi (editor). Philosophy of Computing and Information: 5 Questions. Automatic Press, 2008.
+Luciano Floridi. Philosophy and Computing: An Introduction, Routledge, 1999.
+Christian Jongeneel. The informatical worldview, an inquiry into the methodology of computer science.
+Jan van Leeuwen. "Towards a philosophy of the information and computing sciences", NIAS Newsletter 42, 2009.
+Moschovakis, Y. (2001). What is an algorithm? In Enquist, B. and Schmid, W., editors, Mathematics unlimited — 2001 and beyond, pages 919–936. Springer.
+Alexander Ollongren, Jaap van den Herik. Filosofie van de informatica. London and New York: Routledge, 1999. ISBN 0-415-19749-X
+Tedre, Matti (2014), The Science of Computing: Shaping a Discipline  Taylor and Francis.
+Ray Turner and Ammon H. Eden. "The Philosophy of Computer Science". Stanford Encyclopedia of Philosophy.
+Matti Tedre (2011). Computing as a Science: A Survey of Competing Viewpoints. Minds & Machines 21, 3, 361–387.
+
+
+== External links ==
+The International Association for Computing and Philosophy
+Philosophy of Computing and Information at PhilPapers
+A draft version of Philosophy of Computer Science by William J. Rapaport

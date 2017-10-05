@@ -1,0 +1,45 @@
+Computational genomics (often referred to as Computational Genetics) refers to the use of computational and statistical analysis to decipher biology from genome sequences and related data, including both DNA and RNA sequence as well as other "post-genomic" data (i.e., experimental data obtained with technologies that require the genome sequence, such as genomic DNA microarrays). These, in combination with computational and statistical approaches to understanding the function of the genes and statistical association analysis, this field is also often referred to as Computational and Statistical Genetics/genomics. As such, computational genomics may be regarded as a subset of bioinformatics and computational biology, but with a focus on using whole genomes (rather than individual genes) to understand the principles of how the DNA of a species controls its biology at the molecular level and beyond. With the current abundance of massive biological datasets, computational studies have become one of the most important means to biological discovery.
+
+
+== History ==
+The roots of computational genomics are shared with those of bioinformatics. During the 1960s, Margaret Dayhoff and others at the National Biomedical Research Foundation assembled databases of homologous protein sequences for evolutionary study. Their research developed a phylogenetic tree that determined the evolutionary changes that were required for a particular protein to change into another protein based on the underlying amino acid sequences. This led them to create a scoring matrix that assessed the likelihood of one protein being related to another.
+Beginning in the 1980s, databases of genome sequences began to be recorded, but this presented new challenges in the form of searching and comparing the databases of gene information. Unlike text-searching algorithms that are used on websites such as Google or Wikipedia, searching for sections of genetic similarity requires one to find strings that are not simply identical, but similar. This led to the development of the Needleman-Wunsch algorithm, which is a dynamic programming algorithm for comparing sets of amino acid sequences with each other by using scoring matrices derived from the earlier research by Dayhoff. Later, the BLAST algorithm was developed for performing fast, optimized searches of gene sequence databases. BLAST and its derivatives are probably the most widely used algorithms for this purpose.
+The emergence of the phrase "computational genomics" coincides with the availability of complete sequenced genomes in the mid-to-late 1990s. The first meeting of the Annual Conference on Computational Genomics was organized by scientists from The Institute for Genomic Research (TIGR) in 1998, providing a forum for this speciality and effectively distinguishing this area of science from the more general fields of Genomics or Computational Biology. The first use of this term in scientific literature, according to MEDLINE abstracts, was just one year earlier in Nucleic Acids Research. The final Computational Genomics conference was held in 2006, featuring a keynote talk by Nobel Laureate Barry Marshall, co-discoverer of the link between Helicobacter pylori and stomach ulcers. As of 2014, the leading conferences in the field include Intelligent Systems for Molecular Biology (ISMB) and Research in Computational Molecular Biology (RECOMB).
+The development of computer-assisted mathematics (using products such as Mathematica or Matlab) has helped engineers, mathematicians and computer scientists to start operating in this domain, and a public collection of case studies and demonstrations is growing, ranging from whole genome comparisons to gene expression analysis. This has increased the introduction of different ideas, including concepts from systems and control, information theory, strings analysis and data mining. It is anticipated that computational approaches will become and remain a standard topic for research and teaching, while students fluent in both topics start being formed in the multiple courses created in the past few years.
+
+
+== Contributions of computational genomics research to biology ==
+Contributions of computational genomics research to biology include:
+discovering subtle patterns in genomic sequences 
+proposing cellular signalling networks
+proposing mechanisms of genome evolution
+predict precise locations of all human genes using comparative genomics techniques with several mammalian and vertebrate species
+predict conserved genomic regions that are related to early embryonic development
+discover potential links between repeated sequence motifs and tissue-specific gene expression
+measure regions of genomes that have undergone unusually rapid evolution
+
+
+== Latest Development (from 2012) ==
+
+
+=== First Computer Model of an Organism ===
+Researchers at Stanford University created the first software simulation of an entire organism. They mapped the 525 genes of the bacteria Mycoplasma genitalium, the smallest free-living organism. With data from more than 900 scientific papers reported on the bacterium, researchers developed the software model using the object-oriented programming approach. A series of modules mimic the various functions of the cell, and then integrated it into a whole simulated organism. The simulation runs on a single CPU, recreating the complete life span of the cell at the molecular level, reproducing the interactions of molecules in cell processes including metabolism and cell division.
+The ‘silicon cell’ will act as computerized laboratories that could perform experiments which are difficult to do on an actual organism, or could carry out procedures much faster. The applications will include faster screening of new compounds, understanding of basic cellular principles and behavior.
+
+
+== See also ==
+Bioinformatics
+Biowiki
+Computational biology
+Genomics
+Microarray
+BLAST
+Computational epigenetics
+
+
+== References ==
+
+
+== External links ==
+Harvard Extension School Biophysics 101, Genomics and Computational Biology, http://www.courses.fas.harvard.edu/~bphys101/info/syllabus.html
+University of Bristol course in Computational Genomics, http://www.computational-genomics.net/

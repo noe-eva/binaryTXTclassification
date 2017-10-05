@@ -1,0 +1,24 @@
+Software metering refers to several areas:
+Tracking and maintaining software licenses. One needs to make sure that only the allowed number of licenses are in use, and at the same time, that there are enough licenses for everyone using it. This can include monitoring of concurrent usage of software for real-time enforcement of license limits. Such license monitoring usually includes when a license needs to be updated due to version changes or when upgrades or even rebates are possible.
+Real-time monitoring of all (or selected) applications running on the computers within the organization in order to detect unregistered or unlicensed software and prevent its execution, or limit its execution to within certain hours. The systems administrator can configure the software metering agent on each computer in the organization, for example, to prohibit the execution of games before 5 p.m.
+Fixed planning to allocate software usage to computers according to the policies a company specifies and to maintain a record of usage and attempted usage. A company can check out and check in licenses for mobile users, and can also keep a record of all licenses in use. This is often used when limited license counts are available to avoid violating strict license controls.
+A method of software licensing where the licensed software automatically records how many times or for how long one or more functions in the software are used, and the user pays fees based on this actual usage (also known as 'pay-per-use')
+Software metering provides another benefit to companies by enabling them to set and maintain a consistent set of standards across all levels of a company.
+One of the main functions of most software metering programs is to keep track of the software usage statistics in an organization. This assists the IT departments in keeping track of licensed software, which is often from multiple software vendors. Desktop or Network based software metering packages can provide an "inventory" of software, give details of all the software installed in the network with the total number of copies with the usage details of each software, and even track metrics of software use such as how often it is used by a particular department, the peak times it is being utilized, and what add-ons are being utilized with it. The possible savings on the cost of renewing the licenses of rarely used programs can be well worth the cost of the software.
+
+
+== Short Explanation of Active / Passive Software Metering ==
+Active software metering occurs when a user is specifically denied use of a metered application. Passive software metering occurs when application use is simply recorded and no control is asserted over maintaining a maximum concurrent usage level.
+
+
+== References ==
+
+
+== See also ==
+License manager
+Product activation
+Software license
+Systems management
+System administration
+Key server (software licensing)
+License Statistics

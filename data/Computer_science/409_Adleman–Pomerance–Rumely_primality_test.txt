@@ -1,0 +1,45 @@
+In computational number theory, the Adleman–Pomerance–Rumely primality test is an algorithm for determining whether a number is prime. Unlike other, more efficient algorithms for this purpose, it avoids the use of random numbers, so it is a deterministic primality test. It is named after its discoverers, Leonard Adleman, Carl Pomerance, and Robert Rumely. The test involves arithmetic in cyclotomic fields.
+It was later improved by Henri Cohen and Hendrik Willem Lenstra, commonly referred to as APR-CL. It can test primality of an integer n in time:
+
+  
+    
+      
+        (
+        ln
+        ⁡
+        n
+        
+          )
+          
+            O
+            (
+            ln
+            
+            ln
+            
+            ln
+            ⁡
+            n
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle (\ln n)^{O(\ln \,\ln \,\ln n)}.}
+  
+
+
+== Software implementations ==
+UBASIC provides an implementation under the name APRT-CLE (APR Test CL extended)
+A factoring applet that uses APR-CL on certain conditions (source code included)
+Pari/GP uses APR-CL conditionally in its implementation of isprime().
+mpz_aprcl is an open source implementation using C and GMP.
+Jean Penné's LLR uses APR-CL on certain types of prime tests as a fallback option.
+
+
+== References ==
+Adleman, Leonard M.; Pomerance, Carl; Rumely, Robert S. (1983). "On distinguishing prime numbers from composite numbers". Annals of Mathematics. 117 (1): 173–206. doi:10.2307/2006975. 
+Cohen, Henri; Lenstra, Hendrik W., Jr. (1984). "Primality testing and Jacobi sums". Mathematics of Computation. 42 (165): 297–330. doi:10.2307/2007581. 
+Riesel, Hans (1994). Prime Numbers and Computer Methods for Factorization. Birkhäuser. pp. 131–136. ISBN 0-8176-3743-5. 
+APR and APR-CL

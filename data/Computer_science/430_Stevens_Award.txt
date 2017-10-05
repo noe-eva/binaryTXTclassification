@@ -1,0 +1,29 @@
+The Stevens Award is a software engineering lecture award given by the Reengineering Forum, an industry association. The international Stevens Award was created to recognize outstanding contributions to the literature or practice of methods for software and systems development. The first award was given in 1995. The presentations focus on the current state of software methods and their direction for the future.
+This award lecture is named in memory of Wayne Stevens (1944-1993), a consultant, author, pioneer, and advocate of the practical application of software methods and tools. The Stevens Award and lecture is managed by the Reengineering Forum. The award was founded by International Workshop on Computer Aided Software Engineering (IWCASE), an international workshop association of users and developers of computer-aided software engineering (CASE) technology, which merged into The Reengineering Forum. Wayne Stevens was a charter member of the IWCASE executive board.
+
+
+== Recipients ==
+1995: Tony Wasserman
+1996: David Harel
+1997: Michael Jackson
+1998: Thomas McCabe
+1999: Tom DeMarco
+2000: Gerald Weinberg
+2001: Peter Chen
+2002: Cordell Green
+2003: Manny Lehman
+2004: François Bodart
+2005: Mary Shaw, Jim Highsmith
+2006: Grady Booch
+2007: Nicholas Zvegintzov
+2008: Harry Sneed
+2009: Larry Constantine
+2010: Peter Aiken
+2011: Jared Spool, Barry Boehm
+2012: Philip Newcomb
+2013: Jean-Luc Hainaut
+2014: François Coallier
+2015: Pierre Bourque
+
+
+== References ==

@@ -1,0 +1,11 @@
+A conditional operator is a type of operator. Conditional operators are present in many fields. A conditional operator is similar to, but not equivalent to, a logical operator.
+
+
+== See also ==
+?:, a conditional operator in computer programming
+Ternary operation
+Safe navigation operator
+Operator (programming)
+
+
+== References ==

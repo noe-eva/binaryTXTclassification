@@ -1,0 +1,33 @@
+The Tsutomu Kanai Award was established in 1997 by a generous endowment from Hitachi Ltd., and named in honor of Dr. Tsutomu Kanai who serves as Hitachi’s president for 30 years. The Kanai Award may be presented annually upon the recommendation of the Kanai Award subcommittee, endorsement of the Awards Committee and approval of the Board of Governors.
+
+The Kanai Award recognizes major contributions to the state-of-the-art distributed computing systems and their applications.
+In the evaluation process, the following criteria are considered: seminal nature of the achievements, practical impact, breadth and depth of contributions, and quality of the nomination. The IEEE Computer Society was honored to present Ken Thompson with the very first Tsutomu Award, 10 June 1999.
+The award consists of a crystal model, certificate, and $10,000 honorarium. Deadline: 15 October of each year
+The award is open to all, and anyone may nominate. The award requires three endorsements.
+
+
+== Tsutomu Kanai Award Past Recipients ==
+2012 Beng Chin OOI
+2011 Ian Foster
+2009 Kenneth P. Birman
+2008 Benjamin W. Wah
+2007 Willy Zwaenepoel
+2006 Larry Smarr
+2005 Elisa Bertino
+2004 Kane Kim
+2003 James Gosling
+2002 Stephen S. Yau
+2001 Alfred Z. Spector
+2000 C. V. Ramamoorthy
+1999 Ken Thompson
+
+
+== Nominations Process ==
+IEEE Computer Society Awards Nomination Process.
+
+
+== External links ==
+IEEE Computer Society Awards home page
+Learn more Kanai Award
+IEEE Computer Society
+Institute for Electrical and Electronics Engineers

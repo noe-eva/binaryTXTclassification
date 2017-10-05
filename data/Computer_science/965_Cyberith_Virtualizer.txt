@@ -1,0 +1,21 @@
+The Virtualizer (or Cyberith Virtualizer) is an omnidirectional treadmill with integrated sensors for motion detection in virtual reality applications. It is being developed by the Austrian company Cyberith GmbH.
+
+
+== History ==
+The Idea was born in 2012 by Tuncay Cakmak. During his studies at the Technical University of Vienna he started testing and developing the first prototypes. In 2013 he founded Cyberith and formed a team for further development of the device. He demonstrated the device at different exhibitions in Europe and shared the progress with the community through the Cyberith YouTube channel. A kickstarter campaign started on 23. of July 2014 and in the first 24 hours they made more than 50% of their pledged goal of 250 000 $. The campaign was successfully funded, ending at 361 452 $ from 577 backers, however poor planning and budgeting meant that Cyberith have been unable to deliver the Kickstarter rewards since their March 2015 estimate.
+
+
+== Functional principle ==
+The Virtualizer enables motion by the principle of low friction. The body is fixed in a rotatable ring that can be moved vertically. In combination with a head-mounted display it allows to move, run, jump or crouch in virtual worlds. The current prototype does not need any special kind of shoes.
+
+
+== See also ==
+Haptic suit
+Virtuix Omni
+
+
+== External links ==
+Official website
+
+
+== References ==

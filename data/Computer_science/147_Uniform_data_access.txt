@@ -1,0 +1,2 @@
+Uniform data access is a computational concept describing an even-ness of connectivity and controllability across numerous target data sources.
+Necessary to fields such as Enterprise Information Integration (EII) and Electronic Data Interchange (EDI), it is most often used regarding analysis of disparate data types and data sources, which must be rendered into a uniform information representation, and generally must appear homogenous to the analysis tools—when the data being analyzed is typically heterogeneous and widely varying in size, type, and original representation.

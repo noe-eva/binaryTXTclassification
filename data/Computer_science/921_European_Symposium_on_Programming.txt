@@ -1,0 +1,23 @@
+The European Symposium on Programming (ESOP) is an annual conference devoted to fundamental issues in the specification, design, analysis, and implementation of programming languages and systems. It is one of the 10 top conferences in Programming Languages.
+Initially a biannual conference, ESOP moved in 1998 into an annual schedule and became one of the founding conferences of the European Joint Conferences on Theory and Practice of Software (ETAPS).
+
+
+== See also ==
+List of computer science conferences
+List of computer science conference acronyms
+List of publications in computer science
+Outline of computer science
+
+
+== References ==
+
+
+== Further reading ==
+Special issue of Theoretical Computer Science on the European Symposium on Programming
+Special issue of ACM Transactions on Programming Languages and Systems on the European Symposium on Programming
+Special issue of Science of Computer Programming on the European Symposium on Programming
+
+
+== External links ==
+Official website
+DBLP Page of ESOP Conferences

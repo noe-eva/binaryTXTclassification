@@ -1,0 +1,1 @@
+Non-speech audio input is the use of non-speech sounds such as whistling, humming or hissing for entering data or controlling the user interface.

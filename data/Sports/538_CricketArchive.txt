@@ -1,0 +1,15 @@
+CricketArchive is a cricket database website that aims to provide a complete archive of records relating to the sport of cricket. It claims to be the most comprehensive cricket database on the internet, including scorecards for all matches of first-class cricket (including Test cricket), List A cricket (including One Day Internationals), Women's Test cricket and Women's One-day Internationals, ICC Trophy, and international Under-19 cricket "Test" and one-day cricket matches also blind cricket matches.
+It is working on completing its coverage of English Second XI and other matches, including extensive coverage of UK club cricket.
+In 2017, the owners of the service decided to introduce paid access to the website.
+
+
+== See also ==
+ESPNcricinfo
+CricBuzz
+
+
+== References ==
+
+
+== External links ==
+CricketArchive

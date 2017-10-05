@@ -1,0 +1,7 @@
+Stable hashing is a tool used to implement randomized load balancing and distributed lookup in peer-to-peer computer systems.
+
+
+== See also ==
+Hash function
+Consistent hashing
+Rendezvous hashing

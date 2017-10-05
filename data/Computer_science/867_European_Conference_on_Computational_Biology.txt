@@ -1,0 +1,21 @@
+The European Conference on Computational Biology (ECCB) is a scientific meeting on the subjects of bioinformatics and computational biology. It covers a wide spectrum of disciplines, including bioinformatics, computational biology, genomics, computational structural biology, and systems biology. ECCB is organized annually in different European cities. Since 2007, the conference has been held jointly with Intelligent Systems for Molecular Biology (ISMB) every second year. The conference also hosts the European ISCB Student Council Symposium. The proceedings of the conference are published by the journal Bioinformatics.
+
+
+== History ==
+
+
+=== Formation ===
+ECCB was formed with the intent of providing a European conference focusing on advances in computational biology and their application to problems in molecular biology. The conference was initially to be held on a rotating basis, with the idea that previously successful regional conferences (for instance, the German Conference on Bioinformatics (GCB), the French Journées Ouvertes Biologie, Informatique et Mathématiques (JOBIM) conference and the British Genes, Proteins & Computers (GPC) conference) would be jointly held with ECCB if that region was hosting ECCB in that particular year. The first ECCB conference was held in October 2002 in Saarbrücken, Germany and was chaired by Hans-Peter Lenhof. 69 scientific papers were submitted to the conference.
+
+
+=== Partnership with ISMB ===
+In 2004, ECCB was jointly held with the Intelligent Systems for Molecular Biology (ISMB) conference for the first time. It was also co-located with the Genes, Proteins & Computers conference. This meeting, held in Glasgow, UK, was the largest bioinformatics conference ever held, attended by 2,136 delegates, submitting 496 scientific papers. ISCB Board member and Director of the Spanish National Bioinformatics Institute Alfonso Valencia considers ISMB/ECCB 2004 to be an important milestone in the history of ISMB: "it was the first one where the balance between Europe and the States became an important part of the conference. It was here that we established the rules and the ways and the spirit of collaboration between the Americans and the Europeans." The success of the joint conference paved the way for future European ISMB meetings to be held jointly with ECCB. In January 2007, ISMB and ECCB agreed to hold joint conferences in Europe every other year, beginning with ISMB/ECCB 2007. This pattern has been confirmed to continue until at least 2017.
+
+
+== List of conferences ==
+
+
+=== Planned Conferences ===
+
+
+== References ==

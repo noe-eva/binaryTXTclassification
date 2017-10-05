@@ -1,0 +1,323 @@
+VO2 max (also maximal oxygen consumption, maximal oxygen uptake, peak oxygen uptake or maximal aerobic capacity) is the maximum rate of oxygen consumption as measured during incremental exercise, most typically on a motorized treadmill. Maximal oxygen consumption reflects the cardiorespiratory fitness (CRF), aerobic physical fitness, of the individual, and is an important determinant of their endurance capacity during prolonged, sub-maximal exercise. The name is derived from V - volume, O2 - oxygen, max - maximum.
+VO2 max is widely used as an indicator of health. In 2016, the American Heart Association published a scientific statement recommending that cardiorespiratory fitness (CRF), quantifiable as VO2 max, be regularly assessed and utilized as a clinical vital sign. This statement was based on mounting evidence that lower fitness levels are associated with high risk of cardiovascular disease, all-cause mortality, and mortality rates stemming from various types of cancers. In addition to risk assessment, the AHA recommendation cited the value measuring fitness for validating exercise prescription, physical activity counseling, and improving both patient management and patient health.
+VO2 max is expressed either as an absolute rate in (for example) litres of oxygen per minute (L/min) or as a relative rate in (for example) millilitres of oxygen per kilogram of body mass per minute (e.g., mL/(kg·min)). The latter expression is often used to compare the performance of endurance sports athletes. However, VO2 max generally does not vary linearly with body mass, either among individuals within a species or among species, so comparisons of the performance capacities of individuals or species that differ in body size must be done with appropriate statistical procedures, such as analysis of covariance.
+
+
+== Measurement ==
+
+Accurately measuring VO2 max involves a physical effort sufficient in duration and intensity to fully tax the aerobic energy system. In general clinical and athletic testing, this usually involves a graded exercise test (either on a treadmill or on a cycle ergometer) in which exercise intensity is progressively increased while measuring:
+ventilation and
+oxygen and carbon dioxide concentration of the inhaled and exhaled air.
+VO2 max is reached when oxygen consumption remains at a steady state despite an increase in workload.
+
+
+=== Fick equation ===
+
+VO2 max is properly defined by the Fick equation:
+
+  
+    
+      
+        
+          V
+          
+            O
+            
+              2
+            
+          
+          
+          m
+          a
+          x
+        
+        =
+        Q
+        ×
+         
+        (
+        
+          
+            C
+            
+              a
+            
+          
+          
+            O
+            
+              2
+            
+          
+        
+        −
+        
+          
+            C
+            
+              v
+            
+          
+          
+            O
+            
+              2
+            
+          
+        
+        )
+      
+    
+    {\displaystyle \mathrm {VO_{2}\;max} =Q\times \ (\mathrm {C_{a}O_{2}} -\mathrm {C_{v}O_{2}} )}
+  , when these values are obtained during an exertion at a maximal effort.
+
+where Q is the cardiac output of the heart, CaO2 is the arterial oxygen content, and CvO2 is the venous oxygen content.
+
+(CaO2 – CvO2) is also known as the arteriovenous oxygen difference.
+
+
+== Estimation ==
+Tests measuring VO2 max can be dangerous in individuals who are not considered normal healthy subjects, as any problems with the respiratory and cardiovascular systems will be greatly exacerbated in clinically ill patients. Thus, many protocols for estimating VO2 max have been developed for those for whom a traditional VO2 max test would be too risky. These generally are similar to a VO2 max test, but do not reach the maximum of the respiratory and cardiovascular systems and are called sub-maximal tests.
+
+
+=== Uth–Sørensen–Overgaard–Pedersen estimation ===
+Another estimate of VO2 max, based on maximum and resting heart rates, was created by a group of researchers from Denmark. It is given by:
+
+  
+    
+      
+        
+          V
+        
+        
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+        
+           max
+        
+        ≈
+        
+          
+            
+              
+                HR
+              
+              
+                max
+              
+            
+            
+              
+                HR
+              
+              
+                rest
+              
+            
+          
+        
+        ×
+        15.3
+        
+           mL
+        
+        
+          /
+        
+        (
+        
+          kg·minute
+        
+        )
+        .
+      
+    
+    {\displaystyle {\text{V}}{\ce {O2}}{\text{ max}}\approx {\frac {{\text{HR}}_{\text{max}}}{{\text{HR}}_{\text{rest}}}}\times 15.3{\text{ mL}}/({\text{kg·minute}}).}
+  
+This equation uses the ratio of maximum heart rate (HRmax) to resting heart rate (HRrest) to predict VO2 max. The researchers cautioned that the conversion rule was based on measurements on well-trained men aged 21 to 51 only, and may not be reliable when applied to other sub-groups. They also advised that the formula is most reliable when based on actual measurement of maximum heart rate, rather than an age-related estimate.
+
+
+=== Cooper test ===
+Kenneth H. Cooper conducted a study for the United States Air Force in the late 1960s. One of the results of this was the Cooper test in which the distance covered running in 12 minutes is measured. Based on the measured distance, an estimate of VO2 max [in mL/(kg·min)] is:
+
+  
+    
+      
+        
+          V
+          
+            O
+            
+              2
+            
+          
+          
+          m
+          a
+          x
+        
+        ≈
+        
+          
+            
+              
+                d
+                
+                  12
+                
+              
+              −
+              504.9
+            
+            44.73
+          
+        
+      
+    
+    {\displaystyle \mathrm {VO_{2}\;max} \approx {d_{12}-504.9 \over 44.73}}
+  
+where d12 is distance (in metres) covered in 12 minutes
+An alternative equation is:
+
+  
+    
+      
+        
+          V
+          
+            O
+            
+              2
+            
+          
+          
+          m
+          a
+          x
+        
+        ≈
+        
+          (
+          35.97
+          ∗
+          d
+          m
+          i
+          l
+          e
+          
+            s
+            
+              12
+            
+          
+          )
+          −
+          11.29
+        
+      
+    
+    {\displaystyle \mathrm {VO_{2}\;max} \approx {(35.97*dmiles_{12})-11.29}}
+  
+where dmiles12 is distance (in miles) covered in 12 minutes,
+
+
+=== Multi-stage fitness test ===
+There are several other reliable tests and VO2 max calculators to estimate VO2 max, most notably the multi-stage fitness test (or beep test).
+
+
+=== Rockport fitness walking test ===
+Estimation of VO2 max from a timed one-mile track walk with duration t, incorporating gender, age, body weight in pounds (BW), and heart rate (HR) at the end of the mile. The factor x is 6.3150 for males, 0 for females. BW is in lbs, time is in minutes.
+
+  
+    
+      
+        
+          V
+          
+            O
+            
+              2
+            
+          
+          
+          m
+          a
+          x
+        
+        ≈
+        132.853
+        −
+        0.0769
+        B
+        W
+        −
+        0.3877
+        
+          age
+        
+        −
+        3.2649
+        t
+        −
+        0.1565
+        H
+        R
+        +
+        x
+      
+    
+    {\displaystyle \mathrm {VO_{2}\;max} \approx 132.853-0.0769BW-0.3877{\text{age}}-3.2649t-0.1565HR+x}
+  
+
+
+=== Firstbeat method ===
+The Firstbeat method of VO2 max estimation, of which a patent application was filed in 2012, is widely licensed and used in consumer technology applications. The first consumer fitness device utilizing the Firstbeat method of VO2 max estimation was the Garmin Forerunner 620, released in 2013. Since then, Suunto, Jabra, Huawei, and PulseOn have also introduced products that utilize the Firstbeat method.
+The method relies on an analysis of the linear relationship between oxygen consumption and running speed, meaning that the oxygen cost of running increases when running speed increases. To facilitate analysis and enhance accuracy, timed segments of recorded activity data are identified on the basis of heart rate ranges and reliability; and only the most reliable segments are utilized. This allows the method to be applied to freely performed running, walking and cycling activities and diminishes the need for dedicated fitness testing protocols. The calculation requires user basic anthropometric data (age, gender, height, weight, etc.), heartbeat data (internal workload), and a measure of external workload.
+External workload running/walking: movement speed obtained from either GPS or accelerometer sensors
+External workload cycling: power output expressed in watts and measured by a power meter.
+VO2 max estimates provided by the Firstbeat method are most accurate during running activities that utilize GPS to capture external workload data. This combination has been validated to be 95% accurate compared to laboratory testing. Because the Firstbeat estimation method is sub-maximal in nature, accuracy of the estimate is strongly tied to validity of the HRmax value used in the calculation.
+
+
+== Levels ==
+The average untrained healthy male will have a VO2 max of approximately 35–40 mL/(kg·min). The average untrained healthy female will score a VO2 max of approximately 27–31 mL/(kg·min). These scores can improve with training and decrease with age, though the degree of trainability also varies very widely: conditioning may double VO2 max in some individuals, and will never improve it in others. In one study, 10% of participants showed no benefit after completing a 20-week conditioning program, although the other 90% of the test subjects all showed substantial improvements in fitness to varying degree.
+In sports where endurance is an important component in performance, such as cycling, rowing, cross-country skiing, swimming and running, world-class athletes typically have high VO2 maxima. Elite male runners can consume up to 85 mL/(kg·min), and female elite runners can consume about 77 mL/(kg·min). Five time Tour de France winner Miguel Indurain is reported to have had a VO2 max of 88.0 at his peak, while cross-country skier Bjørn Dæhlie measured at 96 mL/(kg·min). Dæhlie's result was achieved out of season, and physiologist Erlend Hem who was responsible for the testing stated that he would not discount the possibility of the skier passing 100 mL/(kg·min) at his absolute peak. Norwegian cyclist Oskar Svendsen is thought to have recorded the highest VO2 max of 97.5 mL/(kg·min), when aged 18.
+The highest values in absolute terms for humans are often found in rowers, as their much greater bulk makes up for a slightly lower VO2 max per kg. Elite oarsmen measured in 1984 had VO2 max values of 6.1±0.6 L/min and oarswomen 4.1±0.4 L/min. Rowers are interested in both absolute values of VO2 max and in lung capacity, and the fact that they are measured in similar units means that the two are often confused. British rower Sir Matthew Pinsent is variously reported to have had a VO2 of 7.5 L/min or 8.5 L/min, although the latter may represent confusion with his lung capacity of 8.5 litres. New Zealand sculler Rob Waddell has one of the highest absolute VO2 max levels ever tested.
+Values have been measured in some other animal species: thoroughbred horses have a VO2 max of around 180 mL/(kg·min). Siberian dogs running in the Iditarod Trail Sled Dog Race have VO2 max values as high as 240 mL/(kg·min).
+
+
+== Factors affecting VO2 max ==
+The factors affecting VO2 are often divided into supply and demand. Supply is the transport of oxygen from the lungs to the mitochondria (including lung diffusion, stroke volume, blood volume, and capillary density of the skeletal muscle) while demand is the rate at which the mitochondria can reduce oxygen in the process of oxidative phosphorylation. Of these, the supply factor is often considered to be the limiting one. However, it has also been argued that while trained subjects probably are supply limited, untrained subjects can indeed have a demand limitation.
+Tim Noakes, a professor of exercise and sports science at the University of Cape Town, describes a number of factors that may affect VO2 max: age, sex, fitness and training, changes in altitude, and action of the ventilatory muscles. Noakes also asserts that VO2 max is a relatively poor predictor of performance in runners due to variations in running economy and fatigue resistance during prolonged exercise.
+Cardiac output, pulmonary diffusion capacity, oxygen carrying capacity, and other peripheral limitations like muscle diffusion capacity, mitochondrial enzymes, and capillary density are all examples of VO2 max determinants. The body works as a system. If one of these factor is sub-par, then the whole system loses its normal capacity to function properly.
+The drug erythropoietin (EPO) can boost VO2 max by a significant amount in both humans and other mammals. This makes EPO attractive to athletes in endurance sports, such as professional cycling. By 1998 it had become widespread in cycling and led to the Festina affair as well as being mentioned ubiquitously in the USADA 2012 report on the US Postal team. Greg LeMond has suggested establishing a baseline for riders' VO2 max (and other attributes) to detect abnormal performance increases.
+
+
+== See also ==
+Anaerobic exercise
+Arteriovenous oxygen difference
+Cardiorespiratory fitness
+Comparative physiology
+VDOT
+Oxygen pulse
+Respirometry
+Training effect
+vVO2max
+Running economy
+
+
+== References ==
+
+
+== External links ==
+VO2 max Calculator - the Rockport Walking Test
+So What Exactly is VO2?
+Values by age, mL/(kg·min)

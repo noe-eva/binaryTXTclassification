@@ -1,0 +1,14 @@
+Hot Chips is technological symposium held every year in August on Stanford University campus. Operating since 1989, it is co-sponsored by IEEE and ACM SIGARCH. The general emphasis of the conference are microprocessors and integrated circuits. Processor makers often announce details about future processor designs at the symposium.
+
+
+== See also ==
+Cool Chips (symposium)
+Hot Interconnects
+International Solid-State Circuits Conference
+
+
+== References ==
+
+
+== External links ==
+Hot Chips Paper Archives

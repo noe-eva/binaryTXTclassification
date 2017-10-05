@@ -1,0 +1,221 @@
+Advanced Placement Computer Science A (also called AP Java or AP Comp Sci A) is an AP Computer Science course and examination offered by the College Board to high school students as an opportunity to earn college credit for a college-level computer science course. AP Computer Science A is meant to be the equivalent of a first-semester course in computer science. The AP exam currently tests students on their knowledge of Java.
+AP Computer Science AB, which was equivalent to a full year, was discontinued following the May 2009 exam administration.
+
+
+== Course content ==
+AP Computer Science A emphasizes object-oriented programming methodology with an emphasis on problem solving and algorithm development. It also includes the study of data structures and abstraction, but these topics were not covered to the extent that they were covered in AP Computer Science AB. The Microsoft-sponsored program Technology Education and Literacy in Schools (TEALS) aims to increase the number of students taking AP Computer Science classes.
+Topics covered by the course include:
+Object-Oriented Program Design
+Program Design
+Read and understand a problem's description, purpose, and goals.
+Specify the purpose and goals for a problem. (AB only)
+Apply data abstraction and encapsulation.
+Read and understand class specifications and relationships among the classes ("is-a", "has-a" relationships).
+Decompose a problem into classes, define relationships and responsibilities of those classes. (AB only)
+Understand and implement a given class hierarchy.
+Identify reusable components from existing code using classes and class libraries.
+
+Class Design
+Design and implement a class.
+Design and implement a set of interacting classes. (AB only)
+Design an interface.
+Choose appropriate data representation and algorithms.
+Choose appropriate advanced data structures and algorithms. (AB only)
+Apply functional decomposition.
+Extend a given class using inheritance.
+
+Program Implementation
+Implementation techniques
+Methodology
+Object-oriented development
+Top-down development
+Encapsulation and information hiding
+Procedural abstraction
+
+Programming constructs
+Primitive types vs. objects
+Declaration
+Constant declarations
+Variable declarations
+Class declarations
+Interface declarations
+Method declarations
+Parameter declarations
+
+Console output (System.out.print/println)
+Control
+Methods
+Sequential
+Conditional
+Iterations
+Recursion
+
+Java library classes (included in the A or AB-level AP Java Subset)
+
+Program Analysis
+Testing
+Test classes and libraries in isolation
+Identify boundary cases and generate appropriate test data
+Perform integration testing
+
+Debugging
+Categorize errors: compile time, runtime, logic
+Identify and correct errors
+Techniques: use a debugger, add extra output statements, hand-trace code
+
+Understand and modify existing code
+Extend existing code using inheritance
+Understand error handling
+Understand runtime exceptions
+Throw runtime exceptions (AB only)
+
+Reason about programs
+Preconditions and postconditions
+Assertions
+Invariants (AB only)
+
+Analysis of algorithms
+Informal comparisons of running times
+Exact calculation of statement execution counts
+Big O notation (AB only)
+Worst-case and average-case time and space analysis (AB only)
+
+Numerical representations and limits
+Representations of numbers in different bases
+Limitations of finite representations (e.g., integer bounds, imprecision of floating-point representations, and round-off error)
+
+Standard Data Structures
+Simple data types (int, boolean, double)
+Classes
+One-dimensional arrays
+Two-dimensional arrays
+Linked lists (singly, doubly, circular) (AB only)
+Stacks (AB only)
+Queues (AB only)
+Trees (AB only)
+Heaps (AB only)
+Priority queues (AB only)
+Sets (AB only)
+Maps (AB only)
+
+Standard Algorithms
+Operations on data structures listed above
+Traversals
+Insertions
+Deletions
+Iterators (AB only)
+
+Searching
+Sequential
+Binary
+Hashing (AB only)
+
+Sorting
+Selection
+Insertion
+Mergesort
+Quicksort (AB only)
+Heapsort (AB only)
+
+Computing in Context
+Major hardware components
+Primary and secondary memory
+Processors
+Peripherals
+
+System software
+Language translators/compilers
+Virtual machines
+Operating systems
+
+Types of systems
+Single-user systems
+Networks
+
+Responsible use of computer systems
+System reliability
+Privacy
+Legal issues and intellectual property
+Social and ethical ramifications of computer use
+
+
+== Case studies and labs ==
+Historically, the AP exam used several programs in its free-response section to test students' knowledge of object-oriented programs without requiring them to develop an entire environment. These programs were called Case Studies.
+This practice was discontinued as of the 2014-15 school year and replaced with optional labs that teach concepts.
+
+
+=== Case studies (discontinued) ===
+Case studies were used in AP Computer Science curriculum starting in 1994.
+
+
+==== Big Integer case study (1994-2000) ====
+The Big Integer case study was in use prior to 2000. It was replaced by the Marine Biology case study.
+
+
+==== Marine Biology case study (2000-2007) ====
+The Marine Biology Case Study (MBCS) was a program written in C++ until 2003, then in Java, for use with the A and AB examinations. It served as an example of object-oriented programming (OOP) embedded in a more complicated design project than most students had worked with before.
+The case study was designed to allow the College Board to quickly test a student's knowledge of object oriented programming ideas such as inheritance and encapsulation while requiring students to understand how objects such as "the environment", "the fish", and the simulation's control module interact with each other without having to develop the entire environment independently, which would be quite time consuming. The case study also gives all students taking the AP Computer Science exams with a common experience from which to draw additional test questions.
+On each of the exams, at least one free-response question was derived from the case study. There were also five multiple-choice questions that are derived from the case study.
+This case study was discontinued from 2007, and was replaced by GridWorld.
+
+
+==== GridWorld case study (2008-2014) ====
+GridWorld is a computer program case study written in Java that was used with the AP Computer Science program from 2008 to 2014. It serves as an example of object-oriented programming (OOP). GridWorld succeeded the Marine Biology Simulation Case Study, which was used from 2000–2007. The GridWorld framework was designed and implemented by Cay Horstmann, based on the Marine Biology Simulation Case Study. The narrative was produced by Chris Nevison and Barbara Cloud Wells, Colgate University.
+The GridWorld Case Study was used as a substitute for writing a single large program as a culminating project. Due to obvious time restraints during the exam, the GridWorld Case Study was provided by the College Board to students prior to the exam. Students were expected to be familiar with the classes and interfaces (and how they interact) before taking the exam. The case study was divided into five sections, the last of which was only tested on the AB exam. Roughly five multiple-choice questions in Section I were devoted to the GridWorld Case Study, and it was the topic of one free response question in Section II.
+GridWorld has been discontinued and replaced with a set of labs for the 2014-2015 school year.
+Actors
+The GridWorld Case Study employs an Actor class to construct objects in the grid. The Actor class manages the object's color, direction, location, what the object does in the simulation, and how the object interacts with other objects.
+Actors are broken down into the classes "Flower", "Rock", "Bug", and "Critter", which inherit the Actor class and often override certain methods (most notably the Act method). Flowers can't move, and when forced to Act, they become darker. Flowers are dropped by Bugs and eaten by Critters. Rocks are also immobile and aren't dropped or eaten. Bugs move directly ahead of themselves, unless blocked by a rock or another bug, in which case the Bug will make a 45 degree turn and try again. They drop flowers in every space they occupy, eat flowers that are directly on their space of grid, and are consumed by Critters. Critters move in a random direction to a space that isn't occupied by a Rock or other Critter and consume Flowers and Bugs.
+
+Extensions
+The Case Study also includes several extensions of the above classes. "BoxBug" extends "Bug" and moves in a box shape if its route is not blocked. "ChameleonCritter" extends "Critter" and does not eat other Actors, instead changing its color to match the color one of its neighbors. "Crab Critter" moves left or right and only eats Actors in front of it, but otherwise extends the "Critter" class.
+Students often create their own extensions of the Actor class. Some common examples of student created extensions are Warden organisms and SimCity-like structures, in which objects of certain types create objects of other types based on their neighbors (much like Conway's Game of Life). Students have even created versions of the games Pac-Man, Fire Emblem, and Tetris.
+
+Known issues
+The version that is available at the College Board website, GridWorld 1.00, contains a bug (not to be confused with the Actor subclass Bug) that causes a SecurityException to be thrown when it is deployed as an applet. This was fixed in the "unofficial code" release on the GridWorld website. Also, after setting the environment to an invalid BoundedGrid, it will cause a NullPointerException.
+
+
+=== Labs ===
+Instead of the discontinued case studies, the College Board created three new labs that instructors are invited to use, but they are optional and are not tested on the exam. There are no question on the specific content of the labs on the AP exam, but there are questions that test the concepts developed in the labs. The three labs are:
+The Magpie Lab
+The Elevens Lab
+The Picture Lab
+
+
+== AP test ==
+
+
+=== History ===
+The AP exam in Computer Science was first offered in 1984.
+Before 1999, the AP exam tested students on their knowledge of Pascal. From 1999 to 2003, the exam tested students on their knowledge of C++ instead. Since 2003, the AP Computer Science exam has tested students on their knowledge of computer science through Java.
+
+
+=== Format ===
+The exam is composed of two sections:
+Section I: Multiple Choice [1 hour and 15 minutes for 40 multiple-choice questions]
+Section II: Free-Response [1 hour and 45 minutes for 4 problems involving extended reasoning]
+As of 2015, the Multiple Choice section was extended by 15 minutes while the Free-Response section was reduced by 15 minutes for the following:
+Section I: Multiple Choice [1 hour and 30 minutes for 40 multiple-choice questions]
+Section II: Free-Response [1 hour and 30 minutes for 4 problems involving extended reasoning]
+
+
+=== Grade distributions for AP Computer Science A ===
+In the 2014 administration, 39,278 students took the exam. The mean score was a 2.96 with a standard deviation of 1.55. The grade distributions since 2003 were:
+
+
+== AP Computer Science AB ==
+
+
+=== Course content ===
+The discontinued AP Computer Science AB course included all the topics of AP Computer Science A, as well as a more formal and a more in-depth study of algorithms, data structures, and data abstraction. For example, binary trees were studied in AP Computer Science AB but not in AP Computer Science A. The use of recursive data structures and dynamically allocated structures were fundamental to AP Computer Science AB. Due to low numbers of students taking the AP Computer Science AB exam, it was discontinued after the 2008–2009 year.
+
+
+=== Grade distributions for AP Computer Science AB ===
+The AP Computer Science AB Examination was discontinued as of May 2009. The grade distributions from 2003 to 2009 are shown below:
+
+
+== References ==
+
+
+== External links ==
+College Board: AP Computer Science A

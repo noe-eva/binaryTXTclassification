@@ -1,0 +1,21 @@
+SPORE, the Security Protocols Open Repository, is an online library of security protocols with comments and links to papers. Each protocol is downloadable in a variety of formats, including rules for use with automatic protocol verification tools. All protocols are described using BAN logic or the style used by Clark and Jacob, and their goals. The database includes details on formal proofs or known attacks, with references to comments, analysis & papers. A large number of protocols are listed, including many which have been shown to be insecure.
+It is a continuation of the seminal work by John Clark and Jeremy Jacob.
+They seek contributions for new protocols, links and comments.
+
+
+== See also ==
+
+Cryptography
+Symmetric-key algorithm
+Public-key cryptography
+Cryptographic nonce
+List of cryptography topics.
+Short and long lists of cryptographers.
+Important books, papers, and open problems in cryptography.
+
+
+== External links ==
+SPORE - Security Protocols Open Repository
+
+
+== References ==

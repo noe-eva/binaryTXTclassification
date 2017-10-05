@@ -1,0 +1,22 @@
+In computing, hand coding means editing the underlying representation of a document or a computer program, when tools that allow working on a higher level representation also exist. Typically this means editing the source code, or the textual representation of a document or program, instead of using a WYSIWYG editor that always displays an approximation of the final product. It may also mean translating the whole or parts of the source code into machine language manually instead of using a compiler or an automatic translator.
+Most commonly, it refers to directly writing HTML documents for the web (rather than in a specialized editor), or to writing a program or portion of a program in assembly language (more rarely raw machine code) rather than in a higher level language. It can also include other markup languages, such as wikitext.
+
+
+== Purpose ==
+The reasons to use hand coding include the ability to:
+Use features or refinements not supported by the graphical editor or compiler
+Control the semantics of a document beyond that allowed by the graphical editor
+Produce more elegant source code to help maintenance and integration
+Produce better performing machine code than that produced by the compiler (see optimization)
+Avoid having to pay for expensive WYSIWYG Editors. Note that there are some open-source editors available on the web, however.
+Develop an understanding of the methods underlying a common level of abstraction. For example, although it has become rare in real-life scenarios, computer science students may be required to write a program in an assembly language to get a notion of processor registers and other basal elements of computer architecture.
+Escape abstractions and templated code. Hand coding allows more refined control of code, which may improve efficiency, or add functionality that is otherwise unavailable.
+Hand coding may require more expertise and time than using automatic tools.
+
+
+== Hand Code ==
+Hand code is source code which does not have tools that can edit it at a more abstract level. Hand code must, by definition, be edited and maintained entirely by hand. Some code can be edited either using an editor/IDE or by hand, but hand code is differentiated from derived code in that it requires human involvement to create and maintain it over time. Projects may include both hand code and derivative code.
+Ironically, the automatic tools responsible for creating derivative code are themselves usually made up entirely, or at least in part, of hand code.
+
+
+== References ==

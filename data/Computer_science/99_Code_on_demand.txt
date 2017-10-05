@@ -1,0 +1,11 @@
+In distributed computing, code on demand is any technology that sends executable software code from a server computer to a client computer upon request from the client's software. Some well-known examples of the code on demand paradigm on the web are Java applets, Adobe’s ActionScript language for the Flash player, and JavaScript.
+The program code lies inactive on a web server until a user (client) requests a web page that contains a link to the code using the client's web browser. Upon this request, the web page and the program are transported to the user's machine using HTTP. When the page is displayed, the code is started in the browser and executes locally, inside the user's computer until it is stopped (e.g., by the user leaving the web page).
+Code on demand is a specific use of mobile code, within the field of code mobility.
+
+
+== See also ==
+Remote evaluation
+Code mobility
+
+
+== References ==

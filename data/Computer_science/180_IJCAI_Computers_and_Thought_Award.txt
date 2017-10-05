@@ -1,0 +1,41 @@
+The IJCAI Computers and Thought Award is presented every two years by the International Joint Conferences on Artificial Intelligence (IJCAI), recognizing outstanding young scientists in artificial intelligence. It was originally funded with royalties received from the book Computers and Thought (edited by Edward Feigenbaum and Julian Feldman), and is currently funded by IJCAI.
+It is considered to be "the premier award for artificial intelligence researchers under the age of 35".
+
+
+== Award recipients ==
+Terry Winograd (1971)
+Patrick Winston (1973)
+Chuck Rieger (1975)
+Douglas Lenat (1977)
+David Marr (1979)
+Gerald Sussman (1981)
+Tom Mitchell (1983)
+Hector Levesque (1985)
+Johan de Kleer (1987)
+Henry Kautz (1989)
+Rodney Brooks (1991)
+Martha E. Pollack (1991)
+Hiroaki Kitano (1993)
+Sarit Kraus (1995)
+Stuart Russell (1995)
+Leslie Kaelbling (1997)
+Nicholas Jennings (1999)
+Daphne Koller (2001)
+Tuomas Sandholm (2003)
+Peter Stone (2007)
+Carlos Guestrin (2009)
+Andrew Ng (2009)
+Vincent Conitzer (2011)
+Malte Helmert (2011)
+Kristen Grauman (2013)
+Ariel D. Procaccia (2015)
+Percy Liang (2016)
+for his contributions to both the approach of semantic parsing for natural language understanding and better methods for learning latent-variable models, sometimes with weak supervision, in machine learning. 
+Devi Parikh (2017)
+
+
+== References ==
+
+
+== External links ==
+IJCAI Awards

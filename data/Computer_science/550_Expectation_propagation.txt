@@ -1,0 +1,11 @@
+Expectation propagation (EP) is a technique in Bayesian machine learning.
+EP finds approximations to a probability distribution. It uses an iterative approach that leverages the factorization structure of the target distribution. It differs from other Bayesian approximation approaches such as Variational Bayesian methods.
+
+
+== References ==
+Thomas Minka (August 2–5, 2001). "Expectation Propagation for Approximate Bayesian Inference". In Jack S. Breese, Daphne Koller. UAI '01: Proceedings of the 17th Conference in Uncertainty in Artificial Intelligence (PDF). University of Washington, Seattle, Washington, USA. pp. 362–369. 
+
+
+== External links ==
+Minka's EP papers
+List of papers using EP.

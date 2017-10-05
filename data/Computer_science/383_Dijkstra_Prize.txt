@@ -1,0 +1,25 @@
+The Edsger W. Dijkstra Prize in Distributed Computing is given for outstanding papers on the principles of distributed computing, whose significance and impact on the theory and/or practice of distributed computing has been evident for at least a decade. The prize has been presented annually since 2000.
+Originally the prize was presented at the ACM Symposium on Principles of Distributed Computing (PODC), and it was known as the PODC Influential-Paper Award. It was renamed in honor of Edsger W. Dijkstra in 2003, after he received the award for his work in self-stabilization in 2002 and died shortly thereafter.
+Since 2007, the prize is sponsored jointly by PODC and the EATCS International Symposium on Distributed Computing (DISC), and the presentation takes place alternately at PODC (even years) and DISC (odd years). The prize includes an award of $2000.
+
+
+== Winners ==
+
+
+== Funding ==
+The award is financed by ACM PODC and EATCS DISC, each providing an equal share of $1,000 towards the $2,000 of the award.
+The PODC share is financed by an endowment at ACM that is based on gifts from the ACM Special Interest Group on Algorithms and Computation Theory (SIGACT), the ACM Special Interest Group on Operating Systems (SIGOPS), the AT&T Corporation, the Hewlett-Packard Company, the International Business Machines (IBM) Corporation, the Intel Corporation, and Sun Microsystems, Inc.
+The DISC share is financed by an endowment at EATCS that is based on contributions from several year's DISC budgets, and gifts from Microsoft Research, the Universidad Rey Juan Carlos and the Spanish Ministry of Science and Innovation.
+
+
+== See also ==
+List of important publications in concurrent, parallel, and distributed computing
+
+
+== Notes ==
+
+
+== References ==
+EATCS web site: Awards: Dijkstra Prize.
+PODC web site: Edsger W. Dijkstra Prize in Distributed Computing.
+DISC web site: Edsger W. Dijkstra Prize in Distributed Computing.

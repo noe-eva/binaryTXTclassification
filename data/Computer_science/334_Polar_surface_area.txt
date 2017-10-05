@@ -1,0 +1,27 @@
+The polar surface area (PSA) of a molecule is defined as the surface sum over all polar atoms, primarily oxygen and nitrogen, also including their attached hydrogens.
+PSA is a commonly used medicinal chemistry metric for the optimisation of a drug's ability to permeate cells. Molecules with a polar surface area of greater than 140 angstroms squared tend to be poor at permeating cell membranes. For molecules to penetrate the blood–brain barrier (and thus act on receptors in the central nervous system), a PSA less than 90 angstroms squared is usually needed.
+
+
+== See also ==
+Biopharmaceutics Classification System
+Cheminformatics
+Chemistry Development Kit
+JOELib
+
+Implicit solvation
+Lipinski's rule of five
+
+
+== References ==
+
+Pajouhesh H, Lenz GR. Medicinal Chemical Properties of Successful Central Nervous System Drugs. NeuroRx. 2005 Oct; 2(4): 541–553. doi:10.1602/neurorx.2.4.541
+Clark, D.E., Rapid calculation of polar molecular surface area and its application to the prediction of transport phenomena. 1. Prediction of intestinal absorption. J.Pharm.Sci. 1999, 88, 807-814. (doi:10.1021/js9804011)
+Palm, K., Stenberg, P., Luthman, K., Artursson, P. Polar molecular surface properties predict the intestinal absorption of drugs in humans. Pharm. Res. 1997, 14, 568–571. (doi:10.1023/A:1012188625088)
+Ertl, P., Rohde, B., Selzer, P. Fast calculation of molecular polar surface area as a sum of fragment based contributions and its application to the prediction of drug transport properties. J. Med. Chem. 2000, 43, 3714–3717. (doi:10.1021/jm000942e)
+Ertl, P. Polar Surface Area, in Molecular Drug Properties, R. Mannhold (ed), Wiley-VCH, pp. 111–126, 2007
+Shityakov, S., Neuhaus, W., Dandekar, T., Förster, C. Analysing molecular polar surface descriptors to predict blood-brain barrier permeation. Int. J. Comput. Biol. Drug Des. 2013, 6(1-2), 146-156. (doi: 10.1504/IJCBDD.2013.052195)
+
+
+== External links ==
+Interactive Polar Surface Area calculator
+Free, Programmable TPSA Calculator

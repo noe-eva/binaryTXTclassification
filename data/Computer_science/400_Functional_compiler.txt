@@ -1,0 +1,11 @@
+A functional compiler is a compiler for a functional programming language. Functional compilers perform such transformation on source code which transform it to continuation-passing style or administrative normal form and need to handle tail calls correctly.
+
+
+== Further reading ==
+Simon Peyton Jones (1987). The Implementation of Functional Programming Languages
+R. Douence and P. Fradet. "A systematic study of functional language implementations". ACM Transactions on Programming Languages and Systems, 20(2):344–387, March 1998.
+Several proceedings on Implementation of functional languages in the Lecture Notes in Computer Science series.
+
+
+== External links ==
+An Incremental Approach to Compiler Construction

@@ -1,0 +1,79 @@
+Business software or a business application is any software or set of computer programs used by business users to perform various business functions. These business applications are used to increase productivity, to measure productivity and to perform other business functions accurately.
+By and large, business software is likely to be developed to meet the needs of a specific business, and therefore is not easily transferable to a different business environment, unless its nature and operation is identical. Due to the unique requirements of each business, off-the-shelf software is unlikely to completely address a company's needs. However, where an on-the-shelf solution is necessary, due to time or monetary considerations, some level of customization is likely to be required. Exceptions do exist, depending on the business in question, and thorough research is always required before committing to bespoke or off-the-shelf solutions.
+Some business applications are interactive, i.e., they have a graphical user interface or user interface and users can query/modify/input data and view results instantaneously. They can also run reports instantaneously. Some business applications run in batch mode: they are set up to run based on a predetermined event/time and a business user does not need to initiate them or monitor them.
+Some business applications are built in-house and some are bought from vendors (off the shelf software products). These business applications are installed on either desktops or big servers. Prior to the introduction of COBOL (a universal compiler) in 1965, businesses developed their own unique machine language. RCA's language consisted of a 12-position instruction. For example, to read a record into memory, the first two digits would be the instruction (action) code. The next four positions of the instruction (an 'A' address) would be the exact leftmost memory location where you want the readable character to be placed. Four positions (a 'B' address) of the instruction would note the very rightmost memory location where you want the last character of the record to be located. A two digit 'B' address also allows a modification of any instruction. Instruction codes and memory designations excluded the use of 8's or 9's. The first RCA business application was implemented in 1962 on a 4k RCA 301. The RCA 301, mid frame 501, and large frame 601 began their marketing in early 1960.
+Many kinds of users are found within the business environment, and can be categorized by using a small, medium and large matrix:
+The small business market generally consists of home accounting software, and office suites such as OpenOffice.org or Microsoft Office.
+The medium size, or small and medium-sized enterprise (SME), has a broader range of software applications, ranging from accounting, groupware, customer relationship management, human resource management systems, outsourcing relationship management, loan origination software, shopping cart software, field service software, and other productivity enhancing applications.
+The last segment covers enterprise level software applications, such as those in the fields of enterprise resource planning, enterprise content management (ECM), business process management (BPM) and product lifecycle management. These applications are extensive in scope, and often come with modules that either add native functions, or incorporate the functionality of third-party computer programs.
+Technologies that previously only existed in peer-to-peer software applications, like Kazaa and Napster, are starting to appear within business applications.
+
+
+== Types of business tools ==
+Enterprise application software (EAS)
+Resource Management
+Digital dashboards, also known as business intelligence dashboards, enterprise dashboards, or executive dashboards. These are visually based summaries of business data that show at-a-glance understanding of conditions through metrics and key performance indicators (KPIs). Dashboards are a very popular tools that have arisen in the last few years.
+Online analytical processing (OLAP), (which include HOLAP, ROLAP and MOLAP) - are a capability of some management, decision support, and executive information systems that support interactive examination of large amounts of data from many perspectives.
+Reporting software generates aggregated views of data to keep the management informed about the state of their business.
+Procurement software is business software that helps to automate the purchasing function of organizations.
+Data mining is the extraction of consumer information from a database by utilizing software that can isolate and identify previously unknown patterns or trends in large amounts of data. There is a variety of data mining techniques that reveal different types of patterns. Some of the techniques that belong here are statistical methods (particularly business statistics) and neural networks, as very advanced means of analyzing data.
+Business performance management (BPM)
+Document management software is made for organizing and managing multiple documents of various types. Some of them have storage functions for security and back-up of valuable business information.
+Employee scheduling software- used for creating and distributing employee schedules, as well as for tracking employee hours.
+
+
+== Brief history ==
+The essential motivation for business software is to increase profits by cutting costs or speeding the productive cycle. In the earliest days of white-collar business automation, large mainframe computers were used to tackle the most tedious jobs, like bank cheque clearing and factory accounting.
+Factory accounting software was among the most popular of early business software tools, and included the automation of general ledgers, fixed assets inventory ledgers, cost accounting ledgers, accounts receivable ledgers, and accounts payable ledgers (including payroll, life insurance, health insurance, federal and state insurance and retirement).
+The early use of software to replace manual white-collar labor was extremely profitable, and caused a radical shift in white-collar labor. One computer might easily replace 100 white-collar 'pencil pushers', and the computer would not require any health or retirement benefits.
+Building on these early successes with IBM, Hewlett-Packard and other early suppliers of business software solutions, corporate consumers demanded business software to replace the old-fashioned drafting board. CAD-CAM software (or computer-aided drafting for computer-aided manufacturing) arrived in the early 1980s. Also, project management software was so valued in the early 1980s that it might cost as much as $500,000 per copy (although such software typically had far fewer capabilities than modern project management software such as Microsoft Project, which one might purchase today for under $500 per copy.)
+In the early days, perhaps the most noticeable, widespread change in business software was the word processor. Because of its rapid rise, the ubiquitous IBM typewriter suddenly vanished in the 1980s as millions of companies worldwide shifted to the use of Word Perfect business software, and later, Microsoft Word software. Another vastly popular computer program for business were mathematical spreadsheet programs such as Lotus 1-2-3, and later Microsoft Excel.
+In the 1990s business shifted massively towards globalism with the appearance of SAP software which coordinates a supply-chain of vendors, potentially worldwide, for the most efficient, streamlined operation of factory manufacture.
+Yet nothing in the history of business software has had the global impact of the Internet, with its email and websites that now serve commercial interests worldwide. Globalism in business fully arrived when the Internet became a household word.
+The next phase in the evolution of business software is being led by the emergance of Robotic Process Automation (RPA), which involves identifying and automating highly repetitive tasks and processes, with an aim to drive operational efficiency, reduce costs and limit human error. Industries that have been in the forefront of RPA adoption include the Insurance industry, Banking and Financial Services, the Legal industry and the Healthcare industry.
+
+
+== Application support ==
+Business applications are built based on the requirements from the business users. Also, these business applications are built to use certain kind of Business transactions or data items. These business applications run flawlessly until there are no new business requirements or there is no change in underlying Business transactions. Also, the business applications run flawlessly if there are no issues with computer hardware, computer networks (Intenet/intranet), computer disks, power supplies, and various software components (middleware, database, computer programs, etc.).
+Business applications can fail when an unexpected error occurs. This error could occur due to a data error (an unexpected data input or a wrong data input), an environment error (an in frastructure related error), a programming error, a human error or a work flow error. When a business application fails one needs to fix the business application error as soon as possible so that the business users can resume their work. This work of resolving business application errors is known as business application support.
+
+
+=== Reporting errors ===
+The Business User calls the business application support team phone number or sends an e-mail to the business application support team. The business application support team gets all the details of the error from the business user on the phone or from the e-mail. These details are then entered in a tracking software. The tracking software creates a request number and this request number is given to the business user. This request number is used to track the progress on the support issue. The request is assigned to a support team member.
+
+
+=== Notification of errors ===
+For critical business application errors (such as an application not available or an application not working correctly), an e-mail is sent to the entire organization or impacted teams so that they are aware of the issue. They are also provided with an estimated time for application availability.
+
+
+=== Investigation or analysis of application errors ===
+The business application support team member collects all the necessary information about the business software error. This information is then recorded in the support request. All of the data used by the business user is also used in the investigation. The application program is reviewed for any possible programming errors.
+
+
+=== Error resolution ===
+If any similar business application errors occurred in the past then the issue resolution steps are retrieved from the support knowledge base and the error is resolved using those steps. If it is a new support error, then new issue resolution steps are created and the error is resolved. The new support error resolution steps are recorded in the knowledge base for future use. For major business application errors (critical infrastructure or application failures), a phone conference call is initiated and all required support persons/teams join the call and they all work together to resolve the error.
+
+
+=== Code correction ===
+If the business application error occurred due to programming errors, then a request is created for the application development team to correct programming errors. If the business user needs new features or functions in the business application, then the required analysis/design/programming/testing/release is planned and a new version of the business software is deployed.
+
+
+=== Business process correction ===
+If the business application error occurred due to a work flow issue or human errors during data input, then the business users are notified. Business users then review their work flow and revise it if necessary. They also modify the user guide or user instructions to avoid such an error in the future.
+
+
+=== Infrastructure issue correction ===
+If the business application error occurred due to infrastructure issues, then the specific infrastructure team is notified. The infrastructure team then implements permanent fixes for the issue and monitors the infrastructure to avoid the re-occurrence of the same error.
+
+
+== Support follow up and internal reporting ==
+The business application error tracking system is used to review all issues periodically (daily, weekly and monthly) and reports are generated to monitor the resolved issues, repeating issues, and pending issues. Reports are also generated for the IT/IS management for improvement and management of business applications.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
